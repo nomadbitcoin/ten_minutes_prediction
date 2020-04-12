@@ -1,0 +1,719 @@
+back_team,countrie,datetime,event_link,home_team,status,timestamp
+Chelsea,Inglaterra - Barclays Premier League,29/02/20 09:00:00,https://www.academiadasapostasbrasil.com/stats/match/inglaterra/barclays-premier-league/bournemouth/chelsea/3029343,Bournemouth,Terminado,1582977600
+Liverpool,Inglaterra - Barclays Premier League,29/02/20 11:30:00,https://www.academiadasapostasbrasil.com/stats/match/inglaterra/barclays-premier-league/watford/liverpool/3029351,Watford,Terminado,1582986600
+Freiburg,Alemanha - Bundesliga,29/02/20 08:30:00,https://www.academiadasapostasbrasil.com/stats/match/alemanha/bundesliga/borussia-dortmund/freiburg/3047227,Dortmund,Terminado,1582975800
+Bayern München,Alemanha - Bundesliga,29/02/20 08:30:00,https://www.academiadasapostasbrasil.com/stats/match/alemanha/bundesliga/hoffenheim/bayern-munique/3047230,Hoffenheim,Terminado,1582975800
+Palmeiras,Brasil - Paulista A1,29/02/20 13:00:00,https://www.academiadasapostasbrasil.com/stats/match/brasil/paulista-a1/santos/palmeiras/3186489,Santos,Terminado,1582992000
+Dijon,França - Ligue 1,29/02/20 10:30:00,https://www.academiadasapostasbrasil.com/stats/match/franca/ligue-1/paris-saint-germain/dijon/3030811,PSG,Terminado,1582983000
+Reims,França - Ligue 1,29/02/20 13:00:00,https://www.academiadasapostasbrasil.com/stats/match/franca/ligue-1/monaco/stade-de-reims/3030813,Monaco,Terminado,1582992000
+Tucumán,Argentina - Campeonato Argentino,29/02/20 14:30:00,https://www.academiadasapostasbrasil.com/stats/match/argentina/campeonato-argentino/gimnasia-y-esgrima/atletico-tucuman/3070575,Gimn La Plata,Terminado,1582997400
+Def y Justicia,Argentina - Campeonato Argentino,29/02/20 16:40:00,https://www.academiadasapostasbrasil.com/stats/match/argentina/campeonato-argentino/river-plate/defensa-y-justicia/3070571,River Plate,Terminado,1583005200
+Banfield,Argentina - Campeonato Argentino,29/02/20 18:50:00,https://www.academiadasapostasbrasil.com/stats/match/argentina/campeonato-argentino/central-cordoba-sde/banfield/3070578,Córdoba SdE,Terminado,1583013000
+Unión SF,Argentina - Campeonato Argentino,29/02/20 18:50:00,https://www.academiadasapostasbrasil.com/stats/match/argentina/campeonato-argentino/godoy-cruz/union-de-santa-fe/3070582,Godoy Cruz,Terminado,1583013000
+Cruz Azul,México - Primera Division,28/02/20 21:00:00,https://www.academiadasapostasbrasil.com/stats/match/mexico/primera-division/monarcas-morelia/cruz-azul/3195336,Morelia,Terminado,1582934400
+Puebla,México - Primera Division,28/02/20 21:10:00,https://www.academiadasapostasbrasil.com/stats/match/mexico/primera-division/tijuana/puebla/3195337,Tijuana,Terminado,1582935000
+Querétaro,México - Primera Division,29/02/20 17:00:00,https://www.academiadasapostasbrasil.com/stats/match/mexico/primera-division/pachuca/queretaro/3195338,Pachuca,Terminado,1583006400
+Necaxa,México - Primera Division,29/02/20 19:00:00,https://www.academiadasapostasbrasil.com/stats/match/mexico/primera-division/america-mexico/necaxa/3195339,América,Terminado,1583013600
+Pumas,México - Primera Division,29/02/20 21:00:00,https://www.academiadasapostasbrasil.com/stats/match/mexico/primera-division/tigres/pumas/3195340,Tigres,Terminado,1583020800
+Crystal Palace,Inglaterra - Barclays Premier League,29/02/20 06:30:00,https://www.academiadasapostasbrasil.com/stats/match/inglaterra/barclays-premier-league/brighton-hove-albion/crystal-palace/3029345,Brighton,Terminado,1582968600
+Burnley,Inglaterra - Barclays Premier League,29/02/20 09:00:00,https://www.academiadasapostasbrasil.com/stats/match/inglaterra/barclays-premier-league/newcastle/burnley/3029348,Newcastle,Terminado,1582977600
+Southampton,Inglaterra - Barclays Premier League,29/02/20 09:00:00,https://www.academiadasapostasbrasil.com/stats/match/inglaterra/barclays-premier-league/west-ham/southampton/3029352,West Ham,Terminado,1582977600
+Levante,Espanha - Primera Division,29/02/20 06:00:00,https://www.academiadasapostasbrasil.com/stats/match/espanha/primera-division/eibar/levante/3059061,Eibar,Terminado,1582966800
+Betis,Espanha - Primera Division,29/02/20 09:00:00,https://www.academiadasapostasbrasil.com/stats/match/espanha/primera-division/valencia/betis/3059069,Valência,Terminado,1582977600
+Alavés,Espanha - Primera Division,29/02/20 11:30:00,https://www.academiadasapostasbrasil.com/stats/match/espanha/primera-division/leganes/alaves/3059064,Leganés,Terminado,1582986600
+Celta de Vigo,Espanha - Primera Division,29/02/20 14:00:00,https://www.academiadasapostasbrasil.com/stats/match/espanha/primera-division/granada/celta-de-vigo/3059063,Granada,Terminado,1582995600
+Paderborn,Alemanha - Bundesliga,29/02/20 08:30:00,https://www.academiadasapostasbrasil.com/stats/match/alemanha/bundesliga/mainz/paderborn/3047232,Mainz 05,Terminado,1582975800
+M'gladbach,Alemanha - Bundesliga,29/02/20 08:30:00,https://www.academiadasapostasbrasil.com/stats/match/alemanha/bundesliga/augsburg/borussia-monchengladbach/3047233,Augsburg,Terminado,1582975800
+Schalke 04,Alemanha - Bundesliga,29/02/20 11:30:00,https://www.academiadasapostasbrasil.com/stats/match/alemanha/bundesliga/colonia/schalke-04/3047234,Köln,Terminado,1582986600
+Belenenses,Portugal - Liga Sagres,29/02/20 12:00:00,https://www.academiadasapostasbrasil.com/stats/match/portugal/liga-sagres/rio-ave/belenenses/3064844,Rio Ave,Terminado,1582988400
+Gil Vicente,Portugal - Liga Sagres,29/02/20 14:30:00,https://www.academiadasapostasbrasil.com/stats/match/portugal/liga-sagres/boavista/gil-vicente/3064842,Boavista,Terminado,1582997400
+Nova Iguaçu,Brasil - Carioca 1ª Div,29/02/20 12:00:00,https://www.academiadasapostasbrasil.com/stats/match/brasil/carioca-1-div/americano/nova-iguacu/3237883,Americano,Terminado,1582988400
+Flamengo,Brasil - Carioca 1ª Div,29/02/20 15:00:00,https://www.academiadasapostasbrasil.com/stats/match/brasil/carioca-1-div/cabofriense/flamengo/3228976,Cabofriense,Terminado,1582999200
+Vasco,Brasil - Carioca 1ª Div,29/02/20 16:00:00,https://www.academiadasapostasbrasil.com/stats/match/brasil/carioca-1-div/resende/vasco/3228979,Resende,Terminado,1583002800
+Metz,França - Ligue 1,29/02/20 13:00:00,https://www.academiadasapostasbrasil.com/stats/match/franca/ligue-1/amiens/metz/3030808,Amiens,Terminado,1582992000
+Angers,França - Ligue 1,29/02/20 13:00:00,https://www.academiadasapostasbrasil.com/stats/match/franca/ligue-1/brestois/angers/3030809,Brest,Terminado,1582992000
+Rennes,França - Ligue 1,29/02/20 13:00:00,https://www.academiadasapostasbrasil.com/stats/match/franca/ligue-1/toulouse/rennes/3030812,Toulouse,Terminado,1582992000
+Strasbourg,França - Ligue 1,29/02/20 13:00:00,https://www.academiadasapostasbrasil.com/stats/match/franca/ligue-1/montpellier/strasbourg/3030815,Montpellier,Terminado,1582992000
+Bologna,Itália - Serie A TIM,29/02/20 08:00:00,https://www.academiadasapostasbrasil.com/stats/match/italia/serie-a-tim/lazio/bologna/3111951,Lazio,Terminado,1582974000
+Torino,Itália - Serie A TIM,29/02/20 13:45:00,https://www.academiadasapostasbrasil.com/stats/match/italia/serie-a-tim/napoli/torino/3111959,Napoli,Terminado,1582994700
+Mamelodi,África - Liga dos Campeões da África,29/02/20 10:00:00,https://www.academiadasapostasbrasil.com/stats/match/africa/liga-dos-campeoes-da-africa/al-ahly/mamelodi-sundowns/3225664,Ahly,Terminado,1582981200
+ES Sahel,África - Liga dos Campeões da África,29/02/20 13:00:00,https://www.academiadasapostasbrasil.com/stats/match/africa/liga-dos-campeoes-da-africa/wac-casablanca/etoile-sportive-du-sahel/3225666,Wydad AC,Terminado,1582992000
+Iquique,Chile - Primera Division,29/02/20 09:00:00,https://www.academiadasapostasbrasil.com/stats/match/chile/primera-division/cobresal/deportes-iquique/3219235,Cobresal,Terminado,1582977600
+Uni Concepción,Chile - Primera Division,29/02/20 15:00:00,https://www.academiadasapostasbrasil.com/stats/match/chile/primera-division/colo-colo/univ-de-concepcion/3219239,Colo Colo,Terminado,1582999200
+Everton,Chile - Primera Division,29/02/20 17:30:00,https://www.academiadasapostasbrasil.com/stats/match/chile/primera-division/union-espanola/everton/3219236,Española,Terminado,1583008200
+Atlético Grau,Peru - Primera Division,29/02/20 12:00:00,https://www.academiadasapostasbrasil.com/stats/match/peru/primera-division/academia-cantolao/atletico-grau/3212954,Academia Cantolao,Terminado,1582988400
+Ayacucho,Peru - Primera Division,29/02/20 14:30:00,https://www.academiadasapostasbrasil.com/stats/match/peru/primera-division/cienciano/ayacucho/3212956,Cienciano,Terminado,1582997400
+Deportivo Llacuabamba,Peru - Primera Division,29/02/20 19:00:00,https://www.academiadasapostasbrasil.com/stats/match/peru/primera-division/alianza-universidad/deportivo-llacuabamba/3212957,Alianza Univ,Terminado,1583013600
+Leeds,Inglaterra - Championship,29/02/20 06:30:00,https://www.academiadasapostasbrasil.com/stats/match/inglaterra/championship/hull-city/leeds-united/3036419,Hull,Terminado,1582968600
+Swansea,Inglaterra - Championship,29/02/20 09:00:00,https://www.academiadasapostasbrasil.com/stats/match/inglaterra/championship/blackburn-rovers/swansea-city/3036411,Blackburn,Terminado,1582977600
+Brentford,Inglaterra - Championship,29/02/20 09:00:00,https://www.academiadasapostasbrasil.com/stats/match/inglaterra/championship/cardiff-city/brentford/3036413,Cardiff,Terminado,1582977600
+Preston,Inglaterra - Championship,29/02/20 09:00:00,https://www.academiadasapostasbrasil.com/stats/match/inglaterra/championship/fulham/preston-north-end/3036415,Fulham,Terminado,1582977600
+Charlton,Inglaterra - Championship,29/02/20 09:00:00,https://www.academiadasapostasbrasil.com/stats/match/inglaterra/championship/huddersfield-town/charlton/3036417,Huddersfield,Terminado,1582977600
+Stoke,Inglaterra - Championship,29/02/20 09:00:00,https://www.academiadasapostasbrasil.com/stats/match/inglaterra/championship/luton-town/stoke/3036420,Luton,Terminado,1582977600
+Bristol City,Inglaterra - Championship,29/02/20 09:00:00,https://www.academiadasapostasbrasil.com/stats/match/inglaterra/championship/millwall/bristol-city/3036424,Millwall,Terminado,1582977600
+Birmingham,Inglaterra - Championship,29/02/20 09:00:00,https://www.academiadasapostasbrasil.com/stats/match/inglaterra/championship/queens-park-rangers/birmingham-city/3036427,QPR,Terminado,1582977600
+Barnsley,Inglaterra - Championship,29/02/20 09:00:00,https://www.academiadasapostasbrasil.com/stats/match/inglaterra/championship/reading/barnsley/3036429,Reading,Terminado,1582977600
+Derby,Inglaterra - Championship,29/02/20 09:00:00,https://www.academiadasapostasbrasil.com/stats/match/inglaterra/championship/sheffield-wednesday/derby-county/3036432,Sheff Wed,Terminado,1582977600
+Wigan,Inglaterra - Championship,29/02/20 09:00:00,https://www.academiadasapostasbrasil.com/stats/match/inglaterra/championship/west-bromwich/wigan/3036434,West Bromwich,Terminado,1582977600
+Extremadura,Espanha - Liga Adelante,29/02/20 09:00:00,https://www.academiadasapostasbrasil.com/stats/match/espanha/liga-adelante/huesca/extremadura-ud/3060237,Huesca,Terminado,1582977600
+Gijón,Espanha - Liga Adelante,29/02/20 09:00:00,https://www.academiadasapostasbrasil.com/stats/match/espanha/liga-adelante/ponferradina/sporting-gijon/3060240,Ponferradina,Terminado,1582977600
+Almería,Espanha - Liga Adelante,29/02/20 11:15:00,https://www.academiadasapostasbrasil.com/stats/match/espanha/liga-adelante/cadiz/almeria/3060233,Cádiz,Terminado,1582985700
+Vallecano,Espanha - Liga Adelante,29/02/20 13:30:00,https://www.academiadasapostasbrasil.com/stats/match/espanha/liga-adelante/albacete/rayo-vallecano/3060232,Albacete,Terminado,1582993800
+Zaragoza,Espanha - Liga Adelante,29/02/20 14:00:00,https://www.academiadasapostasbrasil.com/stats/match/espanha/liga-adelante/racing-santander/zaragoza/3060242,Santander,Terminado,1582995600
+Anderlecht,Bélgica - 1e Klasse,29/02/20 11:00:00,https://www.academiadasapostasbrasil.com/stats/match/belgica/1e-klasse/waasland-beveren/anderlecht/3050370,WB,Terminado,1582984800
+Mouscron,Bélgica - 1e Klasse,29/02/20 13:00:00,https://www.academiadasapostasbrasil.com/stats/match/belgica/1e-klasse/as-eupen/royal-excel-mouscron/3050365,Eupen,Terminado,1582992000
+Kortrijk,Bélgica - 1e Klasse,29/02/20 13:00:00,https://www.academiadasapostasbrasil.com/stats/match/belgica/1e-klasse/zulte-waregem/kortrijk/3050366,ZW,Terminado,1582992000
+Oostende,Bélgica - 1e Klasse,29/02/20 13:30:00,https://www.academiadasapostasbrasil.com/stats/match/belgica/1e-klasse/antwerp/oostende/3050369,Antwerp,Terminado,1582993800
+Cosenza,Itália - Serie B,29/02/20 08:00:00,https://www.academiadasapostasbrasil.com/stats/match/italia/serie-b/venezia/cosenza/3122794,Venezia,Terminado,1582974000
+Cremonese,Itália - Serie B,29/02/20 08:00:00,https://www.academiadasapostasbrasil.com/stats/match/italia/serie-b/cittadella/cremonese/3122795,Cittadella,Terminado,1582974000
+Perugia,Itália - Serie B,29/02/20 08:00:00,https://www.academiadasapostasbrasil.com/stats/match/italia/serie-b/pisa/perugia/3122798,Pisa,Terminado,1582974000
+Pordenone,Itália - Serie B,29/02/20 08:00:00,https://www.academiadasapostasbrasil.com/stats/match/italia/serie-b/empoli/pordenone/3122799,Empoli,Terminado,1582974000
+Spezia,Itália - Serie B,29/02/20 08:00:00,https://www.academiadasapostasbrasil.com/stats/match/italia/serie-b/benevento/spezia/3122801,Benevento,Terminado,1582974000
+Trapani,Itália - Serie B,29/02/20 08:00:00,https://www.academiadasapostasbrasil.com/stats/match/italia/serie-b/juve-stabia/trapani/3122802,Juve Stabia,Terminado,1582974000
+Livorno,Itália - Serie B,29/02/20 11:00:00,https://www.academiadasapostasbrasil.com/stats/match/italia/serie-b/chievo/livorno/3122797,Chievo,Terminado,1582984800
+Salernitana,Itália - Serie B,29/02/20 11:00:00,https://www.academiadasapostasbrasil.com/stats/match/italia/serie-b/frosinone/salernitana/3122800,Frosinone,Terminado,1582984800
+Viseu,Portugal - Liga Vitalis,29/02/20 05:00:00,https://www.academiadasapostasbrasil.com/stats/match/portugal/liga-vitalis/farense/academico-viseu/3065287,Farense,Terminado,1582963200
+Nacional,Portugal - Liga Vitalis,29/02/20 09:00:00,https://www.academiadasapostasbrasil.com/stats/match/portugal/liga-vitalis/penafiel/nacional-de-funchal/3065280,Penafiel,Terminado,1582977600
+Académica,Portugal - Liga Vitalis,29/02/20 11:15:00,https://www.academiadasapostasbrasil.com/stats/match/portugal/liga-vitalis/feirense/academica-de-coimbra/3065283,Feirense,Terminado,1582985700
+Heidenheim,Alemanha - 2. Liga,29/02/20 06:00:00,https://www.academiadasapostasbrasil.com/stats/match/alemanha/2-liga/darmstadt-98/heidenheim/3047538,Darmstadt 98,Terminado,1582966800
+Stuttgart,Alemanha - 2. Liga,29/02/20 06:00:00,https://www.academiadasapostasbrasil.com/stats/match/alemanha/2-liga/greuther-furth/stuttgart/3047540,Greuther Fürth,Terminado,1582966800
+Hamburg,Alemanha - 2. Liga,29/02/20 06:00:00,https://www.academiadasapostasbrasil.com/stats/match/alemanha/2-liga/erzgebirge-aue/hamburgo/3047541,Aue,Terminado,1582966800
+Chambly,França - Ligue 2,29/02/20 08:00:00,https://www.academiadasapostasbrasil.com/stats/match/franca/ligue-2/lorient/chambly/3031281,Lorient,Terminado,1582974000
+Heracles,Holanda - Eredivisie,29/02/20 11:30:00,https://www.academiadasapostasbrasil.com/stats/match/holanda/eredivisie/ado-den-haag/heracles-almelo/3032270,ADO,Terminado,1582986600
+Sittard,Holanda - Eredivisie,29/02/20 12:45:00,https://www.academiadasapostasbrasil.com/stats/match/holanda/eredivisie/vvv-venlo/fortuna-sittard/3032271,VVV,Terminado,1582991100
+Vitesse,Holanda - Eredivisie,29/02/20 12:45:00,https://www.academiadasapostasbrasil.com/stats/match/holanda/eredivisie/zwolle/vitesse/3032272,Zwolle,Terminado,1582991100
+Heerenveen,Holanda - Eredivisie,29/02/20 13:45:00,https://www.academiadasapostasbrasil.com/stats/match/holanda/eredivisie/twente/heerenveen/3032273,Twente,Terminado,1582994700
+Kasımpaşa,Turquia - Super LIga,29/02/20 05:00:00,https://www.academiadasapostasbrasil.com/stats/match/turquia/super-liga/konyaspor/kasimpasa/3081989,Konya,Terminado,1582963200
+Rize,Turquia - Super LIga,29/02/20 08:00:00,https://www.academiadasapostasbrasil.com/stats/match/turquia/super-liga/trabzonspor/caykur-rizespor/3081990,Trabzon,Terminado,1582974000
+Fenerbahçe,Turquia - Super LIga,29/02/20 11:00:00,https://www.academiadasapostasbrasil.com/stats/match/turquia/super-liga/antalyaspor/fenerbahce/3081988,Antalya,Terminado,1582984800
+Illichivets',Ucrânia - Liga Premier,29/02/20 06:00:00,https://www.academiadasapostasbrasil.com/stats/match/ucrania/liga-premier/desna/illychivets-mariupol/3035087,Desna,Terminado,1582966800
+Oleksandria,Ucrânia - Liga Premier,29/02/20 06:00:00,https://www.academiadasapostasbrasil.com/stats/match/ucrania/liga-premier/lviv/oleksandria/3035091,Lviv,Terminado,1582966800
+Karpaty,Ucrânia - Liga Premier,29/02/20 09:00:00,https://www.academiadasapostasbrasil.com/stats/match/ucrania/liga-premier/kolos-kovalivka/karpaty-lviv/3035090,Kolos,Terminado,1582977600
+Colorado,Estados Unidos - Major League Soccer,29/02/20 12:00:00,https://www.academiadasapostasbrasil.com/stats/match/estados-unidos/major-league-soccer/dc-united/colorado-rapids/3195742,DC United,Terminado,1582988400
+New England,Estados Unidos - Major League Soccer,29/02/20 14:00:00,https://www.academiadasapostasbrasil.com/stats/match/estados-unidos/major-league-soccer/montreal-impact/ne-revolution/3195743,Montreal,Terminado,1582995600
+Galaxy,Estados Unidos - Major League Soccer,29/02/20 14:30:00,https://www.academiadasapostasbrasil.com/stats/match/estados-unidos/major-league-soccer/houston-dynamo/los-angeles-galaxy/3195744,Houston,Terminado,1582997400
+Toronto,Estados Unidos - Major League Soccer,29/02/20 16:30:00,https://www.academiadasapostasbrasil.com/stats/match/estados-unidos/major-league-soccer/sj-earthquakes/toronto/3195745,Earthquakes,Terminado,1583004600
+Philadelphia,Estados Unidos - Major League Soccer,29/02/20 17:00:00,https://www.academiadasapostasbrasil.com/stats/match/estados-unidos/major-league-soccer/fc-dallas/philadelphia-union/3195746,Dallas,Terminado,1583006400
+Salt Lake,Estados Unidos - Major League Soccer,29/02/20 17:00:00,https://www.academiadasapostasbrasil.com/stats/match/estados-unidos/major-league-soccer/orlando-city/real-salt-lake/3195747,Orlando,Terminado,1583006400
+Atlanta United,Estados Unidos - Major League Soccer,29/02/20 19:00:00,https://www.academiadasapostasbrasil.com/stats/match/estados-unidos/major-league-soccer/nashville-sc/atlanta-united/3195741,Nashville SC,Terminado,1583013600
+IFK Göteborg,Suécia - Svenska Cupen,29/02/20 05:30:00,https://www.academiadasapostasbrasil.com/stats/match/suecia/svenska-cupen/sollentuna/gotemborg/3190151,Sollentuna,Terminado,1582965000
+Västerås SK,Suécia - Svenska Cupen,29/02/20 05:30:00,https://www.academiadasapostasbrasil.com/stats/match/suecia/svenska-cupen/sirius/vasteras-sk/3190152,Sirius,Terminado,1582965000
+Häcken,Suécia - Svenska Cupen,29/02/20 07:30:00,https://www.academiadasapostasbrasil.com/stats/match/suecia/svenska-cupen/eskilsminne/hacken/3190145,Eskilsminne,Terminado,1582972200
+GAIS,Suécia - Svenska Cupen,29/02/20 07:30:00,https://www.academiadasapostasbrasil.com/stats/match/suecia/svenska-cupen/ostersunds-fk/gais/3190146,Östersunds FK,Terminado,1582972200
+Elfsborg,Suécia - Svenska Cupen,29/02/20 09:30:00,https://www.academiadasapostasbrasil.com/stats/match/suecia/svenska-cupen/oskarshamns-aik/elfsborg/3190157,Oskarshamn,Terminado,1582979400
+Brage,Suécia - Svenska Cupen,29/02/20 09:30:00,https://www.academiadasapostasbrasil.com/stats/match/suecia/svenska-cupen/orebro/brage/3190158,Örebro,Terminado,1582979400
+Boyacá Chicó,Colômbia - Primera División,29/02/20 13:30:00,https://www.academiadasapostasbrasil.com/stats/match/colombia/primera-division/patriotas-boyaca/boyaca-chico/3206322,Patriotas,Terminado,1582993800
+Medellín,Colômbia - Primera División,29/02/20 15:05:00,https://www.academiadasapostasbrasil.com/stats/match/colombia/primera-division/nacional-de-medellin/independiente-medellin/3206324,Nacional,Terminado,1582999500
+Cali,Colômbia - Primera División,29/02/20 17:10:00,https://www.academiadasapostasbrasil.com/stats/match/colombia/primera-division/america-de-cali/deportivo-cali/3206323,América,Terminado,1583007000
+Tolima,Colômbia - Primera División,29/02/20 19:15:00,https://www.academiadasapostasbrasil.com/stats/match/colombia/primera-division/alianza-petrolera/tolima/3206327,Petrolera,Terminado,1583014500
+Hebei CFFC,China - Super Liga,29/02/20 18:00:00,https://www.academiadasapostasbrasil.com/stats/match/china/super-liga/tianjin-quanjian/hebei-cffc/3217287,Tianjin,Adiado,1583010000
+Dalian Y.,China - Super Liga,29/02/20 18:00:00,https://www.academiadasapostasbrasil.com/stats/match/china/super-liga/chongqing-lifan/dalian-yifang/3217288,Lifan,Adiado,1583010000
+Jiangsu,China - Super Liga,29/02/20 18:00:00,https://www.academiadasapostasbrasil.com/stats/match/china/super-liga/shandong-luneng/jiangsu-suning/3217289,Shandong,Adiado,1583010000
+Hajduk,Croácia - 1. HNL,29/02/20 08:00:00,https://www.academiadasapostasbrasil.com/stats/match/croacia/1-hnl/osijek/hajduk-split/3029930,Osijek,Terminado,1582974000
+Rijeka,Croácia - 1. HNL,29/02/20 10:30:00,https://www.academiadasapostasbrasil.com/stats/match/croacia/1-hnl/dinamo-zagreb/rijeka/3029931,Dinamo Zagreb,Terminado,1582983000
+Apollon,Chipre - 1. Division,29/02/20 09:00:00,https://www.academiadasapostasbrasil.com/stats/match/chipre/1-division/nea-salamis/apollon-limassol/3052891,Nea Salamis,Terminado,1582977600
+Paphos,Chipre - 1. Division,29/02/20 09:00:00,https://www.academiadasapostasbrasil.com/stats/match/chipre/1-division/doxa/paphos/3052892,Doxa,Terminado,1582977600
+Ethnikos Achna,Chipre - 1. Division,29/02/20 09:00:00,https://www.academiadasapostasbrasil.com/stats/match/chipre/1-division/ael-limassol/ethnikos/3052895,AEL,Terminado,1582977600
+Sigma,República Tcheca - Czech Liga,29/02/20 07:30:00,https://www.academiadasapostasbrasil.com/stats/match/republica-tcheca/czech-liga/opava/sigma-olomouc/3036964,Opava,Terminado,1582972200
+Viktoria Plzeň,República Tcheca - Czech Liga,29/02/20 07:30:00,https://www.academiadasapostasbrasil.com/stats/match/republica-tcheca/czech-liga/jablonec/viktoria-plzen/3036967,Jablonec,Terminado,1582972200
+Mladá Boleslav,República Tcheca - Czech Liga,29/02/20 07:30:00,https://www.academiadasapostasbrasil.com/stats/match/republica-tcheca/czech-liga/pribram/mlada-boleslav/3036969,Příbram,Terminado,1582972200
+Zlín,República Tcheca - Czech Liga,29/02/20 10:00:00,https://www.academiadasapostasbrasil.com/stats/match/republica-tcheca/czech-liga/sparta-praga/zlin/3036966,Sparta,Terminado,1582981200
+Nordsjælland,Dinamarca - Superligaen,29/02/20 09:00:00,https://www.academiadasapostasbrasil.com/stats/match/dinamarca/superligaen/esbjerg/nordsjaelland/3027040,Esbjerg,Terminado,1582977600
+Egaleo,Grécia - B Ethniki,29/02/20 06:00:00,https://www.academiadasapostasbrasil.com/stats/match/grecia/b-ethniki/diagoras/aigaleo/3163179,Diagoras,Terminado,1582966800
+Thesprotos,Grécia - B Ethniki,29/02/20 07:00:00,https://www.academiadasapostasbrasil.com/stats/match/grecia/b-ethniki/trikala/thesprotos/3163180,Trikala,Terminado,1582970400
+OF Ierapetra,Grécia - B Ethniki,29/02/20 07:00:00,https://www.academiadasapostasbrasil.com/stats/match/grecia/b-ethniki/veria/of-ierapetra/3163182,Veria,Terminado,1582970400
+Triglia FC,Grécia - B Ethniki,29/02/20 07:00:00,https://www.academiadasapostasbrasil.com/stats/match/grecia/b-ethniki/niki-volos/triglia-fc/3163183,Niki,Terminado,1582970400
+ZTE,Hungria - NB I,29/02/20 10:00:00,https://www.academiadasapostasbrasil.com/stats/match/hungria/nb-i/mezokovesd-zsory/zalaegerszegi/3050665,MZSE,Terminado,1582981200
+Kaposvári,Hungria - NB I,29/02/20 10:00:00,https://www.academiadasapostasbrasil.com/stats/match/hungria/nb-i/fehervar/kaposvari-rakoczi/3050666,Videoton,Terminado,1582981200
+Puskás,Hungria - NB I,29/02/20 10:00:00,https://www.academiadasapostasbrasil.com/stats/match/hungria/nb-i/ujpest/puskas-fc/3050667,Újpest,Terminado,1582981200
+DVTK,Hungria - NB I,29/02/20 10:00:00,https://www.academiadasapostasbrasil.com/stats/match/hungria/nb-i/budapest-honved/diosgyor/3050668,Honvéd,Terminado,1582981200
+Paksi,Hungria - NB I,29/02/20 10:00:00,https://www.academiadasapostasbrasil.com/stats/match/hungria/nb-i/varda-se/paksi-se/3050669,Várda,Terminado,1582981200
+Debrecen,Hungria - NB I,29/02/20 12:30:00,https://www.academiadasapostasbrasil.com/stats/match/hungria/nb-i/ferencvarosi/debreceni/3050664,Ferencváros,Terminado,1582990200
+Ipswich,Inglaterra - Liga 1,29/02/20 09:00:00,https://www.academiadasapostasbrasil.com/stats/match/inglaterra/liga-1/blackpool/ipswich-town/3035700,Blackpool,Terminado,1582977600
+Accrington,Inglaterra - Liga 1,29/02/20 09:00:00,https://www.academiadasapostasbrasil.com/stats/match/inglaterra/liga-1/bolton/accrington-stanley/3035701,Bolton,Terminado,1582977600
+Shrewsbury,Inglaterra - Liga 1,29/02/20 09:00:00,https://www.academiadasapostasbrasil.com/stats/match/inglaterra/liga-1/bristol-rovers/shrewsbury-town/3035703,Bristol Rovers,Terminado,1582977600
+Peterborough,Inglaterra - Liga 1,29/02/20 09:00:00,https://www.academiadasapostasbrasil.com/stats/match/inglaterra/liga-1/burton-albion/peterborough-united/3035704,Burton Albion,Terminado,1582977600
+Wycombe,Inglaterra - Liga 1,29/02/20 09:00:00,https://www.academiadasapostasbrasil.com/stats/match/inglaterra/liga-1/doncaster-rovers/wycombe-wanderers/3035710,Doncaster,Terminado,1582977600
+Wimbledon,Inglaterra - Liga 1,29/02/20 09:00:00,https://www.academiadasapostasbrasil.com/stats/match/inglaterra/liga-1/gillingham/afc-wimbledon/3035712,Gillingham,Terminado,1582977600
+Southend,Inglaterra - Liga 1,29/02/20 09:00:00,https://www.academiadasapostasbrasil.com/stats/match/inglaterra/liga-1/oxford-united/southend-united/3035714,Oxford,Terminado,1582977600
+MK Dons,Inglaterra - Liga 1,29/02/20 09:00:00,https://www.academiadasapostasbrasil.com/stats/match/inglaterra/liga-1/rotherham-united/milton-keynes-dons/3035718,Rotherham,Terminado,1582977600
+Plymouth,Inglaterra - Liga 2,29/02/20 09:00:00,https://www.academiadasapostasbrasil.com/stats/match/inglaterra/liga-2/bradford-city/plymouth-argyle/3036631,Bradford,Terminado,1582977600
+Carlisle,Inglaterra - Liga 2,29/02/20 09:00:00,https://www.academiadasapostasbrasil.com/stats/match/inglaterra/liga-2/cambridge-united/carlisle-united/3036633,Cambridge Utd,Terminado,1582977600
+Cheltenham,Inglaterra - Liga 2,29/02/20 09:00:00,https://www.academiadasapostasbrasil.com/stats/match/inglaterra/liga-2/colchester-united/cheltenham-town/3036635,Colchester,Terminado,1582977600
+Crawley,Inglaterra - Liga 2,29/02/20 09:00:00,https://www.academiadasapostasbrasil.com/stats/match/inglaterra/liga-2/exeter-city/crawley-town/3036638,Exeter,Terminado,1582977600
+Northampton,Inglaterra - Liga 2,29/02/20 09:00:00,https://www.academiadasapostasbrasil.com/stats/match/inglaterra/liga-2/grimsby-town/northampton-town/3036642,Grimsby,Terminado,1582977600
+Salford,Inglaterra - Liga 2,29/02/20 09:00:00,https://www.academiadasapostasbrasil.com/stats/match/inglaterra/liga-2/macclesfield-town/salford-city/3036644,Macclesfield,Terminado,1582977600
+Crewe,Inglaterra - Liga 2,29/02/20 09:00:00,https://www.academiadasapostasbrasil.com/stats/match/inglaterra/liga-2/morecambe/crewe-alexandra/3036648,Morecambe,Terminado,1582977600
+Newport,Inglaterra - Liga 2,29/02/20 09:00:00,https://www.academiadasapostasbrasil.com/stats/match/inglaterra/liga-2/oldham-athletic/newport-county/3036650,Oldham,Terminado,1582977600
+Scunthorpe,Inglaterra - Liga 2,29/02/20 09:00:00,https://www.academiadasapostasbrasil.com/stats/match/inglaterra/liga-2/port-vale/scunthorpe-united/3036652,Port Vale,Terminado,1582977600
+H Ra'anana,Israel - Ligat Al,29/02/20 07:00:00,https://www.academiadasapostasbrasil.com/stats/match/israel/ligat-al/hapoel-kfar-saba/hapoel-raanana/3033790,H Kfar Saba,Terminado,1582970400
+Maccabi TA,Israel - Ligat Al,29/02/20 09:15:00,https://www.academiadasapostasbrasil.com/stats/match/israel/ligat-al/maccabi-netanya/maccabi-tel-aviv/3033793,M Netanya,Terminado,1582978500
+H Eran Hadera,Israel - Ligat Al,29/02/20 11:50:00,https://www.academiadasapostasbrasil.com/stats/match/israel/ligat-al/hapoel-tel-aviv/hapoel-eran-hadera/3033787,Hapoel TA,Terminado,1582987800
+H Haifa,Israel - Ligat Al,29/02/20 11:50:00,https://www.academiadasapostasbrasil.com/stats/match/israel/ligat-al/bnei-yehuda-tel-aviv/hapoel-haifa/3033791,Bnei Yehuda,Terminado,1582987800
+12 Octubre,Paraguai - Division Profesional,29/02/20 15:00:00,https://www.academiadasapostasbrasil.com/stats/match/paraguai/division-profesional/river-plate/12-de-octubre/3196970,River Plate,Terminado,1582999200
+Olimpia,Paraguai - Division Profesional,29/02/20 17:15:00,https://www.academiadasapostasbrasil.com/stats/match/paraguai/division-profesional/nacional-asuncion/olimpia/3196971,Nacional,Terminado,1583007300
+Wisła Płock,Polônia - Ekstraklasa,29/02/20 08:00:00,https://www.academiadasapostasbrasil.com/stats/match/polonia/ekstraklasa/wisla-cracovia/wisla-plock/3025890,Wisła,Terminado,1582974000
+Pogoń,Polônia - Ekstraklasa,29/02/20 10:30:00,https://www.academiadasapostasbrasil.com/stats/match/polonia/ekstraklasa/gornik-zabrze/pogon-szczecin/3025885,Górnik,Terminado,1582983000
+Cracovia,Polônia - Ekstraklasa,29/02/20 13:00:00,https://www.academiadasapostasbrasil.com/stats/match/polonia/ekstraklasa/legia-varsovia/cracovia-krakow/3025888,Legia,Terminado,1582992000
+Correcaminos,México - Primera A,28/02/20 21:00:00,https://www.academiadasapostasbrasil.com/stats/match/mexico/primera-a/zacatepec-siglo-xxi/correcaminos-uat/3209280,Zacatepec,Terminado,1582934400
+Cafetaleros,México - Primera A,29/02/20 17:00:00,https://www.academiadasapostasbrasil.com/stats/match/mexico/primera-a/coras-de-tepic/cafetaleros-de-tapachula/3209281,Tepic,Terminado,1583006400
+Tampico,México - Primera A,29/02/20 19:00:00,https://www.academiadasapostasbrasil.com/stats/match/mexico/primera-a/celaya/tampico-madero/3209282,Celaya,Terminado,1583013600
+Ural,Rússia - Premier League,29/02/20 05:00:00,https://www.academiadasapostasbrasil.com/stats/match/russia/premier-league/cska-moscou/ural/3027228,CSKA,Terminado,1582963200
+Spartak M,Rússia - Premier League,29/02/20 07:30:00,https://www.academiadasapostasbrasil.com/stats/match/russia/premier-league/dinamo-moscou/spartak-moscou/3027229,Dinamo M,Terminado,1582972200
+Lokomotiv M,Rússia - Premier League,29/02/20 10:00:00,https://www.academiadasapostasbrasil.com/stats/match/russia/premier-league/zenit-st-petersburg/lokomotiv-moscou/3027225,Zenit,Terminado,1582981200
+Rostov,Rússia - Premier League,29/02/20 10:00:00,https://www.academiadasapostasbrasil.com/stats/match/russia/premier-league/terek-groznyi/rostov/3027230,Terek,Terminado,1582981200
+Ayr Utd,Escócia - 1ª Divisão,29/02/20 09:00:00,https://www.academiadasapostasbrasil.com/stats/match/escocia/1-divisao/alloa-athletic/ayr-united/3038684,Alloa Athletic,Terminado,1582977600
+Dundee Utd,Escócia - 1ª Divisão,29/02/20 09:00:00,https://www.academiadasapostasbrasil.com/stats/match/escocia/1-divisao/dunfermline/dundee-united/3038686,Dunfermline,Terminado,1582977600
+Greenock,Escócia - 1ª Divisão,29/02/20 09:00:00,https://www.academiadasapostasbrasil.com/stats/match/escocia/1-divisao/queen-of-the-south/greenock-morton/3038688,Queen South,Terminado,1582977600
+Rangers,Escócia - Copa Escocesa,29/02/20 11:30:00,https://www.academiadasapostasbrasil.com/stats/match/escocia/copa-escocesa/heart-of-midlothian/rangers/3227503,Midlothian,Terminado,1582986600
+Aberdeen,Escócia - Copa Escocesa,29/02/20 13:20:00,https://www.academiadasapostasbrasil.com/stats/match/escocia/copa-escocesa/saint-mirren/aberdeen/3227506,St. Mirren,Terminado,1582993200
+St. Gallen,Suíça - Super Liga,29/02/20 12:00:00,https://www.academiadasapostasbrasil.com/stats/match/suica/super-liga/sion/st-gallen/3037933,Sion,Adiado,1582988400
+Zürich,Suíça - Super Liga,29/02/20 12:00:00,https://www.academiadasapostasbrasil.com/stats/match/suica/super-liga/young-boys/fc-zurich/3037934,Young Boys,Adiado,1582988400
+Voluntari,Romênia - Liga I,29/02/20 09:30:00,https://www.academiadasapostasbrasil.com/stats/match/romenia/liga-i/viitorul/voluntari/3239342,Viitorul,Terminado,1582979400
+Steaua,Romênia - Liga I,29/02/20 12:30:00,https://www.academiadasapostasbrasil.com/stats/match/romenia/liga-i/botosani/steaua-bucareste/3239307,Botoşani,Terminado,1582990200
+Caála,Angola - Campionato Nacional,29/02/20 09:00:00,https://www.academiadasapostasbrasil.com/stats/match/angola/campionato-nacional/petro-atletico/recreativo-da-caala/3146072,Petro Luanda,Terminado,1582977600
+Santamarina,Argentina - Primera B Nacional,29/02/20 14:00:00,https://www.academiadasapostasbrasil.com/stats/match/argentina/primera-b-nacional/brown-de-adrogue/deportivo-santamarina/3120314,Brown Adrogué,Terminado,1582995600
+Morón,Argentina - Primera B Nacional,29/02/20 16:05:00,https://www.academiadasapostasbrasil.com/stats/match/argentina/primera-b-nacional/belgrano/deportivo-moron/3120075,Belgrano,Terminado,1583003100
+Temperley,Argentina - Primera B Nacional,29/02/20 18:00:00,https://www.academiadasapostasbrasil.com/stats/match/argentina/primera-b-nacional/alvarado/temperley/3120074,Alvarado,Terminado,1583010000
+Perth,Austrália - A-League,29/02/20 00:00:00,https://www.academiadasapostasbrasil.com/stats/match/australia/a-league/newcastle-jets/perth-glory/3129370,Newcastle,Terminado,1582945200
+Adelaide Utd,Austrália - A-League,29/02/20 02:30:00,https://www.academiadasapostasbrasil.com/stats/match/australia/a-league/melbourne-victory/adelaide-united/3129371,Mel Victory,Terminado,1582954200
+Kapfenberg,Áustria - 1. Liga,29/02/20 07:30:00,https://www.academiadasapostasbrasil.com/stats/match/austria/1-liga/lafnitz/kapfenberg/3040513,Lafnitz,Terminado,1582972200
+Grazer,Áustria - 1. Liga,29/02/20 08:30:00,https://www.academiadasapostasbrasil.com/stats/match/austria/1-liga/blau-weiss-linz/grazer/3040509,BW Linz,Terminado,1582975800
+Aus Klagenfurt,Áustria - 1. Liga,29/02/20 10:30:00,https://www.academiadasapostasbrasil.com/stats/match/austria/1-liga/liefering/austria-klagenfurt/3040511,Liefering,Terminado,1582983000
+Botev Vratsa,Bulgária - A PFG,29/02/20 04:30:00,https://www.academiadasapostasbrasil.com/stats/match/bulgaria/a-pfg/dunav-2010/botev-vratsa/3032865,Dunav,Terminado,1582961400
+Cherno More,Bulgária - A PFG,29/02/20 07:00:00,https://www.academiadasapostasbrasil.com/stats/match/bulgaria/a-pfg/botev-plovdiv/cherno-more-varna/3032863,Botev,Terminado,1582970400
+CSKA,Bulgária - A PFG,29/02/20 09:30:00,https://www.academiadasapostasbrasil.com/stats/match/bulgaria/a-pfg/tsarsko-selo/cska-sofia/3032862,Tsarsko selo,Terminado,1582979400
+Suwon,Coreia do Sul - K-League,28/02/20 23:00:00,https://www.academiadasapostasbrasil.com/stats/match/coreia-do-sul/k-league/jeonbuk-motors/suwon-bluewings/3207900,Jeonbuk Motors,Adiado,1582941600
+Gangwon,Coreia do Sul - K-League,29/02/20 01:00:00,https://www.academiadasapostasbrasil.com/stats/match/coreia-do-sul/k-league/daegu/gangwon/3207897,Daegu,Adiado,1582948800
+Seoul,Coreia do Sul - K-League,29/02/20 01:00:00,https://www.academiadasapostasbrasil.com/stats/match/coreia-do-sul/k-league/ulsan-horang-i/seoul/3207902,Ulsan,Adiado,1582948800
+Tokushima,Japão - Liga J2,28/02/20 23:00:00,https://www.academiadasapostasbrasil.com/stats/match/japao/liga-j2/omiya-ardija/tokushima-vortis/3215379,Omiya,Adiado,1582941600
+Giravanz,Japão - Liga J2,28/02/20 23:00:00,https://www.academiadasapostasbrasil.com/stats/match/japao/liga-j2/renofa-yamaguchi/giravanz-kitakyushu/3215380,Renofa,Adiado,1582941600
+Fagiano,Japão - Liga J2,29/02/20 00:05:00,https://www.academiadasapostasbrasil.com/stats/match/japao/liga-j2/ryukyu/fagiano-okayama/3215381,Ryūkyū,Adiado,1582945500
+F Marinos,Japão - J League,28/02/20 23:00:00,https://www.academiadasapostasbrasil.com/stats/match/japao/j-league/tokyo/yokohama-f-marinos/3217532,Tokyo,Adiado,1582941600
+Shonan,Japão - J League,28/02/20 23:00:00,https://www.academiadasapostasbrasil.com/stats/match/japao/j-league/nagoya-grampus/shonan-bellmare/3217533,Nagoya,Adiado,1582941600
+Cerezo,Japão - J League,28/02/20 23:00:00,https://www.academiadasapostasbrasil.com/stats/match/japao/j-league/sagan-tosu/cerezo-osaka/3217534,Sagan,Adiado,1582941600
+Consadole,Japão - J League,29/02/20 00:00:00,https://www.academiadasapostasbrasil.com/stats/match/japao/j-league/kawasaki-frontale/consadole-sapporo/3217535,Kawasaki,Adiado,1582945200
+Las Vegas Lights,Mundo - Amistosos,28/02/20 21:00:00,https://www.academiadasapostasbrasil.com/stats/match/mundo/amistosos/orange-county-blues/las-vegas-lights/3220338,OC Blues,Terminado,1582934400
+Petřkovice,Mundo - Amistosos,29/02/20 02:30:00,https://www.academiadasapostasbrasil.com/stats/match/mundo/amistosos/trinec/odra-petrkovice/3225890,Třinec,Terminado,1582954200
+Dinamo Br,Mundo - Amistosos,29/02/20 03:00:00,https://www.academiadasapostasbrasil.com/stats/match/mundo/amistosos/znamya-truda/dinamo-bryansk/3239863,Znamya ,Terminado,1582956000
+Vítkovice,Mundo - Amistosos,29/02/20 03:15:00,https://www.academiadasapostasbrasil.com/stats/match/mundo/amistosos/unicov/vitkovice/3218596,Uničov,Terminado,1582956900
+Vltavín,Mundo - Amistosos,29/02/20 03:15:00,https://www.academiadasapostasbrasil.com/stats/match/mundo/amistosos/slavoj-vysehrad/loko-vltavin/3229722,Vyšehrad,Terminado,1582956900
+Sokolov,Mundo - Amistosos,29/02/20 03:30:00,https://www.academiadasapostasbrasil.com/stats/match/mundo/amistosos/viktoria-zizkov/banik-sokolov/3190468,Žižkov,Terminado,1582957800
+Blansko,Mundo - Amistosos,29/02/20 04:00:00,https://www.academiadasapostasbrasil.com/stats/match/mundo/amistosos/prostejov/blansko/3200992,Prostějov,Terminado,1582959600
+Vanløse,Mundo - Amistosos,29/02/20 04:00:00,https://www.academiadasapostasbrasil.com/stats/match/mundo/amistosos/hellerup/vanlose/3209099,HIK,Terminado,1582959600
+Varnsdorf,Mundo - Amistosos,29/02/20 04:00:00,https://www.academiadasapostasbrasil.com/stats/match/mundo/amistosos/sokol-zapy/varnsdorf/3229655,Zápy,Terminado,1582959600
+International Leipzig,Mundo - Amistosos,29/02/20 04:00:00,https://www.academiadasapostasbrasil.com/stats/match/mundo/amistosos/chemie-leipzig/international-leipzig/3239923,Chemie Leipzig,Terminado,1582959600
+Krumkachy,Mundo - Amistosos,29/02/20 04:00:00,https://www.academiadasapostasbrasil.com/stats/match/mundo/amistosos/minsk/krumkachy/3239934,Minsk,Terminado,1582959600
+Nørresundby,Mundo - Amistosos,29/02/20 04:30:00,https://www.academiadasapostasbrasil.com/stats/match/mundo/amistosos/jammerbugt/norresundby/3229236,Jammerbugt,Terminado,1582961400
+Sputnik,Mundo - Amistosos,29/02/20 05:00:00,https://www.academiadasapostasbrasil.com/stats/match/mundo/amistosos/belshina-bobruisk/sputnik/3239937,Belshina,Terminado,1582963200
+Orsha,Mundo - Amistosos,29/02/20 05:00:00,https://www.academiadasapostasbrasil.com/stats/match/mundo/amistosos/vitebsk/orsha/3240193,Vitebsk,Terminado,1582963200
+Naftan,Mundo - Amistosos,29/02/20 05:30:00,https://www.academiadasapostasbrasil.com/stats/match/mundo/amistosos/gorodeya/naftan/3238747,Gorodeya,Terminado,1582965000
+Eidsvold,Mundo - Amistosos,29/02/20 05:30:00,https://www.academiadasapostasbrasil.com/stats/match/mundo/amistosos/valerenga-ii/eidsvold/3239862,Vålerenga II,Terminado,1582965000
+Køge Nord,Mundo - Amistosos,29/02/20 06:00:00,https://www.academiadasapostasbrasil.com/stats/match/mundo/amistosos/fc-helsingor/koge-nord/3193952,Helsingør,Terminado,1582966800
+Hillerød,Mundo - Amistosos,29/02/20 06:00:00,https://www.academiadasapostasbrasil.com/stats/match/mundo/amistosos/bronshoj/hillerod/3193985,Brønshøj,Terminado,1582966800
+Mjøndalen,Mundo - Amistosos,29/02/20 06:00:00,https://www.academiadasapostasbrasil.com/stats/match/mundo/amistosos/kongsvinger/mjondalen/3195042,Kongsvinger,Terminado,1582966800
+Sydvest,Mundo - Amistosos,29/02/20 06:00:00,https://www.academiadasapostasbrasil.com/stats/match/mundo/amistosos/middelfart/sydvest/3209115,Middelfart,Terminado,1582966800
+Augsburg II,Mundo - Amistosos,29/02/20 06:00:00,https://www.academiadasapostasbrasil.com/stats/match/mundo/amistosos/nuremberg-ii/augsburg-ii/3224022,Nürnberg II,Terminado,1582966800
+Skövde,Mundo - Amistosos,29/02/20 06:00:00,https://www.academiadasapostasbrasil.com/stats/match/mundo/amistosos/degerfors/skovde-aik/3228421,Degerfors,Terminado,1582966800
+Ryazan,Mundo - Amistosos,29/02/20 06:00:00,https://www.academiadasapostasbrasil.com/stats/match/mundo/amistosos/strogino/ryazan/3239861,Strogino,Terminado,1582966800
+BAK,Mundo - Amistosos,29/02/20 06:00:00,https://www.academiadasapostasbrasil.com/stats/match/mundo/amistosos/altglienicke/berlin-ankaraspor/3240190,Altglienicke,Terminado,1582966800
+Aarhus Fremad,Mundo - Amistosos,29/02/20 06:00:00,https://www.academiadasapostasbrasil.com/stats/match/mundo/amistosos/akron/aarhus-fremad/3240574,Akron,Terminado,1582966800
+Fürth II,Mundo - Amistosos,29/02/20 06:30:00,https://www.academiadasapostasbrasil.com/stats/match/mundo/amistosos/schweinfurt/greuther-furth-ii/3194604,Schweinfurt,Terminado,1582968600
+Levanger,Mundo - Amistosos,29/02/20 06:45:00,https://www.academiadasapostasbrasil.com/stats/match/mundo/amistosos/stjordals-blink/levanger/3204612,Stjørdals,Terminado,1582969500
+Líšeň,Mundo - Amistosos,29/02/20 07:00:00,https://www.academiadasapostasbrasil.com/stats/match/mundo/amistosos/chrudim/lisen/3190481,Chrudim,Terminado,1582970400
+Chlumec nad Cidlinou,Mundo - Amistosos,29/02/20 07:00:00,https://www.academiadasapostasbrasil.com/stats/match/mundo/amistosos/hradec-kralove/chlumec-nad-cidlinou/3190494,Králové,Terminado,1582970400
+Silkeborg KFUM,Mundo - Amistosos,29/02/20 07:00:00,https://www.academiadasapostasbrasil.com/stats/match/mundo/amistosos/ringkobing/silkeborg-kfum/3220365,Ringkøbing,Terminado,1582970400
+Pipinsried,Mundo - Amistosos,29/02/20 07:00:00,https://www.academiadasapostasbrasil.com/stats/match/mundo/amistosos/illertissen/pipinsried/3224044,Illertissen,Terminado,1582970400
+Ingolstadt II,Mundo - Amistosos,29/02/20 07:00:00,https://www.academiadasapostasbrasil.com/stats/match/mundo/amistosos/wacker-burghausen/ingolstadt-04-ii/3224053,Burghausen,Terminado,1582970400
+Levadia,Mundo - Amistosos,29/02/20 07:00:00,https://www.academiadasapostasbrasil.com/stats/match/mundo/amistosos/rigas-fs/levadia-tallinn/3224056,Rīgas FS,Terminado,1582970400
+Dachau,Mundo - Amistosos,29/02/20 07:00:00,https://www.academiadasapostasbrasil.com/stats/match/mundo/amistosos/heimstetten/dachau/3224072,Heimstetten,Terminado,1582970400
+Gurten,Mundo - Amistosos,29/02/20 07:00:00,https://www.academiadasapostasbrasil.com/stats/match/mundo/amistosos/schalding-heining/gurten/3224077,Schalding,Terminado,1582970400
+Nardo,Mundo - Amistosos,29/02/20 07:00:00,https://www.academiadasapostasbrasil.com/stats/match/mundo/amistosos/orkla/nardo/3227517,Orkla,Terminado,1582970400
+Brattvåg,Mundo - Amistosos,29/02/20 07:00:00,https://www.academiadasapostasbrasil.com/stats/match/mundo/amistosos/molde-ii/brattvag/3227560,Molde II,Terminado,1582970400
+Türkspor Augsburg,Mundo - Amistosos,29/02/20 07:00:00,https://www.academiadasapostasbrasil.com/stats/match/mundo/amistosos/rain-am-lech/turkspor-augsburg/3228158,Rain / Lech,Terminado,1582970400
+Memmingen,Mundo - Amistosos,29/02/20 07:00:00,https://www.academiadasapostasbrasil.com/stats/match/mundo/amistosos/hohenems/memmingen/3228169,Hohenems,Terminado,1582970400
+Oulu,Mundo - Amistosos,29/02/20 07:00:00,https://www.academiadasapostasbrasil.com/stats/match/mundo/amistosos/js-hercules/oulu/3238603,Hercules,Terminado,1582970400
+Istiqlol,Mundo - Amistosos,29/02/20 07:00:00,https://www.academiadasapostasbrasil.com/stats/match/mundo/amistosos/slutsk/istiqlol/3240520,Slutsk,Terminado,1582970400
+Thisted,Mundo - Amistosos,29/02/20 07:00:00,https://www.academiadasapostasbrasil.com/stats/match/mundo/amistosos/volgar-astrakhan/thisted/3240577,Volgar,Terminado,1582970400
+Paide,Mundo - Amistosos,29/02/20 07:30:00,https://www.academiadasapostasbrasil.com/stats/match/mundo/amistosos/ekenas-if/paide/3230642,EIF,Terminado,1582972200
+Pardubice,Mundo - Amistosos,29/02/20 08:00:00,https://www.academiadasapostasbrasil.com/stats/match/mundo/amistosos/fc-brno/pardubice/3187106,Zbrojovka,Terminado,1582974000
+Aschaffenburg,Mundo - Amistosos,29/02/20 08:00:00,https://www.academiadasapostasbrasil.com/stats/match/mundo/amistosos/abtswind/viktoria-aschaffenburg/3198937,Abtswind,Terminado,1582974000
+Volyn,Mundo - Amistosos,29/02/20 08:00:00,https://www.academiadasapostasbrasil.com/stats/match/mundo/amistosos/dinamo-minsk/volyn-lutsk/3223969,Dinamo Minsk,Terminado,1582974000
+Viktoria Plzeň II,Mundo - Amistosos,29/02/20 08:00:00,https://www.academiadasapostasbrasil.com/stats/match/mundo/amistosos/dukla-praga/viktoria-plzen-ii/3227528,Dukla,Terminado,1582974000
+Maardu,Mundo - Amistosos,29/02/20 08:00:00,https://www.academiadasapostasbrasil.com/stats/match/mundo/amistosos/nomme-kalju/maardu/3231328,Kalju,Terminado,1582974000
+Boden,Mundo - Amistosos,29/02/20 08:15:00,https://www.academiadasapostasbrasil.com/stats/match/mundo/amistosos/umea/boden/3204081,Umeå,Terminado,1582974900
+Olimpiyets,Mundo - Amistosos,29/02/20 08:30:00,https://www.academiadasapostasbrasil.com/stats/match/mundo/amistosos/slavia/olimpiyets/3231309,Slavia,Terminado,1582975800
+KFUM,Mundo - Amistosos,29/02/20 09:00:00,https://www.academiadasapostasbrasil.com/stats/match/mundo/amistosos/strommen/kfum/3215270,Strømmen,Terminado,1582977600
+Asker,Mundo - Amistosos,29/02/20 09:00:00,https://www.academiadasapostasbrasil.com/stats/match/mundo/amistosos/kvik-halden/asker/3217517,Kvik,Terminado,1582977600
+Egersund,Mundo - Amistosos,29/02/20 09:00:00,https://www.academiadasapostasbrasil.com/stats/match/mundo/amistosos/bryne/egersund/3219815,Bryne,Terminado,1582977600
+Lysekloster,Mundo - Amistosos,29/02/20 09:00:00,https://www.academiadasapostasbrasil.com/stats/match/mundo/amistosos/sotra/lysekloster/3240103,Sotra,Terminado,1582977600
+New England II,Mundo - Amistosos,29/02/20 12:00:00,https://www.academiadasapostasbrasil.com/stats/match/mundo/amistosos/new-york-rb-ii/new-england-ii/3237992,New York RB II,,1582988400
+Swope Park,Mundo - Amistosos,29/02/20 13:00:00,https://www.academiadasapostasbrasil.com/stats/match/mundo/amistosos/tulsa-roughnecks/swope-park-rangers/3220318,Roughnecks,Terminado,1582992000
+El Paso Locomotive,Mundo - Amistosos,29/02/20 13:00:00,https://www.academiadasapostasbrasil.com/stats/match/mundo/amistosos/arizona-united/el-paso-locomotive/3220326,Arizona Utd,Terminado,1582992000
+Hartford Athletic,Mundo - Amistosos,29/02/20 13:45:00,https://www.academiadasapostasbrasil.com/stats/match/mundo/amistosos/bethlehem-steel/hartford-athletic/3227335,Bethlehem,Terminado,1582994700
+Greenville Triumph,Mundo - Amistosos,29/02/20 14:00:00,https://www.academiadasapostasbrasil.com/stats/match/mundo/amistosos/carolina-railhawks/greenville-triumph/3220310,Carolina,Terminado,1582995600
+San Diego Loyal,Mundo - Amistosos,29/02/20 14:00:00,https://www.academiadasapostasbrasil.com/stats/match/mundo/amistosos/reno-1868/san-diego-loyal/3220328,Reno 1868,Terminado,1582995600
+Forward Madison,Mundo - Amistosos,29/02/20 15:00:00,https://www.academiadasapostasbrasil.com/stats/match/mundo/amistosos/saint-louis/forward-madison/3206666,St. Louis FC,Terminado,1582999200
+Hamilton Wanderers,Nova Zelândia - Premier League,28/02/20 21:00:00,https://www.academiadasapostasbrasil.com/stats/match/nova-zelandia/premier-league/waitakere-united/hamilton-wanderers/3176956,Waitakere Utd,Terminado,1582934400
+Geylang,Cingapura - S-League,29/02/20 03:30:00,https://www.academiadasapostasbrasil.com/stats/match/cingapura/s-league/albirex-niigate/geylang-united/3220373,Albirex,Terminado,1582957800
+Artsakh,Armênia - Liga,29/02/20 04:00:00,https://www.academiadasapostasbrasil.com/stats/match/armenia/liga/shirak-giumri/noah/3081764,Shirak,Terminado,1582959600
+Gandzasar,Armênia - Liga,29/02/20 04:45:00,https://www.academiadasapostasbrasil.com/stats/match/armenia/liga/pyunik-yerevan/gandzasar/3081763,Pyunik,Terminado,1582962300
+İnter Bakı,Azerbaijão - Supreme League,29/02/20 06:00:00,https://www.academiadasapostasbrasil.com/stats/match/azerbaijao/supreme-league/sumqayt/inter-baku/3176632,Sumqayıt,Terminado,1582966800
+Wahda,Arábia Saudita - Liga,29/02/20 06:40:00,https://www.academiadasapostasbrasil.com/stats/match/arabia-saudita/liga/al-fateh/al-wehda-mecca/3202105,Fateh,Terminado,1582969200
+Olimpija,Eslovênia - 1. SNL,29/02/20 07:00:00,https://www.academiadasapostasbrasil.com/stats/match/eslovenia/1-snl/rudar/olimpija-ljubljana/3039598,Rudar,Terminado,1582970400
+Skënderbeu,Albânia - Super Liga,29/02/20 07:00:00,https://www.academiadasapostasbrasil.com/stats/match/albania/super-liga/vllaznia-shkoder/skenderbeu-korce/3130660,Vllaznia,Terminado,1582970400
+Flamurtari,Albânia - Super Liga,29/02/20 07:00:00,https://www.academiadasapostasbrasil.com/stats/match/albania/super-liga/bylis-ballsh/flamurtari/3130661,Bylis,Terminado,1582970400
+Laçi,Albânia - Super Liga,29/02/20 07:00:00,https://www.academiadasapostasbrasil.com/stats/match/albania/super-liga/luftetari-gjirokaster/laci/3130662,Luftëtari,Terminado,1582970400
+Malacca,Malásia - Super Liga,29/02/20 07:00:00,https://www.academiadasapostasbrasil.com/stats/match/malasia/super-liga/uitm/malacca-united/3203184,UiTM,Terminado,1582970400
+Selangor,Malásia - Super Liga,29/02/20 07:00:00,https://www.academiadasapostasbrasil.com/stats/match/malasia/super-liga/pahang/selangor-fc/3203185,Pahang,Terminado,1582970400
+Perak,Malásia - Super Liga,29/02/20 07:00:00,https://www.academiadasapostasbrasil.com/stats/match/malasia/super-liga/terengganu/perak/3203186,Terengganu,Terminado,1582970400
+Aluminij,Eslovênia - 1. SNL,29/02/20 07:30:00,https://www.academiadasapostasbrasil.com/stats/match/eslovenia/1-snl/bravo/aluminij/3039594,Bravo,Terminado,1582972200
+Kaizer Chiefs,África do Sul - Premier Soccer League,29/02/20 07:30:00,https://www.academiadasapostasbrasil.com/stats/match/africa-do-sul/premier-soccer-league/orlando-pirates/kaizer-chiefs/3053067,Pirates,Terminado,1582972200
+Highlands Park,África do Sul - Premier Soccer League,29/02/20 07:30:00,https://www.academiadasapostasbrasil.com/stats/match/africa-do-sul/premier-soccer-league/golden-arrows/highlands-park/3053068,Arrows,Terminado,1582972200
+Željezničar,Bósnia-Herzegovina - Premier Liga,29/02/20 07:30:00,https://www.academiadasapostasbrasil.com/stats/match/bosnia-herzegovina/premier-liga/zvijezda-09/zeljeznicar-sarajevo/3074855,Zvijezda 09,Terminado,1582972200
+Široki Brijeg,Bósnia-Herzegovina - Premier Liga,29/02/20 07:30:00,https://www.academiadasapostasbrasil.com/stats/match/bosnia-herzegovina/premier-liga/mladost-doboj-kakanj/siroki-brijeg/3074859,Mladost DK,Terminado,1582972200
+Qatar,Catar - Liga,29/02/20 07:50:00,https://www.academiadasapostasbrasil.com/stats/match/catar/liga/al-khor/qatar-sc/3198202,Khor,Terminado,1582973400
+Racing,Luxemburgo - Divisão Nacional,29/02/20 08:00:00,https://www.academiadasapostasbrasil.com/stats/match/luxemburgo/divisao-nacional/progres-niedercorn/racing-union-luxemburgo/3061568,Progrès,Terminado,1582974000
+Sabah,Azerbaijão - Supreme League,29/02/20 08:00:00,https://www.academiadasapostasbrasil.com/stats/match/azerbaijao/supreme-league/karabakh-agdam/sabah/3176633,Qarabağ,Terminado,1582974000
+Arreridj,Argélia - Divisão 1,29/02/20 08:00:00,https://www.academiadasapostasbrasil.com/stats/match/argelia/divisao-1/ain-mlila/bordj-bou-arreridj/3225860,Aïn M'lila,Terminado,1582974000
+JS Kabylie,Argélia - Divisão 1,29/02/20 08:00:00,https://www.academiadasapostasbrasil.com/stats/match/argelia/divisao-1/cr-belouizdad/js-kabylie/3225862,CR Belouizdad,Terminado,1582974000
+Mondorf,Luxemburgo - Divisão Nacional,29/02/20 09:00:00,https://www.academiadasapostasbrasil.com/stats/match/luxemburgo/divisao-nacional/una-strassen/mondorf-les-bains/3061563,Strassen,Terminado,1582977600
+Monagas,Venezuela - Primera Division,29/02/20 09:00:00,https://www.academiadasapostasbrasil.com/stats/match/venezuela/primera-division/atletico-venezuela/monagas/3213699,Venezuela,Terminado,1582977600
+Abha,Arábia Saudita - Liga,29/02/20 09:20:00,https://www.academiadasapostasbrasil.com/stats/match/arabia-saudita/liga/al-ittifaq/abha/3202106,Ittifaq,Terminado,1582978800
+Fola,Luxemburgo - Divisão Nacional,29/02/20 09:30:00,https://www.academiadasapostasbrasil.com/stats/match/luxemburgo/divisao-nacional/etzella-ettelbruck/fola-esch/3061564,Etzella,Terminado,1582979400
+Sarajevo,Bósnia-Herzegovina - Premier Liga,29/02/20 09:30:00,https://www.academiadasapostasbrasil.com/stats/match/bosnia-herzegovina/premier-liga/borac-banja-luka/fk-sarajevo/3074854,Borac BB,Terminado,1582979400
+AmaZulu,África do Sul - Premier Soccer League,29/02/20 10:00:00,https://www.academiadasapostasbrasil.com/stats/match/africa-do-sul/premier-soccer-league/chippa-united/amazulu/3053066,Chippa Utd,Terminado,1582981200
+Kukësi,Albânia - Super Liga,29/02/20 10:00:00,https://www.academiadasapostasbrasil.com/stats/match/albania/super-liga/teuta-durres/perparimi-kukes/3130659,Teuta,Terminado,1582981200
+Biskra,Argélia - Divisão 1,29/02/20 10:00:00,https://www.academiadasapostasbrasil.com/stats/match/argelia/divisao-1/usm-bel-abbes/biskra/3225857,Bel Abbès,Terminado,1582981200
+NA Hussein Dey,Argélia - Divisão 1,29/02/20 10:00:00,https://www.academiadasapostasbrasil.com/stats/match/argelia/divisao-1/es-setif/na-hussein-dey/3225858,ES Sétif,Terminado,1582981200
+Magra,Argélia - Divisão 1,29/02/20 10:00:00,https://www.academiadasapostasbrasil.com/stats/match/argelia/divisao-1/cs-constantine/magra/3225859,CS Constantine,Terminado,1582981200
+Sloboda T,Bósnia-Herzegovina - Premier Liga,29/02/20 10:30:00,https://www.academiadasapostasbrasil.com/stats/match/bosnia-herzegovina/premier-liga/zrinjski-mostar/sloboda-tuzla/3074856,Zrinjski,Terminado,1582983000
+MC Oran,Argélia - Divisão 1,29/02/20 10:45:00,https://www.academiadasapostasbrasil.com/stats/match/argelia/divisao-1/mc-alger/mc-oran/3225861,MC Alger,Terminado,1582983900
+Tabor,Eslovênia - 1. SNL,29/02/20 11:00:00,https://www.academiadasapostasbrasil.com/stats/match/eslovenia/1-snl/maribor/tabor-sezana/3039596,Maribor,Terminado,1582984800
+Rosport,Luxemburgo - Divisão Nacional,29/02/20 11:00:00,https://www.academiadasapostasbrasil.com/stats/match/luxemburgo/divisao-nacional/petange/victoria-rosport/3061566,Pétange,Terminado,1582984800
+USM Alger,Argélia - Divisão 1,29/02/20 11:00:00,https://www.academiadasapostasbrasil.com/stats/match/argelia/divisao-1/js-saoura/usm-alger/3225855,JS Saoura,Terminado,1582984800
+Differdange,Luxemburgo - Divisão Nacional,29/02/20 11:30:00,https://www.academiadasapostasbrasil.com/stats/match/luxemburgo/divisao-nacional/hostert/differdange-03/3061569,Hostert,Terminado,1582986600
+Shabab,Arábia Saudita - Liga,29/02/20 11:40:00,https://www.academiadasapostasbrasil.com/stats/match/arabia-saudita/liga/al-ittihad/al-shabab-riyadh/3202107,Ittihad,Terminado,1582987200
+Wits,África do Sul - Premier Soccer League,29/02/20 12:15:00,https://www.academiadasapostasbrasil.com/stats/match/africa-do-sul/premier-soccer-league/supersport-united/bidvest-wits/3053069,SuperSport Utd,Terminado,1582989300
+Trujillanos,Venezuela - Primera Division,29/02/20 14:00:00,https://www.academiadasapostasbrasil.com/stats/match/venezuela/primera-division/lala/trujillano/3213693,LALA,Terminado,1582995600
+Guayaquil City FC,Equador - Primera A,29/02/20 14:30:00,https://www.academiadasapostasbrasil.com/stats/match/equador/primera-a/orense/guayaquil-city-fc/3197308,Orense,Terminado,1582997400
+Herediano,Costa Rica - Primera Division,29/02/20 15:00:00,https://www.academiadasapostasbrasil.com/stats/match/costa-rica/primera-division/grecia/herediano/3203003,Grecia,Terminado,1582999200
+El Vencedor,El Salvador - Primera Division,29/02/20 15:15:00,https://www.academiadasapostasbrasil.com/stats/match/el-salvador/primera-division/jocoro/el-vencedor/3204138,Jocoro,Terminado,1583000100
+Alianza,El Salvador - Primera Division,29/02/20 17:00:00,https://www.academiadasapostasbrasil.com/stats/match/el-salvador/primera-division/santa-tecla/alianza/3204137,Santa Tecla,Terminado,1583006400
+Táchira,Venezuela - Primera Division,29/02/20 17:00:00,https://www.academiadasapostasbrasil.com/stats/match/venezuela/primera-division/deportivo-lara/deportivo-tachira/3213696,Lara,Terminado,1583006400
+Portoviejo,Equador - Primera A,29/02/20 18:00:00,https://www.academiadasapostasbrasil.com/stats/match/equador/primera-a/barcelona-guayaquil/ldu-portoviejo/3197314,Barcelona,Terminado,1583010000
+FAS,El Salvador - Primera Division,29/02/20 18:30:00,https://www.academiadasapostasbrasil.com/stats/match/el-salvador/primera-division/chalatenango/deportivo-fas/3204141,Chalatenango,Terminado,1583011800
+Eastern Suburbs,Nova Zelândia - Premier League,29/02/20 19:00:00,https://www.academiadasapostasbrasil.com/stats/match/nova-zelandia/premier-league/team-wellington/eastern-suburbs/3176958,Wellington,Terminado,1583013600
+Siquinalá,Guatemala - Liga Nacional,29/02/20 19:00:00,https://www.academiadasapostasbrasil.com/stats/match/guatemala/liga-nacional/mixco/siquinala/3201435,Mixco,Terminado,1583013600
+ADR Jicaral,Costa Rica - Primera Division,29/02/20 19:00:00,https://www.academiadasapostasbrasil.com/stats/match/costa-rica/primera-division/municipal-perez-zeledon/adr-jicaral/3203005,Pérez Zeledón,Terminado,1583013600
+Once Municipal,El Salvador - Primera Division,29/02/20 19:00:00,https://www.academiadasapostasbrasil.com/stats/match/el-salvador/primera-division/sonsonate/once-municipal/3204140,Sonsonate,Terminado,1583013600
+Águila,El Salvador - Primera Division,29/02/20 19:15:00,https://www.academiadasapostasbrasil.com/stats/match/el-salvador/primera-division/isidro-metapan/aguila/3204139,Isidro,Terminado,1583014500
+Dragons,Coreia do Sul - K League Challenge,29/02/20 00:00:00,https://www.academiadasapostasbrasil.com/stats/match/coreia-do-sul/k-league-challenge/anyang/chunnam-dragons/3220119,Anyang,Adiado,1582945200
+Gyeongnam,Coreia do Sul - K League Challenge,29/02/20 00:00:00,https://www.academiadasapostasbrasil.com/stats/match/coreia-do-sul/k-league-challenge/daejeon-citizen/gyeongnam/3220120,Daejeon,Adiado,1582945200
+Ansan Greeners,Coreia do Sul - K League Challenge,29/02/20 00:00:00,https://www.academiadasapostasbrasil.com/stats/match/coreia-do-sul/k-league-challenge/seoul-e-land/ansan-greeners/3220121,Seoul E-Land,Adiado,1582945200
+Aizawl,Índia - Liga I,29/02/20 02:30:00,https://www.academiadasapostasbrasil.com/stats/match/india/liga-i/real-kashmir/aizawl/3183701,Real Kashmir,Terminado,1582954200
+Fatih,Turquia - Lig A,29/02/20 05:00:00,https://www.academiadasapostasbrasil.com/stats/match/turquia/lig-a/ankaraspor/fatih-karagumruk/3083392,Osmanlıspor,Terminado,1582963200
+Churchill,Índia - Liga I,29/02/20 05:30:00,https://www.academiadasapostasbrasil.com/stats/match/india/liga-i/east-bengal-club/churchill-brothers/3183700,East Bengal,Terminado,1582965000
+Z Sosnowiec,Polônia - I Liga,29/02/20 05:40:00,https://www.academiadasapostasbrasil.com/stats/match/polonia/i-liga/miedz-legnica/zaglebie-sosnowiec/3034562,Miedź,Terminado,1582965600
+Næstved,Dinamarca - 1ª Divisão,29/02/20 06:00:00,https://www.academiadasapostasbrasil.com/stats/match/dinamarca/1-divisao/kolding-if/naestved/3034244,Kolding IF,Terminado,1582966800
+Fredericia,Dinamarca - 1ª Divisão,29/02/20 07:00:00,https://www.academiadasapostasbrasil.com/stats/match/dinamarca/1-divisao/fremad-amager/fredericia/3034240,Fremad Amager,Terminado,1582970400
+Turbina,Albânia - Liga 1,29/02/20 07:00:00,https://www.academiadasapostasbrasil.com/stats/match/albania/liga-1/pogradeci/turbina-cerrik/3164688,Pogradeci,Terminado,1582970400
+Iliria,Albânia - Liga 1,29/02/20 07:00:00,https://www.academiadasapostasbrasil.com/stats/match/albania/liga-1/lushnja/iliria-fushe-kruje/3164689,Lushnja,Terminado,1582970400
+Shënkolli,Albânia - Liga 1,29/02/20 07:00:00,https://www.academiadasapostasbrasil.com/stats/match/albania/liga-1/elbasani/shenkolli/3164690,Elbasani,Terminado,1582970400
+Apolonia,Albânia - Liga 1,29/02/20 07:00:00,https://www.academiadasapostasbrasil.com/stats/match/albania/liga-1/oriku/apolonia-fier/3164691,Oriku,Terminado,1582970400
+Besa,Albânia - Liga 1,29/02/20 07:00:00,https://www.academiadasapostasbrasil.com/stats/match/albania/liga-1/devolli/besa-kavaje/3164692,Devolli,Terminado,1582970400
+Shkumbini,Albânia - Liga 1,29/02/20 07:00:00,https://www.academiadasapostasbrasil.com/stats/match/albania/liga-1/egnatia-rrogozhine/shkumbini-peqin/3164773,Egnatia,Cancelado,1582970400
+Burreli 	,Albânia - Liga 1,29/02/20 07:00:00,https://www.academiadasapostasbrasil.com/stats/match/albania/liga-1/terbuni-puke/burreli/3164774,Tërbuni,Terminado,1582970400
+Dinamo,Albânia - Liga 1,29/02/20 07:00:00,https://www.academiadasapostasbrasil.com/stats/match/albania/liga-1/veleciku-koplik/dinamo-tirana/3164775,Veleçiku,Terminado,1582970400
+Erzeni,Albânia - Liga 1,29/02/20 07:00:00,https://www.academiadasapostasbrasil.com/stats/match/albania/liga-1/beselidhja-lezhe/erzeni-shijak/3164776,Besëlidhja,Terminado,1582970400
+Korabi,Albânia - Liga 1,29/02/20 07:00:00,https://www.academiadasapostasbrasil.com/stats/match/albania/liga-1/kastrioti-kruje/korabi-peshkop/3164777,Kastrioti,Terminado,1582970400
+Akhisar,Turquia - Lig A,29/02/20 07:30:00,https://www.academiadasapostasbrasil.com/stats/match/turquia/lig-a/eskisehirspor/akhisar-belediyespor/3083391,Eskişehir,Terminado,1582972200
+Minerva,Índia - Liga I,29/02/20 07:30:00,https://www.academiadasapostasbrasil.com/stats/match/india/liga-i/gokulam/minerva/3183703,Gokulam,Terminado,1582972200
+Galway Utd.,Irlanda  - Divisão 1,29/02/20 09:00:00,https://www.academiadasapostasbrasil.com/stats/match/irlanda-/divisao-1/shamrock-rovers-res/galway-united/3211019,Shamrock Res.,Terminado,1582977600
+Jastrzębie,Polônia - I Liga,29/02/20 10:00:00,https://www.academiadasapostasbrasil.com/stats/match/polonia/i-liga/belchatow/jastrzebie/3034558,Bełchatów,Terminado,1582981200
+Sandecja,Polônia - I Liga,29/02/20 10:00:00,https://www.academiadasapostasbrasil.com/stats/match/polonia/i-liga/tychy-71/sandecja-nowy-sacz/3034560,Tychy,Terminado,1582981200
+Chiasso,Suíça - Challenge League,29/02/20 10:00:00,https://www.academiadasapostasbrasil.com/stats/match/suica/challenge-league/stade-lausanne-ouchy/chiasso/3039783,Lausanne-Ouchy,Adiado,1582981200
+Hatay,Turquia - Lig A,29/02/20 10:00:00,https://www.academiadasapostasbrasil.com/stats/match/turquia/lig-a/adana-demirspor/hatayspor/3083387,Demirspor,Terminado,1582981200
+Odra,Polônia - I Liga,29/02/20 10:30:00,https://www.academiadasapostasbrasil.com/stats/match/polonia/i-liga/stomil-olsztyn/odra-opole/3034559,Stomil,Terminado,1582983000
+FC Schaffh,Suíça - Challenge League,29/02/20 10:30:00,https://www.academiadasapostasbrasil.com/stats/match/suica/challenge-league/kriens/schaffhausen/3039782,Kriens,Adiado,1582983000
+Lausanne,Suíça - Challenge League,29/02/20 10:30:00,https://www.academiadasapostasbrasil.com/stats/match/suica/challenge-league/fc-wil-1900/lausanne/3039785,Wil,Adiado,1582983000
+Chojniczanka,Polônia - I Liga,29/02/20 11:00:00,https://www.academiadasapostasbrasil.com/stats/match/polonia/i-liga/nieciecza/chojniczanka-chojnice/3034563,Nieciecza,Terminado,1582984800
+Chemnitz,Alemanha - 3. Liga,29/02/20 07:00:00,https://www.academiadasapostasbrasil.com/stats/match/alemanha/3-liga/munique-1860/chemnitzer/3053388,1860 München,Terminado,1582970400
+Uerdingen,Alemanha - 3. Liga,29/02/20 07:00:00,https://www.academiadasapostasbrasil.com/stats/match/alemanha/3-liga/eintracht-braunschweig/uerdingen-05/3053389,Braunschweig,Terminado,1582970400
+Würzburg,Alemanha - 3. Liga,29/02/20 07:00:00,https://www.academiadasapostasbrasil.com/stats/match/alemanha/3-liga/fsv-zwickau/wurzburger-kickers/3053390,Zwickau,Terminado,1582970400
+Kaiserslautern,Alemanha - 3. Liga,29/02/20 07:00:00,https://www.academiadasapostasbrasil.com/stats/match/alemanha/3-liga/waldhof-mannheim-07/kaiserslautern/3053391,Waldhof,Terminado,1582970400
+Jena,Alemanha - 3. Liga,29/02/20 07:00:00,https://www.academiadasapostasbrasil.com/stats/match/alemanha/3-liga/magdeburg/carl-zeiss-jena/3053393,Magdeburg,Terminado,1582970400
+Hallescher FC,Alemanha - 3. Liga,29/02/20 07:00:00,https://www.academiadasapostasbrasil.com/stats/match/alemanha/3-liga/sonnenhof-grosaspach/hallescher/3053395,Großaspach,Terminado,1582970400
+Falkirk,Escócia - 2ª Divisão,29/02/20 09:00:00,https://www.academiadasapostasbrasil.com/stats/match/escocia/2-divisao/clyde/falkirk/3038311,Clyde,Terminado,1582977600
+Raith Rovers,Escócia - 2ª Divisão,29/02/20 09:00:00,https://www.academiadasapostasbrasil.com/stats/match/escocia/2-divisao/dumbarton/raith-rovers/3038312,Dumbarton,Terminado,1582977600
+East Fife,Escócia - 2ª Divisão,29/02/20 09:00:00,https://www.academiadasapostasbrasil.com/stats/match/escocia/2-divisao/forfar-athletic/east-fife/3038313,Forfar,Terminado,1582977600
+Airdrieonians,Escócia - 2ª Divisão,29/02/20 09:00:00,https://www.academiadasapostasbrasil.com/stats/match/escocia/2-divisao/montrose/airdrieonians/3038314,Montrose,Terminado,1582977600
+Real Unión,Espanha - Segunda B,29/02/20 09:15:00,https://www.academiadasapostasbrasil.com/stats/match/espanha/segunda-b/real-valladolid-ii/real-union/3076486,Valladolid II,Terminado,1582978500
+Athletic II,Espanha - Segunda B,29/02/20 09:30:00,https://www.academiadasapostasbrasil.com/stats/match/espanha/segunda-b/amorebieta/athletic-club-ii/3076487,Amorebieta,Terminado,1582979400
+Burgos,Espanha - Segunda B,29/02/20 09:30:00,https://www.academiadasapostasbrasil.com/stats/match/espanha/segunda-b/osasuna-ii/burgos/3076489,Osasuna II,Terminado,1582979400
+Cornellà,Espanha - Segunda B,29/02/20 10:00:00,https://www.academiadasapostasbrasil.com/stats/match/espanha/segunda-b/villarreal-ii/cornella/3075550,Villarreal II,Terminado,1582981200
+Olot,Espanha - Segunda B,29/02/20 10:00:00,https://www.academiadasapostasbrasil.com/stats/match/espanha/segunda-b/espanyol-ii/olot/3075555,Espanyol II,Terminado,1582981200
+Oviedo II,Espanha - Segunda B,29/02/20 11:00:00,https://www.academiadasapostasbrasil.com/stats/match/espanha/segunda-b/racing-ferrol/real-oviedo-ii/3076099,Racing Ferrol,Terminado,1582984800
+UD Logroñés,Espanha - Segunda B,29/02/20 11:00:00,https://www.academiadasapostasbrasil.com/stats/match/espanha/segunda-b/arenas-de-getxo/ud-logrones/3076488,Arenas Getxo,Terminado,1582984800
+Granada II,Espanha - Segunda B,29/02/20 11:00:00,https://www.academiadasapostasbrasil.com/stats/match/espanha/segunda-b/sanluqueno/granada-ii/3076868,Sanluqueño,Terminado,1582984800
+Torreense,Portugal - 2ª Divisão,29/02/20 11:00:00,https://www.academiadasapostasbrasil.com/stats/match/portugal/2-divisao/beira-mar/torreense/3107674,Beira-Mar,Terminado,1582984800
+Murciélagos,México - Segunda División,29/02/20 11:00:00,https://www.academiadasapostasbrasil.com/stats/match/mexico/segunda-division/leones-negros/murcielagos/3127859,Leones Negros,Terminado,1582984800
+Izarra,Espanha - Segunda B,29/02/20 12:00:00,https://www.academiadasapostasbrasil.com/stats/match/espanha/segunda-b/cultural-leonesa/izarra/3076492,Leonesa,Terminado,1582988400
+Reboceros,México - Segunda División,29/02/20 12:00:00,https://www.academiadasapostasbrasil.com/stats/match/mexico/segunda-division/pumas-unam-premier/reboceros-la-piedad/3128054,Pumas UNAM Premier,Terminado,1582988400
+CA Hidalgo,México - Segunda División,29/02/20 12:00:00,https://www.academiadasapostasbrasil.com/stats/match/mexico/segunda-division/tlaxcala/cruz-azul-hidalgo/3128056,Tlaxcala,Terminado,1582988400
+Mineros de Fresnillo,México - Segunda División,29/02/20 15:30:00,https://www.academiadasapostasbrasil.com/stats/match/mexico/segunda-division/ua-zacatecas/mineros-de-fresnillo/3127860,UA Zacatecas,Terminado,1583001000
+Atlético Saltillo,México - Segunda División,29/02/20 16:00:00,https://www.academiadasapostasbrasil.com/stats/match/mexico/segunda-division/ua-chihuahua/atletico-saltillo/3127861,UA Chihuahua,Terminado,1583002800
+Atlético Bahía,México - Segunda División,29/02/20 16:00:00,https://www.academiadasapostasbrasil.com/stats/match/mexico/segunda-division/gavilanes-fc-matamoros/atletico-bahia/3127863,Gavilanes FC Matamoros,Suspenso,1583002800
+Irapuato,México - Segunda División,29/02/20 16:00:00,https://www.academiadasapostasbrasil.com/stats/match/mexico/segunda-division/yalmakan/irapuato/3128058,Yalmakan,Terminado,1583002800
+Inter Playa del Carmen,México - Segunda División,29/02/20 16:00:00,https://www.academiadasapostasbrasil.com/stats/match/mexico/segunda-division/canoneros-marina/inter-playa-del-carmen/3128059,Cañoneros Marina,Terminado,1583002800
+Tepatitlán de Morelos,México - Segunda División,29/02/20 17:00:00,https://www.academiadasapostasbrasil.com/stats/match/mexico/segunda-division/correcaminos-uat-ii/tepatitlan-de-morelos/3127862,Correcaminos UAT II,Terminado,1583006400
+Orizaba,México - Segunda División,29/02/20 18:00:00,https://www.academiadasapostasbrasil.com/stats/match/mexico/segunda-division/cafetaleros-chiapas-ii/orizaba/3128057,Cafetaleros Chiapas II,Cancelado,1583010000
+Pietà,Malta - Troféu FA,29/02/20 07:00:00,https://www.academiadasapostasbrasil.com/stats/match/malta/trofeu-fa/balzan/pieta-hotspurs/3224100,Balzan,Terminado,1582970400
+TPS,Finlândia - Copa Suomen,29/02/20 07:15:00,https://www.academiadasapostasbrasil.com/stats/match/finlandia/copa-suomen/inter-turku/turku/3185653,Inter Turku,Terminado,1582971300
+Cardiff MU,País de Gales - Copa de Gales,29/02/20 08:30:00,https://www.academiadasapostasbrasil.com/stats/match/pais-de-gales/copa-de-gales/connahs-quay/cardiff-mu/3223109,Connah's Quay,Terminado,1582975800
+Newtown,País de Gales - Copa de Gales,29/02/20 08:30:00,https://www.academiadasapostasbrasil.com/stats/match/pais-de-gales/copa-de-gales/the-new-saints/newtown/3223112,TNS,Terminado,1582975800
+Ballymena Utd,Irlanda do Norte - Copa Irlandesa,29/02/20 09:00:00,https://www.academiadasapostasbrasil.com/stats/match/irlanda-do-norte/copa-irlandesa/ballinamallard-united/ballymena-united/3224091,Ballinamallard,Terminado,1582977600
+Cliftonville,Irlanda do Norte - Copa Irlandesa,29/02/20 09:00:00,https://www.academiadasapostasbrasil.com/stats/match/irlanda-do-norte/copa-irlandesa/dungannon-swifts/cliftonville/3224092,Dungannon,Terminado,1582977600
+Crusaders,Irlanda do Norte - Copa Irlandesa,29/02/20 09:00:00,https://www.academiadasapostasbrasil.com/stats/match/irlanda-do-norte/copa-irlandesa/glentoran/crusaders/3224093,Glentoran,Terminado,1582977600
+Gudja Utd,Malta - Troféu FA,29/02/20 09:15:00,https://www.academiadasapostasbrasil.com/stats/match/malta/trofeu-fa/valletta/gudja-united/3224101,Valletta,Terminado,1582978500
+HIFK,Finlândia - Copa Suomen,29/02/20 11:00:00,https://www.academiadasapostasbrasil.com/stats/match/finlandia/copa-suomen/mariehamn/hifk/3185654,Mariehamn,Terminado,1582984800
+Kaisar,Cazaquistão - Super Cup,29/02/20 05:00:00,https://www.academiadasapostasbrasil.com/stats/match/cazaquistao/super-cup/astana/kaisar/3207684,Astana,Terminado,1582963200
+Juventude,Brasil - Gaucho 1ª Div,29/02/20 08:00:00,https://www.academiadasapostasbrasil.com/stats/match/brasil/gaucho-1-div/gremio/juventude/3198857,Grêmio,Terminado,1582974000
+Internacional,Brasil - Gaucho 1ª Div,29/02/20 16:00:00,https://www.academiadasapostasbrasil.com/stats/match/brasil/gaucho-1-div/caxias/internacional/3198852,Caxias,Terminado,1583002800
+Tombense,Brasil - Mineiro I,29/02/20 13:00:00,https://www.academiadasapostasbrasil.com/stats/match/brasil/mineiro-i/america-mineiro/tombense/3193246,América MG,Terminado,1582992000
+Marcílio Dias,Brasil - Catarinense,29/02/20 16:00:00,https://www.academiadasapostasbrasil.com/stats/match/brasil/catarinense/joinville/marcilio-dias/3194543,Joinville,Terminado,1583002800
+Sydney,Austrália - W-League,29/02/20 00:00:00,https://www.academiadasapostasbrasil.com/stats/match/australia/w-league/melbourne-victory/sydney/3180427,Victory,Terminado,1582945200
+Wanderers,Austrália - W-League,29/02/20 05:15:00,https://www.academiadasapostasbrasil.com/stats/match/australia/w-league/perth-glory/western-sydney-wanderers/3180426,Perth Glory,Terminado,1582964100
+Caucaia,Brasil - Cearense,29/02/20 13:00:00,https://www.academiadasapostasbrasil.com/stats/match/brasil/cearense/pacajus/caucaia/3222349,Pacajus,Terminado,1582992000
+Guarany Sobral,Brasil - Cearense,29/02/20 13:00:00,https://www.academiadasapostasbrasil.com/stats/match/brasil/cearense/ceara/guarany-de-sobral/3222351,Ceará,Terminado,1582992000
+Jaraguá EC,Brasil - Goiano,29/02/20 13:00:00,https://www.academiadasapostasbrasil.com/stats/match/brasil/goiano/atletico-go/jaragua-ec/3193359,Atlético GO,Terminado,1582992000
+Coritiba,Brasil - Paranaense,29/02/20 17:00:00,https://www.academiadasapostasbrasil.com/stats/match/brasil/paranaense/toledo/coritiba/3188725,TCW,Terminado,1583006400
+Afogados,Brasil - Pernambucano,29/02/20 13:00:00,https://www.academiadasapostasbrasil.com/stats/match/brasil/pernambucano/sport/afogados/3187709,Sport,Terminado,1582992000
+Tabocas,Brasil - Pernambucano,29/02/20 13:00:00,https://www.academiadasapostasbrasil.com/stats/match/brasil/pernambucano/retro/academica-vitoria/3187713,Retrô,Terminado,1582992000
+Central,Brasil - Pernambucano,29/02/20 17:00:00,https://www.academiadasapostasbrasil.com/stats/match/brasil/pernambucano/petrolina/central/3187710,Petrolina,Terminado,1583006400
+Decisão,Brasil - Pernambucano,29/02/20 17:00:00,https://www.academiadasapostasbrasil.com/stats/match/brasil/pernambucano/salgueiro/decisao/3187712,Salgueiro,Terminado,1583006400
+River U20,América do Sul - Copa Libertadores U20,29/02/20 17:15:00,https://www.academiadasapostasbrasil.com/stats/match/america-do-sul/copa-libertadores-u20/independiente-u20/river-plate-u20/3240492,Independiente,Terminado,1583007300
+Portuguesa,Brasil - Paulista A2,29/02/20 12:00:00,https://www.academiadasapostasbrasil.com/stats/match/brasil/paulista-a2/sao-caetano/portuguesa/3188110,São Caetano,Terminado,1582988400
+Monte Azul,Brasil - Paulista A2,29/02/20 12:00:00,https://www.academiadasapostasbrasil.com/stats/match/brasil/paulista-a2/osasco-audax/monte-azul/3188113,Osasco Audax,Terminado,1582988400
+São Bento,Brasil - Paulista A2,29/02/20 12:00:00,https://www.academiadasapostasbrasil.com/stats/match/brasil/paulista-a2/rio-claro/sao-bento/3188115,Rio Claro,Terminado,1582988400
+Votuporanguens,Brasil - Paulista A2,29/02/20 13:00:00,https://www.academiadasapostasbrasil.com/stats/match/brasil/paulista-a2/rb-brasil/votuporanguense/3188114,RB Brasil,Terminado,1582992000
+Mainz,Alemanha - U19 Bundesliga,29/02/20 04:00:00,https://www.academiadasapostasbrasil.com/stats/match/alemanha/u19-bundesliga/ingolstadt-u19/mainz-05-u19/3087119,Ingolstadt,Terminado,1582959600
+Augsburg,Alemanha - U19 Bundesliga,29/02/20 04:00:00,https://www.academiadasapostasbrasil.com/stats/match/alemanha/u19-bundesliga/eintracht-frankfurt-u19/augsburg-u19/3087121,Frankfurt,Terminado,1582959600
+Energie,Alemanha - U19 Bundesliga,29/02/20 04:00:00,https://www.academiadasapostasbrasil.com/stats/match/alemanha/u19-bundesliga/st-pauli-u19/energie-cottbus-u19/3093532,St. Pauli,Terminado,1582959600
+Niendorfer TSV U19,Alemanha - U19 Bundesliga,29/02/20 04:00:00,https://www.academiadasapostasbrasil.com/stats/match/alemanha/u19-bundesliga/dynamo-dresden-u19/niendorfer-tsv-u19/3093537,Dynamo,Terminado,1582959600
+Fortuna,Alemanha - U19 Bundesliga,29/02/20 04:00:00,https://www.academiadasapostasbrasil.com/stats/match/alemanha/u19-bundesliga/viktoria-koln-u19/fortuna-dusseldorf-u19/3093723,Viktoria Köln U19,Terminado,1582959600
+Schalke,Alemanha - U19 Bundesliga,29/02/20 04:00:00,https://www.academiadasapostasbrasil.com/stats/match/alemanha/u19-bundesliga/msv-duisburg-u19/schalke-04-u19/3093726,Duisburg,Terminado,1582959600
+Wuppertal,Alemanha - U19 Bundesliga,29/02/20 04:00:00,https://www.academiadasapostasbrasil.com/stats/match/alemanha/u19-bundesliga/koln-u19/wuppertaler-sv-u19/3093727,Köln,Terminado,1582959600
+Bochum,Alemanha - U19 Bundesliga,29/02/20 04:00:00,https://www.academiadasapostasbrasil.com/stats/match/alemanha/u19-bundesliga/borussia-mgladbach-u19/bochum-u19/3093728,M'gladbach,Terminado,1582959600
+1. FCK,Alemanha - U19 Bundesliga,29/02/20 05:00:00,https://www.academiadasapostasbrasil.com/stats/match/alemanha/u19-bundesliga/kickers-offenbach-u19/kaiserslautern-u19/3087120,Kickers Offenbach U19,Terminado,1582963200
+Magdeburg U19,Alemanha - U19 Bundesliga,29/02/20 05:00:00,https://www.academiadasapostasbrasil.com/stats/match/alemanha/u19-bundesliga/hertha-bsc-u19/magdeburg-u19/3093534,Hertha,Terminado,1582963200
+Chemnitzer FC U19,Alemanha - U19 Bundesliga,29/02/20 06:00:00,https://www.academiadasapostasbrasil.com/stats/match/alemanha/u19-bundesliga/werder-bremen-u19/chemnitzer-fc-u19/3093533,Werder,Terminado,1582966800
+Holstein,Alemanha - U19 Bundesliga,29/02/20 06:00:00,https://www.academiadasapostasbrasil.com/stats/match/alemanha/u19-bundesliga/hamburger-sv-u19/holstein-kiel-u19/3093535,Hamburger SV,Terminado,1582966800
+Preußen,Alemanha - U19 Bundesliga,29/02/20 06:00:00,https://www.academiadasapostasbrasil.com/stats/match/alemanha/u19-bundesliga/rot-weiss-oberhausen-u19/preussen-munster-u19/3093725,RW Oberhausen,Terminado,1582966800
+Karlsruhe,Alemanha - U19 Bundesliga,29/02/20 06:30:00,https://www.academiadasapostasbrasil.com/stats/match/alemanha/u19-bundesliga/stuttgart-u19/karlsruher-sc-u19/3087122,Stuttgart,Terminado,1582968600
+Union Berlin,Alemanha - U19 Bundesliga,29/02/20 06:30:00,https://www.academiadasapostasbrasil.com/stats/match/alemanha/u19-bundesliga/rb-leipzig-u19/union-berlin-u19/3093536,RB Leipzig,Terminado,1582968600
+Ulm U19,Alemanha - U19 Bundesliga,29/02/20 07:00:00,https://www.academiadasapostasbrasil.com/stats/match/alemanha/u19-bundesliga/bayern-munchen-u19/ulm-u19/3087123,Bayern,Terminado,1582970400
+Hoffenheim,Alemanha - U19 Bundesliga,29/02/20 07:00:00,https://www.academiadasapostasbrasil.com/stats/match/alemanha/u19-bundesliga/freiburg-u19/hoffenheim-u19/3087125,Freiburg,Terminado,1582970400
+Aachen U19,Alemanha - U19 Bundesliga,29/02/20 08:45:00,https://www.academiadasapostasbrasil.com/stats/match/alemanha/u19-bundesliga/arminia-bielefeld-u19/alemannia-aachen-u19/3093729,Arminia,Terminado,1582976700
+Feirense,Portugal - Júniores U19,29/02/20 09:00:00,https://www.academiadasapostasbrasil.com/stats/match/portugal/juniores-u19/vizela-u19/feirense-u19/3227698,Vizela,Terminado,1582977600
+Guimarães,Portugal - Júniores U19,29/02/20 09:00:00,https://www.academiadasapostasbrasil.com/stats/match/portugal/juniores-u19/gil-vicente-u19/vitoria-guimaraes-u19/3227699,Gil Vicente U19,Terminado,1582977600
+Setúbal,Portugal - Júniores U19,29/02/20 09:00:00,https://www.academiadasapostasbrasil.com/stats/match/portugal/juniores-u19/tondela-u19/vitoria-setubal-u19/3227754,Tondela,Terminado,1582977600
+Belenenses,Portugal - Júniores U19,29/02/20 09:00:00,https://www.academiadasapostasbrasil.com/stats/match/portugal/juniores-u19/sacavenense-u19/belenenses-u19/3227755,Sacavenense U19,Terminado,1582977600
+Amora U19,Portugal - Júniores U19,29/02/20 09:00:00,https://www.academiadasapostasbrasil.com/stats/match/portugal/juniores-u19/uniao-de-leiria-u19/amora-u19/3227756,União Leiria ,Terminado,1582977600
+Académica,Portugal - Júniores U19,29/02/20 09:00:00,https://www.academiadasapostasbrasil.com/stats/match/portugal/juniores-u19/vilafranquense-u19/academica-u19/3227757,Vilafranquense U19,Terminado,1582977600
+Rio Ave,Portugal - Júniores U19,29/02/20 09:30:00,https://www.academiadasapostasbrasil.com/stats/match/portugal/juniores-u19/estoril-praia-u19/rio-ave-u19/3227428,Estoril,Terminado,1582979400
+Paços,Portugal - Júniores U19,29/02/20 10:30:00,https://www.academiadasapostasbrasil.com/stats/match/portugal/juniores-u19/leixoes-u19/pacos-de-ferreira-u19/3227700,Leixões,Terminado,1582983000
+Porto,Portugal - Júniores U19,29/02/20 11:00:00,https://www.academiadasapostasbrasil.com/stats/match/portugal/juniores-u19/benfica-u19/porto-u19/3227429,Benfica,Terminado,1582984800
+Stoke City,Inglaterra - U18 Premier League,29/02/20 05:00:00,https://www.academiadasapostasbrasil.com/stats/match/inglaterra/u18-premier-league/derby-county-u18/stoke-city-u18/3114720,Derby,Adiado,1582963200
+Blackburn,Inglaterra - U18 Premier League,29/02/20 05:00:00,https://www.academiadasapostasbrasil.com/stats/match/inglaterra/u18-premier-league/manchester-city-u18/blackburn-rovers-u18/3114722,Man City,Terminado,1582963200
+Liverpool,Inglaterra - U18 Premier League,29/02/20 05:00:00,https://www.academiadasapostasbrasil.com/stats/match/inglaterra/u18-premier-league/middlesbrough-u18/liverpool-u18/3114723,Middlesbrough,Terminado,1582963200
+Swansea,Inglaterra - U18 Premier League,29/02/20 05:00:00,https://www.academiadasapostasbrasil.com/stats/match/inglaterra/u18-premier-league/leicester-city-u18/swansea-city-u18/3114851,Leicester,Terminado,1582963200
+Southampton,Inglaterra - U18 Premier League,29/02/20 05:30:00,https://www.academiadasapostasbrasil.com/stats/match/inglaterra/u18-premier-league/tottenham-hotspur-u18/southampton-u18/3114853,Hotspur,Terminado,1582965000
+Arsenal,Inglaterra - U18 Premier League,29/02/20 06:00:00,https://www.academiadasapostasbrasil.com/stats/match/inglaterra/u18-premier-league/brighton-u18/arsenal-u18/3114854,Brighton&Hove,Terminado,1582966800
+Aston Villa,Inglaterra - U18 Premier League,29/02/20 06:00:00,https://www.academiadasapostasbrasil.com/stats/match/inglaterra/u18-premier-league/fulham-u18/aston-villa-u18/3114855,Fulham,Terminado,1582966800
+Levante,Espanha - Superliga,29/02/20 04:00:00,https://www.academiadasapostasbrasil.com/stats/match/espanha/superliga/sevilla/levante/3118623,Sevilla,Terminado,1582959600
+Valencia,Espanha - Superliga,29/02/20 11:30:00,https://www.academiadasapostasbrasil.com/stats/match/espanha/superliga/udg-tenerife-sur/valencia/3118625,Granadilla,Terminado,1582986600
+Palmeiras,Brasil - Brasileiro Women,29/02/20 14:00:00,https://www.academiadasapostasbrasil.com/stats/match/brasil/brasileiro-women/cruzeiro/palmeiras/3193668,Cruzeiro,Terminado,1582995600
+Ponte Preta,Brasil - Brasileiro Women,29/02/20 14:00:00,https://www.academiadasapostasbrasil.com/stats/match/brasil/brasileiro-women/ferroviaria/ponte-preta/3193669,Ferroviária,Terminado,1582995600
+Kindermann,Brasil - Brasileiro Women,29/02/20 14:00:00,https://www.academiadasapostasbrasil.com/stats/match/brasil/brasileiro-women/internacional-rs/kindermann/3193670,Internacional RS,Terminado,1582995600
+Corinthians,Brasil - Brasileiro Women,29/02/20 14:00:00,https://www.academiadasapostasbrasil.com/stats/match/brasil/brasileiro-women/sao-paulo/corinthians/3193672,São Paulo,Terminado,1582995600
+Arsenal,Inglaterra - WSL Cup,29/02/20 11:30:00,https://www.academiadasapostasbrasil.com/stats/match/inglaterra/wsl-cup/chelsea/arsenal/3224239,Chelsea,Terminado,1582986600
+Suphanburi,Tailândia - Liga Tailandesa,29/02/20 04:45:00,https://www.academiadasapostasbrasil.com/stats/match/tailandia/liga-tailandesa/rayong-fc/suphanburi/3225001,Rayong FC,Terminado,1582962300
+Sukhothai,Tailândia - Liga Tailandesa,29/02/20 05:00:00,https://www.academiadasapostasbrasil.com/stats/match/tailandia/liga-tailandesa/prachuap/sukhothai/3225002,Prachuap,Terminado,1582963200
+Chiangrai Utd,Tailândia - Liga Tailandesa,29/02/20 05:00:00,https://www.academiadasapostasbrasil.com/stats/match/tailandia/liga-tailandesa/bangkok-university/chiangrai-united/3225003,Bangkok Utd,Terminado,1582963200
+Persik,Indonésia - Super Liga,29/02/20 05:30:00,https://www.academiadasapostasbrasil.com/stats/match/indonesia/super-liga/persebaya-surabaya/persik-kediri/3238709,Persebaya,Terminado,1582965000
+Barito,Indonésia - Super Liga,29/02/20 06:00:00,https://www.academiadasapostasbrasil.com/stats/match/indonesia/super-liga/madura-united/barito-putera/3238710,Persipasi BR,Terminado,1582966800
+Ratchasima,Tailândia - Liga Tailandesa,29/02/20 07:00:00,https://www.academiadasapostasbrasil.com/stats/match/tailandia/liga-tailandesa/ratchaburi/nakhon-ratchasima/3225004,Ratchaburi,Terminado,1582970400
+Bhayangkara Surabaya Utd,Indonésia - Super Liga,29/02/20 07:30:00,https://www.academiadasapostasbrasil.com/stats/match/indonesia/super-liga/persiraja-banda-aceh/bhayangkara-surabaya-utd/3238711,Persiraja,Terminado,1582972200
+Aduana,Gana - Premier League,29/02/20 09:00:00,https://www.academiadasapostasbrasil.com/stats/match/gana/premier-league/dreams/aduana-stars/3196399,Dreams,Terminado,1582977600
+Eleven Wonders,Gana - Premier League,29/02/20 09:00:00,https://www.academiadasapostasbrasil.com/stats/match/gana/premier-league/wa-all-stars/eleven-wonders/3196404,Wa,Terminado,1582977600
+Independiente,Panamá - Primera Division,29/02/20 14:00:00,https://www.academiadasapostasbrasil.com/stats/match/panama/primera-division/universitario/independiente/3208905,Universitario,Terminado,1582995600
+Árabe,Panamá - Primera Division,29/02/20 17:00:00,https://www.academiadasapostasbrasil.com/stats/match/panama/primera-division/atletico-chiriqui/arabe-unido/3208906,Chiriquí,Terminado,1583006400
+Plaza Amador,Panamá - Primera Division,29/02/20 17:00:00,https://www.academiadasapostasbrasil.com/stats/match/panama/primera-division/tauro/plaza-amador/3208907,Tauro,Terminado,1583006400
+Alianza,Panamá - Primera Division,29/02/20 17:00:00,https://www.academiadasapostasbrasil.com/stats/match/panama/primera-division/costa-del-este/alianza/3208908,Costa del Este,Terminado,1583006400
+Real España,Honduras - Liga Nacional,29/02/20 19:00:00,https://www.academiadasapostasbrasil.com/stats/match/honduras/liga-nacional/upnfm/real-espana/3204315,UPNFM,Terminado,1583013600
+Real Sociedad,Honduras - Liga Nacional,29/02/20 19:15:00,https://www.academiadasapostasbrasil.com/stats/match/honduras/liga-nacional/vida/real-sociedad/3204318,Vida,Adiado,1583014500
+Csikszereda,Romênia - Liga II,29/02/20 03:00:00,https://www.academiadasapostasbrasil.com/stats/match/romenia/liga-ii/dunarea-calarasi/csikszereda/3178244,Dunărea C,Terminado,1582956000
+Ripensia Timişoara,Romênia - Liga II,29/02/20 03:00:00,https://www.academiadasapostasbrasil.com/stats/match/romenia/liga-ii/uta-batrana-doamna/ripensia-timisoara/3178245,UTA B. Doamnă,Terminado,1582956000
+Reşiţa,Romênia - Liga II,29/02/20 03:00:00,https://www.academiadasapostasbrasil.com/stats/match/romenia/liga-ii/metaloglobus/metalul-resita/3178246,Metaloglobus,Terminado,1582956000
+Pandurii,Romênia - Liga II,29/02/20 03:00:00,https://www.academiadasapostasbrasil.com/stats/match/romenia/liga-ii/viitorul-p-targu-jiu/pandurii-targu-jiu/3178249,Şirineaşa,Terminado,1582956000
+Juventus,Romênia - Liga II,29/02/20 03:00:00,https://www.academiadasapostasbrasil.com/stats/match/romenia/liga-ii/csm-scolar-resita/juventus-bucuresti/3178250,CSM Şcolar,Cancelado,1582956000
+Concordia,Romênia - Liga II,29/02/20 03:00:00,https://www.academiadasapostasbrasil.com/stats/match/romenia/liga-ii/turris-oltul-t-magurele/concordia-chiajna/3178252,Turris-Oltul T. Măgurele,Terminado,1582956000
+SSC Farul,Romênia - Liga II,29/02/20 05:00:00,https://www.academiadasapostasbrasil.com/stats/match/romenia/liga-ii/petrolul-52/farul-constanta-1920/3178243,Petrolul 52,Terminado,1582963200
+Pirin,Bulgária - B PFG,29/02/20 06:00:00,https://www.academiadasapostasbrasil.com/stats/match/bulgaria/b-pfg/lokomotiv-sofia-1929/ofk-pirin/3033069,Lokomotiv Sofia 1929,Terminado,1582966800
+Spartak Pl,Bulgária - B PFG,29/02/20 06:00:00,https://www.academiadasapostasbrasil.com/stats/match/bulgaria/b-pfg/botev-galabovo/spartak-pleven/3033070,Botev Galabovo,Terminado,1582966800
+Pomorie,Bulgária - B PFG,29/02/20 06:00:00,https://www.academiadasapostasbrasil.com/stats/match/bulgaria/b-pfg/hebar-1918/pomorie/3033073,Hebar 1918,Terminado,1582966800
+Oryahovitsa,Bulgária - B PFG,29/02/20 06:00:00,https://www.academiadasapostasbrasil.com/stats/match/bulgaria/b-pfg/neftochimik/lokomotiv-g-oryahovitsa/3033074,Neftohimik,Terminado,1582966800
+Strumska slava,Bulgária - B PFG,29/02/20 06:00:00,https://www.academiadasapostasbrasil.com/stats/match/bulgaria/b-pfg/kariana-erden/strumska-slava/3033075,Kariana Erden,Terminado,1582966800
+Čajetina,Sérvia - Prva Liga,29/02/20 07:00:00,https://www.academiadasapostasbrasil.com/stats/match/servia/prva-liga/metalac-gm/zlatibor-cajetina/3030466,Metalac GM,Terminado,1582970400
+Žarkovo,Sérvia - Prva Liga,29/02/20 07:00:00,https://www.academiadasapostasbrasil.com/stats/match/servia/prva-liga/radnicki-kragujevac/zarkovo/3030467,Radnički Krag,Terminado,1582970400
+Trajal Krusevac,Sérvia - Prva Liga,29/02/20 07:00:00,https://www.academiadasapostasbrasil.com/stats/match/servia/prva-liga/backa-palanka/trajal-krusevac/3030468,Bačka Palanka,Terminado,1582970400
+Kolubara,Sérvia - Prva Liga,29/02/20 07:00:00,https://www.academiadasapostasbrasil.com/stats/match/servia/prva-liga/dinamo-vranje/kolubara/3030469,Dinamo Vranje,Terminado,1582970400
+Dobanovci,Sérvia - Prva Liga,29/02/20 07:00:00,https://www.academiadasapostasbrasil.com/stats/match/servia/prva-liga/kabel-novi-sad/buducnost-dobanovci/3030470,Kabel Novi Sad,Terminado,1582970400
+Grafičar,Sérvia - Prva Liga,29/02/20 07:00:00,https://www.academiadasapostasbrasil.com/stats/match/servia/prva-liga/radnicki-pirot/graficar/3030471,Radnički P,Terminado,1582970400
+Septemvri,Bulgária - B PFG,29/02/20 07:00:00,https://www.academiadasapostasbrasil.com/stats/match/bulgaria/b-pfg/lovech/septemvri-sofia/3033076,Lovech,Terminado,1582970400
+Real Kings,África do Sul - Liga Mvela Golden,29/02/20 07:30:00,https://www.academiadasapostasbrasil.com/stats/match/africa-do-sul/liga-mvela-golden/free-state-stars/real-kings/3075057,Free State,Terminado,1582972200
+Pretoria,África do Sul - Liga Mvela Golden,29/02/20 07:30:00,https://www.academiadasapostasbrasil.com/stats/match/africa-do-sul/liga-mvela-golden/uthongathi/university-of-pretoria/3075059,Uthongathi,Terminado,1582972200
+JDR Stars,África do Sul - Liga Mvela Golden,29/02/20 07:30:00,https://www.academiadasapostasbrasil.com/stats/match/africa-do-sul/liga-mvela-golden/mbombela-united/jdr-stars/3075060,Mbombela Utd,Terminado,1582972200
+Richards Bay,África do Sul - Liga Mvela Golden,29/02/20 07:30:00,https://www.academiadasapostasbrasil.com/stats/match/africa-do-sul/liga-mvela-golden/steenberg-united/richards-bay/3075061,Steenberg Utd,Terminado,1582972200
+Solin,Croácia - 2. HNL,29/02/20 08:00:00,https://www.academiadasapostasbrasil.com/stats/match/croacia/2-hnl/cibalia/solin/3120572,Cibalia,Terminado,1582974000
+Bijelo Brdo,Croácia - 2. HNL,29/02/20 08:00:00,https://www.academiadasapostasbrasil.com/stats/match/croacia/2-hnl/orijent-1919/bijelo-brdo/3120575,Orijent 1919,Terminado,1582974000
+Dubrava,Croácia - 2. HNL,29/02/20 08:00:00,https://www.academiadasapostasbrasil.com/stats/match/croacia/2-hnl/dugopolje/dubrava-zagreb/3120579,Dugopolje,Terminado,1582974000
+Manta,Equador - Primera B,29/02/20 12:00:00,https://www.academiadasapostasbrasil.com/stats/match/equador/primera-b/9-de-octubre/manta/3232630,9 de Octubre,Terminado,1582988400
+Santa Rita,Equador - Primera B,29/02/20 14:00:00,https://www.academiadasapostasbrasil.com/stats/match/equador/primera-b/atletico-santo-domingo/santa-rita/3232631,Puerto Quito,Terminado,1582995600
+Bogotá,Colômbia - Primera B,29/02/20 14:30:00,https://www.academiadasapostasbrasil.com/stats/match/colombia/primera-b/barranquilla/bogota/3206056,Barranquilla,Adiado,1582997400
+Soroksár,Hungria - NB II,29/02/20 18:00:00,https://www.academiadasapostasbrasil.com/stats/match/hungria/nb-ii/balmazujvaros-sport/soroksar-sc/3064066,Balmazújváros,Cancelado,1583010000
+Stal Rzeszów,Polônia - II Liga,29/02/20 05:00:00,https://www.academiadasapostasbrasil.com/stats/match/polonia/ii-liga/lech-poznan-ii/stal-rzeszow/3037193,Lech Poznań II,Terminado,1582963200
+Tuzlaspor,Turquia - Lig B,29/02/20 05:30:00,https://www.academiadasapostasbrasil.com/stats/match/turquia/lig-b/bodrumspor/tuzlaspor/3112784,Bodrumspor,Terminado,1582965000
+Eyüp,Turquia - Lig B,29/02/20 05:30:00,https://www.academiadasapostasbrasil.com/stats/match/turquia/lig-b/ankara-demirspor/eyupspor/3112795,Ankara Demir,Terminado,1582965000
+Legionovia,Polônia - II Liga,29/02/20 06:00:00,https://www.academiadasapostasbrasil.com/stats/match/polonia/ii-liga/garbarnia-krakow/legionovia-legionowo/3079235,Garbarnia,Terminado,1582966800
+Gryf,Polônia - II Liga,29/02/20 07:00:00,https://www.academiadasapostasbrasil.com/stats/match/polonia/ii-liga/resovia-rzeszow/gryf-wejherowo/3037187,Resovia,Terminado,1582970400
+Leobendorf,Áustria - Regionalliga,29/02/20 08:00:00,https://www.academiadasapostasbrasil.com/stats/match/austria/regionalliga/ask-bruck-leitha/leobendorf/3042099,Bruck/Leitha,Terminado,1582974000
+Admira II,Áustria - Regionalliga,29/02/20 08:00:00,https://www.academiadasapostasbrasil.com/stats/match/austria/regionalliga/mannsdorf/admira-ii/3042105,Mannsdorf,Terminado,1582974000
+Neusiedl,Áustria - Regionalliga,29/02/20 08:00:00,https://www.academiadasapostasbrasil.com/stats/match/austria/regionalliga/wiener-viktoria/neusiedl/3042106,Viktoria,Terminado,1582974000
+SKRA,Polônia - II Liga,29/02/20 09:00:00,https://www.academiadasapostasbrasil.com/stats/match/polonia/ii-liga/gornik-polkowice/skra-czestochowa/3037192,Polkowice,Terminado,1582977600
+Stargard,Polônia - II Liga,29/02/20 10:00:00,https://www.academiadasapostasbrasil.com/stats/match/polonia/ii-liga/katowice/stargard-szczecinski/3037189,Katowice,Terminado,1582981200
+Stripfing,Áustria - Regionalliga,29/02/20 10:00:00,https://www.academiadasapostasbrasil.com/stats/match/austria/regionalliga/karabakh/stripfing/3042104,Karabakh,Terminado,1582981200
+Bytovia,Polônia - II Liga,29/02/20 12:38:00,https://www.academiadasapostasbrasil.com/stats/match/polonia/ii-liga/stal-stalowa-wola/bytovia-bytow/3037188,Stal SW,Terminado,1582990680
+Górnik Łęczna,Polônia - II Liga,29/02/20 13:08:00,https://www.academiadasapostasbrasil.com/stats/match/polonia/ii-liga/elana-torun/gornik-leczna/3037191,Elana,Terminado,1582992480
+Cavese,Itália - Serie C1,29/02/20 13:45:00,https://www.academiadasapostasbrasil.com/stats/match/italia/serie-c1/casertana/cavese/3109418,Casertana,Terminado,1582994700
+Peñarol,Argentina - Argentino A,29/02/20 14:00:00,https://www.academiadasapostasbrasil.com/stats/match/argentina/argentino-a/deportivo-madryn/sportivo-penarol/3128925,Dep Madryn,Terminado,1582995600
+Central Norte,Argentina - Argentino A,29/02/20 14:00:00,https://www.academiadasapostasbrasil.com/stats/match/argentina/argentino-a/def-de-pronunciamiento/central-norte/3129137,De. Pro.,Terminado,1582995600
+Def Belgrano,Argentina - Argentino A,29/02/20 14:00:00,https://www.academiadasapostasbrasil.com/stats/match/argentina/argentino-a/douglas-haig/defensores-belgrano-vr/3129138,Douglas Haig,Terminado,1582995600
+Elazığ,Turquia - Lig B,29/02/20 17:00:00,https://www.academiadasapostasbrasil.com/stats/match/turquia/lig-b/kahramanmarasspor/elazigspor/3112790,Kahramanmaraş,Terminado,1583006400
+Lübeck,Alemanha - Regionalliga,29/02/20 06:00:00,https://www.academiadasapostasbrasil.com/stats/match/alemanha/regionalliga/wolfsburg-ii/lubeck/3066243,Wolfsburg II,Terminado,1582966800
+Rathenow,Alemanha - Regionalliga,29/02/20 06:30:00,https://www.academiadasapostasbrasil.com/stats/match/alemanha/regionalliga/energie-cottbus/optik-rathenow/3068236,Cottbus,Terminado,1582968600
+Garching,Alemanha - Regionalliga,29/02/20 07:00:00,https://www.academiadasapostasbrasil.com/stats/match/alemanha/regionalliga/aubstadt/garching/3033408,Aubstadt,Adiado,1582970400
+TuS RW Koblenz,Alemanha - Regionalliga,29/02/20 07:00:00,https://www.academiadasapostasbrasil.com/stats/match/alemanha/regionalliga/teutonia/tus-rw-koblenz/3059797,Teutonia WS,Terminado,1582970400
+Elversberg,Alemanha - Regionalliga,29/02/20 07:00:00,https://www.academiadasapostasbrasil.com/stats/match/alemanha/regionalliga/bahlinger/elversberg/3059801,Bahlingen,Terminado,1582970400
+FSV Frankfurt,Alemanha - Regionalliga,29/02/20 07:00:00,https://www.academiadasapostasbrasil.com/stats/match/alemanha/regionalliga/bayern-alzenau/fsv-frankfurt/3059804,Bayern Alzenau,Terminado,1582970400
+TuS Haltern,Alemanha - Regionalliga,29/02/20 07:00:00,https://www.academiadasapostasbrasil.com/stats/match/alemanha/regionalliga/rodinghausen/tus-haltern/3060440,Rödinghausen,Terminado,1582970400
+RW Oberhausen,Alemanha - Regionalliga,29/02/20 07:00:00,https://www.academiadasapostasbrasil.com/stats/match/alemanha/regionalliga/wuppertaler/rot-weiss-oberhausen/3060609,Wuppertal,Adiado,1582970400
+Wattenscheid,Alemanha - Regionalliga,29/02/20 07:00:00,https://www.academiadasapostasbrasil.com/stats/match/alemanha/regionalliga/alemannia-aachen/wattenscheid/3060610,Alemannia,Cancelado,1582970400
+Homberg,Alemanha - Regionalliga,29/02/20 07:00:00,https://www.academiadasapostasbrasil.com/stats/match/alemanha/regionalliga/fortuna-dusseldorf-ii/homberg/3060613,Fortuna II,Terminado,1582970400
+Verl,Alemanha - Regionalliga,29/02/20 07:00:00,https://www.academiadasapostasbrasil.com/stats/match/alemanha/regionalliga/borussia-monchengladbach-ii/verl-1924/3060614,M'gladbach II,Terminado,1582970400
+Bonn,Alemanha - Regionalliga,29/02/20 07:00:00,https://www.academiadasapostasbrasil.com/stats/match/alemanha/regionalliga/bergisch-gladbach/bonner/3060616,Bergisch Gladb,Terminado,1582970400
+Jeddeloh,Alemanha - Regionalliga,29/02/20 07:00:00,https://www.academiadasapostasbrasil.com/stats/match/alemanha/regionalliga/heider/jeddeloh/3066245,Heide,Terminado,1582970400
+Ter Leede,Holanda - Derde Divisie,29/02/20 07:30:00,https://www.academiadasapostasbrasil.com/stats/match/holanda/derde-divisie/hsv-hoek/ter-leede/3051294,Hoek,Terminado,1582972200
+Jong Almere City,Holanda - Derde Divisie,29/02/20 07:30:00,https://www.academiadasapostasbrasil.com/stats/match/holanda/derde-divisie/dovo/almere-city-ii/3051295,DOVO,Terminado,1582972200
+Nijkerk,Holanda - Derde Divisie,29/02/20 07:30:00,https://www.academiadasapostasbrasil.com/stats/match/holanda/derde-divisie/dvs-33/sparta-nijkerk/3051296,DVS,Terminado,1582972200
+Harkemase Boys,Holanda - Derde Divisie,29/02/20 07:30:00,https://www.academiadasapostasbrasil.com/stats/match/holanda/derde-divisie/ajax-amateurs/harkemase-boys/3051298,Ajax Amateurs,Terminado,1582972200
+Barendrecht,Holanda - Derde Divisie,29/02/20 07:30:00,https://www.academiadasapostasbrasil.com/stats/match/holanda/derde-divisie/lisse/barendrecht/3051300,Lisse,Terminado,1582972200
+Excelsior 31,Holanda - Derde Divisie,29/02/20 07:30:00,https://www.academiadasapostasbrasil.com/stats/match/holanda/derde-divisie/odin-59/excelsior-31/3051301,ODIN '59,Terminado,1582972200
+GOES,Holanda - Derde Divisie,29/02/20 08:00:00,https://www.academiadasapostasbrasil.com/stats/match/holanda/derde-divisie/ons-sneek/goes/3051236,ONS,Terminado,1582974000
+Schalke II,Alemanha - Regionalliga,29/02/20 08:30:00,https://www.academiadasapostasbrasil.com/stats/match/alemanha/regionalliga/fortuna-koln/schalke-04-ii/3060615,Fortuna Köln,Terminado,1582975800
+Elgin,Escócia - 3ª Divisão,29/02/20 09:00:00,https://www.academiadasapostasbrasil.com/stats/match/escocia/3-divisao/albion-rovers/elgin-city/3038869,Albion,Terminado,1582977600
+Stirling,Escócia - 3ª Divisão,29/02/20 09:00:00,https://www.academiadasapostasbrasil.com/stats/match/escocia/3-divisao/brechin-city/stirling-albion/3038870,Brechin,Terminado,1582977600
+Edinburgh City,Escócia - 3ª Divisão,29/02/20 09:00:00,https://www.academiadasapostasbrasil.com/stats/match/escocia/3-divisao/cowdenbeath/edinburgh-city/3038871,Cowdenbeath,Terminado,1582977600
+Annan,Escócia - 3ª Divisão,29/02/20 09:00:00,https://www.academiadasapostasbrasil.com/stats/match/escocia/3-divisao/queens-park/annan-athletic/3038872,Queen's Park,Terminado,1582977600
+Cove Rangers,Escócia - 3ª Divisão,29/02/20 09:00:00,https://www.academiadasapostasbrasil.com/stats/match/escocia/3-divisao/stenhousemuir/cove-rangers/3038873,Stenhousemuir,Terminado,1582977600
+Platges,Espanha - Tercera Division,29/02/20 09:00:00,https://www.academiadasapostasbrasil.com/stats/match/espanha/tercera-division/santa-catalina-atletico/platges-de-calvia/3094910,Santa Catalina,Terminado,1582977600
+Ferriolense,Espanha - Tercera Division,29/02/20 09:00:00,https://www.academiadasapostasbrasil.com/stats/match/espanha/tercera-division/santanyi/ferriolense/3094915,Santanyí,Terminado,1582977600
+San Rafael,Espanha - Tercera Division,29/02/20 09:00:00,https://www.academiadasapostasbrasil.com/stats/match/espanha/tercera-division/manacor/san-rafael/3094916,Manacor,Terminado,1582977600
+Villarreal III,Espanha - Tercera Division,29/02/20 09:00:00,https://www.academiadasapostasbrasil.com/stats/match/espanha/tercera-division/elche-ii/villarreal-iii/3119417,Elche II,Terminado,1582977600
+JD Somorrostro,Espanha - Tercera Division,29/02/20 09:15:00,https://www.academiadasapostasbrasil.com/stats/match/espanha/tercera-division/san-ignacio/jd-somorrostro/3093287,San Ignacio,Terminado,1582978500
+Ribamontán,Espanha - Tercera Division,29/02/20 09:30:00,https://www.academiadasapostasbrasil.com/stats/match/espanha/tercera-division/barreda/ribamontan-al-mar/3094137,Barreda,Terminado,1582979400
+Escudo,Espanha - Tercera Division,29/02/20 09:30:00,https://www.academiadasapostasbrasil.com/stats/match/espanha/tercera-division/torina/textil-escudo/3094138,Torina,Terminado,1582979400
+Barquereño,Espanha - Tercera Division,29/02/20 09:30:00,https://www.academiadasapostasbrasil.com/stats/match/espanha/tercera-division/cultural-guarnizo/barquereno/3094140,Guarnizo,Terminado,1582979400
+Sóller,Espanha - Tercera Division,29/02/20 09:30:00,https://www.academiadasapostasbrasil.com/stats/match/espanha/tercera-division/esporles/soller/3094913,Esporles,Terminado,1582979400
+Felanitx,Espanha - Tercera Division,29/02/20 09:30:00,https://www.academiadasapostasbrasil.com/stats/match/espanha/tercera-division/llosetense/felanitx/3094918,Llosetense,Terminado,1582979400
+Cirbonero,Espanha - Tercera Division,29/02/20 09:30:00,https://www.academiadasapostasbrasil.com/stats/match/espanha/tercera-division/fontellas/cirbonero/3095735,Fontellas,Terminado,1582979400
+Lourdes,Espanha - Tercera Division,29/02/20 09:30:00,https://www.academiadasapostasbrasil.com/stats/match/espanha/tercera-division/huarte/lourdes/3095737,Huarte,Terminado,1582979400
+Subiza,Espanha - Tercera Division,29/02/20 09:30:00,https://www.academiadasapostasbrasil.com/stats/match/espanha/tercera-division/beti-onak/subiza/3095739,Beti Onak,Terminado,1582979400
+Becerril,Espanha - Tercera Division,29/02/20 09:30:00,https://www.academiadasapostasbrasil.com/stats/match/espanha/tercera-division/la-granja/becerril/3114467,La Granja,Terminado,1582979400
+Astorga,Espanha - Tercera Division,29/02/20 09:30:00,https://www.academiadasapostasbrasil.com/stats/match/espanha/tercera-division/la-virgen-del-camino/atletico-astorga/3114472,Virgen Camino,Terminado,1582979400
+Vilamarxant,Espanha - Tercera Division,29/02/20 09:30:00,https://www.academiadasapostasbrasil.com/stats/match/espanha/tercera-division/atzeneta/vilamarxant/3119423,Atzeneta,Terminado,1582979400
+Urraca,Espanha - Tercera Division,29/02/20 09:45:00,https://www.academiadasapostasbrasil.com/stats/match/espanha/tercera-division/llanera/urraca/3092910,Llanera,Terminado,1582980300
+Sodupe,Espanha - Tercera Division,29/02/20 10:00:00,https://www.academiadasapostasbrasil.com/stats/match/espanha/tercera-division/lagun-onak/sodupe/3093288,Lagun Onak,Terminado,1582981200
+Cayón,Espanha - Tercera Division,29/02/20 10:00:00,https://www.academiadasapostasbrasil.com/stats/match/espanha/tercera-division/escobedo/cayon/3094139,Escobedo,Terminado,1582981200
+Alcalá,Espanha - Tercera Division,29/02/20 10:00:00,https://www.academiadasapostasbrasil.com/stats/match/espanha/tercera-division/alcobendas-sport/rsd-alcala/3094529,Alcobendas,Terminado,1582981200
+Constància,Espanha - Tercera Division,29/02/20 10:00:00,https://www.academiadasapostasbrasil.com/stats/match/espanha/tercera-division/alcudia/constancia/3094914,Alcúdia,Terminado,1582981200
+Baztán,Espanha - Tercera Division,29/02/20 10:00:00,https://www.academiadasapostasbrasil.com/stats/match/espanha/tercera-division/mutilvera/baztan/3095736,Mutilvera,Terminado,1582981200
+Arosa,Espanha - Tercera Division,29/02/20 10:00:00,https://www.academiadasapostasbrasil.com/stats/match/espanha/tercera-division/arzua/arosa/3102893,Arzúa,Terminado,1582981200
+La Cuadra,Espanha - Tercera Division,29/02/20 10:00:00,https://www.academiadasapostasbrasil.com/stats/match/espanha/tercera-division/tenerife-ii/la-cuadra/3113074,Tenerife II,Terminado,1582981200
+Santa Brígida,Espanha - Tercera Division,29/02/20 10:00:00,https://www.academiadasapostasbrasil.com/stats/match/espanha/tercera-division/buzanada/villa-santa-brigida/3113075,Buzanada,Terminado,1582981200
+Ciudad Real,Espanha - Tercera Division,29/02/20 10:00:00,https://www.academiadasapostasbrasil.com/stats/match/espanha/tercera-division/tarancon/ciudad-real/3114069,Tarancón,Terminado,1582981200
+Ávila,Espanha - Tercera Division,29/02/20 10:00:00,https://www.academiadasapostasbrasil.com/stats/match/espanha/tercera-division/mirandes-ii/real-avila/3114468,Mirandés II,Terminado,1582981200
+Tenisca,Espanha - Tercera Division,29/02/20 10:15:00,https://www.academiadasapostasbrasil.com/stats/match/espanha/tercera-division/las-palmas-iii/tenisca/3113072,Las Palmas III,Terminado,1582982100
+Portugalete,Espanha - Tercera Division,29/02/20 10:30:00,https://www.academiadasapostasbrasil.com/stats/match/espanha/tercera-division/durango/portugalete/3093290,Durango,Terminado,1582983000
+Pasaia,Espanha - Tercera Division,29/02/20 10:30:00,https://www.academiadasapostasbrasil.com/stats/match/espanha/tercera-division/balmaseda/pasaia-ke/3093293,Balmaseda,Terminado,1582983000
+Ibiza Islas Pitiusas,Espanha - Tercera Division,29/02/20 10:30:00,https://www.academiadasapostasbrasil.com/stats/match/espanha/tercera-division/collerense/ibiza-islas-pitiusas/3094917,Collerense,Terminado,1582983000
+Atlético Paso,Espanha - Tercera Division,29/02/20 10:30:00,https://www.academiadasapostasbrasil.com/stats/match/espanha/tercera-division/santa-ursula/atletico-paso/3113073,Santa Úrsula,Terminado,1582983000
+Vera,Espanha - Tercera Division,29/02/20 10:30:00,https://www.academiadasapostasbrasil.com/stats/match/espanha/tercera-division/mensajero/vera/3113081,Mensajero,Terminado,1582983000
+San Juan,Espanha - Tercera Division,29/02/20 10:45:00,https://www.academiadasapostasbrasil.com/stats/match/espanha/tercera-division/burlades/san-juan/3095738,Burladés,Terminado,1582983900
+SteDoCo,Holanda - Derde Divisie,29/02/20 11:00:00,https://www.academiadasapostasbrasil.com/stats/match/holanda/derde-divisie/vvsb/stedoco/3051299,VVSB,Terminado,1582984800
+Blois,França - CFA,29/02/20 11:00:00,https://www.academiadasapostasbrasil.com/stats/match/franca/cfa/angouleme/blois/3080846,Angoulême,Terminado,1582984800
+Solares,Espanha - Tercera Division,29/02/20 11:00:00,https://www.academiadasapostasbrasil.com/stats/match/espanha/tercera-division/laredo/solares/3094144,Laredo,Terminado,1582984800
+Atlético Tacoronte,Espanha - Tercera Division,29/02/20 11:00:00,https://www.academiadasapostasbrasil.com/stats/match/espanha/tercera-division/panaderia-pulido/atletico-tacoronte/3113080,Panadería Pulido,Terminado,1582984800
+Acero,Espanha - Tercera Division,29/02/20 11:00:00,https://www.academiadasapostasbrasil.com/stats/match/espanha/tercera-division/beniganim/acero/3119422,Beniganim,Terminado,1582984800
+Berio,Espanha - Tercera Division,29/02/20 11:30:00,https://www.academiadasapostasbrasil.com/stats/match/espanha/tercera-division/urduliz/real-sociedad-iii/3093294,Urduliz,Terminado,1582986600
+Trujillo,Espanha - Tercera Division,29/02/20 11:30:00,https://www.academiadasapostasbrasil.com/stats/match/espanha/tercera-division/up-plasencia/trujillo/3095361,Plasencia,Terminado,1582986600
+Albericia,Espanha - Tercera Division,29/02/20 12:00:00,https://www.academiadasapostasbrasil.com/stats/match/espanha/tercera-division/bezana/atletico-albericia/3094143,Bezana,Terminado,1582988400
+Ronse,Bélgica - 3e Klasse,29/02/20 13:00:00,https://www.academiadasapostasbrasil.com/stats/match/belgica/3e-klasse/merelbeke/ronse/3078492,Merelbeke,Terminado,1582992000
+Sacachispas,Argentina - Primera B Metropolitana,29/02/20 14:00:00,https://www.academiadasapostasbrasil.com/stats/match/argentina/primera-b-metropolitana/deportivo-armenio/sacachispas/3101156,Armenio,Terminado,1582995600
+Almirante Br,Argentina - Primera B Metropolitana,29/02/20 14:00:00,https://www.academiadasapostasbrasil.com/stats/match/argentina/primera-b-metropolitana/san-telmo/almirante-brown/3101157,San Telmo,Terminado,1582995600
+Fénix,Argentina - Primera B Metropolitana,29/02/20 14:00:00,https://www.academiadasapostasbrasil.com/stats/match/argentina/primera-b-metropolitana/flandria/fenix/3101158,Flandria,Terminado,1582995600
+Urquiza,Argentina - Primera B Metropolitana,29/02/20 14:00:00,https://www.academiadasapostasbrasil.com/stats/match/argentina/primera-b-metropolitana/los-andes/uai-urquiza/3101159,Los Andes,Terminado,1582995600
+A Quilmes,Argentina - Primera B Metropolitana,29/02/20 14:00:00,https://www.academiadasapostasbrasil.com/stats/match/argentina/primera-b-metropolitana/comunicaciones/argentino-quilmes/3101162,Comunicaciones,Terminado,1582995600
+Écija,Espanha - Tercera Division,29/02/20 18:00:00,https://www.academiadasapostasbrasil.com/stats/match/espanha/tercera-division/puente-genil/ecija/3116575,Puente Genil,Terminado,1583010000
+Osdorf,Alemanha - Oberliga,29/02/20 06:00:00,https://www.academiadasapostasbrasil.com/stats/match/alemanha/oberliga/dassendorf/osdorf/3058341,Dassendorf,Terminado,1582966800
+Lok Stendal,Alemanha - Oberliga,29/02/20 06:00:00,https://www.academiadasapostasbrasil.com/stats/match/alemanha/oberliga/ludwigsfelder/lok-stendal/3069053,Ludwigsfelder,Terminado,1582966800
+Union Sandersdorf,Alemanha - Oberliga,29/02/20 06:00:00,https://www.academiadasapostasbrasil.com/stats/match/alemanha/oberliga/eilenburg/union-sandersdorf/3072092,Eilenburg,Terminado,1582966800
+Union Bremen,Alemanha - Oberliga,29/02/20 06:00:00,https://www.academiadasapostasbrasil.com/stats/match/alemanha/oberliga/werder-bremen-iii/union-bremen/3084679,Werder III,Terminado,1582966800
+Schott Mainz,Alemanha - Oberliga,29/02/20 06:30:00,https://www.academiadasapostasbrasil.com/stats/match/alemanha/oberliga/kaiserslautern-ii/schott-mainz/3067101,Kaiserslautern,Terminado,1582968600
+FC Grimma,Alemanha - Oberliga,29/02/20 06:30:00,https://www.academiadasapostasbrasil.com/stats/match/alemanha/oberliga/oberlausitz/fc-grimma/3072089,Oberlausitz,Terminado,1582968600
+Eutin 08,Alemanha - Oberliga,29/02/20 06:30:00,https://www.academiadasapostasbrasil.com/stats/match/alemanha/oberliga/weiche-flensburg-ii/eutin-08/3079599,Weiche Flensburg II,Adiado,1582968600
+Greif,Alemanha - Oberliga,29/02/20 07:00:00,https://www.academiadasapostasbrasil.com/stats/match/alemanha/oberliga/pampow/torgelower-greif/3069054,Pampow,Terminado,1582970400
+Baunatal,Alemanha - Oberliga,29/02/20 07:00:00,https://www.academiadasapostasbrasil.com/stats/match/alemanha/oberliga/eintracht-stadtallendorf/ksv-baunatal/3069675,Stadtallendorf,Terminado,1582970400
+Krieschow,Alemanha - Oberliga,29/02/20 07:00:00,https://www.academiadasapostasbrasil.com/stats/match/alemanha/oberliga/1-fc-merseburg/krieschow/3072088,1. FC Merseburg,Terminado,1582970400
+VfL Halle,Alemanha - Oberliga,29/02/20 07:00:00,https://www.academiadasapostasbrasil.com/stats/match/alemanha/oberliga/carl-zeiss-jena-ii/vfl-halle/3072090,CZ Jena II,Terminado,1582970400
+Wacker Nordhausen II,Alemanha - Oberliga,29/02/20 07:00:00,https://www.academiadasapostasbrasil.com/stats/match/alemanha/oberliga/askania-bernburg/wacker-nordhausen-ii/3072094,Askania Bernburg,Terminado,1582970400
+Ravensburg,Alemanha - Oberliga,29/02/20 07:00:00,https://www.academiadasapostasbrasil.com/stats/match/alemanha/oberliga/freiberg/ravensburg/3072711,SGV Freiberg,Terminado,1582970400
+Stuttgart II,Alemanha - Oberliga,29/02/20 07:00:00,https://www.academiadasapostasbrasil.com/stats/match/alemanha/oberliga/ilshofen/stuttgart-ii/3072712,Ilshofen,Terminado,1582970400
+Eckernförder,Alemanha - Oberliga,29/02/20 07:00:00,https://www.academiadasapostasbrasil.com/stats/match/alemanha/oberliga/phonix-lubeck/eckernforder/3079600,Phönix Lübeck,Terminado,1582970400
+Oldenburger SV,Alemanha - Oberliga,29/02/20 07:00:00,https://www.academiadasapostasbrasil.com/stats/match/alemanha/oberliga/bordesholm/oldenburger-sv/3079601,Bordesholm,Terminado,1582970400
+Union Neumünster,Alemanha - Oberliga,29/02/20 07:00:00,https://www.academiadasapostasbrasil.com/stats/match/alemanha/oberliga/kropp/union-neumunster/3079602,Kropp,Adiado,1582970400
+Eichede,Alemanha - Oberliga,29/02/20 07:00:00,https://www.academiadasapostasbrasil.com/stats/match/alemanha/oberliga/lubeck-ii/eichede/3079603,Lübeck II,Terminado,1582970400
+BTS Neustadt,Alemanha - Oberliga,29/02/20 07:00:00,https://www.academiadasapostasbrasil.com/stats/match/alemanha/oberliga/brinkumer/bts-neustadt/3084680,Brinkum,Terminado,1582970400
+Arminia Ludwigshafen,Alemanha - Oberliga,29/02/20 07:30:00,https://www.academiadasapostasbrasil.com/stats/match/alemanha/oberliga/karbach/arminia-ludwigshafen/3067100,Karbach,Terminado,1582972200
+Kassel,Alemanha - Oberliga,29/02/20 07:30:00,https://www.academiadasapostasbrasil.com/stats/match/alemanha/oberliga/rot-weiss-hadamar/hessen-kassel/3069676,Rot-Weiß Hadamar,Terminado,1582972200
+Hanau,Alemanha - Oberliga,29/02/20 07:30:00,https://www.academiadasapostasbrasil.com/stats/match/alemanha/oberliga/turk-gucu-friedberg/hanau/3069677,Türk Gücü Friedberg,Terminado,1582972200
+Dreieich,Alemanha - Oberliga,29/02/20 07:30:00,https://www.academiadasapostasbrasil.com/stats/match/alemanha/oberliga/waldgirmes/hessen-dreieich/3069678,Waldgirmes,Terminado,1582972200
+Steinbach,Alemanha - Oberliga,29/02/20 07:30:00,https://www.academiadasapostasbrasil.com/stats/match/alemanha/oberliga/viktoria-griesheim/steinbach-1920/3069680,Griesheim,Terminado,1582972200
+Villefranche SJB,França - CFA 2,29/02/20 07:30:00,https://www.academiadasapostasbrasil.com/stats/match/franca/cfa-2/ajaccio-ii/villefranche-sjb/3096993,Ajaccio II,Terminado,1582972200
+Istres,França - CFA 2,29/02/20 07:30:00,https://www.academiadasapostasbrasil.com/stats/match/franca/cfa-2/lucciana/istres/3096996,Lucciana,Terminado,1582972200
+Côte Bleue,França - CFA 2,29/02/20 07:30:00,https://www.academiadasapostasbrasil.com/stats/match/franca/cfa-2/fb-ile-rousse/cote-bleue/3096997,FB Île Rousse,Terminado,1582972200
+Pacy Ménilles,França - CFA 2,29/02/20 07:30:00,https://www.academiadasapostasbrasil.com/stats/match/franca/cfa-2/evreux-27/pacy-menilles/3099639,Evreux,Terminado,1582972200
+Hertha Wiesbach,Alemanha - Oberliga,29/02/20 08:00:00,https://www.academiadasapostasbrasil.com/stats/match/alemanha/oberliga/engers-07/hertha-wiesbach/3067105,Engers 07,Terminado,1582974000
+Linx 1949,Alemanha - Oberliga,29/02/20 08:00:00,https://www.academiadasapostasbrasil.com/stats/match/alemanha/oberliga/oberachern/linx-1949/3072715,Oberachern,Terminado,1582974000
+Aumund-V,Alemanha - Oberliga,29/02/20 08:00:00,https://www.academiadasapostasbrasil.com/stats/match/alemanha/oberliga/blumenthaler/aumund-vegasack/3084681,Blumenthal,Terminado,1582974000
+Avoine OCC,França - CFA 2,29/02/20 08:00:00,https://www.academiadasapostasbrasil.com/stats/match/franca/cfa-2/chateauroux-ii/avoine-occ/3096219,Châteauroux II,Terminado,1582974000
+Boulogne Billa,França - CFA 2,29/02/20 08:00:00,https://www.academiadasapostasbrasil.com/stats/match/franca/cfa-2/versailles/boulogne-billancourt-ac/3100523,Versailles,Terminado,1582974000
+Gonsenheim,Alemanha - Oberliga,29/02/20 08:30:00,https://www.academiadasapostasbrasil.com/stats/match/alemanha/oberliga/hassia-bingen/gonsenheim/3067102,Hassia Bingen,Terminado,1582975800
+Röchling Völklingen,Alemanha - Oberliga,29/02/20 08:30:00,https://www.academiadasapostasbrasil.com/stats/match/alemanha/oberliga/tus-koblenz/rochling-volklingen/3067103,Koblenz,Terminado,1582975800
+Dag & Red,Inglaterra - Conferência Nacional,29/02/20 09:00:00,https://www.academiadasapostasbrasil.com/stats/match/inglaterra/conferencia-nacional/barrow/dagenham-redbridge/3054290,Barrow,Terminado,1582977600
+Hartlepool,Inglaterra - Conferência Nacional,29/02/20 09:00:00,https://www.academiadasapostasbrasil.com/stats/match/inglaterra/conferencia-nacional/boreham-wood/hartlepool-united/3054312,Boreham Wood,Terminado,1582977600
+Sutton Utd,Inglaterra - Conferência Nacional,29/02/20 09:00:00,https://www.academiadasapostasbrasil.com/stats/match/inglaterra/conferencia-nacional/bromley/sutton-united/3054313,Bromley,Terminado,1582977600
+Stockport,Inglaterra - Conferência Nacional,29/02/20 09:00:00,https://www.academiadasapostasbrasil.com/stats/match/inglaterra/conferencia-nacional/ebbsfleet-united/stockport-county/3054317,Ebbsfleet,Terminado,1582977600
+Dover,Inglaterra - Conferência Nacional,29/02/20 09:00:00,https://www.academiadasapostasbrasil.com/stats/match/inglaterra/conferencia-nacional/solihull-moors/dover-athletic/3054319,Solihull,Terminado,1582977600
+Chorley,Inglaterra - Conferência Nacional,29/02/20 09:00:00,https://www.academiadasapostasbrasil.com/stats/match/inglaterra/conferencia-nacional/torquay-united/chorley/3054320,Torquay,Terminado,1582977600
+Maidenhead Utd,Inglaterra - Conferência Nacional,29/02/20 09:00:00,https://www.academiadasapostasbrasil.com/stats/match/inglaterra/conferencia-nacional/woking/maidenhead-united/3054321,Woking,Terminado,1582977600
+Wrexham,Inglaterra - Conferência Nacional,29/02/20 09:00:00,https://www.academiadasapostasbrasil.com/stats/match/inglaterra/conferencia-nacional/yeovil-town/wrexham/3054322,Yeovil,Terminado,1582977600
+Dudenhofen,Alemanha - Oberliga,29/02/20 09:00:00,https://www.academiadasapostasbrasil.com/stats/match/alemanha/oberliga/pfeddersheim/dudenhofen/3067099,Pfeddersheim,Terminado,1582977600
+TSB Flensburg,Alemanha - Oberliga,29/02/20 09:00:00,https://www.academiadasapostasbrasil.com/stats/match/alemanha/oberliga/inter-turkspor-kiel/tsb-flensburg/3079604,Inter Türkspor Kiel,Terminado,1582977600
+Vierzon,França - CFA 2,29/02/20 09:00:00,https://www.academiadasapostasbrasil.com/stats/match/franca/cfa-2/ouest-tourangeau/vierzon/3096214,Ouest Tourangeau,Terminado,1582977600
+Furiani Agliani,França - CFA 2,29/02/20 09:00:00,https://www.academiadasapostasbrasil.com/stats/match/franca/cfa-2/aubagne/furiani-agliani/3096995,Aubagne,Terminado,1582977600
+Morteau,França - CFA 2,29/02/20 09:00:00,https://www.academiadasapostasbrasil.com/stats/match/franca/cfa-2/pontarlier/morteau-montlebon/3097959,Pontarlier,Adiado,1582977600
+Sochaux II,França - CFA 2,29/02/20 09:00:00,https://www.academiadasapostasbrasil.com/stats/match/franca/cfa-2/sens/sochaux-ii/3097961,Sens,Terminado,1582977600
+Beaucaire,França - CFA 2,29/02/20 09:00:00,https://www.academiadasapostasbrasil.com/stats/match/franca/cfa-2/rodez-ii/beaucaire/3098327,Rodez II,Terminado,1582977600
+Agde,França - CFA 2,29/02/20 09:00:00,https://www.academiadasapostasbrasil.com/stats/match/franca/cfa-2/toulouse-ii/agde/3098329,Toulouse II,Terminado,1582977600
+Plabennec St,França - CFA 2,29/02/20 09:00:00,https://www.academiadasapostasbrasil.com/stats/match/franca/cfa-2/brest-ii/plabennec-stade/3100358,Brest II,Terminado,1582977600
+Diefflen,Alemanha - Oberliga,29/02/20 10:00:00,https://www.academiadasapostasbrasil.com/stats/match/alemanha/oberliga/mechtersheim/diefflen/3067104,Mechtersheim,Terminado,1582981200
+Orléans II,França - CFA 2,29/02/20 11:00:00,https://www.academiadasapostasbrasil.com/stats/match/franca/cfa-2/tours/orleans-ii/3096213,Tours,Terminado,1582984800
+Cannes,França - CFA 2,29/02/20 11:00:00,https://www.academiadasapostasbrasil.com/stats/match/franca/cfa-2/consolat-marseille/cannes/3096992,Consolat,Terminado,1582984800
+Gémenos,França - CFA 2,29/02/20 11:00:00,https://www.academiadasapostasbrasil.com/stats/match/franca/cfa-2/nice-ii/gemenos/3096994,Nice II,Terminado,1582984800
+Dijon II,França - CFA 2,29/02/20 11:00:00,https://www.academiadasapostasbrasil.com/stats/match/franca/cfa-2/gueugnon/dijon-ii/3097958,Gueugnon,Terminado,1582984800
+Selongey,França - CFA 2,29/02/20 11:00:00,https://www.academiadasapostasbrasil.com/stats/match/franca/cfa-2/auxerre-aj-ii/selongey/3097960,Auxerre II,Terminado,1582984800
+Montceau,França - CFA 2,29/02/20 11:00:00,https://www.academiadasapostasbrasil.com/stats/match/franca/cfa-2/jura-dolois/montceau/3097962,Jura Dolois,Terminado,1582984800
+Roche Novillars,França - CFA 2,29/02/20 11:00:00,https://www.academiadasapostasbrasil.com/stats/match/franca/cfa-2/besancon/roche-novillars/3097963,Besançon,Terminado,1582984800
+Salinieres Aigues Mortes,França - CFA 2,29/02/20 11:00:00,https://www.academiadasapostasbrasil.com/stats/match/franca/cfa-2/blagnac/salinieres-aigues-mortes/3098323,Blagnac,Terminado,1582984800
+Le Portel,França - CFA 2,29/02/20 11:00:00,https://www.academiadasapostasbrasil.com/stats/match/franca/cfa-2/us-maubeuge/le-portel/3098506,Maubeuge,Terminado,1582984800
+Feignies,França - CFA 2,29/02/20 11:00:00,https://www.academiadasapostasbrasil.com/stats/match/franca/cfa-2/grande-synthe/feignies-aulnoye/3098508,Grande-Synthe ,Terminado,1582984800
+Marcq-en-Baroeul,França - CFA 2,29/02/20 11:00:00,https://www.academiadasapostasbrasil.com/stats/match/franca/cfa-2/boulogne-ii/marcq-en-baroeul/3098509,Boulogne II,Terminado,1582984800
+Arras,França - CFA 2,29/02/20 11:00:00,https://www.academiadasapostasbrasil.com/stats/match/franca/cfa-2/valenciennes-ii/arras/3098511,VAFC II,Terminado,1582984800
+Cherbourg,França - CFA 2,29/02/20 11:00:00,https://www.academiadasapostasbrasil.com/stats/match/franca/cfa-2/caen-ii/cherbourg/3099633,Caen II,Terminado,1582984800
+Le Havre II,França - CFA 2,29/02/20 11:00:00,https://www.academiadasapostasbrasil.com/stats/match/franca/cfa-2/quevilly-ii/le-havre-ii/3099634,Quevilly II,Terminado,1582984800
+Alençon,França - CFA 2,29/02/20 11:00:00,https://www.academiadasapostasbrasil.com/stats/match/franca/cfa-2/vire/alencon/3099635,Vire,Adiado,1582984800
+Dieppe,França - CFA 2,29/02/20 11:00:00,https://www.academiadasapostasbrasil.com/stats/match/franca/cfa-2/saint-lo-manche/dieppe/3099636,Saint-Lô,Adiado,1582984800
+Gonfreville,França - CFA 2,29/02/20 11:00:00,https://www.academiadasapostasbrasil.com/stats/match/franca/cfa-2/avranches-ii/gonfreville/3099638,Avranches II,Adiado,1582984800
+Stade Pontivy,França - CFA 2,29/02/20 11:00:00,https://www.academiadasapostasbrasil.com/stats/match/franca/cfa-2/rennes-ii/stade-pontivy/3100354,Rennes II,Terminado,1582984800
+Dinan Léhon,França - CFA 2,29/02/20 11:00:00,https://www.academiadasapostasbrasil.com/stats/match/franca/cfa-2/fougeres-agl/dinan-lehon/3100355,Fougères AGL,Terminado,1582984800
+Guichen,França - CFA 2,29/02/20 11:00:00,https://www.academiadasapostasbrasil.com/stats/match/franca/cfa-2/saint-colomban-locmine/guichen/3100356,Locminé,Terminado,1582984800
+Ergué-Gaberic,França - CFA 2,29/02/20 11:00:00,https://www.academiadasapostasbrasil.com/stats/match/franca/cfa-2/ta-rennes/ergue-gaberic/3100357,TA Rennes,Terminado,1582984800
+Tregunc,França - CFA 2,29/02/20 11:00:00,https://www.academiadasapostasbrasil.com/stats/match/franca/cfa-2/pontivy-gsi/tregunc/3100360,Pontivy GSI,Terminado,1582984800
+Saint-Leu,França - CFA 2,29/02/20 11:00:00,https://www.academiadasapostasbrasil.com/stats/match/franca/cfa-2/paris-fc-ii/saint-leu/3100524,Paris FC II,Terminado,1582984800
+Noisy-le-Grand,França - CFA 2,29/02/20 11:00:00,https://www.academiadasapostasbrasil.com/stats/match/franca/cfa-2/ivry-us/noisy-le-grand/3100527,Ivry US,Terminado,1582984800
+Thiers,França - CFA 2,29/02/20 11:00:00,https://www.academiadasapostasbrasil.com/stats/match/franca/cfa-2/aurillac-arpajon/thiers/3100694,Aurillac ,Terminado,1582984800
+Chateaubriant,França - CFA 2,29/02/20 11:00:00,https://www.academiadasapostasbrasil.com/stats/match/franca/cfa-2/change/chateaubriant-voltigeurs/3100887,Changé,Terminado,1582984800
+Challans,França - CFA 2,29/02/20 11:00:00,https://www.academiadasapostasbrasil.com/stats/match/franca/cfa-2/les-herbiers-ii/challans/3100888,Les Herbiers II,Terminado,1582984800
+La Fleche RC,França - CFA 2,29/02/20 11:00:00,https://www.academiadasapostasbrasil.com/stats/match/franca/cfa-2/ussa-vertou/la-fleche-rc/3100889,USSA Vertou,Terminado,1582984800
+Laval II,França - CFA 2,29/02/20 11:00:00,https://www.academiadasapostasbrasil.com/stats/match/franca/cfa-2/le-mans-ii/laval-ii/3100890,Le Mans II,Terminado,1582984800
+La Roche,França - CFA 2,29/02/20 11:00:00,https://www.academiadasapostasbrasil.com/stats/match/franca/cfa-2/sable/la-roche-sur-yon/3100891,Sablé,Terminado,1582984800
+Auch,França - CFA 2,29/02/20 11:30:00,https://www.academiadasapostasbrasil.com/stats/match/franca/cfa-2/rodeo/auch/3098324,Rodéo,Terminado,1582986600
+Plouzané,França - CFA 2,29/02/20 11:30:00,https://www.academiadasapostasbrasil.com/stats/match/franca/cfa-2/lannion/plouzane/3100359,Lannion,Terminado,1582986600
+Saumur,França - CFA 2,29/02/20 11:30:00,https://www.academiadasapostasbrasil.com/stats/match/franca/cfa-2/fontenay-vendee-foot/saumur/3100892,Fontenay Vend,Terminado,1582986600
+La Châtaigneraie,França - CFA 2,29/02/20 11:30:00,https://www.academiadasapostasbrasil.com/stats/match/franca/cfa-2/pouzauges-reaumur/la-chataigneraie/3100893,Pouzauges-Réaumur,Terminado,1582986600
+C' Chartres II,França - CFA 2,29/02/20 12:00:00,https://www.academiadasapostasbrasil.com/stats/match/franca/cfa-2/montlouis/c-chartres-ii/3096215,Montlouis,Terminado,1582988400
+Fabrègues,França - CFA 2,29/02/20 12:00:00,https://www.academiadasapostasbrasil.com/stats/match/franca/cfa-2/canet/fabregues/3098325,Canet,Terminado,1582988400
+Balma,França - CFA 2,29/02/20 12:00:00,https://www.academiadasapostasbrasil.com/stats/match/franca/cfa-2/muret/balma/3098326,Muret,Terminado,1582988400
+Béziers II,França - CFA 2,29/02/20 12:00:00,https://www.academiadasapostasbrasil.com/stats/match/franca/cfa-2/olympique-dales/beziers-ii/3098328,Alès,Terminado,1582988400
+Poitiers,França - CFA 2,29/02/20 12:00:00,https://www.academiadasapostasbrasil.com/stats/match/franca/cfa-2/chatellerault/poitiers/3099071,Châtellerault,Terminado,1582988400
+Bayonne,França - CFA 2,29/02/20 12:00:00,https://www.academiadasapostasbrasil.com/stats/match/franca/cfa-2/lege-cap-ferret/aviron-bayonnais-fc/3099072,LCF,Terminado,1582988400
+Niort II,França - CFA 2,29/02/20 12:00:00,https://www.academiadasapostasbrasil.com/stats/match/franca/cfa-2/mt-de-marsan-stade/niort-ii/3099073,Montois,Terminado,1582988400
+Chauvigny,França - CFA 2,29/02/20 12:00:00,https://www.academiadasapostasbrasil.com/stats/match/franca/cfa-2/anglet-genets/chauvigny/3099074,Anglet Genets,Terminado,1582988400
+Bressuire,França - CFA 2,29/02/20 12:00:00,https://www.academiadasapostasbrasil.com/stats/match/franca/cfa-2/bassin-darcachon-sud/bressuire/3099075,Bassin d'Arcachon Sud,Terminado,1582988400
+Montargis,França - CFA 2,29/02/20 12:30:00,https://www.academiadasapostasbrasil.com/stats/match/franca/cfa-2/bourges-18/montargis/3096217,Bourges 18,Terminado,1582990200
+Brackley,Inglaterra - Conferência N / S,29/02/20 09:00:00,https://www.academiadasapostasbrasil.com/stats/match/inglaterra/conferencia-n-s/darlington-1883/brackley-town/3054842,Darlington,Terminado,1582977600
+Altrincham,Inglaterra - Conferência N / S,29/02/20 09:00:00,https://www.academiadasapostasbrasil.com/stats/match/inglaterra/conferencia-n-s/hereford/altrincham/3054844,Hereford FC,Terminado,1582977600
+Telford Utd,Inglaterra - Conferência N / S,29/02/20 09:00:00,https://www.academiadasapostasbrasil.com/stats/match/inglaterra/conferencia-n-s/spennymoor-town/afc-telford-united/3054848,Spennymoor,Terminado,1582977600
+Curzon Ashton,Inglaterra - Conferência N / S,29/02/20 09:00:00,https://www.academiadasapostasbrasil.com/stats/match/inglaterra/conferencia-n-s/york-city/curzon-ashton/3054849,York,Terminado,1582977600
+Bath,Inglaterra - Conferência N / S,29/02/20 09:00:00,https://www.academiadasapostasbrasil.com/stats/match/inglaterra/conferencia-n-s/braintree-town/bath-city/3055301,Braintree,Terminado,1582977600
+St. Albans,Inglaterra - Conferência N / S,29/02/20 09:00:00,https://www.academiadasapostasbrasil.com/stats/match/inglaterra/conferencia-n-s/chippenham-town/st-albans-city/3055302,Chippenham,Terminado,1582977600
+Wealdstone,Inglaterra - Conferência N / S,29/02/20 09:00:00,https://www.academiadasapostasbrasil.com/stats/match/inglaterra/conferencia-n-s/dartford/wealdstone/3055304,Dartford,Terminado,1582977600
+Slough,Inglaterra - Conferência N / S,29/02/20 09:00:00,https://www.academiadasapostasbrasil.com/stats/match/inglaterra/conferencia-n-s/dorking-wanderers/slough-town/3055305,Dorking W,Terminado,1582977600
+Tonbridge,Inglaterra - Conferência N / S,29/02/20 09:00:00,https://www.academiadasapostasbrasil.com/stats/match/inglaterra/conferencia-n-s/dulwich-hamlet/tonbridge-angels/3055306,Dulwich Hamlet,Terminado,1582977600
+Billericay,Inglaterra - Conferência N / S,29/02/20 09:00:00,https://www.academiadasapostasbrasil.com/stats/match/inglaterra/conferencia-n-s/eastbourne-borough/billericay-town/3055307,Eastbourne,Terminado,1582977600
+Maidstone Utd,Inglaterra - Conferência N / S,29/02/20 09:00:00,https://www.academiadasapostasbrasil.com/stats/match/inglaterra/conferencia-n-s/weymouth/maidstone-united/3055311,Weymouth,Terminado,1582977600
+Žalgiris,Lituânia - Super Copa,29/02/20 10:00:00,https://www.academiadasapostasbrasil.com/stats/match/lituania/super-copa/suduva-marijampole/zalgiris-vilnius/3215145,Sūduva,Terminado,1582981200
+Aveley,Inglaterra - Troféu FA,29/02/20 06:30:00,https://www.academiadasapostasbrasil.com/stats/match/inglaterra/trofeu-fa/notts-county/aveley/3227809,Notts,Terminado,1582968600
+Halesowen,Inglaterra - Troféu FA,29/02/20 09:00:00,https://www.academiadasapostasbrasil.com/stats/match/inglaterra/trofeu-fa/barnet/halesowen-town/3227808,Barnet,Terminado,1582977600
+Harrogate,Inglaterra - Troféu FA,29/02/20 09:00:00,https://www.academiadasapostasbrasil.com/stats/match/inglaterra/trofeu-fa/fylde/harrogate-town/3227811,Fylde,Terminado,1582977600
+Rio Branco,Brasil - Acreano,29/02/20 14:15:00,https://www.academiadasapostasbrasil.com/stats/match/brasil/acreano/placido-de-castro/rio-branco/3192639,Plácido Castro,Terminado,1582996500
+Murici,Brasil - Alagoano,29/02/20 13:00:00,https://www.academiadasapostasbrasil.com/stats/match/brasil/alagoano/asa/murici/3238041,ASA,Terminado,1582992000
+Coruripe,Brasil - Alagoano,29/02/20 14:00:00,https://www.academiadasapostasbrasil.com/stats/match/brasil/alagoano/csa/coruripe/3238040,CSA,Terminado,1582995600
+Ceilandense,Brasil - Brasiliense,29/02/20 08:00:00,https://www.academiadasapostasbrasil.com/stats/match/brasil/brasiliense/ceilandia/ceilandense/3191151,Ceilândia,Terminado,1582974000
+Taguatinga,Brasil - Brasiliense,29/02/20 13:00:00,https://www.academiadasapostasbrasil.com/stats/match/brasil/brasiliense/paracatu/taguatinga/3191146,Paracatu,Terminado,1582992000
+Gama,Brasil - Brasiliense,29/02/20 13:00:00,https://www.academiadasapostasbrasil.com/stats/match/brasil/brasiliense/paranoa/gama/3191149,Paranoá,Terminado,1582992000
+Vitória,Brasil - Capixaba,29/02/20 13:00:00,https://www.academiadasapostasbrasil.com/stats/match/brasil/capixaba/rio-branco-es/vitoria-es/3187409,Rio Branco,Terminado,1582992000
+Capixaba,Brasil - Capixaba,29/02/20 13:00:00,https://www.academiadasapostasbrasil.com/stats/match/brasil/capixaba/sao-mateus/desportiva-es/3187410,São Mateus,Terminado,1582992000
+Noroeste,Brasil - Capixaba,29/02/20 13:00:00,https://www.academiadasapostasbrasil.com/stats/match/brasil/capixaba/linhares/real-noroeste/3187411,Linhares,Terminado,1582992000
+Juventude MA,Brasil - Maranhense,29/02/20 16:00:00,https://www.academiadasapostasbrasil.com/stats/match/brasil/maranhense/imperatriz/juventude-ma/3195018,Imperatriz,Terminado,1583002800
+Paysandu,Brasil - Paraense,29/02/20 12:30:00,https://www.academiadasapostasbrasil.com/stats/match/brasil/paraense/bragantino-pa/paysandu/3196857,Bragantino PA,Terminado,1582990200
+Independente,Brasil - Paraense,29/02/20 14:00:00,https://www.academiadasapostasbrasil.com/stats/match/brasil/paraense/itupiranga/independente-pa/3196860,Itupiranga,Terminado,1582995600
+Flamengo PI,Brasil - Piauiense,29/02/20 14:00:00,https://www.academiadasapostasbrasil.com/stats/match/brasil/piauiense/river/flamengo-pi/3187739,Ríver,Terminado,1582995600
+Real Ariquemes,Brasil - Rondoniense,29/02/20 14:00:00,https://www.academiadasapostasbrasil.com/stats/match/brasil/rondoniense/porto-velho/real-ariquemes/3201329,Porto Velho,Terminado,1582995600
+Pimentense,Brasil - Rondoniense,29/02/20 14:00:00,https://www.academiadasapostasbrasil.com/stats/match/brasil/rondoniense/vilhenense/pimentense/3201354,Vilhenense,Terminado,1582995600
+Barcelona RO,Brasil - Rondoniense,29/02/20 18:00:00,https://www.academiadasapostasbrasil.com/stats/match/brasil/rondoniense/uniao-cacoalense/barcelona-ro/3201355,Cacoalense,Terminado,1583010000
+Operário,Brasil - Sul-Matogrossense,29/02/20 13:00:00,https://www.academiadasapostasbrasil.com/stats/match/brasil/sul-matogrossense/maracaju/operario-ms/3187450,Maracaju,Terminado,1582992000
+Águia Negra,Brasil - Sul-Matogrossense,29/02/20 14:00:00,https://www.academiadasapostasbrasil.com/stats/match/brasil/sul-matogrossense/nova-andradina/aguia-negra/3187448,Nova Andradina,Terminado,1582995600
+Tocantinópolis,Brasil - Tocantinense,29/02/20 16:15:00,https://www.academiadasapostasbrasil.com/stats/match/brasil/tocantinense/atletico-cerrado/tocantinopolis/3201217,Atlético Cerrado,Terminado,1583003700
+Betinense,Brasil - Mineiro II,29/02/20 12:00:00,https://www.academiadasapostasbrasil.com/stats/match/brasil/mineiro-ii/betim/serranense/3191252,Betim,Terminado,1582988400
+Athletic Club,Brasil - Mineiro II,29/02/20 12:00:00,https://www.academiadasapostasbrasil.com/stats/match/brasil/mineiro-ii/pouso-alegre/athletic-club/3191253,Pouso Alegre,Terminado,1582988400
+Guarani MG,Brasil - Mineiro II,29/02/20 12:30:00,https://www.academiadasapostasbrasil.com/stats/match/brasil/mineiro-ii/mamore/guarani-mg/3191254,Mamoré,Terminado,1582990200
+Nacional AC MG,Brasil - Mineiro II,29/02/20 13:00:00,https://www.academiadasapostasbrasil.com/stats/match/brasil/mineiro-ii/cap-uberlandia/nacional-ac-mg/3191255,CAP Uberlândia,Terminado,1582992000
+Democrata GV,Brasil - Mineiro II,29/02/20 13:00:00,https://www.academiadasapostasbrasil.com/stats/match/brasil/mineiro-ii/ipatinga/democrata-gv/3191256,Ipatinga,Terminado,1582992000
+Democrata SL,Brasil - Mineiro II,29/02/20 13:00:00,https://www.academiadasapostasbrasil.com/stats/match/brasil/mineiro-ii/tupi/democrata-sl/3191257,Tupi,Terminado,1582992000
+Rio Preto,Brasil - Paulista A3,29/02/20 12:00:00,https://www.academiadasapostasbrasil.com/stats/match/brasil/paulista-a3/ec-sao-bernardo/rio-preto/3187318,São Bernardo,Terminado,1582988400
+Grêmio Osasco,Brasil - Paulista A3,29/02/20 12:00:00,https://www.academiadasapostasbrasil.com/stats/match/brasil/paulista-a3/nacional-sp/gremio-osasco/3187319,Nacional,Terminado,1582988400
+Capivariano,Brasil - Paulista A3,29/02/20 13:00:00,https://www.academiadasapostasbrasil.com/stats/match/brasil/paulista-a3/comercial/capivariano/3187316,Comercial,Terminado,1582992000
+Marília,Brasil - Paulista A3,29/02/20 13:00:00,https://www.academiadasapostasbrasil.com/stats/match/brasil/paulista-a3/paulista/marilia/3187321,Paulista,Terminado,1582992000

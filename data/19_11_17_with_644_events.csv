@@ -1,0 +1,645 @@
+back_team,countrie,datetime,event_link,home_team,status,timestamp
+Corinthians,Brasil - Brasileirão Série A,19/11/17 14:00:00,https://www.academiadasapostasbrasil.com/stats/match/brasil/brasileirao-serie-a/flamengo/corinthians/2419317,Flamengo,Terminado,1511110800
+Botafogo,Brasil - Brasileirão Série A,19/11/17 14:00:00,https://www.academiadasapostasbrasil.com/stats/match/brasil/brasileirao-serie-a/sao-paulo/botafogo/2419319,São Paulo,Terminado,1511110800
+Grêmio,Brasil - Brasileirão Série A,19/11/17 16:00:00,https://www.academiadasapostasbrasil.com/stats/match/brasil/brasileirao-serie-a/santos/gremio/2419318,Santos,Terminado,1511118000
+Juventus,Itália - Serie A TIM,19/11/17 09:00:00,https://www.academiadasapostasbrasil.com/stats/match/italia/serie-a-tim/sampdoria/juventus/2538903,Sampdoria,Terminado,1511092800
+Atalanta,Itália - Serie A TIM,19/11/17 14:45:00,https://www.academiadasapostasbrasil.com/stats/match/italia/serie-a-tim/internazionale/atalanta/2538900,Inter,Terminado,1511113500
+Bahia,Brasil - Brasileirão Série A,19/11/17 14:00:00,https://www.academiadasapostasbrasil.com/stats/match/brasil/brasileirao-serie-a/sport/bahia/2419322,Sport,Terminado,1511110800
+Cruzeiro,Brasil - Brasileirão Série A,19/11/17 14:00:00,https://www.academiadasapostasbrasil.com/stats/match/brasil/brasileirao-serie-a/vitoria/cruzeiro/2419323,Vitória,Terminado,1511110800
+Chapecoense,Brasil - Brasileirão Série A,19/11/17 14:00:00,https://www.academiadasapostasbrasil.com/stats/match/brasil/brasileirao-serie-a/atletico-go/chapecoense/2419324,Atlético GO,Terminado,1511110800
+Coritiba,Brasil - Brasileirão Série A,19/11/17 16:00:00,https://www.academiadasapostasbrasil.com/stats/match/brasil/brasileirao-serie-a/atletico-mg/coritiba/2419320,Atlético MG,Terminado,1511118000
+Vasco,Brasil - Brasileirão Série A,19/11/17 16:00:00,https://www.academiadasapostasbrasil.com/stats/match/brasil/brasileirao-serie-a/atletico-pr/vasco/2419321,Atlético PR,Terminado,1511118000
+Chacarita,Argentina - Campeonato Argentino,19/11/17 15:00:00,https://www.academiadasapostasbrasil.com/stats/match/argentina/campeonato-argentino/union-de-santa-fe/chacarita-juniors/2564849,Unión SF,Terminado,1511114400
+Estudiantes,Argentina - Campeonato Argentino,19/11/17 15:00:00,https://www.academiadasapostasbrasil.com/stats/match/argentina/campeonato-argentino/tigre/estudiantes-de-la-plata/2564856,Tigre,Terminado,1511114400
+Racing,Argentina - Campeonato Argentino,19/11/17 17:15:00,https://www.academiadasapostasbrasil.com/stats/match/argentina/campeonato-argentino/boca-juniors/racing/2564853,Boca,Terminado,1511122500
+Rosario,Argentina - Campeonato Argentino,19/11/17 19:30:00,https://www.academiadasapostasbrasil.com/stats/match/argentina/campeonato-argentino/talleres/rosario-central/2564854,Talleres,Terminado,1511130600
+Morelia,México - Primera Division,18/11/17 22:00:00,https://www.academiadasapostasbrasil.com/stats/match/mexico/primera-division/necaxa/monarcas-morelia/2463806,Necaxa,Terminado,1511053200
+Tijuana,México - Primera Division,19/11/17 13:00:00,https://www.academiadasapostasbrasil.com/stats/match/mexico/primera-division/toluca/tijuana/2463807,Toluca,Terminado,1511107200
+América,México - Primera Division,19/11/17 19:30:00,https://www.academiadasapostasbrasil.com/stats/match/mexico/primera-division/santos-laguna/america-mexico/2463808,Santos Laguna,Terminado,1511130600
+West Ham,Inglaterra - Barclays Premier League,19/11/17 11:00:00,https://www.academiadasapostasbrasil.com/stats/match/inglaterra/barclays-premier-league/watford/west-ham/2462912,Watford,Terminado,1511100000
+La Coruña,Espanha - Primera Division,19/11/17 06:00:00,https://www.academiadasapostasbrasil.com/stats/match/espanha/primera-division/malaga/deportivo-la-coruna/2529354,Málaga,Terminado,1511082000
+Valência,Espanha - Primera Division,19/11/17 10:15:00,https://www.academiadasapostasbrasil.com/stats/match/espanha/primera-division/espanyol/valencia/2529355,Espanyol,Terminado,1511097300
+Levante,Espanha - Primera Division,19/11/17 12:30:00,https://www.academiadasapostasbrasil.com/stats/match/espanha/primera-division/las-palmas/levante/2529357,Las Palmas,Terminado,1511105400
+Villarreal,Espanha - Primera Division,19/11/17 14:45:00,https://www.academiadasapostasbrasil.com/stats/match/espanha/primera-division/athletic-bilbao/villarreal/2529352,Athletic Club,Terminado,1511113500
+Hamburg,Alemanha - Bundesliga,19/11/17 09:30:00,https://www.academiadasapostasbrasil.com/stats/match/alemanha/bundesliga/schalke-04/hamburgo/2480366,Schalke 04,Terminado,1511094600
+Hannover,Alemanha - Bundesliga,19/11/17 12:00:00,https://www.academiadasapostasbrasil.com/stats/match/alemanha/bundesliga/werder-bremen/hannover/2480365,Bremen,Terminado,1511103600
+Nice,França - Ligue 1,19/11/17 09:00:00,https://www.academiadasapostasbrasil.com/stats/match/franca/ligue-1/caen/nice/2465027,Caen,Terminado,1511092800
+Montpellier,França - Ligue 1,19/11/17 11:00:00,https://www.academiadasapostasbrasil.com/stats/match/franca/ligue-1/lyon/montpellier/2465031,Lyon,Terminado,1511100000
+Marseille,França - Ligue 1,19/11/17 15:00:00,https://www.academiadasapostasbrasil.com/stats/match/franca/ligue-1/bordeaux/olympique-de-marseille/2465026,Bordeaux,Terminado,1511114400
+Genoa,Itália - Serie A TIM,19/11/17 06:30:00,https://www.academiadasapostasbrasil.com/stats/match/italia/serie-a-tim/crotone/genoa/2538898,Crotone,Terminado,1511083800
+Sassuolo,Itália - Serie A TIM,19/11/17 09:00:00,https://www.academiadasapostasbrasil.com/stats/match/italia/serie-a-tim/benevento/sassuolo/2538897,Benevento,Terminado,1511092800
+Fiorentina,Itália - Serie A TIM,19/11/17 09:00:00,https://www.academiadasapostasbrasil.com/stats/match/italia/serie-a-tim/spal/fiorentina/2538904,SPAL,Terminado,1511092800
+Chievo,Itália - Serie A TIM,19/11/17 09:00:00,https://www.academiadasapostasbrasil.com/stats/match/italia/serie-a-tim/torino/chievo/2538905,Torino,Terminado,1511092800
+Cagliari,Itália - Serie A TIM,19/11/17 09:00:00,https://www.academiadasapostasbrasil.com/stats/match/italia/serie-a-tim/udinese/cagliari/2538906,Udinese,Terminado,1511092800
+SuperSport Utd,África - Copa das Confederações Africanas,19/11/17 08:30:00,https://www.academiadasapostasbrasil.com/stats/match/africa/copa-das-confederacoes-africanas/tp-mazembe-englebert/supersport-united/2446754,Mazembe,Terminado,1511091000
+Cajamarca,Peru - Primera Division,19/11/17 11:00:00,https://www.academiadasapostasbrasil.com/stats/match/peru/primera-division/union-comercio/utc-cajamarca/2575663,Unión Comercio,Terminado,1511100000
+Ayacucho,Peru - Primera Division,19/11/17 12:30:00,https://www.academiadasapostasbrasil.com/stats/match/peru/primera-division/alianza-atletico/ayacucho/2575659,Alianza Atl.,Terminado,1511105400
+Alianza,Peru - Primera Division,19/11/17 13:15:00,https://www.academiadasapostasbrasil.com/stats/match/peru/primera-division/juan-aurich/alianza-lima/2575664,Juan Aurich,Terminado,1511108100
+Cristal,Peru - Primera Division,19/11/17 15:30:00,https://www.academiadasapostasbrasil.com/stats/match/peru/primera-division/universitario-lima/sporting-cristal/2575665,Universitario,Terminado,1511116200
+Defensor Sp.,Uruguai - Primera Division,19/11/17 14:00:00,https://www.academiadasapostasbrasil.com/stats/match/uruguai/primera-division/boston-river/defensor/2560006,Boston River,Terminado,1511110800
+Danubio,Uruguai - Primera Division,19/11/17 15:00:00,https://www.academiadasapostasbrasil.com/stats/match/uruguai/primera-division/racing/danubio/2560003,Racing,Terminado,1511114400
+Sud América,Uruguai - Primera Division,19/11/17 15:00:00,https://www.academiadasapostasbrasil.com/stats/match/uruguai/primera-division/liverpool-montevideo/sud-america/2560005,Liverpool,Terminado,1511114400
+Rampla Juniors,Uruguai - Primera Division,19/11/17 15:00:00,https://www.academiadasapostasbrasil.com/stats/match/uruguai/primera-division/wanderers/rampla-juniors/2560007,Wanderers,Terminado,1511114400
+Plaza Colonia,Uruguai - Primera Division,19/11/17 17:00:00,https://www.academiadasapostasbrasil.com/stats/match/uruguai/primera-division/penarol/plaza-colonia/2560002,Peñarol,Terminado,1511121600
+Middlesbrough,Inglaterra - Championship,19/11/17 08:15:00,https://www.academiadasapostasbrasil.com/stats/match/inglaterra/championship/leeds-united/middlesbrough/2467407,Leeds,Terminado,1511090100
+Tarragona,Espanha - Liga Adelante,19/11/17 06:00:00,https://www.academiadasapostasbrasil.com/stats/match/espanha/liga-adelante/numancia/gimnastic/2531340,Numancia,Terminado,1511082000
+Barcelona II,Espanha - Liga Adelante,19/11/17 10:00:00,https://www.academiadasapostasbrasil.com/stats/match/espanha/liga-adelante/rayo-vallecano/barcelona-ii/2531338,Vallecano,Terminado,1511096400
+Córdoba,Espanha - Liga Adelante,19/11/17 12:00:00,https://www.academiadasapostasbrasil.com/stats/match/espanha/liga-adelante/sevilla-ii/cordoba/2531331,Sevilla II,Terminado,1511103600
+Alcorcón,Espanha - Liga Adelante,19/11/17 12:00:00,https://www.academiadasapostasbrasil.com/stats/match/espanha/liga-adelante/osasuna/alcorcon/2531336,Osasuna,Terminado,1511103600
+Granada,Espanha - Liga Adelante,19/11/17 14:00:00,https://www.academiadasapostasbrasil.com/stats/match/espanha/liga-adelante/cultural-leonesa/granada/2531337,Leonesa,Terminado,1511110800
+Cádiz,Espanha - Liga Adelante,19/11/17 14:30:00,https://www.academiadasapostasbrasil.com/stats/match/espanha/liga-adelante/sporting-gijon/cadiz/2531334,Gijón,Terminado,1511112600
+Genk,Bélgica - 1e Klasse,19/11/17 08:30:00,https://www.academiadasapostasbrasil.com/stats/match/belgica/1e-klasse/zulte-waregem/genk/2461984,ZW,Terminado,1511091000
+WB,Bélgica - 1e Klasse,19/11/17 12:00:00,https://www.academiadasapostasbrasil.com/stats/match/belgica/1e-klasse/club-brugge/waasland-beveren/2461979,Club Brugge,Terminado,1511103600
+Gent,Bélgica - 1e Klasse,19/11/17 14:00:00,https://www.academiadasapostasbrasil.com/stats/match/belgica/1e-klasse/lokeren/gent/2461985,Lokeren,Terminado,1511110800
+Cremonese,Itália - Serie B,19/11/17 11:30:00,https://www.academiadasapostasbrasil.com/stats/match/italia/serie-b/salernitana/cremonese/2560195,Salernitana,Terminado,1511101800
+Marítimo,Portugal - Taça de Portugal,19/11/17 09:30:00,https://www.academiadasapostasbrasil.com/stats/match/portugal/taca-de-portugal/oliveirense/maritimo/2641902,Oliveirense,Terminado,1511094600
+Aves,Portugal - Taça de Portugal,19/11/17 10:00:00,https://www.academiadasapostasbrasil.com/stats/match/portugal/taca-de-portugal/uniao-leiria/desportivo-aves/2641887,União Leiria,Terminado,1511096400
+Nacional,Portugal - Taça de Portugal,19/11/17 10:00:00,https://www.academiadasapostasbrasil.com/stats/match/portugal/taca-de-portugal/academica-de-coimbra/nacional-de-funchal/2641888,Académica,Terminado,1511096400
+Freamunde,Portugal - Taça de Portugal,19/11/17 10:00:00,https://www.academiadasapostasbrasil.com/stats/match/portugal/taca-de-portugal/uniao-madeira/freamunde/2641894,União Madeira,Terminado,1511096400
+Vilaverdense,Portugal - Taça de Portugal,19/11/17 10:00:00,https://www.academiadasapostasbrasil.com/stats/match/portugal/taca-de-portugal/vizela/vilaverdense/2641895,Vizela,Terminado,1511096400
+Arouca,Portugal - Taça de Portugal,19/11/17 10:00:00,https://www.academiadasapostasbrasil.com/stats/match/portugal/taca-de-portugal/caldas/arouca/2641897,Caldas,Terminado,1511096400
+Leixões,Portugal - Taça de Portugal,19/11/17 10:00:00,https://www.academiadasapostasbrasil.com/stats/match/portugal/taca-de-portugal/farense/leixoes/2641900,Farense,Terminado,1511096400
+Felgueiras,Portugal - Taça de Portugal,19/11/17 10:00:00,https://www.academiadasapostasbrasil.com/stats/match/portugal/taca-de-portugal/moreirense/felgueiras-1932/2641901,Moreirense,Terminado,1511096400
+Chaves,Portugal - Taça de Portugal,19/11/17 11:00:00,https://www.academiadasapostasbrasil.com/stats/match/portugal/taca-de-portugal/santa-clara/chaves/2641889,Santa Clara,Terminado,1511100000
+Cova Piedade,Portugal - Taça de Portugal,19/11/17 11:00:00,https://www.academiadasapostasbrasil.com/stats/match/portugal/taca-de-portugal/ideal/cova-piedade/2641890,Ideal,Terminado,1511100000
+Vilafranquense,Portugal - Taça de Portugal,19/11/17 11:00:00,https://www.academiadasapostasbrasil.com/stats/match/portugal/taca-de-portugal/praiense/vilafranquense/2641899,Praiense,Terminado,1511100000
+Feirense,Portugal - Taça de Portugal,19/11/17 15:15:00,https://www.academiadasapostasbrasil.com/stats/match/portugal/taca-de-portugal/vitoria-de-guimaraes/feirense/2641896,Guimarães,Terminado,1511115300
+Düsseldorf,Alemanha - 2. Liga,19/11/17 07:30:00,https://www.academiadasapostasbrasil.com/stats/match/alemanha/2-liga/ingolstadt/fortuna-dusseldorf/2480686,Ingolstadt,Terminado,1511087400
+Regensburg,Alemanha - 2. Liga,19/11/17 07:30:00,https://www.academiadasapostasbrasil.com/stats/match/alemanha/2-liga/st-pauli/jahn-regensburg/2480690,St. Pauli,Terminado,1511087400
+Aue,Alemanha - 2. Liga,19/11/17 07:30:00,https://www.academiadasapostasbrasil.com/stats/match/alemanha/2-liga/duisburg/erzgebirge-aue/2480694,Duisburg,Terminado,1511087400
+Vimy,França - Coupe de France,19/11/17 08:00:00,https://www.academiadasapostasbrasil.com/stats/match/franca/coupe-de-france/senlis/vimy/2652886,Senlis,Terminado,1511089200
+Saint Avold Naborienne,França - Coupe de France,19/11/17 08:00:00,https://www.academiadasapostasbrasil.com/stats/match/franca/coupe-de-france/still/saint-avold-naborienne/2652904,Still,Terminado,1511089200
+Heracles,Holanda - Eredivisie,19/11/17 06:30:00,https://www.academiadasapostasbrasil.com/stats/match/holanda/eredivisie/ado-den-haag/heracles-almelo/2462441,ADO,Terminado,1511083800
+PSV,Holanda - Eredivisie,19/11/17 08:30:00,https://www.academiadasapostasbrasil.com/stats/match/holanda/eredivisie/zwolle/psv-eindhoven/2462442,Zwolle,Terminado,1511091000
+Excelsior,Holanda - Eredivisie,19/11/17 08:30:00,https://www.academiadasapostasbrasil.com/stats/match/holanda/eredivisie/utrecht/excelsior/2462443,Utrecht,Terminado,1511091000
+Vitesse,Holanda - Eredivisie,19/11/17 08:30:00,https://www.academiadasapostasbrasil.com/stats/match/holanda/eredivisie/groningen/vitesse/2462444,Groningen,Terminado,1511091000
+AZ,Holanda - Eredivisie,19/11/17 10:45:00,https://www.academiadasapostasbrasil.com/stats/match/holanda/eredivisie/roda/az-alkmaar/2462445,Roda,Terminado,1511099100
+Kayserispor,Turquia - Super LIga,19/11/17 06:00:00,https://www.academiadasapostasbrasil.com/stats/match/turquia/super-liga/genclerbirligi/kayserispor/2506794,Gençlerbirliği,Terminado,1511082000
+Yeni Malatya,Turquia - Super LIga,19/11/17 06:00:00,https://www.academiadasapostasbrasil.com/stats/match/turquia/super-liga/alanyaspor/yeni-malatyaspor/2506797,Alanya,Terminado,1511082000
+Osmanlıspor,Turquia - Super LIga,19/11/17 08:30:00,https://www.academiadasapostasbrasil.com/stats/match/turquia/super-liga/trabzonspor/ankaraspor/2506796,Trabzon,Terminado,1511091000
+Sivas,Turquia - Super LIga,19/11/17 11:30:00,https://www.academiadasapostasbrasil.com/stats/match/turquia/super-liga/fenerbahce/sivasspor/2506795,Fenerbahçe,Terminado,1511101800
+Stal Dn,Ucrânia - Liga Premier,19/11/17 07:00:00,https://www.academiadasapostasbrasil.com/stats/match/ucrania/liga-premier/vorskla-poltava/stal-kamianske/2460799,Vorskla,Terminado,1511085600
+Olimpik D,Ucrânia - Liga Premier,19/11/17 12:30:00,https://www.academiadasapostasbrasil.com/stats/match/ucrania/liga-premier/chornomorets-odessa/olimpik-donetsk/2460802,Chornomorets,Terminado,1511105400
+Trelleborg,Suécia - Play-offs 1/2,19/11/17 08:45:00,https://www.academiadasapostasbrasil.com/stats/match/suecia/play-offs-1-2/jonkopings-sodra/trelleborg/2678189,Jönköpings S,Terminado,1511091900
+Sturm,Áustria - Bundesliga,19/11/17 10:30:00,https://www.academiadasapostasbrasil.com/stats/match/austria/bundesliga/salzburg/sturm-graz/2469150,Salzburg,Terminado,1511098200
+Pasto,Colômbia - Primera División,19/11/17 09:00:00,https://www.academiadasapostasbrasil.com/stats/match/colombia/primera-division/junior-barranquilla/deportivo-pasto/2477066,Junior,Terminado,1511092800
+Tolima,Colômbia - Primera División,19/11/17 19:30:00,https://www.academiadasapostasbrasil.com/stats/match/colombia/primera-division/la-equidad/tolima/2477065,Equidad,Terminado,1511130600
+Lokomotiva,Croácia - 1. HNL,19/11/17 09:00:00,https://www.academiadasapostasbrasil.com/stats/match/croacia/1-hnl/dinamo-zagreb/lokomotiva-zagreb/2489203,Dinamo Zagreb,Terminado,1511092800
+Hajduk,Croácia - 1. HNL,19/11/17 12:00:00,https://www.academiadasapostasbrasil.com/stats/match/croacia/1-hnl/istra-1961/hajduk-split/2489206,Istra,Terminado,1511103600
+Nea Salamis,Chipre - 1. Division,19/11/17 09:00:00,https://www.academiadasapostasbrasil.com/stats/match/chipre/1-division/ael-limassol/nea-salamis/2502680,AEL,Terminado,1511092800
+Anorthosis,Chipre - 1. Division,19/11/17 11:00:00,https://www.academiadasapostasbrasil.com/stats/match/chipre/1-division/ermis/anorthosis-famagusta/2502679,Ermis,Terminado,1511100000
+Jablonec,República Tcheca - Czech Liga,19/11/17 09:00:00,https://www.academiadasapostasbrasil.com/stats/match/republica-tcheca/czech-liga/karvina/jablonec/2472425,Karviná,Terminado,1511092800
+Bohemians 1905,República Tcheca - Czech Liga,19/11/17 09:00:00,https://www.academiadasapostasbrasil.com/stats/match/republica-tcheca/czech-liga/mlada-boleslav/bohemians-praga/2472430,Mladá Boleslav,Terminado,1511092800
+Randers,Dinamarca - Superligaen,19/11/17 06:00:00,https://www.academiadasapostasbrasil.com/stats/match/dinamarca/superligaen/lyngby/randers/2460419,Lyngby,Terminado,1511082000
+OB,Dinamarca - Superligaen,19/11/17 08:00:00,https://www.academiadasapostasbrasil.com/stats/match/dinamarca/superligaen/horsens/odense/2460418,Horsens,Terminado,1511089200
+København,Dinamarca - Superligaen,19/11/17 10:00:00,https://www.academiadasapostasbrasil.com/stats/match/dinamarca/superligaen/sonderjyske/kobenhavn/2460420,SønderjyskE,Terminado,1511096400
+Nordsjælland,Dinamarca - Superligaen,19/11/17 12:00:00,https://www.academiadasapostasbrasil.com/stats/match/dinamarca/superligaen/brondby/nordsjaelland/2460416,Brøndby,Terminado,1511103600
+Panionios,Grécia - Super Liga,19/11/17 08:00:00,https://www.academiadasapostasbrasil.com/stats/match/grecia/super-liga/xanthi/panionios/2588475,Xanthi,Terminado,1511089200
+Panaitolikos,Grécia - Super Liga,19/11/17 10:15:00,https://www.academiadasapostasbrasil.com/stats/match/grecia/super-liga/giannina/panaitolikos/2588476,Giannina,Terminado,1511097300
+Asteras,Grécia - Super Liga,19/11/17 10:15:00,https://www.academiadasapostasbrasil.com/stats/match/grecia/super-liga/platanias/asteras-tripolis/2588477,Platanias,Terminado,1511097300
+AEK,Grécia - Super Liga,19/11/17 12:30:00,https://www.academiadasapostasbrasil.com/stats/match/grecia/super-liga/panathinaikos/aek/2588478,Panathinaikos,Terminado,1511105400
+Kissamikos,Grécia - B Ethniki,19/11/17 08:00:00,https://www.academiadasapostasbrasil.com/stats/match/grecia/b-ethniki/panachaiki/kissamikos/2622455,Panachaiki,Terminado,1511089200
+Veria,Grécia - B Ethniki,19/11/17 08:00:00,https://www.academiadasapostasbrasil.com/stats/match/grecia/b-ethniki/acharnaikos/veria/2622456,Acharnaikos,Terminado,1511089200
+Aris,Grécia - B Ethniki,19/11/17 08:00:00,https://www.academiadasapostasbrasil.com/stats/match/grecia/b-ethniki/ergotelis-heraklion/aris-saloniki/2622457,Ergotelis,Terminado,1511089200
+Sparta,Grécia - B Ethniki,19/11/17 08:00:00,https://www.academiadasapostasbrasil.com/stats/match/grecia/b-ethniki/karaiskakis/sparta/2622458,Karaiskakis,Terminado,1511089200
+Doxa,Grécia - B Ethniki,19/11/17 08:00:00,https://www.academiadasapostasbrasil.com/stats/match/grecia/b-ethniki/kallithea/doxa-dramas/2622459,Kallithea,Terminado,1511089200
+Panserraikos,Grécia - B Ethniki,19/11/17 08:00:00,https://www.academiadasapostasbrasil.com/stats/match/grecia/b-ethniki/apollon-larissa/panserraikos/2622460,Apollon,Terminado,1511089200
+Anagennisi K,Grécia - B Ethniki,19/11/17 08:00:00,https://www.academiadasapostasbrasil.com/stats/match/grecia/b-ethniki/kalamaria/anagennisi-karditsas/2622462,Apollon K,Terminado,1511089200
+Panegialios,Grécia - B Ethniki,19/11/17 08:00:00,https://www.academiadasapostasbrasil.com/stats/match/grecia/b-ethniki/aiginiakos/panegialios/2622463,Aiginiakos,Terminado,1511089200
+Sandefjord,Noruega - Tippeligaen,19/11/17 12:00:00,https://www.academiadasapostasbrasil.com/stats/match/noruega/tippeligaen/kristiansund/sandefjord/2384069,Kristiansund,Terminado,1511103600
+Molde,Noruega - Tippeligaen,19/11/17 12:00:00,https://www.academiadasapostasbrasil.com/stats/match/noruega/tippeligaen/lillestrom/molde/2384070,Lillestrøm,Terminado,1511103600
+Viking,Noruega - Tippeligaen,19/11/17 12:00:00,https://www.academiadasapostasbrasil.com/stats/match/noruega/tippeligaen/rosenborg/viking/2384071,Rosenborg,Terminado,1511103600
+Aalesund,Noruega - Tippeligaen,19/11/17 12:00:00,https://www.academiadasapostasbrasil.com/stats/match/noruega/tippeligaen/sarpsborg-08/aalesund/2384072,Sarpsborg,Terminado,1511103600
+Sogndal,Noruega - Tippeligaen,19/11/17 12:00:00,https://www.academiadasapostasbrasil.com/stats/match/noruega/tippeligaen/stabaek/sogndal/2384073,Stabæk,Terminado,1511103600
+Brann,Noruega - Tippeligaen,19/11/17 12:00:00,https://www.academiadasapostasbrasil.com/stats/match/noruega/tippeligaen/stromsgodset/brann-bergen/2384074,Strømsgodset,Terminado,1511103600
+Haugesund,Noruega - Tippeligaen,19/11/17 12:00:00,https://www.academiadasapostasbrasil.com/stats/match/noruega/tippeligaen/tromso/haugesund/2384075,Tromsø,Terminado,1511103600
+Odd,Noruega - Tippeligaen,19/11/17 12:00:00,https://www.academiadasapostasbrasil.com/stats/match/noruega/tippeligaen/valerenga/odd-grenland-skien/2384076,Vålerenga,Terminado,1511103600
+Ranheim,Noruega - Adeccoligaen,19/11/17 08:00:00,https://www.academiadasapostasbrasil.com/stats/match/noruega/adeccoligaen/mjondalen/ranheim/2683182,Mjøndalen,Terminado,1511089200
+Trinidense,Paraguai - Division Profesional,19/11/17 16:00:00,https://www.academiadasapostasbrasil.com/stats/match/paraguai/division-profesional/olimpia/sportivo-trinidense/2607436,Olimpia,Terminado,1511118000
+Guaraní,Paraguai - Division Profesional,19/11/17 18:10:00,https://www.academiadasapostasbrasil.com/stats/match/paraguai/division-profesional/sportivo-luqueno/guarani-asuncion/2607439,Luqueño,Terminado,1511125800
+Arka,Polônia - Ekstraklasa,19/11/17 09:30:00,https://www.academiadasapostasbrasil.com/stats/match/polonia/ekstraklasa/slask-wroclaw/arka-gdynia/2461157,Śląsk,Terminado,1511094600
+Górnik,Polônia - Ekstraklasa,19/11/17 12:00:00,https://www.academiadasapostasbrasil.com/stats/match/polonia/ekstraklasa/legia-varsovia/gornik-zabrze/2461154,Legia,Terminado,1511103600
+Venados,México - Primera A,18/11/17 22:00:00,https://www.academiadasapostasbrasil.com/stats/match/mexico/primera-a/juarez/venados/2683123,Juárez,Terminado,1511053200
+Alebrijes,México - Primera A,19/11/17 17:00:00,https://www.academiadasapostasbrasil.com/stats/match/mexico/primera-a/coras-de-tepic/alebrijes-de-oaxaca/2683122,Tepic,Terminado,1511121600
+Mineros,México - Primera A,19/11/17 21:00:00,https://www.academiadasapostasbrasil.com/stats/match/mexico/primera-a/tampico-madero/mineros-de-zacatecas/2683124,Tampico,Terminado,1511136000
+Ural,Rússia - Premier League,19/11/17 03:30:00,https://www.academiadasapostasbrasil.com/stats/match/russia/premier-league/ufa/ural/2461405,Ufa,Terminado,1511073000
+Lokomotiv M,Rússia - Premier League,19/11/17 06:00:00,https://www.academiadasapostasbrasil.com/stats/match/russia/premier-league/anzhi-makhachkala/lokomotiv-moscou/2461400,Anzhi,Terminado,1511082000
+Amkar,Rússia - Premier League,19/11/17 08:30:00,https://www.academiadasapostasbrasil.com/stats/match/russia/premier-league/rostov/amkar-perm/2461407,Rostov,Terminado,1511091000
+Tosno,Rússia - Premier League,19/11/17 11:00:00,https://www.academiadasapostasbrasil.com/stats/match/russia/premier-league/zenit-st-petersburg/tosno/2461403,Zenit,Terminado,1511100000
+Zenit SPb II,Rússia - 1ª Divisão,19/11/17 05:00:00,https://www.academiadasapostasbrasil.com/stats/match/russia/1-divisao/tambov/zenit-ii/2472891,Tambov,Terminado,1511078400
+Partick,Escócia - Premier League,19/11/17 10:00:00,https://www.academiadasapostasbrasil.com/stats/match/escocia/premier-league/heart-of-midlothian/partick-thistle/2473858,Midlothian,Terminado,1511096400
+Falkirk,Escócia - 1ª Divisão,19/11/17 10:00:00,https://www.academiadasapostasbrasil.com/stats/match/escocia/1-divisao/dundee-united/falkirk/2474096,Dundee Utd,Terminado,1511096400
+Thun,Suíça - Super Liga,19/11/17 10:00:00,https://www.academiadasapostasbrasil.com/stats/match/suica/super-liga/grasshopper/thun/2467091,Grasshopper,Terminado,1511096400
+Luzern,Suíça - Super Liga,19/11/17 10:00:00,https://www.academiadasapostasbrasil.com/stats/match/suica/super-liga/lausanne/luzern/2467092,Lausanne,Terminado,1511096400
+Zürich,Suíça - Super Liga,19/11/17 10:00:00,https://www.academiadasapostasbrasil.com/stats/match/suica/super-liga/young-boys/fc-zurich/2467094,Young Boys,Terminado,1511096400
+Mačva,Sérvia - Super Liga,19/11/17 07:00:00,https://www.academiadasapostasbrasil.com/stats/match/servia/super-liga/zemun/macva-sabac/2473180,Zemun,Terminado,1511085600
+Partizan,Sérvia - Super Liga,19/11/17 07:00:00,https://www.academiadasapostasbrasil.com/stats/match/servia/super-liga/javor-ivanjica/partizan-belgrado/2473187,Javor,Terminado,1511085600
+Borac,Sérvia - Super Liga,19/11/17 11:00:00,https://www.academiadasapostasbrasil.com/stats/match/servia/super-liga/spartak-subotica/borac-cacak/2473186,Spartak,Terminado,1511100000
+Astra,Romênia - Liga I,19/11/17 11:00:00,https://www.academiadasapostasbrasil.com/stats/match/romenia/liga-i/concordia-chiajna/astra-ploiesti/2502470,Concordia,Terminado,1511100000
+CFR,Romênia - Liga I,19/11/17 13:45:00,https://www.academiadasapostasbrasil.com/stats/match/romenia/liga-i/dinamo-bucareste/cluj/2502475,Dinamo,Terminado,1511109900
+Independiente,Argentina - Primera B Nacional,19/11/17 15:00:00,https://www.academiadasapostasbrasil.com/stats/match/argentina/primera-b-nacional/brown-de-adrogue/independiente-rivadavia/2577042,Brown Adrogué,Terminado,1511114400
+Boca Unidos,Argentina - Primera B Nacional,19/11/17 15:00:00,https://www.academiadasapostasbrasil.com/stats/match/argentina/primera-b-nacional/almagro/boca-unidos/2577047,Almagro,Terminado,1511114400
+All Boys,Argentina - Primera B Nacional,19/11/17 15:00:00,https://www.academiadasapostasbrasil.com/stats/match/argentina/primera-b-nacional/flandria/all-boys/2577051,Flandria,Terminado,1511114400
+Aldosivi,Argentina - Primera B Nacional,19/11/17 15:00:00,https://www.academiadasapostasbrasil.com/stats/match/argentina/primera-b-nacional/guillermo-brown/aldosivi/2577052,Guillermo Br,Terminado,1511114400
+Quilmes,Argentina - Primera B Nacional,19/11/17 16:00:00,https://www.academiadasapostasbrasil.com/stats/match/argentina/primera-b-nacional/san-martin-de-tucuman/quilmes/2577046,SM Tucumán,Terminado,1511118000
+Gimn Jujuy,Argentina - Primera B Nacional,19/11/17 17:00:00,https://www.academiadasapostasbrasil.com/stats/match/argentina/primera-b-nacional/estudiantes-de-san-luis/gimnasia-y-esgrima-jujuy/2577043,Estudiantes SL,Terminado,1511121600
+Mel Victory,Austrália - A-League,19/11/17 03:00:00,https://www.academiadasapostasbrasil.com/stats/match/australia/a-league/perth-glory/melbourne-victory/2478922,Perth,Terminado,1511071200
+Cherno More,Bulgária - A PFG,19/11/17 05:30:00,https://www.academiadasapostasbrasil.com/stats/match/bulgaria/a-pfg/dunav-2010/cherno-more-varna/2473723,Dunav,Terminado,1511080200
+Levski,Bulgária - A PFG,19/11/17 10:30:00,https://www.academiadasapostasbrasil.com/stats/match/bulgaria/a-pfg/vitosha-bistritsa/levski-sofia/2473725,Bistritsa,Terminado,1511098200
+Atlantas,Lituânia - A Lyga,19/11/17 06:00:00,https://www.academiadasapostasbrasil.com/stats/match/lituania/a-lyga/lietava/atlantas-klaipeda/2644609,Lietava,Terminado,1511082000
+Žalgiris,Lituânia - A Lyga,19/11/17 06:00:00,https://www.academiadasapostasbrasil.com/stats/match/lituania/a-lyga/suduva-marijampole/zalgiris-vilnius/2644610,Sūduva,Terminado,1511082000
+Trakai,Lituânia - A Lyga,19/11/17 06:00:00,https://www.academiadasapostasbrasil.com/stats/match/lituania/a-lyga/utenis-utena/trakai/2644611,Utenis,Terminado,1511082000
+Jeju Utd,Coreia do Sul - K-League,19/11/17 01:00:00,https://www.academiadasapostasbrasil.com/stats/match/coreia-do-sul/k-league/seoul/jeju-united/2626469,Seoul,Terminado,1511064000
+Suwon,Coreia do Sul - K-League,19/11/17 01:00:00,https://www.academiadasapostasbrasil.com/stats/match/coreia-do-sul/k-league/jeonbuk-motors/suwon-bluewings/2626470,Jeonbuk Motors,Terminado,1511064000
+Ulsan,Coreia do Sul - K-League,19/11/17 01:00:00,https://www.academiadasapostasbrasil.com/stats/match/coreia-do-sul/k-league/gangwon/ulsan-horang-i/2626471,Gangwon,Terminado,1511064000
+Gifu,Japão - Liga J2,19/11/17 02:00:00,https://www.academiadasapostasbrasil.com/stats/match/japao/liga-j2/montedio-yamagata/gifu/2402812,Montedio,Terminado,1511067600
+V-Varen,Japão - Liga J2,19/11/17 02:00:00,https://www.academiadasapostasbrasil.com/stats/match/japao/liga-j2/thespakusatsu-gunma/v-varen-nagasaki/2402813,ThespaKusatsu,Terminado,1511067600
+Yokohama,Japão - Liga J2,19/11/17 02:00:00,https://www.academiadasapostasbrasil.com/stats/match/japao/liga-j2/jef-united/yokohama/2402814,JEF Utd,Terminado,1511067600
+Tokushima,Japão - Liga J2,19/11/17 02:00:00,https://www.academiadasapostasbrasil.com/stats/match/japao/liga-j2/tokyo-verdy/tokushima-vortis/2402815,Tokyo Verdy,Terminado,1511067600
+Machida,Japão - Liga J2,19/11/17 02:00:00,https://www.academiadasapostasbrasil.com/stats/match/japao/liga-j2/shonan-bellmare/machida-zelvia/2402816,Shonan,Terminado,1511067600
+Kyoto,Japão - Liga J2,19/11/17 02:00:00,https://www.academiadasapostasbrasil.com/stats/match/japao/liga-j2/matsumoto-yamaga/kyoto-sanga/2402817,Matsumoto,Terminado,1511067600
+Mito,Japão - Liga J2,19/11/17 02:00:00,https://www.academiadasapostasbrasil.com/stats/match/japao/liga-j2/zweigen-kanazawa/mito-hollyhock/2402818,Zweigen,Terminado,1511067600
+Avispa,Japão - Liga J2,19/11/17 02:00:00,https://www.academiadasapostasbrasil.com/stats/match/japao/liga-j2/fagiano-okayama/avispa-fukuoka/2402819,Fagiano,Terminado,1511067600
+Ehime,Japão - Liga J2,19/11/17 02:00:00,https://www.academiadasapostasbrasil.com/stats/match/japao/liga-j2/renofa-yamaguchi/ehime/2402820,Renofa,Terminado,1511067600
+Nagoya,Japão - Liga J2,19/11/17 02:00:00,https://www.academiadasapostasbrasil.com/stats/match/japao/liga-j2/kamatamare-sanuki/nagoya-grampus/2402821,Kamatamare,Terminado,1511067600
+Kumamoto,Japão - Liga J2,19/11/17 02:00:00,https://www.academiadasapostasbrasil.com/stats/match/japao/liga-j2/oita-trinita/roasso-kumamoto/2402822,Oita,Terminado,1511067600
+Estônia,Mundo - Amistoso,18/11/17 21:00:00,https://www.academiadasapostasbrasil.com/stats/match/mundo/amistoso/fiji/estonia/2458991,Fiji,Terminado,1511049600
+Guápiles,Costa Rica - Primera Division,18/11/17 21:00:00,https://www.academiadasapostasbrasil.com/stats/match/costa-rica/primera-division/herediano/santos-de-guapiles/2477913,Herediano,Terminado,1511049600
+Wellington,Nova Zelândia - Premier League,18/11/17 22:35:00,https://www.academiadasapostasbrasil.com/stats/match/nova-zelandia/premier-league/hamilton-wanderers/team-wellington/2589561,Hamilton Wanderers,Terminado,1511055300
+Rangers,Hong Kong - 1ª Divisão HKFA,19/11/17 01:30:00,https://www.academiadasapostasbrasil.com/stats/match/hong-kong/1-divisao-hkfa/bcgs-hong-kong-sapling/rangers/2561767,BCGS Hong Kong Sapling,Terminado,1511065800
+Kitchee,Hong Kong - 1ª Divisão HKFA,19/11/17 04:30:00,https://www.academiadasapostasbrasil.com/stats/match/hong-kong/1-divisao-hkfa/yuen-long/kitchee-fc/2561768,Yuen Long,Terminado,1511076600
+Quang Nam,Vietnã - V-League,19/11/17 05:00:00,https://www.academiadasapostasbrasil.com/stats/match/vietna/v-league/ha-noi-tt/quang-nam/2423128,T&T,Terminado,1511078400
+Ha Noi,Vietnã - V-League,19/11/17 05:00:00,https://www.academiadasapostasbrasil.com/stats/match/vietna/v-league/da-nang/sai-gon/2423129,Da Nang,Terminado,1511078400
+SLNA,Vietnã - V-League,19/11/17 05:00:00,https://www.academiadasapostasbrasil.com/stats/match/vietna/v-league/can-tho/song-lam-nghe-an/2423130,Can Tho,Terminado,1511078400
+Long An,Vietnã - V-League,19/11/17 05:00:00,https://www.academiadasapostasbrasil.com/stats/match/vietna/v-league/binh-duong/long-an-tan-an/2423131,Binh Duong,Terminado,1511078400
+Sanna,Vietnã - V-League,19/11/17 05:00:00,https://www.academiadasapostasbrasil.com/stats/match/vietna/v-league/flc-thanh-hoa/sanna-khanh-hoa/2423132,FLC Thanh Hoa,Terminado,1511078400
+HAGL,Vietnã - V-League,19/11/17 05:00:00,https://www.academiadasapostasbrasil.com/stats/match/vietna/v-league/hai-phong/gia-lai-plei-ku/2423133,Hai Phong,Terminado,1511078400
+Quang Ninh,Vietnã - V-League,19/11/17 05:00:00,https://www.academiadasapostasbrasil.com/stats/match/vietna/v-league/ho-chi-minh/than-quang-ninh/2423134,Hồ Chí Minh,Terminado,1511078400
+Pyunik,Armênia - Liga,19/11/17 06:00:00,https://www.academiadasapostasbrasil.com/stats/match/armenia/liga/ararat-yerevan/pyunik-yerevan/2556189,Ararat,Terminado,1511082000
+Trnava,Eslováquia - Super Liga,19/11/17 08:00:00,https://www.academiadasapostasbrasil.com/stats/match/eslovaquia/super-liga/slovan-bratislava/spartak-trnava/2458697,Slovan,Terminado,1511089200
+Flamurtari,Albânia - Super Liga,19/11/17 08:00:00,https://www.academiadasapostasbrasil.com/stats/match/albania/super-liga/lushnja/flamurtari/2506223,Lushnja,Terminado,1511089200
+Sliema,Malta - Premier Division,19/11/17 08:00:00,https://www.academiadasapostasbrasil.com/stats/match/malta/premier-division/floriana/sliema-wanderers/2557354,Floriana,Terminado,1511089200
+Qabala,Azerbaijão - Supreme League,19/11/17 08:00:00,https://www.academiadasapostasbrasil.com/stats/match/azerbaijao/supreme-league/neftchi-baku/qabala/2563673,Neftçi,Terminado,1511089200
+Umm Salal,Catar - Liga,19/11/17 08:00:00,https://www.academiadasapostasbrasil.com/stats/match/catar/liga/al-sadd/umm-salal/2573636,Sadd,Terminado,1511089200
+Krško,Eslovênia - 1. SNL,19/11/17 09:00:00,https://www.academiadasapostasbrasil.com/stats/match/eslovenia/1-snl/domzale/krsko/2474808,Domžale,Terminado,1511092800
+Esch,Luxemburgo - Divisão Nacional,19/11/17 09:00:00,https://www.academiadasapostasbrasil.com/stats/match/luxemburgo/divisao-nacional/una-strassen/la-jeunesse-d-esch/2500597,Strassen,Terminado,1511092800
+Rosport,Luxemburgo - Divisão Nacional,19/11/17 09:00:00,https://www.academiadasapostasbrasil.com/stats/match/luxemburgo/divisao-nacional/progres-niedercorn/victoria-rosport/2500600,Progrès,Terminado,1511092800
+Cefn,País de Gales - Premier League,19/11/17 09:30:00,https://www.academiadasapostasbrasil.com/stats/match/pais-de-gales/premier-league/cardiff-mu/cefn-druids/2474684,Cardiff MU,Terminado,1511094600
+GOŠK,Bósnia-Herzegovina - Premier Liga,19/11/17 10:00:00,https://www.academiadasapostasbrasil.com/stats/match/bosnia-herzegovina/premier-liga/siroki-brijeg/gosk-gabela/2479104,Široki Brijeg,Terminado,1511096400
+Dudelange,Luxemburgo - Divisão Nacional,19/11/17 10:00:00,https://www.academiadasapostasbrasil.com/stats/match/luxemburgo/divisao-nacional/esch/dudelange/2500595,Esch,Terminado,1511096400
+Mondorf,Luxemburgo - Divisão Nacional,19/11/17 10:00:00,https://www.academiadasapostasbrasil.com/stats/match/luxemburgo/divisao-nacional/petange/mondorf-les-bains/2500596,Pétange,Terminado,1511096400
+RM Hamm,Luxemburgo - Divisão Nacional,19/11/17 10:00:00,https://www.academiadasapostasbrasil.com/stats/match/luxemburgo/divisao-nacional/fola-esch/rm-hamm-benfica/2500598,Fola,Terminado,1511096400
+Rodange,Luxemburgo - Divisão Nacional,19/11/17 10:00:00,https://www.academiadasapostasbrasil.com/stats/match/luxemburgo/divisao-nacional/racing-union-luxemburgo/rodange/2500599,Racing,Terminado,1511096400
+Valletta,Malta - Premier Division,19/11/17 10:00:00,https://www.academiadasapostasbrasil.com/stats/match/malta/premier-division/hamrun-spartans/valletta/2557355,Hamrun,Terminado,1511096400
+Rayyan,Catar - Liga,19/11/17 10:10:00,https://www.academiadasapostasbrasil.com/stats/match/catar/liga/al-arabi/al-rayyan/2573637,Arabi,Terminado,1511097000
+Kharitiyath,Catar - Liga,19/11/17 10:10:00,https://www.academiadasapostasbrasil.com/stats/match/catar/liga/lekhwiya/al-khuraitiat/2573638,Lekhwiya,Terminado,1511097000
+Vllaznia,Albânia - Super Liga,19/11/17 11:00:00,https://www.academiadasapostasbrasil.com/stats/match/albania/super-liga/teuta-durres/vllaznia-shkoder/2506222,Teuta,Terminado,1511100000
+Kamza,Albânia - Super Liga,19/11/17 11:00:00,https://www.academiadasapostasbrasil.com/stats/match/albania/super-liga/skenderbeu-korce/dajti-kamze/2506224,Skënderbeu,Terminado,1511100000
+Ahli,Arábia Saudita - Liga,19/11/17 11:40:00,https://www.academiadasapostasbrasil.com/stats/match/arabia-saudita/liga/al-taawon/al-ahli/2478006,Taawon,Terminado,1511102400
+Deportivo Petapa,Guatemala - Liga Nacional,19/11/17 12:00:00,https://www.academiadasapostasbrasil.com/stats/match/guatemala/liga-nacional/deportivo-sanarate/deportivo-petapa/2466841,Deportivo Sanarate,Terminado,1511103600
+Pérez Zeledón,Costa Rica - Primera Division,19/11/17 12:00:00,https://www.academiadasapostasbrasil.com/stats/match/costa-rica/primera-division/cartagines/municipal-perez-zeledon/2477912,Cartaginés,Terminado,1511103600
+Carmelita,Costa Rica - Primera Division,19/11/17 12:00:00,https://www.academiadasapostasbrasil.com/stats/match/costa-rica/primera-division/grecia/carmelita/2477916,Grecia,Terminado,1511103600
+Željezničar,Bósnia-Herzegovina - Premier Liga,19/11/17 12:00:00,https://www.academiadasapostasbrasil.com/stats/match/bosnia-herzegovina/premier-liga/borac-banja-luka/zeljeznicar-sarajevo/2479106,Borac BB,Terminado,1511103600
+Differdange,Luxemburgo - Divisão Nacional,19/11/17 12:00:00,https://www.academiadasapostasbrasil.com/stats/match/luxemburgo/divisao-nacional/hostert/differdange-03/2500594,Hostert,Terminado,1511103600
+Barcelona,Equador - Primera A,19/11/17 12:00:00,https://www.academiadasapostasbrasil.com/stats/match/equador/primera-a/universidad-catolica/barcelona-guayaquil/2508337,Católica,Terminado,1511103600
+F. Amarilla,Equador - Primera A,19/11/17 12:00:00,https://www.academiadasapostasbrasil.com/stats/match/equador/primera-a/macara/fuerza-amarilla/2508341,Macará,Terminado,1511103600
+Siquinalá,Guatemala - Liga Nacional,19/11/17 13:00:00,https://www.academiadasapostasbrasil.com/stats/match/guatemala/liga-nacional/suchitepequez/siquinala/2466840,Suchitepéquez,Terminado,1511107200
+Municipal,Guatemala - Liga Nacional,19/11/17 13:00:00,https://www.academiadasapostasbrasil.com/stats/match/guatemala/liga-nacional/malacateco/municipal/2466842,Malacateco,Terminado,1511107200
+Petrolero,Bolívia - Primera Division,19/11/17 14:00:00,https://www.academiadasapostasbrasil.com/stats/match/bolivia/primera-division/the-strongest/oriente-petrolero/2508551,Strongest,Terminado,1511110800
+Guadalupe,Costa Rica - Primera Division,19/11/17 14:30:00,https://www.academiadasapostasbrasil.com/stats/match/costa-rica/primera-division/limon/guadalupe/2477915,Limón,Terminado,1511112600
+Marquense,Guatemala - Liga Nacional,19/11/17 15:00:00,https://www.academiadasapostasbrasil.com/stats/match/guatemala/liga-nacional/coban-imperial/marquense/2466843,Cobán Imperial,Terminado,1511114400
+LDU Quito,Equador - Primera A,19/11/17 15:00:00,https://www.academiadasapostasbrasil.com/stats/match/equador/primera-a/guayaquil-city-fc/ldu/2508340,Guayaquil City FC,Terminado,1511114400
+Alianza,El Salvador - Primera Division,19/11/17 16:00:00,https://www.academiadasapostasbrasil.com/stats/match/el-salvador/primera-division/deportivo-fas/alianza/2598270,FAS,Terminado,1511118000
+Dragón,El Salvador - Primera Division,19/11/17 16:00:00,https://www.academiadasapostasbrasil.com/stats/match/el-salvador/primera-division/pasaquina/dragon/2598271,Pasaquina,Terminado,1511118000
+Santa Tecla,El Salvador - Primera Division,19/11/17 16:00:00,https://www.academiadasapostasbrasil.com/stats/match/el-salvador/primera-division/luis-angel-firpo/santa-tecla/2598272,Firpo,Terminado,1511118000
+Isidro,El Salvador - Primera Division,19/11/17 16:00:00,https://www.academiadasapostasbrasil.com/stats/match/el-salvador/primera-division/chalatenango/isidro-metapan/2598273,Chalatenango,Terminado,1511118000
+Audaz,El Salvador - Primera Division,19/11/17 16:00:00,https://www.academiadasapostasbrasil.com/stats/match/el-salvador/primera-division/sonsonate/audaz/2598274,Sonsonate,Terminado,1511118000
+Municipal Limeño,El Salvador - Primera Division,19/11/17 16:00:00,https://www.academiadasapostasbrasil.com/stats/match/el-salvador/primera-division/aguila/municipal-limeno/2598275,Águila,Terminado,1511118000
+Guabirá,Bolívia - Primera Division,19/11/17 16:15:00,https://www.academiadasapostasbrasil.com/stats/match/bolivia/primera-division/san-jose-oruro/guabira/2508550,San José,Terminado,1511118900
+Saprissa,Costa Rica - Primera Division,19/11/17 17:00:00,https://www.academiadasapostasbrasil.com/stats/match/costa-rica/primera-division/municipal-liberia/deportivo-saprissa/2477914,Liberia,Terminado,1511121600
+Ind del Valle,Equador - Primera A,19/11/17 17:30:00,https://www.academiadasapostasbrasil.com/stats/match/equador/primera-a/emelec/independiente-del-valle/2508339,Emelec,Terminado,1511123400
+Mineros,Venezuela - Primera Division,19/11/17 18:04:00,https://www.academiadasapostasbrasil.com/stats/match/venezuela/primera-division/carabobo/mineros-de-guayana/2683208,Carabobo,Terminado,1511125440
+Universitario,Bolívia - Primera Division,19/11/17 18:30:00,https://www.academiadasapostasbrasil.com/stats/match/bolivia/primera-division/blooming/universitario-sucre/2508552,Blooming,Terminado,1511127000
+Guastatoya,Guatemala - Liga Nacional,19/11/17 19:00:00,https://www.academiadasapostasbrasil.com/stats/match/guatemala/liga-nacional/xelaju-mario-camposeco/guastatoya/2466838,Xelajú,Terminado,1511128800
+Adana,Turquia - Lig A,19/11/17 05:00:00,https://www.academiadasapostasbrasil.com/stats/match/turquia/lig-a/samsunspor/adanaspor/2509145,Samsun,Terminado,1511078400
+Eskişehir,Turquia - Lig A,19/11/17 05:00:00,https://www.academiadasapostasbrasil.com/stats/match/turquia/lig-a/balkesirspor/eskisehirspor/2509149,Balıkesir,Terminado,1511078400
+Odra,Polônia - I Liga,19/11/17 06:00:00,https://www.academiadasapostasbrasil.com/stats/match/polonia/i-liga/gornik-leczna/odra-opole/2478282,Górnik Łęczna,Terminado,1511082000
+Vejle,Dinamarca - 1ª Divisão,19/11/17 07:30:00,https://www.academiadasapostasbrasil.com/stats/match/dinamarca/1-divisao/fremad-amager/vejle/2463977,Fremad Amager,Terminado,1511087400
+Giresun,Turquia - Lig A,19/11/17 07:30:00,https://www.academiadasapostasbrasil.com/stats/match/turquia/lig-a/altnordu/giresunspor/2509144,Altınordu,Terminado,1511087400
+Kastrioti,Albânia - Liga 1,19/11/17 08:00:00,https://www.academiadasapostasbrasil.com/stats/match/albania/liga-1/besa-kavaje/kastrioti-kruje/2574486,Besa,Terminado,1511089200
+Brabrand,Dinamarca - 1ª Divisão,19/11/17 08:30:00,https://www.academiadasapostasbrasil.com/stats/match/dinamarca/1-divisao/esbjerg/brabrand/2463974,Esbjerg,Terminado,1511091000
+Vendsyssel,Dinamarca - 1ª Divisão,19/11/17 08:30:00,https://www.academiadasapostasbrasil.com/stats/match/dinamarca/1-divisao/viborg/vendsyssel/2463975,Viborg,Terminado,1511091000
+Skive,Dinamarca - 1ª Divisão,19/11/17 08:30:00,https://www.academiadasapostasbrasil.com/stats/match/dinamarca/1-divisao/fredericia/skive/2463976,Fredericia,Terminado,1511091000
+HB Køge,Dinamarca - 1ª Divisão,19/11/17 08:30:00,https://www.academiadasapostasbrasil.com/stats/match/dinamarca/1-divisao/lolland-falster-alliancen/hb-koge/2463978,Nykøbing,Terminado,1511091000
+Roskilde,Dinamarca - 1ª Divisão,19/11/17 08:30:00,https://www.academiadasapostasbrasil.com/stats/match/dinamarca/1-divisao/thisted/roskilde/2463979,Thisted,Terminado,1511091000
+Tubize,Bélgica - 2e Klasse,19/11/17 10:00:00,https://www.academiadasapostasbrasil.com/stats/match/belgica/2e-klasse/union-saint-gilloise/tubize/2462287,Saint-Gilloise,Terminado,1511096400
+Wohlen,Suíça - Challenge League,19/11/17 10:00:00,https://www.academiadasapostasbrasil.com/stats/match/suica/challenge-league/chiasso/wohlen/2467833,Chiasso,Terminado,1511096400
+İstanbulspor,Turquia - Lig A,19/11/17 10:00:00,https://www.academiadasapostasbrasil.com/stats/match/turquia/lig-a/caykur-rizespor/istanbulspor/2509146,Rize,Terminado,1511096400
+Raków,Polônia - I Liga,19/11/17 12:15:00,https://www.academiadasapostasbrasil.com/stats/match/polonia/i-liga/miedz-legnica/rakow-czestochowa/2478280,Miedź,Terminado,1511104500
+Las Palmas II,Espanha - Segunda B,19/11/17 05:00:00,https://www.academiadasapostasbrasil.com/stats/match/espanha/segunda-b/lorca-deportiva/las-palmas-ii/2539912,Lorca Deportiva,Terminado,1511078400
+FC Jumilla,Espanha - Segunda B,19/11/17 05:30:00,https://www.academiadasapostasbrasil.com/stats/match/espanha/segunda-b/real-betis-ii/fc-jumilla/2539913,Betis II,Terminado,1511080200
+Elche,Espanha - Segunda B,19/11/17 06:00:00,https://www.academiadasapostasbrasil.com/stats/match/espanha/segunda-b/mallorca/elche/2539527,Mallorca,Terminado,1511082000
+Olot,Espanha - Segunda B,19/11/17 06:00:00,https://www.academiadasapostasbrasil.com/stats/match/espanha/segunda-b/formentera/olot/2539528,Formentera,Terminado,1511082000
+Badalona,Espanha - Segunda B,19/11/17 06:00:00,https://www.academiadasapostasbrasil.com/stats/match/espanha/segunda-b/ebro/badalona/2539530,Ebro,Terminado,1511082000
+Zaragoza II,Espanha - Segunda B,19/11/17 06:00:00,https://www.academiadasapostasbrasil.com/stats/match/espanha/segunda-b/cornella/real-zaragoza-ii/2539531,Cornellà,Terminado,1511082000
+Peña,Espanha - Segunda B,19/11/17 06:00:00,https://www.academiadasapostasbrasil.com/stats/match/espanha/segunda-b/llagostera-costa-brava/pena-deportiva/2539533,Llagostera,Terminado,1511082000
+Baleares,Espanha - Segunda B,19/11/17 06:00:00,https://www.academiadasapostasbrasil.com/stats/match/espanha/segunda-b/ontinyent/atletico-baleares/2539534,Ontinyent,Terminado,1511082000
+Mérida AD,Espanha - Segunda B,19/11/17 06:00:00,https://www.academiadasapostasbrasil.com/stats/match/espanha/segunda-b/melilla/merida-ad/2539907,Melilla,Terminado,1511082000
+San Fernando,Espanha - Segunda B,19/11/17 06:00:00,https://www.academiadasapostasbrasil.com/stats/match/espanha/segunda-b/ecija/san-fernando-cd/2539910,Écija,Terminado,1511082000
+Gijón II,Espanha - Segunda B,19/11/17 06:00:00,https://www.academiadasapostasbrasil.com/stats/match/espanha/segunda-b/tudelano/sporting-gijon-ii/2540292,Tudelano,Terminado,1511082000
+SS Reyes,Espanha - Segunda B,19/11/17 06:00:00,https://www.academiadasapostasbrasil.com/stats/match/espanha/segunda-b/real-valladolid-ii/ss-reyes/2541387,Valladolid II,Terminado,1511082000
+Cerceda,Espanha - Segunda B,19/11/17 06:00:00,https://www.academiadasapostasbrasil.com/stats/match/espanha/segunda-b/rayo-majadahonda/cerceda/2541393,Majadahonda,Terminado,1511082000
+Bouzas,Espanha - Segunda B,19/11/17 06:00:00,https://www.academiadasapostasbrasil.com/stats/match/espanha/segunda-b/coruxo/rapido-bouzas/2541395,Coruxo,Terminado,1511082000
+Marinhense,Portugal - 2ª Divisão,19/11/17 10:00:00,https://www.academiadasapostasbrasil.com/stats/match/portugal/2-divisao/ferreira-de-aves/marinhense/2562979,Ferreira de Aves,Terminado,1511096400
+Fuenlabrada,Espanha - Segunda B,19/11/17 10:30:00,https://www.academiadasapostasbrasil.com/stats/match/espanha/segunda-b/racing-ferrol/fuenlabrada/2541389,Racing Ferrol,Terminado,1511098200
+Segoviana,Espanha - Segunda B,19/11/17 10:30:00,https://www.academiadasapostasbrasil.com/stats/match/espanha/segunda-b/navalcarnero/gimnastica-segoviana/2541403,Navalcarnero,Terminado,1511098200
+Peralada,Espanha - Segunda B,19/11/17 11:00:00,https://www.academiadasapostasbrasil.com/stats/match/espanha/segunda-b/alcoyano/peralada/2539532,Alcoyano,Terminado,1511100000
+Córdoba II,Espanha - Segunda B,19/11/17 11:00:00,https://www.academiadasapostasbrasil.com/stats/match/espanha/segunda-b/el-ejido/cordoba-ii/2539908,El Ejido,Terminado,1511100000
+Marbella,Espanha - Segunda B,19/11/17 11:00:00,https://www.academiadasapostasbrasil.com/stats/match/espanha/segunda-b/recreativo-huelva/marbella/2539909,Huelva,Terminado,1511100000
+Granada II,Espanha - Segunda B,19/11/17 11:00:00,https://www.academiadasapostasbrasil.com/stats/match/espanha/segunda-b/linense/granada-ii/2539911,Linense,Terminado,1511100000
+Cartagena,Espanha - Segunda B,19/11/17 11:00:00,https://www.academiadasapostasbrasil.com/stats/match/espanha/segunda-b/badajoz/cartagena/2539914,Badajoz,Terminado,1511100000
+Athletic II,Espanha - Segunda B,19/11/17 11:00:00,https://www.academiadasapostasbrasil.com/stats/match/espanha/segunda-b/burgos/athletic-club-ii/2540288,Burgos,Terminado,1511100000
+Mirandés,Espanha - Segunda B,19/11/17 11:00:00,https://www.academiadasapostasbrasil.com/stats/match/espanha/segunda-b/ud-logrones/mirandes/2540293,UD Logroñés,Terminado,1511100000
+Arenas Getxo,Espanha - Segunda B,19/11/17 11:00:00,https://www.academiadasapostasbrasil.com/stats/match/espanha/segunda-b/real-union/arenas-de-getxo/2540295,Real Unión,Terminado,1511100000
+Celta Vigo II,Espanha - Segunda B,19/11/17 11:00:00,https://www.academiadasapostasbrasil.com/stats/match/espanha/segunda-b/ponferradina/celta-de-vigo-ii/2541397,Ponferradina,Terminado,1511100000
+A Madrid II,Espanha - Segunda B,19/11/17 11:00:00,https://www.academiadasapostasbrasil.com/stats/match/espanha/segunda-b/deportivo-la-coruna-ii/atletico-madrid-ii/2541399,La Coruña II,Terminado,1511100000
+Adarve,Espanha - Segunda B,19/11/17 11:00:00,https://www.academiadasapostasbrasil.com/stats/match/espanha/segunda-b/talavera-cf/union-adarve/2541401,Talavera,Terminado,1511100000
+Pontevedra,Espanha - Segunda B,19/11/17 11:00:00,https://www.academiadasapostasbrasil.com/stats/match/espanha/segunda-b/guijuelo/pontevedra/2541405,Guijuelo,Terminado,1511100000
+Villanovense,Espanha - Segunda B,19/11/17 11:30:00,https://www.academiadasapostasbrasil.com/stats/match/espanha/segunda-b/ucam-murcia/villanovense/2539906,UCAM,Terminado,1511101800
+Murcia,Espanha - Segunda B,19/11/17 11:30:00,https://www.academiadasapostasbrasil.com/stats/match/espanha/segunda-b/extremadura-ud/real-murcia/2539915,Extremadura,Terminado,1511101800
+Loros Universidad,México - Segunda División,19/11/17 12:00:00,https://www.academiadasapostasbrasil.com/stats/match/mexico/segunda-division/necaxa-premier/loros-universidad/2521674,Necaxa II,Terminado,1511103600
+Saguntino,Espanha - Segunda B,19/11/17 12:00:00,https://www.academiadasapostasbrasil.com/stats/match/espanha/segunda-b/hercules/saguntino/2539535,Hércules,Terminado,1511103600
+Izarra,Espanha - Segunda B,19/11/17 12:30:00,https://www.academiadasapostasbrasil.com/stats/match/espanha/segunda-b/caudal/izarra/2540289,Caudal,Terminado,1511105400
+América II,México - Segunda División,19/11/17 16:00:00,https://www.academiadasapostasbrasil.com/stats/match/mexico/segunda-division/irapuato/america-premier/2521828,Irapuato,Terminado,1511118000
+Chimalhuacán,México - Segunda División,19/11/17 16:00:00,https://www.academiadasapostasbrasil.com/stats/match/mexico/segunda-division/yalmakan/chimalhuacan/2532035,Yalmakan,Terminado,1511118000
+Canberra,Austrália - W-League,19/11/17 00:30:00,https://www.academiadasapostasbrasil.com/stats/match/australia/w-league/newcastle-jets/canberra-united/2588558,Newcastle,Terminado,1511062200
+Victory,Austrália - W-League,19/11/17 00:30:00,https://www.academiadasapostasbrasil.com/stats/match/australia/w-league/perth-glory/melbourne-victory/2588559,Perth Glory,Terminado,1511062200
+Brusque,Brasil - Copa Santa Catarina,19/11/17 13:30:00,https://www.academiadasapostasbrasil.com/stats/match/brasil/copa-santa-catarina/joinville/brusque/2586366,Joinville,Terminado,1511109000
+Tubarão,Brasil - Copa Santa Catarina,19/11/17 13:30:00,https://www.academiadasapostasbrasil.com/stats/match/brasil/copa-santa-catarina/internacional-sc/atletico-tubarao/2586367,Internacional SC,Terminado,1511109000
+Kayserispor U21,Turquia - U21 Süper Lig,19/11/17 03:00:00,https://www.academiadasapostasbrasil.com/stats/match/turquia/u21-super-lig/genclerbirligi-u21/kayserispor-u21/2517168,Gençlerbirliği U21,Terminado,1511071200
+Osmanlıspor U21,Turquia - U21 Süper Lig,19/11/17 04:30:00,https://www.academiadasapostasbrasil.com/stats/match/turquia/u21-super-lig/trabzonspor-u21/osmanlspor-u21/2517175,Trabzonspor U21,Terminado,1511076600
+Sivasspor U21,Turquia - U21 Süper Lig,19/11/17 05:30:00,https://www.academiadasapostasbrasil.com/stats/match/turquia/u21-super-lig/fenerbahce-u21/sivasspor-u21/2517170,Fenerbahçe U21,Terminado,1511080200
+Yeni Malatyaspor U21,Turquia - U21 Süper Lig,19/11/17 06:30:00,https://www.academiadasapostasbrasil.com/stats/match/turquia/u21-super-lig/alanyaspor-u21/yeni-malatyaspor-u21/2517167,Alanyaspor U21,Terminado,1511083800
+Schalke,Alemanha - U19 Bundesliga,19/11/17 07:00:00,https://www.academiadasapostasbrasil.com/stats/match/alemanha/u19-bundesliga/arminia-klosterhardt-u19/schalke-04-u19/2542193,Arminia Klosterhardt U19,Terminado,1511085600
+Duisburg,Alemanha - U19 Bundesliga,19/11/17 07:00:00,https://www.academiadasapostasbrasil.com/stats/match/alemanha/u19-bundesliga/fortuna-koln-u19/msv-duisburg-u19/2542194,Fortuna Köln,Terminado,1511085600
+Fortuna,Alemanha - U19 Bundesliga,19/11/17 07:00:00,https://www.academiadasapostasbrasil.com/stats/match/alemanha/u19-bundesliga/paderborn-u19/fortuna-dusseldorf-u19/2542195,Paderborn U19,Terminado,1511085600
+Frankfurt,Alemanha - U19 Bundesliga,19/11/17 07:00:00,https://www.academiadasapostasbrasil.com/stats/match/alemanha/u19-bundesliga/unterhaching-u19/eintracht-frankfurt-u19/2542375,Unterhaching,Terminado,1511085600
+Karlsruhe,Alemanha - U19 Bundesliga,19/11/17 08:00:00,https://www.academiadasapostasbrasil.com/stats/match/alemanha/u19-bundesliga/greuther-furth-u19/karlsruher-sc-u19/2542372,Greuther,Terminado,1511089200
+Stuttgart,Alemanha - U19 Bundesliga,19/11/17 08:00:00,https://www.academiadasapostasbrasil.com/stats/match/alemanha/u19-bundesliga/heidenheim-u19/stuttgart-u19/2542377,Heidenheim,Terminado,1511089200
+USV,Alemanha - Frauen Bundesliga,19/11/17 05:00:00,https://www.academiadasapostasbrasil.com/stats/match/alemanha/frauen-bundesliga/sc-sand/usv-jena/2507638,Sand,Terminado,1511078400
+Duisburg,Alemanha - Frauen Bundesliga,19/11/17 05:00:00,https://www.academiadasapostasbrasil.com/stats/match/alemanha/frauen-bundesliga/hoffenheim/duisburg/2507639,Hoffenheim,Terminado,1511078400
+Fundación A,Espanha - Superliga,19/11/17 06:00:00,https://www.academiadasapostasbrasil.com/stats/match/espanha/superliga/transportes-alcaine/fundacion-albacete/2540839,Alcaine,Terminado,1511082000
+Huelva,Espanha - Superliga,19/11/17 06:00:00,https://www.academiadasapostasbrasil.com/stats/match/espanha/superliga/madrid/sporting-de-huelva/2540844,Madrid,Terminado,1511082000
+Athletic Club,Espanha - Superliga,19/11/17 06:00:00,https://www.academiadasapostasbrasil.com/stats/match/espanha/superliga/espanyol/athletic-bilbao/2540845,Espanyol,Terminado,1511082000
+Santa Teresa,Espanha - Superliga,19/11/17 06:30:00,https://www.academiadasapostasbrasil.com/stats/match/espanha/superliga/rayo-vallecano/santa-teresa/2540846,Rayo,Terminado,1511083800
+BSF,Dinamarca - Elitedivisionen,19/11/17 07:00:00,https://www.academiadasapostasbrasil.com/stats/match/dinamarca/elitedivisionen/fortuna-hjorring/bsf/2505909,Fortuna,Terminado,1511085600
+Werder,Alemanha - Frauen Bundesliga,19/11/17 07:00:00,https://www.academiadasapostasbrasil.com/stats/match/alemanha/frauen-bundesliga/bayern-munchen/werder-bremen/2507641,Bayern,Terminado,1511085600
+Barcelona,Espanha - Superliga,19/11/17 07:00:00,https://www.academiadasapostasbrasil.com/stats/match/espanha/superliga/udg-tenerife-sur/barcelona/2540841,Granadilla,Terminado,1511085600
+Frankfurt,Alemanha - Frauen Bundesliga,19/11/17 08:00:00,https://www.academiadasapostasbrasil.com/stats/match/alemanha/frauen-bundesliga/freiburg/frankfurt/2507637,Freiburg,Terminado,1511089200
+Turbine,Alemanha - Frauen Bundesliga,19/11/17 08:00:00,https://www.academiadasapostasbrasil.com/stats/match/alemanha/frauen-bundesliga/koln/turbine-potsdam/2507640,Köln,Terminado,1511089200
+Lille,França - Feminine Division 1,19/11/17 08:00:00,https://www.academiadasapostasbrasil.com/stats/match/franca/feminine-division-1/guingamp/lille/2527082,Guingamp,Terminado,1511089200
+Ajax,Holanda - Vrouwen Eredivisie,19/11/17 08:30:00,https://www.academiadasapostasbrasil.com/stats/match/holanda/vrouwen-eredivisie/psv/ajax/2504809,PSV,Terminado,1511091000
+Bordeaux,França - Feminine Division 1,19/11/17 08:30:00,https://www.academiadasapostasbrasil.com/stats/match/franca/feminine-division-1/montpellier/bordeaux/2527079,Montpellier,Terminado,1511091000
+Soyaux,França - Feminine Division 1,19/11/17 08:30:00,https://www.academiadasapostasbrasil.com/stats/match/franca/feminine-division-1/paris/soyaux/2527080,Paris,Terminado,1511091000
+Fleury 91,França - Feminine Division 1,19/11/17 08:30:00,https://www.academiadasapostasbrasil.com/stats/match/franca/feminine-division-1/lyon/fleury-91/2527083,Lyon,Terminado,1511091000
+Wolfsburg,Alemanha - Frauen Bundesliga,19/11/17 09:00:00,https://www.academiadasapostasbrasil.com/stats/match/alemanha/frauen-bundesliga/sgs-essen/wolfsburg/2507642,SGS,Terminado,1511092800
+Atletico M,Espanha - Superliga,19/11/17 10:00:00,https://www.academiadasapostasbrasil.com/stats/match/espanha/superliga/real-betis/atletico-madrid/2540840,Real Betis,Terminado,1511096400
+Cadima,Portugal - Feminino 1ª Divisão,19/11/17 12:00:00,https://www.academiadasapostasbrasil.com/stats/match/portugal/feminino-1-divisao/a-dos-francos/cadima/2527364,A-dos-Francos,Terminado,1511103600
+Brescia,Itália - Femminile Serie A,19/11/17 12:00:00,https://www.academiadasapostasbrasil.com/stats/match/italia/femminile-serie-a/fimauto-valpolicella/brescia/2588308,Fimauto,Terminado,1511103600
+Tivoli Gardens,Jamaica - Premier League,19/11/17 15:00:00,https://www.academiadasapostasbrasil.com/stats/match/jamaica/premier-league/boys-town/tivoli-gardens/2581913,Boys',Terminado,1511114400
+Waterhouse,Jamaica - Premier League,19/11/17 15:00:00,https://www.academiadasapostasbrasil.com/stats/match/jamaica/premier-league/humble-lions/waterhouse/2581914,Humble,Terminado,1511114400
+Montego Bay,Jamaica - Premier League,19/11/17 15:00:00,https://www.academiadasapostasbrasil.com/stats/match/jamaica/premier-league/portmore-utd/montego-bay-united/2581915,Portmore,Terminado,1511114400
+Cavalier,Jamaica - Premier League,19/11/17 15:00:00,https://www.academiadasapostasbrasil.com/stats/match/jamaica/premier-league/reno/cavalier/2581916,Reno,Terminado,1511114400
+Sandals South Coast,Jamaica - Premier League,19/11/17 15:00:00,https://www.academiadasapostasbrasil.com/stats/match/jamaica/premier-league/uwi/sandals-south-coast/2581917,UWI,Terminado,1511114400
+Marathón,Honduras - Liga Nacional,19/11/17 17:00:00,https://www.academiadasapostasbrasil.com/stats/match/honduras/liga-nacional/olimpia/marathon/2547800,Olimpia,Terminado,1511121600
+Plaza Amador,Panamá - Primera Division,19/11/17 18:00:00,https://www.academiadasapostasbrasil.com/stats/match/panama/primera-division/arabe-unido/plaza-amador/2683173,Árabe,Terminado,1511125200
+Honduras,Honduras - Liga Nacional,19/11/17 19:00:00,https://www.academiadasapostasbrasil.com/stats/match/honduras/liga-nacional/platense/honduras-progreso/2547811,Platense,Terminado,1511128800
+Eastern District,Hong Kong - 2ª Divisão HKFA,19/11/17 00:30:00,https://www.academiadasapostasbrasil.com/stats/match/hong-kong/2-divisao-hkfa/wing-yee/eastern-district/2576535,Wing Yee,Terminado,1511062200
+Mutual,Hong Kong - 2ª Divisão HKFA,19/11/17 00:30:00,https://www.academiadasapostasbrasil.com/stats/match/hong-kong/2-divisao-hkfa/kwun-tong/mutual/2576536,Kwun Tong,Terminado,1511062200
+Shatin,Hong Kong - 2ª Divisão HKFA,19/11/17 00:30:00,https://www.academiadasapostasbrasil.com/stats/match/hong-kong/2-divisao-hkfa/double-flower/shatin/2576537,Double Flower,Terminado,1511062200
+Tung Sing,Hong Kong - 2ª Divisão HKFA,19/11/17 02:30:00,https://www.academiadasapostasbrasil.com/stats/match/hong-kong/2-divisao-hkfa/wong-tai-sin/tung-sing/2576538,Wong Tai Sin,Terminado,1511069400
+Hoi King,Hong Kong - 2ª Divisão HKFA,19/11/17 02:30:00,https://www.academiadasapostasbrasil.com/stats/match/hong-kong/2-divisao-hkfa/citizen-aa/hoi-king/2576539,Citizen,Terminado,1511069400
+Sun Hei,Hong Kong - 2ª Divisão HKFA,19/11/17 02:30:00,https://www.academiadasapostasbrasil.com/stats/match/hong-kong/2-divisao-hkfa/tai-chung/sun-hei-sc/2576540,Tai Chung,Terminado,1511069400
+Vlašim,República Tcheca - 2. Liga,19/11/17 04:15:00,https://www.academiadasapostasbrasil.com/stats/match/republica-tcheca/2-liga/viktoria-zizkov/vlasim/2471879,Žižkov,Terminado,1511075700
+Slavoj,Eslováquia - I Liga,19/11/17 04:30:00,https://www.academiadasapostasbrasil.com/stats/match/eslovaquia/i-liga/zilina-ii/slavoj-trebisov/2525322,Žilina II,Terminado,1511076600
+Gyirmót,Hungria - NB II,19/11/17 07:00:00,https://www.academiadasapostasbrasil.com/stats/match/hungria/nb-ii/budafoki-mte/gyirmot/2500869,Budafoki MTE,Terminado,1511085600
+Budaörsi,Hungria - NB II,19/11/17 07:00:00,https://www.academiadasapostasbrasil.com/stats/match/hungria/nb-ii/szolnoki-mav/budaors/2500870,Szolnoki,Terminado,1511085600
+Nyíregyháza,Hungria - NB II,19/11/17 07:00:00,https://www.academiadasapostasbrasil.com/stats/match/hungria/nb-ii/vac/nyiregyhaza-spartacus/2500871,Vác,Terminado,1511085600
+Soroksár,Hungria - NB II,19/11/17 07:00:00,https://www.academiadasapostasbrasil.com/stats/match/hungria/nb-ii/cegledi/soroksar-sc/2500873,Ceglédi,Terminado,1511085600
+Szeged 2011,Hungria - NB II,19/11/17 07:00:00,https://www.academiadasapostasbrasil.com/stats/match/hungria/nb-ii/siofok/szeged-2011/2500875,Siófok,Terminado,1511085600
+MTK,Hungria - NB II,19/11/17 07:00:00,https://www.academiadasapostasbrasil.com/stats/match/hungria/nb-ii/varda-se/hungaria-fc/2500876,Várda,Terminado,1511085600
+Inter,Eslováquia - I Liga,19/11/17 07:00:00,https://www.academiadasapostasbrasil.com/stats/match/eslovaquia/i-liga/sered/inter-bratislava/2525323,Sereď,Terminado,1511085600
+Baloteşti,Romênia - Liga II,19/11/17 07:00:00,https://www.academiadasapostasbrasil.com/stats/match/romenia/liga-ii/academica-clinceni/balotesti/2536859,Academica,Terminado,1511085600
+Dobanovci,Sérvia - Prva Liga,19/11/17 07:00:00,https://www.academiadasapostasbrasil.com/stats/match/servia/prva-liga/sinelic-beograd/buducnost-dobanovci/2556120,Sinđelić,Terminado,1511085600
+Vítkovice,República Tcheca - 2. Liga,19/11/17 07:30:00,https://www.academiadasapostasbrasil.com/stats/match/republica-tcheca/2-liga/banik-sokolov/vitkovice/2471876,Sokolov,Terminado,1511087400
+Ludogorets II,Bulgária - B PFG,19/11/17 07:30:00,https://www.academiadasapostasbrasil.com/stats/match/bulgaria/b-pfg/maritsa-plovdiv/ludogorets-ii/2473477,Maritsa,Terminado,1511087400
+Lovech,Bulgária - B PFG,19/11/17 07:30:00,https://www.academiadasapostasbrasil.com/stats/match/bulgaria/b-pfg/pomorie/lovech/2473482,Pomorie,Terminado,1511087400
+Botev Vratsa,Bulgária - B PFG,19/11/17 08:00:00,https://www.academiadasapostasbrasil.com/stats/match/bulgaria/b-pfg/montana/botev-vratsa/2473476,Montana,Terminado,1511089200
+Fužinar,Eslovênia - 2. SNL,19/11/17 08:00:00,https://www.academiadasapostasbrasil.com/stats/match/eslovenia/2-snl/mura/fuzinar/2475370,Mura,Terminado,1511089200
+Radomlje,Eslovênia - 2. SNL,19/11/17 08:00:00,https://www.academiadasapostasbrasil.com/stats/match/eslovenia/2-snl/tabor-sezana/radomlje/2475371,Tabor,Terminado,1511089200
+Veržej,Eslovênia - 2. SNL,19/11/17 08:00:00,https://www.academiadasapostasbrasil.com/stats/match/eslovenia/2-snl/dekani/verzej/2475375,Dekani,Terminado,1511089200
+Brežice,Eslovênia - 2. SNL,19/11/17 08:00:00,https://www.academiadasapostasbrasil.com/stats/match/eslovenia/2-snl/brda-dobrovo/brezice/2475376,Brda,Terminado,1511089200
+Jomo Cosmos,África do Sul - Liga Mvela Golden,19/11/17 08:30:00,https://www.academiadasapostasbrasil.com/stats/match/africa-do-sul/liga-mvela-golden/stellenbosch/jomo-cosmos/2569922,Vasco,Terminado,1511091000
+All Stars ,África do Sul - Liga Mvela Golden,19/11/17 08:30:00,https://www.academiadasapostasbrasil.com/stats/match/africa-do-sul/liga-mvela-golden/super-eagles/cape-town-all-stars-/2569923,Super Eagles,Terminado,1511091000
+Dorogi,Hungria - NB II,19/11/17 10:00:00,https://www.academiadasapostasbrasil.com/stats/match/hungria/nb-ii/bekescsaba/dorogi-fc/2500872,Békéscsaba,Terminado,1511096400
+Kazincbarcika,Hungria - NB II,19/11/17 10:00:00,https://www.academiadasapostasbrasil.com/stats/match/hungria/nb-ii/csakvari-tk/kazincbarcika/2500874,Csákvári,Terminado,1511096400
+Soproni,Hungria - NB II,19/11/17 10:00:00,https://www.academiadasapostasbrasil.com/stats/match/hungria/nb-ii/zalaegerszegi/soproni-vse/2500877,ZTE,Terminado,1511096400
+Futura,Hungria - NB II,19/11/17 10:00:00,https://www.academiadasapostasbrasil.com/stats/match/hungria/nb-ii/gyor/mosonmagyarovari-te/2500878,Győr,Terminado,1511096400
+América de Quito,Equador - Primera B,19/11/17 12:00:00,https://www.academiadasapostasbrasil.com/stats/match/equador/primera-b/olmedo/america-de-quito/2503075,Olmedo,Terminado,1511103600
+Villa Teresa,Uruguai - Segunda Division,19/11/17 14:30:00,https://www.academiadasapostasbrasil.com/stats/match/uruguai/segunda-division/deportivo-maldonado/villa-teresa/2429162,Dep. Maldonado,Terminado,1511112600
+Cartagena,Colômbia - Primera B,19/11/17 15:15:00,https://www.academiadasapostasbrasil.com/stats/match/colombia/primera-b/llaneros/real-cartagena/2683181,Llaneros,Terminado,1511115300
+Santa Rosa PNP,Peru - Segunda Division,19/11/17 15:30:00,https://www.academiadasapostasbrasil.com/stats/match/peru/segunda-division/carlos-manucci/santa-rosa-pnp/2686716,CA Manucci,Terminado,1511116200
+Willy Serrato,Peru - Segunda Division,19/11/17 15:30:00,https://www.academiadasapostasbrasil.com/stats/match/peru/segunda-division/union-huaral/willy-serrato/2686717,Huaral,Terminado,1511116200
+Cienciano,Peru - Segunda Division,19/11/17 15:30:00,https://www.academiadasapostasbrasil.com/stats/match/peru/segunda-division/alfredo-salinas/cienciano/2686718,Alfredo Salinas,Terminado,1511116200
+César Vallejo,Peru - Segunda Division,19/11/17 15:30:00,https://www.academiadasapostasbrasil.com/stats/match/peru/segunda-division/deportivo-hualgayoc/cesar-vallejo/2686719,Deportivo Hualgayoc,Terminado,1511116200
+Mushuc Runa,Equador - Primera B,19/11/17 16:00:00,https://www.academiadasapostasbrasil.com/stats/match/equador/primera-b/gualaceo/mushuc-runa/2503074,Gualaceo,Terminado,1511118000
+Cúcuta,Colômbia - Primera B,19/11/17 17:30:00,https://www.academiadasapostasbrasil.com/stats/match/colombia/primera-b/leones/cucuta/2683178,Leones,Terminado,1511123400
+Afjet Afyonspor,Turquia - Lig B,19/11/17 05:00:00,https://www.academiadasapostasbrasil.com/stats/match/turquia/lig-b/amed-sk/afjet-afyonspor/2538583,Amed SK,Terminado,1511078400
+Kırklareli,Turquia - Lig B,19/11/17 05:30:00,https://www.academiadasapostasbrasil.com/stats/match/turquia/lig-b/nigde-belediyespor/krklarelispor/2537645,Niğde,Terminado,1511080200
+Kahramanmaraş,Turquia - Lig B,19/11/17 05:30:00,https://www.academiadasapostasbrasil.com/stats/match/turquia/lig-b/pendikspor/kahramanmarasspor/2537646,Pendik,Terminado,1511080200
+Nazilli,Turquia - Lig B,19/11/17 05:30:00,https://www.academiadasapostasbrasil.com/stats/match/turquia/lig-b/bugsasspor/nazilli-belediyespor/2537648,Bugsaşspor,Terminado,1511080200
+Fethiye,Turquia - Lig B,19/11/17 05:30:00,https://www.academiadasapostasbrasil.com/stats/match/turquia/lig-b/sakaryaspor/fethiyespor/2537649,Sakarya,Terminado,1511080200
+Altay,Turquia - Lig B,19/11/17 05:30:00,https://www.academiadasapostasbrasil.com/stats/match/turquia/lig-b/karsiyaka/altay-izmir/2537650,Karşıyaka,Terminado,1511080200
+Fatih,Turquia - Lig B,19/11/17 05:30:00,https://www.academiadasapostasbrasil.com/stats/match/turquia/lig-b/bandrmaspor/fatih-karagumruk/2537653,Bandırma,Terminado,1511080200
+Bodrumspor,Turquia - Lig B,19/11/17 05:30:00,https://www.academiadasapostasbrasil.com/stats/match/turquia/lig-b/bucaspor/bodrumspor/2538577,Buca,Terminado,1511080200
+Kastamonu,Turquia - Lig B,19/11/17 05:30:00,https://www.academiadasapostasbrasil.com/stats/match/turquia/lig-b/sancaktepe-belediye/kastamonuspor/2538585,Sancaktepe,Terminado,1511080200
+Olimpia,Polônia - II Liga,19/11/17 06:00:00,https://www.academiadasapostasbrasil.com/stats/match/polonia/ii-liga/legionovia-legionowo/olimpia-elblag/2478674,Legionovia,Terminado,1511082000
+Druzhba,Rússia - 2ª Divisão,19/11/17 06:00:00,https://www.academiadasapostasbrasil.com/stats/match/russia/2-divisao/kuban-krasnodar-ii/druzhba/2526769,Kuban' Krasnodar II,Terminado,1511082000
+Metalurh Zaporizhya,Ucrânia - 2ª Liga,19/11/17 06:00:00,https://www.academiadasapostasbrasil.com/stats/match/ucrania/2-liga/mykolaiv-ii/metalurh-zaporizhya/2569535,Mykolaiv II,Terminado,1511082000
+Stal SW,Polônia - II Liga,19/11/17 07:00:00,https://www.academiadasapostasbrasil.com/stats/match/polonia/ii-liga/gryf-wejherowo/stal-stalowa-wola/2478670,Gryf,Terminado,1511085600
+Anzhi II,Rússia - 2ª Divisão,19/11/17 07:00:00,https://www.academiadasapostasbrasil.com/stats/match/russia/2-divisao/armavir/anzhi-ii/2526762,Torpedo Arm,Terminado,1511085600
+Austria II,Áustria - Regionalliga,19/11/17 08:00:00,https://www.academiadasapostasbrasil.com/stats/match/austria/regionalliga/admira-ii/austria-wien-ii/2488685,Admira II,,1511089200
+Austria II,Áustria - Regionalliga,19/11/17 08:00:00,https://www.academiadasapostasbrasil.com/stats/match/austria/regionalliga/admira-ii/austria-wien-ii/2548859,Admira II,Terminado,1511089200
+Südtirol,Itália - Serie C1,19/11/17 08:30:00,https://www.academiadasapostasbrasil.com/stats/match/italia/serie-c1/fano/sudtirol/2579512,Fano,Terminado,1511091000
+Pordenone,Itália - Serie C1,19/11/17 08:30:00,https://www.academiadasapostasbrasil.com/stats/match/italia/serie-c1/modena/pordenone/2579515, Modena,Cancelado,1511091000
+Teramo,Itália - Serie C1,19/11/17 08:30:00,https://www.academiadasapostasbrasil.com/stats/match/italia/serie-c1/renate/teramo/2579518,Renate,Terminado,1511091000
+Bassano,Itália - Serie C1,19/11/17 08:30:00,https://www.academiadasapostasbrasil.com/stats/match/italia/serie-c1/sambenedettese/bassano-virtus/2579519,Sambenedettese,Terminado,1511091000
+Mestre,Itália - Serie C1,19/11/17 08:30:00,https://www.academiadasapostasbrasil.com/stats/match/italia/serie-c1/vicenza/mestre/2579520,Vicenza,Terminado,1511091000
+Viterbese,Itália - Serie C1,19/11/17 08:30:00,https://www.academiadasapostasbrasil.com/stats/match/italia/serie-c1/alessandria/viterbese-castrense/2579845,Alessandria,Terminado,1511091000
+Cuneo,Itália - Serie C1,19/11/17 08:30:00,https://www.academiadasapostasbrasil.com/stats/match/italia/serie-c1/arezzo/cuneo/2579846,Arezzo,Terminado,1511091000
+Cosenza,Itália - Serie C1,19/11/17 08:30:00,https://www.academiadasapostasbrasil.com/stats/match/italia/serie-c1/catanzaro/cosenza/2580535,Catanzaro,Terminado,1511091000
+Stadlau,Áustria - Regionalliga,19/11/17 09:30:00,https://www.academiadasapostasbrasil.com/stats/match/austria/regionalliga/horn/stadlau/2488686,Horn,,1511094600
+Stadlau,Áustria - Regionalliga,19/11/17 09:30:00,https://www.academiadasapostasbrasil.com/stats/match/austria/regionalliga/horn/stadlau/2548860,Horn,Terminado,1511094600
+Prato,Itália - Serie C1,19/11/17 10:30:00,https://www.academiadasapostasbrasil.com/stats/match/italia/serie-c1/giana-erminio/prato/2579849,Erminio,Terminado,1511098200
+Olbia,Itália - Serie C1,19/11/17 10:30:00,https://www.academiadasapostasbrasil.com/stats/match/italia/serie-c1/livorno/olbia/2579850,Livorno,Terminado,1511098200
+Piacenza,Itália - Serie C1,19/11/17 10:30:00,https://www.academiadasapostasbrasil.com/stats/match/italia/serie-c1/pistoiese/piacenza/2579851,Pistoiese,Terminado,1511098200
+Monza,Itália - Serie C1,19/11/17 10:30:00,https://www.academiadasapostasbrasil.com/stats/match/italia/serie-c1/pontedera/monza-brianza/2579852,Pontedera,Terminado,1511098200
+Stargard,Polônia - II Liga,19/11/17 11:00:00,https://www.academiadasapostasbrasil.com/stats/match/polonia/ii-liga/belchatow/stargard-szczecinski/2478669,Bełchatów,Terminado,1511100000
+AlbinoLeffe,Itália - Serie C1,19/11/17 12:30:00,https://www.academiadasapostasbrasil.com/stats/match/italia/serie-c1/feralpisalo/albinoleffe/2579513,FeralpiSalò,Terminado,1511105400
+Fermana,Itália - Serie C1,19/11/17 12:30:00,https://www.academiadasapostasbrasil.com/stats/match/italia/serie-c1/gubbio/fermana/2579514,Gubbio,Terminado,1511105400
+Ravenna,Itália - Serie C1,19/11/17 12:30:00,https://www.academiadasapostasbrasil.com/stats/match/italia/serie-c1/reggiana/ravenna/2579517,Reggiana,Terminado,1511105400
+Carrarese,Itália - Serie C1,19/11/17 12:30:00,https://www.academiadasapostasbrasil.com/stats/match/italia/serie-c1/gavorrano/carrarese/2579848,Gavorrano,Terminado,1511105400
+Dep Roca,Argentina - Argentino A,19/11/17 15:00:00,https://www.academiadasapostasbrasil.com/stats/match/argentina/argentino-a/sansinena/deportivo-roca/2587029,Sansinena,Terminado,1511114400
+Mandiyú,Argentina - Argentino A,19/11/17 15:00:00,https://www.academiadasapostasbrasil.com/stats/match/argentina/argentino-a/sportivo-patria/deportivo-mandiyu/2587191,Sp Patria,Terminado,1511114400
+Gim Mendoza,Argentina - Argentino A,19/11/17 15:30:00,https://www.academiadasapostasbrasil.com/stats/match/argentina/argentino-a/union-aconquija/gimnasia-mendoza/2587104,Aconquija,Terminado,1511116200
+Unión VK,Argentina - Argentino A,19/11/17 16:00:00,https://www.academiadasapostasbrasil.com/stats/match/argentina/argentino-a/deportivo-maipu/union-villa-krause/2587102,Maipú,Terminado,1511118000
+Juv Antoniana,Argentina - Argentino A,19/11/17 16:00:00,https://www.academiadasapostasbrasil.com/stats/match/argentina/argentino-a/chaco-for-ever/juventud-antoniana/2587192,Chaco,Terminado,1511118000
+Crucero,Argentina - Argentino A,19/11/17 16:30:00,https://www.academiadasapostasbrasil.com/stats/match/argentina/argentino-a/gimnasia-y-tiro/crucero-del-norte/2587194,Gimnasia Tiro,Terminado,1511119800
+S Resistencia,Argentina - Argentino A,19/11/17 17:00:00,https://www.academiadasapostasbrasil.com/stats/match/argentina/argentino-a/ah-zapla/sarmiento-resistencia/2587195,Zapla,Terminado,1511121600
+Ind Neuquén,Argentina - Argentino A,19/11/17 17:30:00,https://www.academiadasapostasbrasil.com/stats/match/argentina/argentino-a/cipolletti/independiente-neuquen/2587028,Cipolletti,Terminado,1511123400
+Las Parejas,Argentina - Argentino A,19/11/17 18:30:00,https://www.academiadasapostasbrasil.com/stats/match/argentina/argentino-a/defensores-belgrano-vr/sportivo-las-parejas/2587061,Def Belgrano,Terminado,1511127000
+San Jorge,Argentina - Argentino A,19/11/17 19:10:00,https://www.academiadasapostasbrasil.com/stats/match/argentina/argentino-a/guarani-a-franco/san-jorge-tucuman/2587193,Guaraní AF,Terminado,1511129400
+Amurrio,Espanha - Tercera Division,19/11/17 05:15:00,https://www.academiadasapostasbrasil.com/stats/match/espanha/tercera-division/santutxu/amurrio/2553859,Santutxu,Terminado,1511079300
+JD Somorrostro,Espanha - Tercera Division,19/11/17 05:15:00,https://www.academiadasapostasbrasil.com/stats/match/espanha/tercera-division/santurtzi/jd-somorrostro/2553864,Santurtzi,Terminado,1511079300
+Leganés II,Espanha - Tercera Division,19/11/17 05:30:00,https://www.academiadasapostasbrasil.com/stats/match/espanha/tercera-division/parla/leganes-ii/2550324,Parla,Terminado,1511080200
+Pozuelo,Espanha - Tercera Division,19/11/17 05:30:00,https://www.academiadasapostasbrasil.com/stats/match/espanha/tercera-division/los-yebenes/pozuelo-alarcon/2550325,Los Yébenes,Terminado,1511080200
+Atlético Pinto,Espanha - Tercera Division,19/11/17 05:30:00,https://www.academiadasapostasbrasil.com/stats/match/espanha/tercera-division/colmenar-viejo/atletico-de-pinto/2550328,Colmenar,Terminado,1511080200
+Internacional,Espanha - Tercera Division,19/11/17 05:30:00,https://www.academiadasapostasbrasil.com/stats/match/espanha/tercera-division/san-fernando-de-henares/internacional/2550329,SF Henares,Terminado,1511080200
+Tres Cantos,Espanha - Tercera Division,19/11/17 05:30:00,https://www.academiadasapostasbrasil.com/stats/match/espanha/tercera-division/alcorcon-ii/tres-cantos/2550330,Alcorcón II,Terminado,1511080200
+Santa Ana,Espanha - Tercera Division,19/11/17 05:30:00,https://www.academiadasapostasbrasil.com/stats/match/espanha/tercera-division/getafe-ii/santa-ana/2550331,Getafe II,Terminado,1511080200
+Alcalá,Espanha - Tercera Division,19/11/17 05:30:00,https://www.academiadasapostasbrasil.com/stats/match/espanha/tercera-division/trival-valderas/rsd-alcala/2550332,Trival,Terminado,1511080200
+SD Logroñés,Espanha - Tercera Division,19/11/17 05:30:00,https://www.academiadasapostasbrasil.com/stats/match/espanha/tercera-division/villegas/sd-logrones/2553082,Villegas,Terminado,1511080200
+Zamudio,Espanha - Tercera Division,19/11/17 05:30:00,https://www.academiadasapostasbrasil.com/stats/match/espanha/tercera-division/deportivo-alaves-ii/zamudio/2553860,Alaves II,Terminado,1511080200
+Gerena,Espanha - Tercera Division,19/11/17 05:30:00,https://www.academiadasapostasbrasil.com/stats/match/espanha/tercera-division/cd-alcala/gerena/2554245,Alcalá,Terminado,1511080200
+Cantabria,Espanha - Tercera Division,19/11/17 05:45:00,https://www.academiadasapostasbrasil.com/stats/match/espanha/tercera-division/siete-villas/rayo-cantabria/2549552,Siete Villas,Terminado,1511081100
+Mancha Real,Espanha - Tercera Division,19/11/17 05:45:00,https://www.academiadasapostasbrasil.com/stats/match/espanha/tercera-division/real-jaen/mancha-real/2550989,Jaén,Terminado,1511081100
+Huétor Vega,Espanha - Tercera Division,19/11/17 05:45:00,https://www.academiadasapostasbrasil.com/stats/match/espanha/tercera-division/maracena/huetor-vega/2550997,Maracena,Terminado,1511081100
+Amanecer,Espanha - Tercera Division,19/11/17 05:45:00,https://www.academiadasapostasbrasil.com/stats/match/espanha/tercera-division/olivenza/cp-amanecer/2551943,Olivenza,Terminado,1511081100
+Marino Luanco,Espanha - Tercera Division,19/11/17 06:00:00,https://www.academiadasapostasbrasil.com/stats/match/espanha/tercera-division/covadonga/marino-de-luanco/2549159,Covadonga,Terminado,1511082000
+Real Avilés,Espanha - Tercera Division,19/11/17 06:00:00,https://www.academiadasapostasbrasil.com/stats/match/espanha/tercera-division/real-oviedo-ii/real-aviles/2549161,Oviedo II,Terminado,1511082000
+Gijón,Espanha - Tercera Division,19/11/17 06:00:00,https://www.academiadasapostasbrasil.com/stats/match/espanha/tercera-division/roces/gijon-industrial/2549162,Roces,Terminado,1511082000
+San Martín,Espanha - Tercera Division,19/11/17 06:00:00,https://www.academiadasapostasbrasil.com/stats/match/espanha/tercera-division/valdesoto/san-martin/2549164,Valdesoto,Terminado,1511082000
+Llanes,Espanha - Tercera Division,19/11/17 06:00:00,https://www.academiadasapostasbrasil.com/stats/match/espanha/tercera-division/atletico-de-lugones/llanes/2549165,Lugones,Terminado,1511082000
+L'Hospitalet,Espanha - Tercera Division,19/11/17 06:00:00,https://www.academiadasapostasbrasil.com/stats/match/espanha/tercera-division/granollers/lhospitalet/2549926,Granollers,Terminado,1511082000
+Prat,Espanha - Tercera Division,19/11/17 06:00:00,https://www.academiadasapostasbrasil.com/stats/match/espanha/tercera-division/sant-andreu/prat/2549927,Sant Andreu,Terminado,1511082000
+Gavà,Espanha - Tercera Division,19/11/17 06:00:00,https://www.academiadasapostasbrasil.com/stats/match/espanha/tercera-division/palamos/gava/2549929,Palamós,Terminado,1511082000
+Terrassa,Espanha - Tercera Division,19/11/17 06:00:00,https://www.academiadasapostasbrasil.com/stats/match/espanha/tercera-division/vilafranca/terrassa/2549930,Vilafranca,Terminado,1511082000
+Cerdanyola,Espanha - Tercera Division,19/11/17 06:00:00,https://www.academiadasapostasbrasil.com/stats/match/espanha/tercera-division/vilassar-de-mar/cerdanyola-del-valles/2549931,Vilassar,Terminado,1511082000
+Reus Deportiu II,Espanha - Tercera Division,19/11/17 06:00:00,https://www.academiadasapostasbrasil.com/stats/match/espanha/tercera-division/asco/reus-deportiu-ii/2549935,Ascó,Terminado,1511082000
+El Álamo,Espanha - Tercera Division,19/11/17 06:00:00,https://www.academiadasapostasbrasil.com/stats/match/espanha/tercera-division/san-agustin-del-guadalix/el-alamo/2550323,San Agustín del Guadalix,Terminado,1511082000
+Rayo II,Espanha - Tercera Division,19/11/17 06:00:00,https://www.academiadasapostasbrasil.com/stats/match/espanha/tercera-division/mostoles/rayo-vallecano-ii/2550326,Móstoles,Terminado,1511082000
+Villaverde-Boetticher,Espanha - Tercera Division,19/11/17 06:00:00,https://www.academiadasapostasbrasil.com/stats/match/espanha/tercera-division/alcobendas-sport/villaverde-boetticher/2550327,Alcobendas,Terminado,1511082000
+Rincón,Espanha - Tercera Division,19/11/17 06:00:00,https://www.academiadasapostasbrasil.com/stats/match/espanha/tercera-division/velez/rincon/2550981,Vélez,Terminado,1511082000
+Villacarrillo,Espanha - Tercera Division,19/11/17 06:00:00,https://www.academiadasapostasbrasil.com/stats/match/espanha/tercera-division/loja/villacarrillo/2550987,Loja,Terminado,1511082000
+Atarfe,Espanha - Tercera Division,19/11/17 06:00:00,https://www.academiadasapostasbrasil.com/stats/match/espanha/tercera-division/juventud-torremolinos/atarfe-industrial/2550999,Juventud Torremolinos,Terminado,1511082000
+Binissalem,Espanha - Tercera Division,19/11/17 06:00:00,https://www.academiadasapostasbrasil.com/stats/match/espanha/tercera-division/mercadal/binissalem/2551565,Mercadal,Terminado,1511082000
+Poblense,Espanha - Tercera Division,19/11/17 06:00:00,https://www.academiadasapostasbrasil.com/stats/match/espanha/tercera-division/llosetense/poblense/2551566,Llosetense,Terminado,1511082000
+San Rafael,Espanha - Tercera Division,19/11/17 06:00:00,https://www.academiadasapostasbrasil.com/stats/match/espanha/tercera-division/santanyi/san-rafael/2551573,Santanyí,Terminado,1511082000
+Moralo,Espanha - Tercera Division,19/11/17 06:00:00,https://www.academiadasapostasbrasil.com/stats/match/espanha/tercera-division/castuera/moralo/2551935,Castuera,Terminado,1511082000
+Azuaga,Espanha - Tercera Division,19/11/17 06:00:00,https://www.academiadasapostasbrasil.com/stats/match/espanha/tercera-division/calamonte/azuaga/2551937,Calamonte,Terminado,1511082000
+Santa Amalia,Espanha - Tercera Division,19/11/17 06:00:00,https://www.academiadasapostasbrasil.com/stats/match/espanha/tercera-division/extremadura-ud-ii/santa-amalia/2551938,Extremadura UD II,Terminado,1511082000
+Trujillo,Espanha - Tercera Division,19/11/17 06:00:00,https://www.academiadasapostasbrasil.com/stats/match/espanha/tercera-division/don-benito/trujillo/2551940,Don Benito,Terminado,1511082000
+Montijo,Espanha - Tercera Division,19/11/17 06:00:00,https://www.academiadasapostasbrasil.com/stats/match/espanha/tercera-division/up-plasencia/montijo/2551944,Plasencia,Terminado,1511082000
+CD Águilas,Espanha - Tercera Division,19/11/17 06:00:00,https://www.academiadasapostasbrasil.com/stats/match/espanha/tercera-division/eg-el-palmar/cd-aguilas/2552319,El Palmar,Terminado,1511082000
+Portugalete,Espanha - Tercera Division,19/11/17 06:00:00,https://www.academiadasapostasbrasil.com/stats/match/espanha/tercera-division/aurrera-de-vitoria/portugalete/2553856,Aurrerá,Terminado,1511082000
+Sodupe,Espanha - Tercera Division,19/11/17 06:00:00,https://www.academiadasapostasbrasil.com/stats/match/espanha/tercera-division/real-sociedad-iii/sodupe/2553858,Berio,Terminado,1511082000
+Castilleja,Espanha - Tercera Division,19/11/17 06:00:00,https://www.academiadasapostasbrasil.com/stats/match/espanha/tercera-division/utrera/castilleja/2554236,Utrera,Terminado,1511082000
+Atlético Espeleño,Espanha - Tercera Division,19/11/17 06:00:00,https://www.academiadasapostasbrasil.com/stats/match/espanha/tercera-division/xerez/atletico-espeleno/2554239,Xerez,Terminado,1511082000
+Roque Lepe,Espanha - Tercera Division,19/11/17 06:00:00,https://www.academiadasapostasbrasil.com/stats/match/espanha/tercera-division/cabecense/san-roque-de-lepe/2554242,Cabecense,Terminado,1511082000
+Torre Levante,Espanha - Tercera Division,19/11/17 06:00:00,https://www.academiadasapostasbrasil.com/stats/match/espanha/tercera-division/silla/torre-levante/2555732,Silla,Terminado,1511082000
+Eldense,Espanha - Tercera Division,19/11/17 06:00:00,https://www.academiadasapostasbrasil.com/stats/match/espanha/tercera-division/borriol/eldense/2555735,Borriol,Terminado,1511082000
+Rayo Ibense,Espanha - Tercera Division,19/11/17 06:00:00,https://www.academiadasapostasbrasil.com/stats/match/espanha/tercera-division/recambios-colon/rayo-ibense/2555736,Recambios,Terminado,1511082000
+Villacañas,Espanha - Tercera Division,19/11/17 06:00:00,https://www.academiadasapostasbrasil.com/stats/match/espanha/tercera-division/albacete-ii/villacanas/2560668,Albacete II,Terminado,1511082000
+Miguelturreño,Espanha - Tercera Division,19/11/17 06:00:00,https://www.academiadasapostasbrasil.com/stats/match/espanha/tercera-division/azuqueca/miguelturreno/2560669,Azuqueca,Terminado,1511082000
+Pedroñeras,Espanha - Tercera Division,19/11/17 06:00:00,https://www.academiadasapostasbrasil.com/stats/match/espanha/tercera-division/guadalajara/pedroneras/2560672,Guadalajara,Terminado,1511082000
+Colunga,Espanha - Tercera Division,19/11/17 06:30:00,https://www.academiadasapostasbrasil.com/stats/match/espanha/tercera-division/ceares/colunga/2549160,Ceares,Terminado,1511083800
+Minerva,Espanha - Tercera Division,19/11/17 06:30:00,https://www.academiadasapostasbrasil.com/stats/match/espanha/tercera-division/cartagena-ii/minerva/2552316,Cartagena II,Terminado,1511083800
+Haro,Espanha - Tercera Division,19/11/17 06:30:00,https://www.academiadasapostasbrasil.com/stats/match/espanha/tercera-division/yague/haro/2553083,Yagüe,Terminado,1511083800
+Barrios,Espanha - Tercera Division,19/11/17 06:30:00,https://www.academiadasapostasbrasil.com/stats/match/espanha/tercera-division/lebrijana/los-barrios/2554240,Lebrijana,Terminado,1511083800
+Motril,Espanha - Tercera Division,19/11/17 06:45:00,https://www.academiadasapostasbrasil.com/stats/match/espanha/tercera-division/guadix/motril/2550979,Guadix,Terminado,1511084700
+Los Llanos,Espanha - Tercera Division,19/11/17 07:00:00,https://www.academiadasapostasbrasil.com/stats/match/espanha/tercera-division/buzanada/los-llanos/2562161,Buzanada,Terminado,1511085600
+Panadería Pulido,Espanha - Tercera Division,19/11/17 07:00:00,https://www.academiadasapostasbrasil.com/stats/match/espanha/tercera-division/tenerife-ii/panaderia-pulido/2562163,Tenerife II,Terminado,1511085600
+Mensajero,Espanha - Tercera Division,19/11/17 07:00:00,https://www.academiadasapostasbrasil.com/stats/match/espanha/tercera-division/vera/mensajero/2562164,Vera,Terminado,1511085600
+El Cotillo,Espanha - Tercera Division,19/11/17 07:00:00,https://www.academiadasapostasbrasil.com/stats/match/espanha/tercera-division/la-cuadra/el-cotillo/2562165,La Cuadra,Terminado,1511085600
+Estrella,Espanha - Tercera Division,19/11/17 07:00:00,https://www.academiadasapostasbrasil.com/stats/match/espanha/tercera-division/lanzarote/estrella/2562166,Lanzarote,Terminado,1511085600
+Güímar,Espanha - Tercera Division,19/11/17 07:00:00,https://www.academiadasapostasbrasil.com/stats/match/espanha/tercera-division/villa-santa-brigida/guimar/2562167,Santa Brígida,Terminado,1511085600
+Marino,Espanha - Tercera Division,19/11/17 07:00:00,https://www.academiadasapostasbrasil.com/stats/match/espanha/tercera-division/union-sur-yaiza/marino/2562168,Yaiza,Terminado,1511085600
+Las Zocas,Espanha - Tercera Division,19/11/17 07:00:00,https://www.academiadasapostasbrasil.com/stats/match/espanha/tercera-division/tenisca/las-zocas/2562169,Tenisca,Terminado,1511085600
+Oberlausitz,Alemanha - Regionalliga,19/11/17 07:30:00,https://www.academiadasapostasbrasil.com/stats/match/alemanha/regionalliga/chemie-leipzig/oberlausitz/2500337,Chemie Leipzig,Terminado,1511087400
+Hertha II,Alemanha - Regionalliga,19/11/17 07:30:00,https://www.academiadasapostasbrasil.com/stats/match/alemanha/regionalliga/berlin-ankaraspor/hertha-berlin-ii/2500338,BAK,Terminado,1511087400
+Lok Leipzig,Alemanha - Regionalliga,19/11/17 07:30:00,https://www.academiadasapostasbrasil.com/stats/match/alemanha/regionalliga/berliner-fc-dynamo/lokomotive-leipzig/2500339,BFC Dynamo,Terminado,1511087400
+Luckenwalde,Alemanha - Regionalliga,19/11/17 07:30:00,https://www.academiadasapostasbrasil.com/stats/match/alemanha/regionalliga/auerbach/luckenwalde/2500342,Auerbach,Terminado,1511087400
+Nordhausen,Alemanha - Regionalliga,19/11/17 07:30:00,https://www.academiadasapostasbrasil.com/stats/match/alemanha/regionalliga/budissa-bautzen/wacker-nordhausen/2500343,Budissa,Terminado,1511087400
+Altglienicke,Alemanha - Regionalliga,19/11/17 07:30:00,https://www.academiadasapostasbrasil.com/stats/match/alemanha/regionalliga/neustrelitz/altglienicke/2500345,Neustrelitz,Terminado,1511087400
+Hoffenheim II,Alemanha - Regionalliga,19/11/17 08:00:00,https://www.academiadasapostasbrasil.com/stats/match/alemanha/regionalliga/kickers-offenbach/hoffenheim-ii/2494281,Offenbach,Terminado,1511089200
+Röchling Völklingen,Alemanha - Regionalliga,19/11/17 08:00:00,https://www.academiadasapostasbrasil.com/stats/match/alemanha/regionalliga/tus-koblenz/rochling-volklingen/2494286,Koblenz,Terminado,1511089200
+Wuppertal,Alemanha - Regionalliga,19/11/17 08:00:00,https://www.academiadasapostasbrasil.com/stats/match/alemanha/regionalliga/bonner/wuppertaler/2497334,Bonn,Terminado,1511089200
+OJC,Holanda - Derde Divisie,19/11/17 08:00:00,https://www.academiadasapostasbrasil.com/stats/match/holanda/derde-divisie/hv-cv-quick/ojc-rosmalen/2497837,Quick,Terminado,1511089200
+Be Quick,Holanda - Derde Divisie,19/11/17 08:00:00,https://www.academiadasapostasbrasil.com/stats/match/holanda/derde-divisie/usv-hercules/be-quick-1887/2497838,Hercules,Terminado,1511089200
+UNA,Holanda - Derde Divisie,19/11/17 08:00:00,https://www.academiadasapostasbrasil.com/stats/match/holanda/derde-divisie/de-meern-zon/una/2497840,De Meern Zon,Terminado,1511089200
+Dongen,Holanda - Derde Divisie,19/11/17 08:00:00,https://www.academiadasapostasbrasil.com/stats/match/holanda/derde-divisie/quick-20/dongen/2497842,Quick '20,Terminado,1511089200
+VfB Oldenburg,Alemanha - Regionalliga,19/11/17 08:00:00,https://www.academiadasapostasbrasil.com/stats/match/alemanha/regionalliga/hansa-luneburg/oldenburg/2514792,LSK Hansa,,1511089200
+Rehden,Alemanha - Regionalliga,19/11/17 08:00:00,https://www.academiadasapostasbrasil.com/stats/match/alemanha/regionalliga/havelse/schwarz-weis-rehden/2514793,Havelse,,1511089200
+Braunschw. II,Alemanha - Regionalliga,19/11/17 08:00:00,https://www.academiadasapostasbrasil.com/stats/match/alemanha/regionalliga/sankt-pauli-ii/eintracht-braunschweig-ii/2514794,St. Pauli II,,1511089200
+Rehden,Alemanha - Regionalliga,19/11/17 08:00:00,https://www.academiadasapostasbrasil.com/stats/match/alemanha/regionalliga/havelse/schwarz-weis-rehden/2516175,Havelse,Terminado,1511089200
+Solières,Bélgica - 3e Klasse,19/11/17 08:30:00,https://www.academiadasapostasbrasil.com/stats/match/belgica/3e-klasse/rebecq/solieres-sport/2493030,Rebecq,Terminado,1511091000
+Walhain,Bélgica - 3e Klasse,19/11/17 08:30:00,https://www.academiadasapostasbrasil.com/stats/match/belgica/3e-klasse/acren/walhain/2493032,Acren,Terminado,1511091000
+HBS,Holanda - Derde Divisie,19/11/17 08:30:00,https://www.academiadasapostasbrasil.com/stats/match/holanda/derde-divisie/blauw-geel-38/hbs/2497839,Blauw Geel 38,Terminado,1511091000
+ADO 20,Holanda - Derde Divisie,19/11/17 08:30:00,https://www.academiadasapostasbrasil.com/stats/match/holanda/derde-divisie/de-graafschap-ii/ado-20/2497841,Graafschap,Terminado,1511091000
+OFC Oostzaan,Holanda - Derde Divisie,19/11/17 08:30:00,https://www.academiadasapostasbrasil.com/stats/match/holanda/derde-divisie/evv/ofc-oostzaan/2497843,EVV,Terminado,1511091000
+JVC,Holanda - Derde Divisie,19/11/17 08:30:00,https://www.academiadasapostasbrasil.com/stats/match/holanda/derde-divisie/vitesse-ii/jvc-cuijk/2497844,Vitesse,Terminado,1511091000
+Westlandia,Holanda - Derde Divisie,19/11/17 08:30:00,https://www.academiadasapostasbrasil.com/stats/match/holanda/derde-divisie/hsc-21/westlandia/2497845,HSC 21,Terminado,1511091000
+Petegem,Bélgica - 3e Klasse,19/11/17 08:30:00,https://www.academiadasapostasbrasil.com/stats/match/belgica/3e-klasse/sint-eloois-winkel/sparta-petegem/2520681,Eloois-Winkel,Terminado,1511091000
+Turnhout,Bélgica - 3e Klasse,19/11/17 08:30:00,https://www.academiadasapostasbrasil.com/stats/match/belgica/3e-klasse/tienen/turnhout/2520920,Tienen,Terminado,1511091000
+Wijgmaal,Bélgica - 3e Klasse,19/11/17 08:30:00,https://www.academiadasapostasbrasil.com/stats/match/belgica/3e-klasse/vosselaar/olympia-wijgmaal/2520922,Vosselaar,Terminado,1511091000
+Arras,França - CFA,19/11/17 08:30:00,https://www.academiadasapostasbrasil.com/stats/match/franca/cfa/fleury-91-fc/arras/2531024,Fleury 91 FC,Terminado,1511091000
+Hamoir,Bélgica - 3e Klasse,19/11/17 09:00:00,https://www.academiadasapostasbrasil.com/stats/match/belgica/3e-klasse/white-star-bruxelles/hamoir/2493025,WS Bruxelles,Cancelado,1511092800
+Liège,Bélgica - 3e Klasse,19/11/17 09:00:00,https://www.academiadasapostasbrasil.com/stats/match/belgica/3e-klasse/la-calamine/liege/2493031,La Calamine,Terminado,1511092800
+Hildesheim,Alemanha - Regionalliga,19/11/17 09:00:00,https://www.academiadasapostasbrasil.com/stats/match/alemanha/regionalliga/drochtersen-assel/borussia-hildesheim/2514795,Drochtersen,,1511092800
+Ronse,Bélgica - 3e Klasse,19/11/17 09:00:00,https://www.academiadasapostasbrasil.com/stats/match/belgica/3e-klasse/rupel-boom/ronse/2520678,Rupel Boom,Terminado,1511092800
+Harelbeke,Bélgica - 3e Klasse,19/11/17 09:00:00,https://www.academiadasapostasbrasil.com/stats/match/belgica/3e-klasse/olsa-brakel/sw-harelbeke/2520679,Olsa,Terminado,1511092800
+Gullegem,Bélgica - 3e Klasse,19/11/17 09:00:00,https://www.academiadasapostasbrasil.com/stats/match/belgica/3e-klasse/westhoek/gullegem/2520680,Westhoek,Terminado,1511092800
+Londerzeel,Bélgica - 3e Klasse,19/11/17 09:00:00,https://www.academiadasapostasbrasil.com/stats/match/belgica/3e-klasse/pepingen/londerzeel/2520682,Pepingen,Terminado,1511092800
+San Juan,Espanha - Tercera Division,19/11/17 09:30:00,https://www.academiadasapostasbrasil.com/stats/match/espanha/tercera-division/cantolagua/san-juan/2552712,Cantolagua,Terminado,1511094600
+Almazora,Espanha - Tercera Division,19/11/17 09:30:00,https://www.academiadasapostasbrasil.com/stats/match/espanha/tercera-division/elche-ii/almazora/2555740,Elche II,Terminado,1511094600
+Siero,Espanha - Tercera Division,19/11/17 09:45:00,https://www.academiadasapostasbrasil.com/stats/match/espanha/tercera-division/praviano/siero/2549156,Praviano,Terminado,1511095500
+L'Entregu,Espanha - Tercera Division,19/11/17 09:45:00,https://www.academiadasapostasbrasil.com/stats/match/espanha/tercera-division/mosconia/lentregu/2549157,Mosconia,Terminado,1511095500
+Barreda,Espanha - Tercera Division,19/11/17 09:45:00,https://www.academiadasapostasbrasil.com/stats/match/espanha/tercera-division/cayon/barreda/2549549,Cayón,Terminado,1511095500
+Tropezón,Espanha - Tercera Division,19/11/17 09:45:00,https://www.academiadasapostasbrasil.com/stats/match/espanha/tercera-division/selaya/tropezon/2549550,Selaya,Terminado,1511095500
+Cariñena,Espanha - Tercera Division,19/11/17 09:45:00,https://www.academiadasapostasbrasil.com/stats/match/espanha/tercera-division/robres/carinena/2553456,Robres,Terminado,1511095500
+Sariñena,Espanha - Tercera Division,19/11/17 09:45:00,https://www.academiadasapostasbrasil.com/stats/match/espanha/tercera-division/brea/sarinena/2553457,Brea,Terminado,1511095500
+Fraga,Espanha - Tercera Division,19/11/17 09:45:00,https://www.academiadasapostasbrasil.com/stats/match/espanha/tercera-division/belchite-97/fraga/2553459,Belchite,Terminado,1511095500
+Tuilla,Espanha - Tercera Division,19/11/17 10:00:00,https://www.academiadasapostasbrasil.com/stats/match/espanha/tercera-division/llanera/tuilla/2549158,Llanera,Terminado,1511096400
+Real Burgos,Espanha - Tercera Division,19/11/17 10:00:00,https://www.academiadasapostasbrasil.com/stats/match/espanha/tercera-division/cultural-cebrerena/real-burgos/2550800,Cebrereña,Terminado,1511096400
+Ávila,Espanha - Tercera Division,19/11/17 10:00:00,https://www.academiadasapostasbrasil.com/stats/match/espanha/tercera-division/beroil-bupolsa/real-avila/2550814,Beroil Bupolsa,Terminado,1511096400
+Murcia II,Espanha - Tercera Division,19/11/17 10:00:00,https://www.academiadasapostasbrasil.com/stats/match/espanha/tercera-division/deportiva-minera/real-murcia-ii/2552315,Minera,Terminado,1511096400
+Berceo,Espanha - Tercera Division,19/11/17 10:00:00,https://www.academiadasapostasbrasil.com/stats/match/espanha/tercera-division/alfaro/berceo/2553075,Alfaro,Terminado,1511096400
+Teruel,Espanha - Tercera Division,19/11/17 10:00:00,https://www.academiadasapostasbrasil.com/stats/match/espanha/tercera-division/sabinanigo/teruel/2553455,Sabiñánigo,Terminado,1511096400
+Valdefierro,Espanha - Tercera Division,19/11/17 10:00:00,https://www.academiadasapostasbrasil.com/stats/match/espanha/tercera-division/binefar/valdefierro/2553458,Binéfar,Terminado,1511096400
+Tarazona,Espanha - Tercera Division,19/11/17 10:00:00,https://www.academiadasapostasbrasil.com/stats/match/espanha/tercera-division/la-almunia/tarazona/2553460,La Almunia,Terminado,1511096400
+Illueca,Espanha - Tercera Division,19/11/17 10:00:00,https://www.academiadasapostasbrasil.com/stats/match/espanha/tercera-division/borja/illueca/2553462,Borja,Terminado,1511096400
+Caspe,Espanha - Tercera Division,19/11/17 10:00:00,https://www.academiadasapostasbrasil.com/stats/match/espanha/tercera-division/ejea/caspe/2553464,Ejea,Terminado,1511096400
+Paterna,Espanha - Tercera Division,19/11/17 10:00:00,https://www.academiadasapostasbrasil.com/stats/match/espanha/tercera-division/bunol/paterna/2555741,Buñol,Terminado,1511096400
+Ciudad Real,Espanha - Tercera Division,19/11/17 10:00:00,https://www.academiadasapostasbrasil.com/stats/match/espanha/tercera-division/atletico-ibanes/ciudad-real/2560666,Ibañés,Terminado,1511096400
+Pinatar Arena,Espanha - Tercera Division,19/11/17 10:15:00,https://www.academiadasapostasbrasil.com/stats/match/espanha/tercera-division/atletico-pulpileno/pinatar-arena/2552320,Pulpileño,Terminado,1511097300
+Tamarite,Espanha - Tercera Division,19/11/17 10:15:00,https://www.academiadasapostasbrasil.com/stats/match/espanha/tercera-division/atletico-monzon/cdj-tamarite/2553461,Monzón,Terminado,1511097300
+Villalonga,Espanha - Tercera Division,19/11/17 10:15:00,https://www.academiadasapostasbrasil.com/stats/match/espanha/tercera-division/barbadas/villalonga/2555032,Barbadás,Terminado,1511097300
+Choco,Espanha - Tercera Division,19/11/17 10:15:00,https://www.academiadasapostasbrasil.com/stats/match/espanha/tercera-division/villalbes/choco/2555040,Villalbés,Terminado,1511097300
+Bembibre,Espanha - Tercera Division,19/11/17 10:30:00,https://www.academiadasapostasbrasil.com/stats/match/espanha/tercera-division/almazan/bembibre/2550798,Almazán,Terminado,1511098200
+Numancia II,Espanha - Tercera Division,19/11/17 10:30:00,https://www.academiadasapostasbrasil.com/stats/match/espanha/tercera-division/atletico-tordesillas/numancia-ii/2550812,Tordesillas,Terminado,1511098200
+Martos,Espanha - Tercera Division,19/11/17 10:30:00,https://www.academiadasapostasbrasil.com/stats/match/espanha/tercera-division/malaga-ii/martos/2550985,Malaga II,Terminado,1511098200
+Collerense,Espanha - Tercera Division,19/11/17 10:30:00,https://www.academiadasapostasbrasil.com/stats/match/espanha/tercera-division/petra/collerense/2551567,Petra,Terminado,1511098200
+Diocesano,Espanha - Tercera Division,19/11/17 10:30:00,https://www.academiadasapostasbrasil.com/stats/match/espanha/tercera-division/cacereno/diocesano/2551939,Cacereño,Terminado,1511098200
+Valdivia,Espanha - Tercera Division,19/11/17 10:30:00,https://www.academiadasapostasbrasil.com/stats/match/espanha/tercera-division/atletico-pueblonuevo/valdivia/2551942,Pueblonuevo,Terminado,1511098200
+Cieza,Espanha - Tercera Division,19/11/17 10:30:00,https://www.academiadasapostasbrasil.com/stats/match/espanha/tercera-division/edmf-churra/cieza/2552318,Churra,Terminado,1511098200
+La Unión CF,Espanha - Tercera Division,19/11/17 10:30:00,https://www.academiadasapostasbrasil.com/stats/match/espanha/tercera-division/huercal-overa/la-union-cf/2552321,Huércal-Overa,Terminado,1511098200
+Muleño,Espanha - Tercera Division,19/11/17 10:30:00,https://www.academiadasapostasbrasil.com/stats/match/espanha/tercera-division/nueva-vanguardia/muleno/2552323,Espinardo,Terminado,1511098200
+UCAM Murcia II,Espanha - Tercera Division,19/11/17 10:30:00,https://www.academiadasapostasbrasil.com/stats/match/espanha/tercera-division/mar-menor/ucam-murcia-ii/2552324,Mar Menor,Terminado,1511098200
+Logroñés II,Espanha - Tercera Division,19/11/17 10:30:00,https://www.academiadasapostasbrasil.com/stats/match/espanha/tercera-division/cd-calahorra/logrones-ii/2553080,CD Calahorra,Terminado,1511098200
+Almudévar,Espanha - Tercera Division,19/11/17 10:30:00,https://www.academiadasapostasbrasil.com/stats/match/espanha/tercera-division/utebo/almudevar/2553463,Utebo,Terminado,1511098200
+Arosa,Espanha - Tercera Division,19/11/17 10:30:00,https://www.academiadasapostasbrasil.com/stats/match/espanha/tercera-division/celtiga/arosa/2555037,Céltiga,Terminado,1511098200
+Madridejos,Espanha - Tercera Division,19/11/17 10:30:00,https://www.academiadasapostasbrasil.com/stats/match/espanha/tercera-division/villarrobledo/madridejos/2560670,Villarrobledo,Terminado,1511098200
+Almansa,Espanha - Tercera Division,19/11/17 10:30:00,https://www.academiadasapostasbrasil.com/stats/match/espanha/tercera-division/quintanar-del-rey/almansa/2560671,Quintanar,Terminado,1511098200
+Conquense,Espanha - Tercera Division,19/11/17 10:30:00,https://www.academiadasapostasbrasil.com/stats/match/espanha/tercera-division/mora/conquense/2560673,Mora,Terminado,1511098200
+Villarrubia,Espanha - Tercera Division,19/11/17 10:30:00,https://www.academiadasapostasbrasil.com/stats/match/espanha/tercera-division/almagro/villarrubia/2560674,Almagro,Terminado,1511098200
+Marchamalo,Espanha - Tercera Division,19/11/17 10:30:00,https://www.academiadasapostasbrasil.com/stats/match/espanha/tercera-division/atletico-tomelloso/marchamalo/2560675,Atlético Tomelloso,Terminado,1511098200
+La Hoya Lorca II,Espanha - Tercera Division,19/11/17 10:45:00,https://www.academiadasapostasbrasil.com/stats/match/espanha/tercera-division/los-garres/la-hoya-lorca-ii/2552322,Los Garres,Terminado,1511099100
+Ourense CF,Espanha - Tercera Division,19/11/17 10:45:00,https://www.academiadasapostasbrasil.com/stats/match/espanha/tercera-division/cultural-areas/ourense-cf/2555034,Cultural Areas,Terminado,1511099100
+Arenteiro,Espanha - Tercera Division,19/11/17 10:45:00,https://www.academiadasapostasbrasil.com/stats/match/espanha/tercera-division/boiro/arenteiro/2555041,Boiro,Terminado,1511099100
+Condal,Espanha - Tercera Division,19/11/17 11:00:00,https://www.academiadasapostasbrasil.com/stats/match/espanha/tercera-division/langreo/condal/2549163,Langreo,Terminado,1511100000
+Escobedo,Espanha - Tercera Division,19/11/17 11:00:00,https://www.academiadasapostasbrasil.com/stats/match/espanha/tercera-division/velarde/escobedo/2549547,Velarde,Terminado,1511100000
+Escudo,Espanha - Tercera Division,19/11/17 11:00:00,https://www.academiadasapostasbrasil.com/stats/match/espanha/tercera-division/gimnastica-torrelavega/textil-escudo/2549554,RS Gimnástica,Terminado,1511100000
+Albericia,Espanha - Tercera Division,19/11/17 11:00:00,https://www.academiadasapostasbrasil.com/stats/match/espanha/tercera-division/laredo/atletico-albericia/2549555,Laredo,Terminado,1511100000
+La Bañeza,Espanha - Tercera Division,19/11/17 11:00:00,https://www.academiadasapostasbrasil.com/stats/match/espanha/tercera-division/arandina/la-baneza/2550804,Arandina,Terminado,1511100000
+Burgos,Espanha - Tercera Division,19/11/17 11:00:00,https://www.academiadasapostasbrasil.com/stats/match/espanha/tercera-division/cristo-atletico/burgos-promesas/2550810,Cristo,Terminado,1511100000
+Astorga,Espanha - Tercera Division,19/11/17 11:00:00,https://www.academiadasapostasbrasil.com/stats/match/espanha/tercera-division/zamora/atletico-astorga/2550816,Zamora,Terminado,1511100000
+Huétor Tájar,Espanha - Tercera Division,19/11/17 11:00:00,https://www.academiadasapostasbrasil.com/stats/match/espanha/tercera-division/linares-deportivo/huetor-tajar/2550983,Linares,Terminado,1511100000
+Almería II,Espanha - Tercera Division,19/11/17 11:00:00,https://www.academiadasapostasbrasil.com/stats/match/espanha/tercera-division/antequera/almeria-ii/2550991,Antequera,Terminado,1511100000
+Jerez,Espanha - Tercera Division,19/11/17 11:00:00,https://www.academiadasapostasbrasil.com/stats/match/espanha/tercera-division/cd-coria/jerez/2551936,CD Coria,Terminado,1511100000
+Aceuchal,Espanha - Tercera Division,19/11/17 11:00:00,https://www.academiadasapostasbrasil.com/stats/match/espanha/tercera-division/arroyo/aceuchal/2551941,Arroyo,Terminado,1511100000
+Bala Azul,Espanha - Tercera Division,19/11/17 11:00:00,https://www.academiadasapostasbrasil.com/stats/match/espanha/tercera-division/yeclano/bala-azul/2552317,Yeclano,Terminado,1511100000
+River Ega,Espanha - Tercera Division,19/11/17 11:00:00,https://www.academiadasapostasbrasil.com/stats/match/espanha/tercera-division/beti-kozkor/river-ega/2552707,Beti Kozkor,Terminado,1511100000
+Calasancio,Espanha - Tercera Division,19/11/17 11:00:00,https://www.academiadasapostasbrasil.com/stats/match/espanha/tercera-division/oyonesa/calasancio/2553077,Oyonesa,Terminado,1511100000
+Anguiano,Espanha - Tercera Division,19/11/17 11:00:00,https://www.academiadasapostasbrasil.com/stats/match/espanha/tercera-division/tedeon/anguiano/2553078,Tedeón,Terminado,1511100000
+Varea,Espanha - Tercera Division,19/11/17 11:00:00,https://www.academiadasapostasbrasil.com/stats/match/espanha/tercera-division/naxara/varea/2553081,Náxara,Terminado,1511100000
+Guadalcacín,Espanha - Tercera Division,19/11/17 11:00:00,https://www.academiadasapostasbrasil.com/stats/match/espanha/tercera-division/algeciras/guadalcacin/2554241,Algeciras,Terminado,1511100000
+Cádiz II,Espanha - Tercera Division,19/11/17 11:00:00,https://www.academiadasapostasbrasil.com/stats/match/espanha/tercera-division/sanluqueno/cadiz-ii/2554243,Sanluqueño,Terminado,1511100000
+Noia,Espanha - Tercera Division,19/11/17 11:00:00,https://www.academiadasapostasbrasil.com/stats/match/espanha/tercera-division/somozas/noia/2555035,Somozas,Terminado,1511100000
+Alondras,Espanha - Tercera Division,19/11/17 11:00:00,https://www.academiadasapostasbrasil.com/stats/match/espanha/tercera-division/barco/alondras/2555036,Barco,Terminado,1511100000
+Bergantiños,Espanha - Tercera Division,19/11/17 11:00:00,https://www.academiadasapostasbrasil.com/stats/match/espanha/tercera-division/ribadumia/bergantinos/2555038,Ribadumia,Terminado,1511100000
+Silva,Espanha - Tercera Division,19/11/17 11:00:00,https://www.academiadasapostasbrasil.com/stats/match/espanha/tercera-division/laracha/silva/2555039,Laracha,Terminado,1511100000
+Castellón,Espanha - Tercera Division,19/11/17 11:00:00,https://www.academiadasapostasbrasil.com/stats/match/espanha/tercera-division/novelda/castellon/2555734,Novelda,Terminado,1511100000
+Roda,Espanha - Tercera Division,19/11/17 11:00:00,https://www.academiadasapostasbrasil.com/stats/match/espanha/tercera-division/la-nucia/roda/2555737,La Nucía,Terminado,1511100000
+Villarreal III,Espanha - Tercera Division,19/11/17 11:00:00,https://www.academiadasapostasbrasil.com/stats/match/espanha/tercera-division/orihuela/villarreal-iii/2555738,Orihuela,Terminado,1511100000
+Crevillente,Espanha - Tercera Division,19/11/17 11:00:00,https://www.academiadasapostasbrasil.com/stats/match/espanha/tercera-division/alzira/crevillente/2555739,Alzira,Terminado,1511100000
+Socuéllamos,Espanha - Tercera Division,19/11/17 11:00:00,https://www.academiadasapostasbrasil.com/stats/match/espanha/tercera-division/la-roda/socuellamos/2560667,La Roda,Terminado,1511100000
+San Pedro,Espanha - Tercera Division,19/11/17 11:30:00,https://www.academiadasapostasbrasil.com/stats/match/espanha/tercera-division/el-palo/ud-san-pedro/2550993,El Palo,Terminado,1511101800
+Ferriolense,Espanha - Tercera Division,19/11/17 11:30:00,https://www.academiadasapostasbrasil.com/stats/match/espanha/tercera-division/alcudia/ferriolense/2551574,Alcúdia,Terminado,1511101800
+Lucena,Espanha - Tercera Division,19/11/17 12:00:00,https://www.academiadasapostasbrasil.com/stats/match/espanha/tercera-division/puente-genil/lucena/2554244,Puente Genil,Terminado,1511103600
+San Telmo,Argentina - Primera B Metropolitana,19/11/17 15:00:00,https://www.academiadasapostasbrasil.com/stats/match/argentina/primera-b-metropolitana/villa-san-carlos/san-telmo/2577398,Villa SC,Terminado,1511114400
+Victoria HH,Alemanha - Oberliga,19/11/17 04:45:00,https://www.academiadasapostasbrasil.com/stats/match/alemanha/oberliga/teutonia-hamburg/victoria-hamburgo/2505732,Teutonia Hamburg,Terminado,1511077500
+Hastedt,Alemanha - Oberliga,19/11/17 05:00:00,https://www.academiadasapostasbrasil.com/stats/match/alemanha/oberliga/geestemunde/hastedt/2505313,Geestemünde,Terminado,1511078400
+Niendorfer TSV,Alemanha - Oberliga,19/11/17 05:00:00,https://www.academiadasapostasbrasil.com/stats/match/alemanha/oberliga/wedel/niendorfer-tsv/2505581,Wedel,Terminado,1511078400
+Victoria Seelow,Alemanha - Oberliga,19/11/17 07:30:00,https://www.academiadasapostasbrasil.com/stats/match/alemanha/oberliga/staaken/victoria-seelow/2532462,Staaken,Terminado,1511087400
+Grün-Weiß Brieselang,Alemanha - Oberliga,19/11/17 07:30:00,https://www.academiadasapostasbrasil.com/stats/match/alemanha/oberliga/cfc-hertha/grun-weiss-brieselang/2532463,CFC Hertha,Terminado,1511087400
+Landsberg,Alemanha - Oberliga,19/11/17 08:00:00,https://www.academiadasapostasbrasil.com/stats/match/alemanha/oberliga/1860-munique-ii/landsberg/2503638,1860 II,Terminado,1511089200
+Aubstadt,Alemanha - Oberliga,19/11/17 08:00:00,https://www.academiadasapostasbrasil.com/stats/match/alemanha/oberliga/djk-bamberg/aubstadt/2505077,DJK Bamberg,Terminado,1511089200
+Aschaffenburg,Alemanha - Oberliga,19/11/17 08:00:00,https://www.academiadasapostasbrasil.com/stats/match/alemanha/oberliga/schweinfurt-ii/viktoria-aschaffenburg/2505079,Schweinfurt II,Terminado,1511089200
+Habenhauser FV,Alemanha - Oberliga,19/11/17 08:00:00,https://www.academiadasapostasbrasil.com/stats/match/alemanha/oberliga/leher-ts/habenhauser/2505315,Leher TS,Terminado,1511089200
+Pinneberg,Alemanha - Oberliga,19/11/17 08:00:00,https://www.academiadasapostasbrasil.com/stats/match/alemanha/oberliga/barmbek-uhlenhorst/pinneberg/2505573,Barmbek-Uhlenh,Terminado,1511089200
+Rugenbergen,Alemanha - Oberliga,19/11/17 08:00:00,https://www.academiadasapostasbrasil.com/stats/match/alemanha/oberliga/hamburger-sv-iii/rugenbergen/2505577,Hamburger SV III,Terminado,1511089200
+Bahlingen,Alemanha - Oberliga,19/11/17 08:00:00,https://www.academiadasapostasbrasil.com/stats/match/alemanha/oberliga/karlsruher-ii/bahlinger/2527596,Karlsruhe II ,Terminado,1511089200
+Atlas Delmenhorst,Alemanha - Oberliga,19/11/17 08:00:00,https://www.academiadasapostasbrasil.com/stats/match/alemanha/oberliga/arminia-hannover/atlas-delmenhorst/2532222,Arminia Hannover,Terminado,1511089200
+Eintracht Celle,Alemanha - Oberliga,19/11/17 08:00:00,https://www.academiadasapostasbrasil.com/stats/match/alemanha/oberliga/svg-gottingen/eintracht-celle/2532223,SVG Göttingen,Terminado,1511089200
+Vorsfelde,Alemanha - Oberliga,19/11/17 08:00:00,https://www.academiadasapostasbrasil.com/stats/match/alemanha/oberliga/spelle-venhaus/vorsfelde/2532224,Spelle-Venhaus,Terminado,1511089200
+Wunstorf,Alemanha - Oberliga,19/11/17 08:00:00,https://www.academiadasapostasbrasil.com/stats/match/alemanha/oberliga/tb-uphusen/wunstorf/2532225,TB Uphusen,Terminado,1511089200
+Bersenbrück,Alemanha - Oberliga,19/11/17 08:00:00,https://www.academiadasapostasbrasil.com/stats/match/alemanha/oberliga/lupo-martini/bersenbruck/2532226,Lupo-Martini,Terminado,1511089200
+Northeim,Alemanha - Oberliga,19/11/17 08:00:00,https://www.academiadasapostasbrasil.com/stats/match/alemanha/oberliga/gifhorn/eintracht-northeim/2532227,Gifhorn,Terminado,1511089200
+Sulingen,Alemanha - Oberliga,19/11/17 08:00:00,https://www.academiadasapostasbrasil.com/stats/match/alemanha/oberliga/oldenburg/sulingen/2532228,VfL Oldenburg,Terminado,1511089200
+Hansa II,Alemanha - Oberliga,19/11/17 08:00:00,https://www.academiadasapostasbrasil.com/stats/match/alemanha/oberliga/hertha-zehlendorf/hansa-rostock-ii/2532464,Zehlendorf,Terminado,1511089200
+VfL Bremen,Alemanha - Oberliga,19/11/17 08:30:00,https://www.academiadasapostasbrasil.com/stats/match/alemanha/oberliga/schwachhausen/bremen/2505316,Schwachhausen,Terminado,1511091000
+Chauray,França - CFA 2,19/11/17 08:30:00,https://www.academiadasapostasbrasil.com/stats/match/franca/cfa-2/merignac-arlac/chauray/2522236,Mérignac-Arlac,Terminado,1511091000
+Quevilly II,França - CFA 2,19/11/17 08:30:00,https://www.academiadasapostasbrasil.com/stats/match/franca/cfa-2/pacy-menilles/quevilly-ii/2523829,Pacy Ménilles,Terminado,1511091000
+Metz II,França - CFA 2,19/11/17 08:30:00,https://www.academiadasapostasbrasil.com/stats/match/franca/cfa-2/pagny-sur-moselle/metz-ii/2524455,Pagny /Moselle,Terminado,1511091000
+Erstein,França - CFA 2,19/11/17 08:30:00,https://www.academiadasapostasbrasil.com/stats/match/franca/cfa-2/tremery/erstein/2524456,Trémery,Terminado,1511091000
+Sarreguemines,França - CFA 2,19/11/17 08:30:00,https://www.academiadasapostasbrasil.com/stats/match/franca/cfa-2/prix-les-mezieres/sarreguemines/2524457,Prix-lès-Mézières,Terminado,1511091000
+Grande-Synthe ,França - CFA 2,19/11/17 08:30:00,https://www.academiadasapostasbrasil.com/stats/match/franca/cfa-2/wasquehal/grande-synthe/2526095,Wasquehal,Terminado,1511091000
+Cronenberger SC,Alemanha - Oberliga,19/11/17 08:30:00,https://www.academiadasapostasbrasil.com/stats/match/alemanha/oberliga/bocholt/cronenberger-sc/2527894,Bocholt,Terminado,1511091000
+Dinslaken,Alemanha - Oberliga,19/11/17 08:30:00,https://www.academiadasapostasbrasil.com/stats/match/alemanha/oberliga/monheim/jahn-dinslaken-hiesfeld/2527895,Monheim,Terminado,1511091000
+Homberg,Alemanha - Oberliga,19/11/17 08:30:00,https://www.academiadasapostasbrasil.com/stats/match/alemanha/oberliga/schonnebeck/homberg/2527897,Schonnebeck,Terminado,1511091000
+Baumberg,Alemanha - Oberliga,19/11/17 08:30:00,https://www.academiadasapostasbrasil.com/stats/match/alemanha/oberliga/speldorf/sf-baumberg/2527898,Speldorf,Terminado,1511091000
+Düsseldorf West,Alemanha - Oberliga,19/11/17 08:30:00,https://www.academiadasapostasbrasil.com/stats/match/alemanha/oberliga/straelen/dusseldorf-west/2527899,Straelen,Terminado,1511091000
+Krefeld-Fischeln,Alemanha - Oberliga,19/11/17 08:30:00,https://www.academiadasapostasbrasil.com/stats/match/alemanha/oberliga/vohwinkel/krefeld-fischeln/2527901,Vohwinkel,Terminado,1511091000
+Châteauneuf-sur-Loire,França - CFA 2,19/11/17 08:30:00,https://www.academiadasapostasbrasil.com/stats/match/franca/cfa-2/montargis/chateauneuf-sur-loire/2528116,Montargis,Terminado,1511091000
+Marl-Hüls,Alemanha - Oberliga,19/11/17 08:30:00,https://www.academiadasapostasbrasil.com/stats/match/alemanha/oberliga/westfalia-herne/marl-huls/2535374,Westfalia,Cancelado,1511091000
+Ennepetal,Alemanha - Oberliga,19/11/17 08:30:00,https://www.academiadasapostasbrasil.com/stats/match/alemanha/oberliga/rot-weiss-ahlen/ennepetal/2535376,RW Ahlen,Terminado,1511091000
+Sprockhövel,Alemanha - Oberliga,19/11/17 08:30:00,https://www.academiadasapostasbrasil.com/stats/match/alemanha/oberliga/sportfreunde-siegen-1899/sprockhovel/2535377,SF Siegen,Terminado,1511091000
+Hassel,Alemanha - Oberliga,19/11/17 08:30:00,https://www.academiadasapostasbrasil.com/stats/match/alemanha/oberliga/kaan-marienborn/hassel/2535378,Kaan-Marienborn,Cancelado,1511091000
+Lippstadt,Alemanha - Oberliga,19/11/17 08:30:00,https://www.academiadasapostasbrasil.com/stats/match/alemanha/oberliga/gutersloh/lippstadt/2535379,Gütersloh,Terminado,1511091000
+Hammer SpVg,Alemanha - Oberliga,19/11/17 08:30:00,https://www.academiadasapostasbrasil.com/stats/match/alemanha/oberliga/arminia-bielefeld-ii/hammer/2535380,Arminia II,Terminado,1511091000
+Rheine,Alemanha - Oberliga,19/11/17 08:30:00,https://www.academiadasapostasbrasil.com/stats/match/alemanha/oberliga/tus-haltern/eintracht-rheine/2535381,TuS Haltern,Terminado,1511091000
+Diefflen,Alemanha - Oberliga,19/11/17 08:30:00,https://www.academiadasapostasbrasil.com/stats/match/alemanha/oberliga/gonsenheim/diefflen/2536008,Gonsenheim,Terminado,1511091000
+Hilal Maroc Bergheim,Alemanha - Oberliga,19/11/17 08:30:00,https://www.academiadasapostasbrasil.com/stats/match/alemanha/oberliga/bergisch-gladbach/hilal-maroc-bergheim/2536267,Bergisch Gladb,Terminado,1511091000
+SSV Merten,Alemanha - Oberliga,19/11/17 08:30:00,https://www.academiadasapostasbrasil.com/stats/match/alemanha/oberliga/euskirchen/ssv-merten/2536268,Euskirchen,Terminado,1511091000
+Siegburger,Alemanha - Oberliga,19/11/17 08:30:00,https://www.academiadasapostasbrasil.com/stats/match/alemanha/oberliga/borussia-freialdenhoven/siegburger/2536269,Borussia Freialdenhoven,Terminado,1511091000
+Hürth,Alemanha - Oberliga,19/11/17 08:30:00,https://www.academiadasapostasbrasil.com/stats/match/alemanha/oberliga/viktoria-arnoldsweiler/hurth/2536270,Arnoldsweiler,Terminado,1511091000
+Wesseling-Urfeld,Alemanha - Oberliga,19/11/17 08:30:00,https://www.academiadasapostasbrasil.com/stats/match/alemanha/oberliga/hennef-05/wesseling-urfeld/2536274,Hennef,Terminado,1511091000
+Racing,França - CFA 2,19/11/17 08:30:00,https://www.academiadasapostasbrasil.com/stats/match/franca/cfa-2/saint-apollinaire/besancon/2580208,Saint-Apollinaire,Terminado,1511091000
+Quetigny,França - CFA 2,19/11/17 08:30:00,https://www.academiadasapostasbrasil.com/stats/match/franca/cfa-2/saint-vit/quetigny/2580209,Saint Vit,Terminado,1511091000
+Paderborn 07 II,Alemanha - Oberliga,19/11/17 08:45:00,https://www.academiadasapostasbrasil.com/stats/match/alemanha/oberliga/brunninghausen/paderborn-07-ii/2535373,Brünninghausen,Terminado,1511091900
+VfL Vichttal,Alemanha - Oberliga,19/11/17 08:45:00,https://www.academiadasapostasbrasil.com/stats/match/alemanha/oberliga/pesch/vfl-vichttal/2536272,Pesch,Terminado,1511091900
+Dassendorf,Alemanha - Oberliga,19/11/17 09:00:00,https://www.academiadasapostasbrasil.com/stats/match/alemanha/oberliga/concordia/dassendorf/2505580,Concordia,Terminado,1511092800
+Poitiers,França - CFA 2,19/11/17 09:00:00,https://www.academiadasapostasbrasil.com/stats/match/franca/cfa-2/pau-ii/poitiers/2522235,Pau II,Terminado,1511092800
+Les Mureaux,França - CFA 2,19/11/17 09:00:00,https://www.academiadasapostasbrasil.com/stats/match/franca/cfa-2/racing-colombes-92/les-mureaux/2523175,Racing Colombes 92,Terminado,1511092800
+Pontivy GSI,França - CFA 2,19/11/17 09:00:00,https://www.academiadasapostasbrasil.com/stats/match/franca/cfa-2/ergue-gaberic/pontivy-gsi/2523460,Ergué-Gaberic,Terminado,1511092800
+Roye,França - CFA 2,19/11/17 09:00:00,https://www.academiadasapostasbrasil.com/stats/match/franca/cfa-2/chambly-ii/roye-noyon-us/2526098,Chambly II,Terminado,1511092800
+Aubagne,França - CFA 2,19/11/17 09:00:00,https://www.academiadasapostasbrasil.com/stats/match/franca/cfa-2/cannet-rocheville/aubagne/2526439,Cannet,Terminado,1511092800
+Cannes,França - CFA 2,19/11/17 09:00:00,https://www.academiadasapostasbrasil.com/stats/match/franca/cfa-2/bastia-borgo-ii/cannes/2526440,Bastia-Borgo II,Terminado,1511092800
+FB Île Rousse,França - CFA 2,19/11/17 09:00:00,https://www.academiadasapostasbrasil.com/stats/match/franca/cfa-2/lucciana/fb-ile-rousse/2526442,Lucciana,Terminado,1511092800
+Germania Ratingen,Alemanha - Oberliga,19/11/17 09:00:00,https://www.academiadasapostasbrasil.com/stats/match/alemanha/oberliga/dusseldorf/germania-ratingen/2527900,TuRU,Terminado,1511092800
+Lehnerz,Alemanha - Oberliga,19/11/17 09:00:00,https://www.academiadasapostasbrasil.com/stats/match/alemanha/oberliga/spvgg-neu-isenburg/lehnerz/2535706,SpVgg Neu-Isenburg,Terminado,1511092800
+SW Essen,Alemanha - Oberliga,19/11/17 09:30:00,https://www.academiadasapostasbrasil.com/stats/match/alemanha/oberliga/dsseldorfer-sc/schwarz-weis-essen/2527896,D?sseldorfer SC,Terminado,1511094600
+Velbert,Alemanha - Oberliga,19/11/17 09:30:00,https://www.academiadasapostasbrasil.com/stats/match/alemanha/oberliga/hilden/velbert-1902/2527902,Hilden,Terminado,1511094600
+TV Herkenrath,Alemanha - Oberliga,19/11/17 09:30:00,https://www.academiadasapostasbrasil.com/stats/match/alemanha/oberliga/alfter/tv-herkenrath/2536273,Alfter,Terminado,1511094600
+Blau-Weiß Friesdorf,Alemanha - Oberliga,19/11/17 10:00:00,https://www.academiadasapostasbrasil.com/stats/match/alemanha/oberliga/sv-breinig/blau-weiss-friesdorf/2536271,SV Breinig,Terminado,1511096400
+Bloemfontein,África do Sul - League Cup,19/11/17 08:30:00,https://www.academiadasapostasbrasil.com/stats/match/africa-do-sul/league-cup/polokwane-city/bloemfontein-celtic/2682585,Polokwane,Terminado,1511091000

@@ -1,0 +1,512 @@
+back_team,countrie,datetime,event_link,home_team,status,timestamp
+Watford,Inglaterra - Barclays Premier League,14/12/19 06:30:00,https://www.academiadasapostasbrasil.com/stats/match/inglaterra/barclays-premier-league/liverpool/watford/3029238,Liverpool,Terminado,1576315800
+Bournemouth,Inglaterra - Barclays Premier League,14/12/19 09:00:00,https://www.academiadasapostasbrasil.com/stats/match/inglaterra/barclays-premier-league/chelsea/bournemouth/3029235,Chelsea,Terminado,1576324800
+Barcelona,Espanha - Primera Division,14/12/19 09:00:00,https://www.academiadasapostasbrasil.com/stats/match/espanha/primera-division/real-sociedad/barcelona/3058977,Real Sociedad,Terminado,1576324800
+Osasuna,Espanha - Primera Division,14/12/19 14:00:00,https://www.academiadasapostasbrasil.com/stats/match/espanha/primera-division/atletico-de-madrid/osasuna/3058972,Atlético,Terminado,1576342800
+Bremen,Alemanha - Bundesliga,14/12/19 08:30:00,https://www.academiadasapostasbrasil.com/stats/match/alemanha/bundesliga/bayern-munique/werder-bremen/3047146,Bayern München,Terminado,1576323000
+Dortmund,Alemanha - Bundesliga,14/12/19 08:30:00,https://www.academiadasapostasbrasil.com/stats/match/alemanha/bundesliga/mainz/borussia-dortmund/3047151,Mainz 05,Terminado,1576323000
+Famalicão,Portugal - Liga Sagres,14/12/19 12:00:00,https://www.academiadasapostasbrasil.com/stats/match/portugal/liga-sagres/benfica/famalicao/3064765,Benfica,Terminado,1576335600
+Monaco,França - Ligue 1,14/12/19 13:00:00,https://www.academiadasapostasbrasil.com/stats/match/franca/ligue-1/angers/monaco/3030720,Angers,Terminado,1576339200
+Newcastle,Inglaterra - Barclays Premier League,14/12/19 09:00:00,https://www.academiadasapostasbrasil.com/stats/match/inglaterra/barclays-premier-league/burnley/newcastle/3029234,Burnley,Terminado,1576324800
+Norwich,Inglaterra - Barclays Premier League,14/12/19 09:00:00,https://www.academiadasapostasbrasil.com/stats/match/inglaterra/barclays-premier-league/leicester-city/norwich-city/3029237,Leicester,Terminado,1576324800
+Aston Villa,Inglaterra - Barclays Premier League,14/12/19 09:00:00,https://www.academiadasapostasbrasil.com/stats/match/inglaterra/barclays-premier-league/sheffield-united/aston-villa/3029240,Sheff Utd,Terminado,1576324800
+West Ham,Inglaterra - Barclays Premier League,14/12/19 11:30:00,https://www.academiadasapostasbrasil.com/stats/match/inglaterra/barclays-premier-league/southampton/west-ham/3029241,Southampton,Terminado,1576333800
+Levante,Espanha - Primera Division,14/12/19 06:00:00,https://www.academiadasapostasbrasil.com/stats/match/espanha/primera-division/granada/levante/3058976,Granada,Terminado,1576314000
+Eibar,Espanha - Primera Division,14/12/19 11:30:00,https://www.academiadasapostasbrasil.com/stats/match/espanha/primera-division/athletic-bilbao/eibar/3058971,Athletic Club,Terminado,1576333800
+Freiburg,Alemanha - Bundesliga,14/12/19 08:30:00,https://www.academiadasapostasbrasil.com/stats/match/alemanha/bundesliga/hertha-berlin/freiburg/3047150,Hertha BSC,Terminado,1576323000
+Leverkusen,Alemanha - Bundesliga,14/12/19 08:30:00,https://www.academiadasapostasbrasil.com/stats/match/alemanha/bundesliga/colonia/bayer-leverkusen/3047153,Köln,Terminado,1576323000
+Union Berlin,Alemanha - Bundesliga,14/12/19 08:30:00,https://www.academiadasapostasbrasil.com/stats/match/alemanha/bundesliga/paderborn/union-berlin/3047154,Paderborn,Terminado,1576323000
+Leipzig,Alemanha - Bundesliga,14/12/19 11:30:00,https://www.academiadasapostasbrasil.com/stats/match/alemanha/bundesliga/fortuna-dusseldorf/rb-leipzig/3047149,Düsseldorf,Terminado,1576333800
+Boavista,Portugal - Liga Sagres,14/12/19 09:30:00,https://www.academiadasapostasbrasil.com/stats/match/portugal/liga-sagres/maritimo/boavista/3064769,Marítimo,Terminado,1576326600
+Aves,Portugal - Liga Sagres,14/12/19 14:30:00,https://www.academiadasapostasbrasil.com/stats/match/portugal/liga-sagres/vitoria-de-setubal/desportivo-aves/3064767,Setúbal,Terminado,1576344600
+Marseille,França - Ligue 1,14/12/19 10:30:00,https://www.academiadasapostasbrasil.com/stats/match/franca/ligue-1/metz/olympique-de-marseille/3030724,Metz,Terminado,1576330200
+Nantes,França - Ligue 1,14/12/19 13:00:00,https://www.academiadasapostasbrasil.com/stats/match/franca/ligue-1/nimes/nantes/3030717,Nîmes,Terminado,1576339200
+Reims,França - Ligue 1,14/12/19 13:00:00,https://www.academiadasapostasbrasil.com/stats/match/franca/ligue-1/toulouse/stade-de-reims/3030722,Toulouse,Terminado,1576339200
+Dijon,França - Ligue 1,14/12/19 13:00:00,https://www.academiadasapostasbrasil.com/stats/match/franca/ligue-1/amiens/dijon/3030725,Amiens,Terminado,1576339200
+Nice,França - Ligue 1,14/12/19 13:00:00,https://www.academiadasapostasbrasil.com/stats/match/franca/ligue-1/brestois/nice/3030726,Brest,Terminado,1576339200
+Lecce,Itália - Serie A TIM,14/12/19 08:00:00,https://www.academiadasapostasbrasil.com/stats/match/italia/serie-a-tim/brescia/lecce/3111851,Brescia,Terminado,1576321200
+Parma,Itália - Serie A TIM,14/12/19 11:30:00,https://www.academiadasapostasbrasil.com/stats/match/italia/serie-a-tim/napoli/parma/3111858,Napoli,Terminado,1576333800
+Sampdoria,Itália - Serie A TIM,14/12/19 13:45:00,https://www.academiadasapostasbrasil.com/stats/match/italia/serie-a-tim/genoa/sampdoria/3111854,Genoa,Terminado,1576341900
+Tunis,Mundo - Campeonato Mundial de Clubes FIFA,14/12/19 08:00:00,https://www.academiadasapostasbrasil.com/stats/match/mundo/campeonato-mundial-de-clubes-fifa/al-hilal/esperance-de-tunis/3172630,Hilal,Terminado,1576321200
+Sadd,Mundo - Campeonato Mundial de Clubes FIFA,14/12/19 11:30:00,https://www.academiadasapostasbrasil.com/stats/match/mundo/campeonato-mundial-de-clubes-fifa/rayados-de-monterrey/al-sadd/3172629,Monterrey,Terminado,1576333800
+Hong Kong,Ásia - EAFF East Asian Cup,14/12/19 04:30:00,https://www.academiadasapostasbrasil.com/stats/match/asia/eaff-east-asian-cup/japao/hong-kong/2961758,Japão,Terminado,1576308600
+Audax,Chile - Primera Division,14/12/19 18:00:00,https://www.academiadasapostasbrasil.com/stats/match/chile/primera-division/union-la-calera/audax-italiano/3147562,La Calera,Cancelado,1576357200
+Univ Católica,Chile - Primera Division,14/12/19 18:00:00,https://www.academiadasapostasbrasil.com/stats/match/chile/primera-division/deportes-iquique/univ-catolica/3147563,Iquique,Cancelado,1576357200
+Univ Chile,Chile - Primera Division,14/12/19 18:00:00,https://www.academiadasapostasbrasil.com/stats/match/chile/primera-division/cobresal/univ-de-chile/3147564,Cobresal,Cancelado,1576357200
+Everton,Chile - Primera Division,14/12/19 18:00:00,https://www.academiadasapostasbrasil.com/stats/match/chile/primera-division/huachipato/everton/3147565,Huachipato,Cancelado,1576357200
+Palestino,Chile - Primera Division,14/12/19 18:00:00,https://www.academiadasapostasbrasil.com/stats/match/chile/primera-division/ohiggins/palestino/3147566,O'Higgins,Cancelado,1576357200
+Española,Chile - Primera Division,14/12/19 18:00:00,https://www.academiadasapostasbrasil.com/stats/match/chile/primera-division/curico-unido/union-espanola/3147567,Curicó Unido,Cancelado,1576357200
+Colo Colo,Chile - Primera Division,14/12/19 18:00:00,https://www.academiadasapostasbrasil.com/stats/match/chile/primera-division/antofagasta/colo-colo/3147568,Antofagasta,Cancelado,1576357200
+Coquimbo,Chile - Primera Division,14/12/19 18:00:00,https://www.academiadasapostasbrasil.com/stats/match/chile/primera-division/univ-de-concepcion/coquimbo-unido/3147569,Uni Concepción,Cancelado,1576357200
+West Bromwich,Inglaterra - Championship,14/12/19 06:30:00,https://www.academiadasapostasbrasil.com/stats/match/inglaterra/championship/birmingham-city/west-bromwich/3036025,Birmingham,Terminado,1576315800
+QPR,Inglaterra - Championship,14/12/19 09:00:00,https://www.academiadasapostasbrasil.com/stats/match/inglaterra/championship/barnsley/queens-park-rangers/3036022,Barnsley,Terminado,1576324800
+Fulham,Inglaterra - Championship,14/12/19 09:00:00,https://www.academiadasapostasbrasil.com/stats/match/inglaterra/championship/brentford/fulham/3036029,Brentford,Terminado,1576324800
+Blackburn,Inglaterra - Championship,14/12/19 09:00:00,https://www.academiadasapostasbrasil.com/stats/match/inglaterra/championship/bristol-city/blackburn-rovers/3036032,Bristol City,Terminado,1576324800
+Millwall,Inglaterra - Championship,14/12/19 09:00:00,https://www.academiadasapostasbrasil.com/stats/match/inglaterra/championship/derby-county/millwall/3036040,Derby,Terminado,1576324800
+Cardiff,Inglaterra - Championship,14/12/19 09:00:00,https://www.academiadasapostasbrasil.com/stats/match/inglaterra/championship/leeds-united/cardiff-city/3036045,Leeds,Terminado,1576324800
+Sheff Wed,Inglaterra - Championship,14/12/19 09:00:00,https://www.academiadasapostasbrasil.com/stats/match/inglaterra/championship/nottingham-forest/sheffield-wednesday/3036049,Nottm Forest,Terminado,1576324800
+Luton,Inglaterra - Championship,14/12/19 09:00:00,https://www.academiadasapostasbrasil.com/stats/match/inglaterra/championship/preston-north-end/luton-town/3036052,Preston,Terminado,1576324800
+Reading,Inglaterra - Championship,14/12/19 09:00:00,https://www.academiadasapostasbrasil.com/stats/match/inglaterra/championship/stoke/reading/3036056,Stoke,Terminado,1576324800
+Middlesbrough,Inglaterra - Championship,14/12/19 09:00:00,https://www.academiadasapostasbrasil.com/stats/match/inglaterra/championship/swansea-city/middlesbrough/3036060,Swansea,Terminado,1576324800
+Huddersfield,Inglaterra - Championship,14/12/19 09:00:00,https://www.academiadasapostasbrasil.com/stats/match/inglaterra/championship/wigan/huddersfield-town/3036063,Wigan,Terminado,1576324800
+Huesca,Espanha - Liga Adelante,14/12/19 09:00:00,https://www.academiadasapostasbrasil.com/stats/match/espanha/liga-adelante/mirandes/huesca/3060126,Mirandés,Terminado,1576324800
+La Coruña,Espanha - Liga Adelante,14/12/19 11:00:00,https://www.academiadasapostasbrasil.com/stats/match/espanha/liga-adelante/ponferradina/deportivo-la-coruna/3060128,Ponferradina,Terminado,1576332000
+Alcorcón,Espanha - Liga Adelante,14/12/19 11:00:00,https://www.academiadasapostasbrasil.com/stats/match/espanha/liga-adelante/tenerife/alcorcon/3060131,Tenerife,Terminado,1576332000
+Santander,Espanha - Liga Adelante,14/12/19 14:00:00,https://www.academiadasapostasbrasil.com/stats/match/espanha/liga-adelante/zaragoza/racing-santander/3060132,Zaragoza,Terminado,1576342800
+Eupen,Bélgica - 1e Klasse,14/12/19 11:00:00,https://www.academiadasapostasbrasil.com/stats/match/belgica/1e-klasse/antwerp/as-eupen/3050292,Antwerp,Terminado,1576332000
+Sint-Truiden,Bélgica - 1e Klasse,14/12/19 13:00:00,https://www.academiadasapostasbrasil.com/stats/match/belgica/1e-klasse/zulte-waregem/sint-truidense/3050290,ZW,Terminado,1576339200
+Cercle Brugge,Bélgica - 1e Klasse,14/12/19 13:00:00,https://www.academiadasapostasbrasil.com/stats/match/belgica/1e-klasse/charleroi/cercle-brugge/3050291,Charleroi,Terminado,1576339200
+WB,Bélgica - 1e Klasse,14/12/19 13:30:00,https://www.academiadasapostasbrasil.com/stats/match/belgica/1e-klasse/genk/waasland-beveren/3050287,Genk,Terminado,1576341000
+Cittadella,Itália - Serie B,14/12/19 08:00:00,https://www.academiadasapostasbrasil.com/stats/match/italia/serie-b/ascoli/cittadella/3122693,Ascoli,Terminado,1576321200
+Pescara,Itália - Serie B,14/12/19 08:00:00,https://www.academiadasapostasbrasil.com/stats/match/italia/serie-b/frosinone/pescara/3122697,Frosinone,Terminado,1576321200
+Spezia,Itália - Serie B,14/12/19 08:00:00,https://www.academiadasapostasbrasil.com/stats/match/italia/serie-b/venezia/spezia/3122701,Venezia,Terminado,1576321200
+Empoli,Itália - Serie B,14/12/19 08:00:00,https://www.academiadasapostasbrasil.com/stats/match/italia/serie-b/virtus-entella/empoli/3122702,Virtus,Terminado,1576321200
+Benevento,Itália - Serie B,14/12/19 11:00:00,https://www.academiadasapostasbrasil.com/stats/match/italia/serie-b/livorno/benevento/3122698,Livorno,Terminado,1576332000
+Nacional,Portugal - Liga Vitalis,14/12/19 05:00:00,https://www.academiadasapostasbrasil.com/stats/match/portugal/liga-vitalis/estoril/nacional-de-funchal/3065192,Estoril,Terminado,1576310400
+Mafra,Portugal - Liga Vitalis,14/12/19 09:00:00,https://www.academiadasapostasbrasil.com/stats/match/portugal/liga-vitalis/casa-pia/mafra/3065197,Casa Pia,Terminado,1576324800
+Leixões,Portugal - Liga Vitalis,14/12/19 11:15:00,https://www.academiadasapostasbrasil.com/stats/match/portugal/liga-vitalis/vilafranquense/leixoes/3065195,Vilafranquense,Terminado,1576332900
+Bielefeld,Alemanha - 2. Liga,14/12/19 06:00:00,https://www.academiadasapostasbrasil.com/stats/match/alemanha/2-liga/heidenheim/arminia-bielefeld/3047472,Heidenheim,Terminado,1576314000
+Wiesbaden,Alemanha - 2. Liga,14/12/19 06:00:00,https://www.academiadasapostasbrasil.com/stats/match/alemanha/2-liga/st-pauli/wehen-wiesbaden/3047473,St. Pauli,Terminado,1576314000
+Greuther Fürth,Alemanha - 2. Liga,14/12/19 06:00:00,https://www.academiadasapostasbrasil.com/stats/match/alemanha/2-liga/karlsruher/greuther-furth/3047479,Karlsruhe,Terminado,1576314000
+Lens,França - Ligue 2,14/12/19 09:00:00,https://www.academiadasapostasbrasil.com/stats/match/franca/ligue-2/ajaccio/lens/3031192,Ajaccio,Terminado,1576324800
+Groningen,Holanda - Eredivisie,14/12/19 11:30:00,https://www.academiadasapostasbrasil.com/stats/match/holanda/eredivisie/ado-den-haag/groningen/3032198,ADO,Terminado,1576333800
+Waalwijk,Holanda - Eredivisie,14/12/19 12:45:00,https://www.academiadasapostasbrasil.com/stats/match/holanda/eredivisie/fortuna-sittard/waalwijk/3032199,Sittard,Terminado,1576338300
+Zwolle,Holanda - Eredivisie,14/12/19 12:45:00,https://www.academiadasapostasbrasil.com/stats/match/holanda/eredivisie/vvv-venlo/zwolle/3032200,VVV,Terminado,1576338300
+Vitesse,Holanda - Eredivisie,14/12/19 13:45:00,https://www.academiadasapostasbrasil.com/stats/match/holanda/eredivisie/twente/vitesse/3032201,Twente,Terminado,1576341900
+Kasımpaşa,Turquia - Super LIga,14/12/19 06:00:00,https://www.academiadasapostasbrasil.com/stats/match/turquia/super-liga/caykur-rizespor/kasimpasa/3081905,Rize,Terminado,1576314000
+Göztepe,Turquia - Super LIga,14/12/19 08:00:00,https://www.academiadasapostasbrasil.com/stats/match/turquia/super-liga/genclerbirligi/goztepe-izmir/3081906,Gençlerbirliği,Terminado,1576321200
+Ankaragücü,Turquia - Super LIga,14/12/19 11:00:00,https://www.academiadasapostasbrasil.com/stats/match/turquia/super-liga/galatasaray/ankaragucu/3081911,Galatasaray,Terminado,1576332000
+Kolos,Ucrânia - Liga Premier,14/12/19 06:00:00,https://www.academiadasapostasbrasil.com/stats/match/ucrania/liga-premier/lviv/kolos-kovalivka/3035079,Lviv,Terminado,1576314000
+Shakhtar D,Ucrânia - Liga Premier,14/12/19 09:00:00,https://www.academiadasapostasbrasil.com/stats/match/ucrania/liga-premier/zorya-luhansk/shakhtar-donetsk/3035075,Zorya,Terminado,1576324800
+Illichivets',Ucrânia - Liga Premier,14/12/19 11:30:00,https://www.academiadasapostasbrasil.com/stats/match/ucrania/liga-premier/olimpik-donetsk/illychivets-mariupol/3035074,Olimpik D,Terminado,1576333800
+Altach,Áustria - Bundesliga,14/12/19 10:00:00,https://www.academiadasapostasbrasil.com/stats/match/austria/bundesliga/sankt-polten/rheindorf-altach/3034941,St. Pölten,Terminado,1576328400
+Rapid,Áustria - Bundesliga,14/12/19 10:00:00,https://www.academiadasapostasbrasil.com/stats/match/austria/bundesliga/admira/rapid-viena/3034942,Admira,Terminado,1576328400
+Salzburg,Áustria - Bundesliga,14/12/19 10:00:00,https://www.academiadasapostasbrasil.com/stats/match/austria/bundesliga/hartberg/salzburg/3034943,Hartberg,Terminado,1576328400
+Varaždin,Croácia - 1. HNL,14/12/19 08:00:00,https://www.academiadasapostasbrasil.com/stats/match/croacia/1-hnl/rijeka/varteks-varazdin/3029905,Rijeka,Terminado,1576321200
+Lokomotiva,Croácia - 1. HNL,14/12/19 10:30:00,https://www.academiadasapostasbrasil.com/stats/match/croacia/1-hnl/dinamo-zagreb/lokomotiva-zagreb/3029904,Dinamo Zagreb,Terminado,1576330200
+Paphos,Chipre - 1. Division,14/12/19 09:00:00,https://www.academiadasapostasbrasil.com/stats/match/chipre/1-division/aek-larnaca/paphos/3052837,AEK,Terminado,1576324800
+Anorthosis,Chipre - 1. Division,14/12/19 11:00:00,https://www.academiadasapostasbrasil.com/stats/match/chipre/1-division/apollon-limassol/anorthosis-famagusta/3052841,Apollon,Terminado,1576332000
+Karviná,República Tcheca - Czech Liga,14/12/19 07:30:00,https://www.academiadasapostasbrasil.com/stats/match/republica-tcheca/czech-liga/slovan-liberec/karvina/3036938,Slovan,Terminado,1576319400
+Bohemians 1905,República Tcheca - Czech Liga,14/12/19 07:30:00,https://www.academiadasapostasbrasil.com/stats/match/republica-tcheca/czech-liga/sigma-olomouc/bohemians-praga/3036939,Sigma,Terminado,1576319400
+Opava,República Tcheca - Czech Liga,14/12/19 07:30:00,https://www.academiadasapostasbrasil.com/stats/match/republica-tcheca/czech-liga/zlin/opava/3036941,Zlín,Terminado,1576319400
+Slovácko,República Tcheca - Czech Liga,14/12/19 07:30:00,https://www.academiadasapostasbrasil.com/stats/match/republica-tcheca/czech-liga/pribram/slovacko/3036945,Příbram,Terminado,1576319400
+Sparta,República Tcheca - Czech Liga,14/12/19 10:00:00,https://www.academiadasapostasbrasil.com/stats/match/republica-tcheca/czech-liga/banik-ostrava/sparta-praga/3036943,Baník,Terminado,1576328400
+Aris,Grécia - Super Liga,14/12/19 09:15:00,https://www.academiadasapostasbrasil.com/stats/match/grecia/super-liga/ofi-heraklion/aris-saloniki/3051964,OFI,Terminado,1576325700
+Lamia,Grécia - Super Liga,14/12/19 11:30:00,https://www.academiadasapostasbrasil.com/stats/match/grecia/super-liga/panathinaikos/lamia/3051965,Panathinaikos,Terminado,1576333800
+AEK,Grécia - Super Liga,14/12/19 12:00:00,https://www.academiadasapostasbrasil.com/stats/match/grecia/super-liga/xanthi/aek/3051961,Xanthi,Terminado,1576335600
+Egaleo,Grécia - B Ethniki,14/12/19 07:00:00,https://www.academiadasapostasbrasil.com/stats/match/grecia/b-ethniki/of-ierapetra/aigaleo/3163109,OF Ierapetra,Terminado,1576317600
+MZSE,Hungria - NB I,14/12/19 10:00:00,https://www.academiadasapostasbrasil.com/stats/match/hungria/nb-i/paksi-se/mezokovesd-zsory/3050623,Paksi,Terminado,1576328400
+Videoton,Hungria - NB I,14/12/19 10:00:00,https://www.academiadasapostasbrasil.com/stats/match/hungria/nb-i/varda-se/fehervar/3050624,Várda,Terminado,1576328400
+ZTE,Hungria - NB I,14/12/19 10:00:00,https://www.academiadasapostasbrasil.com/stats/match/hungria/nb-i/puskas-fc/zalaegerszegi/3050626,Puskás,Terminado,1576328400
+Debrecen,Hungria - NB I,14/12/19 10:00:00,https://www.academiadasapostasbrasil.com/stats/match/hungria/nb-i/kaposvari-rakoczi/debreceni/3050627,Kaposvári,Terminado,1576328400
+Újpest,Hungria - NB I,14/12/19 12:30:00,https://www.academiadasapostasbrasil.com/stats/match/hungria/nb-i/budapest-honved/ujpest/3050625,Honvéd,Terminado,1576337400
+Doncaster,Inglaterra - Liga 1,14/12/19 09:00:00,https://www.academiadasapostasbrasil.com/stats/match/inglaterra/liga-1/afc-wimbledon/doncaster-rovers/3035369,Wimbledon,Terminado,1576324800
+Portsmouth,Inglaterra - Liga 1,14/12/19 09:00:00,https://www.academiadasapostasbrasil.com/stats/match/inglaterra/liga-1/accrington-stanley/portsmouth/3035370,Accrington,Terminado,1576324800
+Gillingham,Inglaterra - Liga 1,14/12/19 09:00:00,https://www.academiadasapostasbrasil.com/stats/match/inglaterra/liga-1/fleetwood-town/gillingham/3035371,Fleetwood,Terminado,1576324800
+Bristol Rovers,Inglaterra - Liga 1,14/12/19 09:00:00,https://www.academiadasapostasbrasil.com/stats/match/inglaterra/liga-1/ipswich-town/bristol-rovers/3035372,Ipswich,Terminado,1576324800
+Tranmere,Inglaterra - Liga 1,14/12/19 09:00:00,https://www.academiadasapostasbrasil.com/stats/match/inglaterra/liga-1/lincoln-city/tranmere-rovers/3035373,Lincoln,Terminado,1576324800
+Oxford,Inglaterra - Liga 1,14/12/19 09:00:00,https://www.academiadasapostasbrasil.com/stats/match/inglaterra/liga-1/milton-keynes-dons/oxford-united/3035374,MK Dons,Terminado,1576324800
+Bolton,Inglaterra - Liga 1,14/12/19 09:00:00,https://www.academiadasapostasbrasil.com/stats/match/inglaterra/liga-1/peterborough-united/bolton/3035375,Peterborough,Terminado,1576324800
+Coventry,Inglaterra - Liga 1,14/12/19 09:00:00,https://www.academiadasapostasbrasil.com/stats/match/inglaterra/liga-1/shrewsbury-town/coventry-city/3035377,Shrewsbury,Terminado,1576324800
+Rotherham,Inglaterra - Liga 1,14/12/19 09:00:00,https://www.academiadasapostasbrasil.com/stats/match/inglaterra/liga-1/southend-united/rotherham-united/3035378,Southend,Terminado,1576324800
+Blackpool,Inglaterra - Liga 1,14/12/19 09:00:00,https://www.academiadasapostasbrasil.com/stats/match/inglaterra/liga-1/sunderland/blackpool/3035379,Sunderland,Terminado,1576324800
+Burton Albion,Inglaterra - Liga 1,14/12/19 09:00:00,https://www.academiadasapostasbrasil.com/stats/match/inglaterra/liga-1/wycombe-wanderers/burton-albion/3035380,Wycombe,Terminado,1576324800
+Grimsby,Inglaterra - Liga 2,14/12/19 09:00:00,https://www.academiadasapostasbrasil.com/stats/match/inglaterra/liga-2/carlisle-united/grimsby-town/3036277,Carlisle,Terminado,1576324800
+Cambridge Utd,Inglaterra - Liga 2,14/12/19 09:00:00,https://www.academiadasapostasbrasil.com/stats/match/inglaterra/liga-2/cheltenham-town/cambridge-united/3036279,Cheltenham,Terminado,1576324800
+Port Vale,Inglaterra - Liga 2,14/12/19 09:00:00,https://www.academiadasapostasbrasil.com/stats/match/inglaterra/liga-2/crawley-town/port-vale/3036281,Crawley,Terminado,1576324800
+Mansfield,Inglaterra - Liga 2,14/12/19 09:00:00,https://www.academiadasapostasbrasil.com/stats/match/inglaterra/liga-2/crewe-alexandra/mansfield-town/3036284,Crewe,Terminado,1576324800
+Bradford,Inglaterra - Liga 2,14/12/19 09:00:00,https://www.academiadasapostasbrasil.com/stats/match/inglaterra/liga-2/leyton-orient/bradford-city/3036286,Leyton,Terminado,1576324800
+Stevenage,Inglaterra - Liga 2,14/12/19 09:00:00,https://www.academiadasapostasbrasil.com/stats/match/inglaterra/liga-2/newport-county/stevenage/3036288,Newport,Terminado,1576324800
+Forest Green,Inglaterra - Liga 2,14/12/19 09:00:00,https://www.academiadasapostasbrasil.com/stats/match/inglaterra/liga-2/northampton-town/forest-green-rovers/3036290,Northampton,Terminado,1576324800
+Morecambe,Inglaterra - Liga 2,14/12/19 09:00:00,https://www.academiadasapostasbrasil.com/stats/match/inglaterra/liga-2/plymouth-argyle/morecambe/3036292,Plymouth,Terminado,1576324800
+Exeter,Inglaterra - Liga 2,14/12/19 09:00:00,https://www.academiadasapostasbrasil.com/stats/match/inglaterra/liga-2/salford-city/exeter-city/3036294,Salford,Terminado,1576324800
+Colchester,Inglaterra - Liga 2,14/12/19 09:00:00,https://www.academiadasapostasbrasil.com/stats/match/inglaterra/liga-2/scunthorpe-united/colchester-united/3036295,Scunthorpe,Terminado,1576324800
+Oldham,Inglaterra - Liga 2,14/12/19 09:00:00,https://www.academiadasapostasbrasil.com/stats/match/inglaterra/liga-2/swindon-town/oldham-athletic/3036297,Swindon,Terminado,1576324800
+Macclesfield,Inglaterra - Liga 2,14/12/19 09:00:00,https://www.academiadasapostasbrasil.com/stats/match/inglaterra/liga-2/walsall/macclesfield-town/3036299,Walsall,Terminado,1576324800
+Sektzia,Israel - Ligat Al,14/12/19 07:00:00,https://www.academiadasapostasbrasil.com/stats/match/israel/ligat-al/maccabi-tel-aviv/sektzia-nes-tziona/3033704,Maccabi TA,Terminado,1576317600
+Bnei Yehuda,Israel - Ligat Al,14/12/19 09:30:00,https://www.academiadasapostasbrasil.com/stats/match/israel/ligat-al/hapoel-ironi-kiryat/bnei-yehuda-tel-aviv/3033705,Kiryat Shmona,Terminado,1576326600
+H Kfar Saba,Israel - Ligat Al,14/12/19 10:30:00,https://www.academiadasapostasbrasil.com/stats/match/israel/ligat-al/hapoel-haifa/hapoel-kfar-saba/3033706,H Haifa,Terminado,1576330200
+M Haifa,Israel - Ligat Al,14/12/19 11:50:00,https://www.academiadasapostasbrasil.com/stats/match/israel/ligat-al/hapoel-raanana/maccabi-haifa/3033707,H Ra'anana,Terminado,1576335000
+Olimpia,Paraguai - Division Profesional,14/12/19 15:00:00,https://www.academiadasapostasbrasil.com/stats/match/paraguai/division-profesional/sol-de-america/olimpia/2949646,Sol América,Terminado,1576346400
+Górnik,Polônia - Ekstraklasa,14/12/19 08:00:00,https://www.academiadasapostasbrasil.com/stats/match/polonia/ekstraklasa/rakow-czestochowa/gornik-zabrze/3025849,Raków,Terminado,1576321200
+Lech,Polônia - Ekstraklasa,14/12/19 10:30:00,https://www.academiadasapostasbrasil.com/stats/match/polonia/ekstraklasa/slask-wroclaw/lech-poznan/3025850,Śląsk,Terminado,1576330200
+Wisła Płock,Polônia - Ekstraklasa,14/12/19 13:00:00,https://www.academiadasapostasbrasil.com/stats/match/polonia/ekstraklasa/legia-varsovia/wisla-plock/3025847,Legia,Terminado,1576339200
+Hamilton,Escócia - Premier League,14/12/19 09:00:00,https://www.academiadasapostasbrasil.com/stats/match/escocia/premier-league/aberdeen/hamilton/3038463,Aberdeen,Terminado,1576324800
+St. Johnstone,Escócia - Premier League,14/12/19 09:00:00,https://www.academiadasapostasbrasil.com/stats/match/escocia/premier-league/heart-of-midlothian/saint-johnstone/3038465,Midlothian,Terminado,1576324800
+Kilmarnock,Escócia - Premier League,14/12/19 09:00:00,https://www.academiadasapostasbrasil.com/stats/match/escocia/premier-league/ross-county/kilmarnock/3038467,Ross,Terminado,1576324800
+Livingston,Escócia - Premier League,14/12/19 09:00:00,https://www.academiadasapostasbrasil.com/stats/match/escocia/premier-league/saint-mirren/livingston/3038468,St. Mirren,Terminado,1576324800
+Dundee Utd,Escócia - 1ª Divisão,14/12/19 09:00:00,https://www.academiadasapostasbrasil.com/stats/match/escocia/1-divisao/arbroath/dundee-united/3038639,Arbroath,Terminado,1576324800
+Alloa Athletic,Escócia - 1ª Divisão,14/12/19 09:00:00,https://www.academiadasapostasbrasil.com/stats/match/escocia/1-divisao/ayr-united/alloa-athletic/3038640,Ayr Utd,Terminado,1576324800
+Dunfermline,Escócia - 1ª Divisão,14/12/19 09:00:00,https://www.academiadasapostasbrasil.com/stats/match/escocia/1-divisao/dundee/dunfermline/3038641,Dundee,Terminado,1576324800
+Inverness,Escócia - 1ª Divisão,14/12/19 09:00:00,https://www.academiadasapostasbrasil.com/stats/match/escocia/1-divisao/partick-thistle/inverness/3038643,Partick,Terminado,1576324800
+Thun,Suíça - Super Liga,14/12/19 12:00:00,https://www.academiadasapostasbrasil.com/stats/match/suica/super-liga/servette/thun/3037902,Servette,Terminado,1576335600
+Zürich,Suíça - Super Liga,14/12/19 12:00:00,https://www.academiadasapostasbrasil.com/stats/match/suica/super-liga/st-gallen/fc-zurich/3037904,St. Gallen,Terminado,1576335600
+Radnički Niš,Sérvia - Super Liga,14/12/19 07:00:00,https://www.academiadasapostasbrasil.com/stats/match/servia/super-liga/proleter-novi-sad/radnicki-nis/3030136,Proleter,Terminado,1576317600
+Botoşani,Romênia - Liga I,14/12/19 05:00:00,https://www.academiadasapostasbrasil.com/stats/match/romenia/liga-i/academica-clinceni/botosani/3048396,Academica,Terminado,1576310400
+Gaz Metan,Romênia - Liga I,14/12/19 07:00:00,https://www.academiadasapostasbrasil.com/stats/match/romenia/liga-i/csm-iasi/gaz-metan-medias/3048401,Iaşi,Terminado,1576317600
+Voluntari,Romênia - Liga I,14/12/19 12:00:00,https://www.academiadasapostasbrasil.com/stats/match/romenia/liga-i/cs-u-craiova/voluntari/3048397,CS U Craiova,Terminado,1576335600
+Sagrada,Angola - Campionato Nacional,14/12/19 08:00:00,https://www.academiadasapostasbrasil.com/stats/match/angola/campionato-nacional/cuando-cubango/sagrada-esperanca/3146014,Casa Militar,Terminado,1576321200
+Recreativo,Angola - Campionato Nacional,14/12/19 09:00:00,https://www.academiadasapostasbrasil.com/stats/match/angola/campionato-nacional/petro-atletico/recreativo-do-libolo/3145999,Petro Luanda,Terminado,1576324800
+Wellington,Austrália - A-League,14/12/19 00:00:00,https://www.academiadasapostasbrasil.com/stats/match/australia/a-league/melbourne-victory/wellington-phoenix/3129316,Mel Victory,Terminado,1576292400
+Central Coast,Austrália - A-League,14/12/19 02:30:00,https://www.academiadasapostasbrasil.com/stats/match/australia/a-league/sydney-fc/central-coast-mariners/3129317,Sydney,Terminado,1576301400
+Wanderers,Austrália - A-League,14/12/19 04:45:00,https://www.academiadasapostasbrasil.com/stats/match/australia/a-league/perth-glory/western-sydney-wanderers/3129318,Perth,Terminado,1576309500
+Tsarsko selo,Bulgária - A PFG,14/12/19 04:00:00,https://www.academiadasapostasbrasil.com/stats/match/bulgaria/a-pfg/beroe/tsarsko-selo/3032845,Beroe,Terminado,1576306800
+Arda,Bulgária - A PFG,14/12/19 06:15:00,https://www.academiadasapostasbrasil.com/stats/match/bulgaria/a-pfg/cherno-more-varna/arda/3032841,Cherno More,Terminado,1576314900
+Dunav,Bulgária - A PFG,14/12/19 08:30:00,https://www.academiadasapostasbrasil.com/stats/match/bulgaria/a-pfg/cska-sofia/dunav-2010/3032842,CSKA,Terminado,1576323000
+JIPPO,Mundo - Amistosos,14/12/19 05:45:00,https://www.academiadasapostasbrasil.com/stats/match/mundo/amistosos/kups/jippo/3188334,KuPS,Terminado,1576313100
+HIFK,Mundo - Amistosos,14/12/19 18:00:00,https://www.academiadasapostasbrasil.com/stats/match/mundo/amistosos/mypa/hifk/3188817,MYPA,Terminado,1576357200
+Eastern Suburbs,Nova Zelândia - Premier League,13/12/19 21:30:00,https://www.academiadasapostasbrasil.com/stats/match/nova-zelandia/premier-league/auckland-city/eastern-suburbs/3176917,Auckland,Terminado,1576283400
+Persepolis,Irã - Premier League,14/12/19 05:30:00,https://www.academiadasapostasbrasil.com/stats/match/ira/premier-league/saipa/persepolis/3181404,Saipa,Terminado,1576312200
+Bylis,Albânia - Super Liga,14/12/19 06:00:00,https://www.academiadasapostasbrasil.com/stats/match/albania/super-liga/flamurtari/bylis-ballsh/3130616,Flamurtari,Terminado,1576314000
+Luftëtari,Albânia - Super Liga,14/12/19 06:00:00,https://www.academiadasapostasbrasil.com/stats/match/albania/super-liga/laci/luftetari-gjirokaster/3130617,Laçi,Terminado,1576314000
+Naft MIS,Irã - Premier League,14/12/19 06:00:00,https://www.academiadasapostasbrasil.com/stats/match/ira/premier-league/pars-jam-bushehr/naft-masjed-soleyman/3181408,Pars Jam Bushehr,Terminado,1576314000
+Zob Ahan,Irã - Premier League,14/12/19 06:30:00,https://www.academiadasapostasbrasil.com/stats/match/ira/premier-league/gol-gohar-sirjan/zob-ahan/3181406,Gohar Sirjan,Terminado,1576315800
+Feiha,Arábia Saudita - Liga,14/12/19 06:35:00,https://www.academiadasapostasbrasil.com/stats/match/arabia-saudita/liga/dhamk/al-feiha/3102219,Dhamk,Terminado,1576316100
+Slimane,Tunísia - Liga,14/12/19 07:00:00,https://www.academiadasapostasbrasil.com/stats/match/tunisia/liga/us-monastirienne/slimane/3120848,Monastir,Terminado,1576317600
+Gostaresh,Irã - Premier League,14/12/19 07:10:00,https://www.academiadasapostasbrasil.com/stats/match/ira/premier-league/sanat-naft/gostaresh-foolad-tabriz/3181405,Sanat Naft,Terminado,1576318200
+Shahin,Irã - Premier League,14/12/19 08:00:00,https://www.academiadasapostasbrasil.com/stats/match/ira/premier-league/esteghlal/shahin-bushehr/3182702,Esteghlal,Terminado,1576321200
+Aberystwyth,País de Gales - Premier League,14/12/19 08:30:00,https://www.academiadasapostasbrasil.com/stats/match/pais-de-gales/premier-league/cardiff-mu/aberystwyth-town/3042898,Cardiff MU,Terminado,1576323000
+Carmarthen,País de Gales - Premier League,14/12/19 08:30:00,https://www.academiadasapostasbrasil.com/stats/match/pais-de-gales/premier-league/newtown/carmarthen-town/3042899,Newtown,Terminado,1576323000
+Dungannon,Irlanda do Norte - IFA Premiership,14/12/19 09:00:00,https://www.academiadasapostasbrasil.com/stats/match/irlanda-do-norte/ifa-premiership/ballymena-united/dungannon-swifts/3044313,Ballymena Utd,Terminado,1576324800
+Crusaders,Irlanda do Norte - IFA Premiership,14/12/19 09:00:00,https://www.academiadasapostasbrasil.com/stats/match/irlanda-do-norte/ifa-premiership/glentoran/crusaders/3044315,Glentoran,Terminado,1576324800
+Glenavon,Irlanda do Norte - IFA Premiership,14/12/19 09:00:00,https://www.academiadasapostasbrasil.com/stats/match/irlanda-do-norte/ifa-premiership/institute/glenavon/3044316,Institute,Terminado,1576324800
+Coleraine,Irlanda do Norte - IFA Premiership,14/12/19 09:00:00,https://www.academiadasapostasbrasil.com/stats/match/irlanda-do-norte/ifa-premiership/larne/coleraine/3044317,Larne,Terminado,1576324800
+Linfield,Irlanda do Norte - IFA Premiership,14/12/19 09:00:00,https://www.academiadasapostasbrasil.com/stats/match/irlanda-do-norte/ifa-premiership/warrenpoint-town/linfield/3044318,Warrenpoint,Terminado,1576324800
+Teuta,Albânia - Super Liga,14/12/19 09:00:00,https://www.academiadasapostasbrasil.com/stats/match/albania/super-liga/perparimi-kukes/teuta-durres/3130614,Kukësi,Terminado,1576324800
+Vllaznia,Albânia - Super Liga,14/12/19 09:00:00,https://www.academiadasapostasbrasil.com/stats/match/albania/super-liga/skenderbeu-korce/vllaznia-shkoder/3130615,Skënderbeu,Terminado,1576324800
+Faisaly,Arábia Saudita - Liga,14/12/19 10:45:00,https://www.academiadasapostasbrasil.com/stats/match/arabia-saudita/liga/al-ittihad/al-faysaly-al-majmaah/3102221,Ittihad,Terminado,1576331100
+Blooming,Bolívia - Primera Division,14/12/19 13:00:00,https://www.academiadasapostasbrasil.com/stats/match/bolivia/primera-division/always-ready/blooming/3037463,Always Ready,Terminado,1576339200
+Waitakere Utd,Nova Zelândia - Premier League,14/12/19 19:00:00,https://www.academiadasapostasbrasil.com/stats/match/nova-zelandia/premier-league/hawkes-bay-united/waitakere-united/3176918,Hawke's Bay,Terminado,1576360800
+Hamilton Wanderers,Nova Zelândia - Premier League,14/12/19 19:00:00,https://www.academiadasapostasbrasil.com/stats/match/nova-zelandia/premier-league/tasman-united/hamilton-wanderers/3176919,Tasman United,Terminado,1576360800
+Southern Utd,Nova Zelândia - Premier League,14/12/19 19:00:00,https://www.academiadasapostasbrasil.com/stats/match/nova-zelandia/premier-league/team-wellington/southern-united/3176920,Wellington,Terminado,1576360800
+Guastatoya,Guatemala - Liga Nacional,14/12/19 20:00:00,https://www.academiadasapostasbrasil.com/stats/match/guatemala/liga-nacional/comunicaciones/guastatoya/3190728,Comunicaciones,Terminado,1576364400
+Giresun,Turquia - Lig A,14/12/19 05:00:00,https://www.academiadasapostasbrasil.com/stats/match/turquia/lig-a/bb-erzurumspor/giresunspor/3083298,BB Erzurumspor,Terminado,1576310400
+Fatih,Turquia - Lig A,14/12/19 05:00:00,https://www.academiadasapostasbrasil.com/stats/match/turquia/lig-a/boluspor/fatih-karagumruk/3083300,Bolu,Terminado,1576310400
+TRAU,Índia - Liga I,14/12/19 05:30:00,https://www.academiadasapostasbrasil.com/stats/match/india/liga-i/east-bengal-club/trau/3183664,East Bengal,Terminado,1576312200
+Shënkolli,Albânia - Liga 1,14/12/19 06:00:00,https://www.academiadasapostasbrasil.com/stats/match/albania/liga-1/turbina-cerrik/shenkolli/3164654,Turbina,Terminado,1576314000
+Apolonia,Albânia - Liga 1,14/12/19 06:00:00,https://www.academiadasapostasbrasil.com/stats/match/albania/liga-1/lushnja/apolonia-fier/3164655,Lushnja,Terminado,1576314000
+Pogradeci,Albânia - Liga 1,14/12/19 06:00:00,https://www.academiadasapostasbrasil.com/stats/match/albania/liga-1/iliria-fushe-kruje/pogradeci/3164657,Iliria,Terminado,1576314000
+Dinamo,Albânia - Liga 1,14/12/19 06:00:00,https://www.academiadasapostasbrasil.com/stats/match/albania/liga-1/shkumbini-peqin/dinamo-tirana/3164739,Shkumbini,Cancelado,1576314000
+Erzeni,Albânia - Liga 1,14/12/19 06:00:00,https://www.academiadasapostasbrasil.com/stats/match/albania/liga-1/terbuni-puke/erzeni-shijak/3164740,Tërbuni,Terminado,1576314000
+Korabi,Albânia - Liga 1,14/12/19 06:00:00,https://www.academiadasapostasbrasil.com/stats/match/albania/liga-1/veleciku-koplik/korabi-peshkop/3164741,Veleçiku,Terminado,1576314000
+Egnatia,Albânia - Liga 1,14/12/19 06:00:00,https://www.academiadasapostasbrasil.com/stats/match/albania/liga-1/burreli/egnatia-rrogozhine/3164742,Burreli 	,Terminado,1576314000
+Eskişehir,Turquia - Lig A,14/12/19 07:30:00,https://www.academiadasapostasbrasil.com/stats/match/turquia/lig-a/istanbulspor/eskisehirspor/3083297,İstanbulspor,Terminado,1576319400
+FC Schaffh,Suíça - Challenge League,14/12/19 10:00:00,https://www.academiadasapostasbrasil.com/stats/match/suica/challenge-league/stade-lausanne-ouchy/schaffhausen/3039753,Lausanne-Ouchy,Terminado,1576328400
+Lommel,Bélgica - 2e Klasse,14/12/19 10:00:00,https://www.academiadasapostasbrasil.com/stats/match/belgica/2e-klasse/excelsior-virton/lommel-united/3050456,Virton,Terminado,1576328400
+Menemen,Turquia - Lig A,14/12/19 10:00:00,https://www.academiadasapostasbrasil.com/stats/match/turquia/lig-a/adanaspor/menemen-belediyespor/3083299,Adana,Terminado,1576328400
+Beerschot,Bélgica - 2e Klasse,14/12/19 13:30:00,https://www.academiadasapostasbrasil.com/stats/match/belgica/2e-klasse/westerlo/beerschot-wilrijk/3050459,Westerlo,Terminado,1576341000
+Castellón,Espanha - Segunda B,14/12/19 05:00:00,https://www.academiadasapostasbrasil.com/stats/match/espanha/segunda-b/ebro/castellon/3075447,Ebro,Terminado,1576310400
+Valencia II,Espanha - Segunda B,14/12/19 05:00:00,https://www.academiadasapostasbrasil.com/stats/match/espanha/segunda-b/fc-andorra/valencia-ii/3075448,FC Andorra,Terminado,1576310400
+Las Rozas,Espanha - Segunda B,14/12/19 05:00:00,https://www.academiadasapostasbrasil.com/stats/match/espanha/segunda-b/atletico-baleares/las-rozas/3075920,Baleares,Terminado,1576310400
+Waldhof,Alemanha - 3. Liga,14/12/19 07:00:00,https://www.academiadasapostasbrasil.com/stats/match/alemanha/3-liga/fsv-zwickau/waldhof-mannheim-07/3053318,Zwickau,Terminado,1576317600
+Meppen,Alemanha - 3. Liga,14/12/19 07:00:00,https://www.academiadasapostasbrasil.com/stats/match/alemanha/3-liga/eintracht-braunschweig/meppen-1912/3053319,Braunschweig,Terminado,1576317600
+Kaiserslautern,Alemanha - 3. Liga,14/12/19 07:00:00,https://www.academiadasapostasbrasil.com/stats/match/alemanha/3-liga/bayern-munique-ii/kaiserslautern/3053324,Bayern II,Terminado,1576317600
+Würzburg,Alemanha - 3. Liga,14/12/19 07:00:00,https://www.academiadasapostasbrasil.com/stats/match/alemanha/3-liga/hallescher/wurzburger-kickers/3053325,Hallescher FC,Terminado,1576317600
+Uerdingen,Alemanha - 3. Liga,14/12/19 07:00:00,https://www.academiadasapostasbrasil.com/stats/match/alemanha/3-liga/viktoria-koln/uerdingen-05/3053326,Viktoria Köln,Terminado,1576317600
+Chemnitz,Alemanha - 3. Liga,14/12/19 07:00:00,https://www.academiadasapostasbrasil.com/stats/match/alemanha/3-liga/hansa-rostock/chemnitzer/3053327,Rostock,Terminado,1576317600
+Barakaldo,Espanha - Segunda B,14/12/19 08:30:00,https://www.academiadasapostasbrasil.com/stats/match/espanha/segunda-b/athletic-club-ii/barakaldo/3076389,Athletic II,Terminado,1576323000
+Peterhead,Escócia - 2ª Divisão,14/12/19 09:00:00,https://www.academiadasapostasbrasil.com/stats/match/escocia/2-divisao/airdrieonians/peterhead/3038261,Airdrieonians,Terminado,1576324800
+Raith Rovers,Escócia - 2ª Divisão,14/12/19 09:00:00,https://www.academiadasapostasbrasil.com/stats/match/escocia/2-divisao/falkirk/raith-rovers/3038262,Falkirk,Terminado,1576324800
+Dumbarton,Escócia - 2ª Divisão,14/12/19 09:00:00,https://www.academiadasapostasbrasil.com/stats/match/escocia/2-divisao/forfar-athletic/dumbarton/3038263,Forfar,Terminado,1576324800
+Clyde,Escócia - 2ª Divisão,14/12/19 09:00:00,https://www.academiadasapostasbrasil.com/stats/match/escocia/2-divisao/montrose/clyde/3038264,Montrose,Terminado,1576324800
+East Fife,Escócia - 2ª Divisão,14/12/19 09:00:00,https://www.academiadasapostasbrasil.com/stats/match/escocia/2-divisao/stranraer/east-fife/3038265,Stranraer,Terminado,1576324800
+Guijuelo,Espanha - Segunda B,14/12/19 09:00:00,https://www.academiadasapostasbrasil.com/stats/match/espanha/segunda-b/unionistas-de-salamanca/guijuelo/3076386,Unionistas de Salamanca,Terminado,1576324800
+CD Calahorra,Espanha - Segunda B,14/12/19 09:00:00,https://www.academiadasapostasbrasil.com/stats/match/espanha/segunda-b/osasuna-ii/cd-calahorra/3076393,Osasuna II,Terminado,1576324800
+Salmantino,Espanha - Segunda B,14/12/19 09:00:00,https://www.academiadasapostasbrasil.com/stats/match/espanha/segunda-b/real-valladolid-ii/salmantino/3076395,Valladolid II,Terminado,1576324800
+Berço,Portugal - 2ª Divisão,14/12/19 09:00:00,https://www.academiadasapostasbrasil.com/stats/match/portugal/2-divisao/camara-de-lobos/berco/3106975,Câmara de Lobos,Terminado,1576324800
+Amarante,Portugal - 2ª Divisão,14/12/19 09:00:00,https://www.academiadasapostasbrasil.com/stats/match/portugal/2-divisao/valadares-gaia/amarante/3107278,Valadares Gaia,Terminado,1576324800
+Trofense,Portugal - 2ª Divisão,14/12/19 09:00:00,https://www.academiadasapostasbrasil.com/stats/match/portugal/2-divisao/canelas-2010/trofense/3107279,Canelas 2010,Terminado,1576324800
+Alaves II,Espanha - Segunda B,14/12/19 09:30:00,https://www.academiadasapostasbrasil.com/stats/match/espanha/segunda-b/amorebieta/deportivo-alaves-ii/3076391,Amorebieta,Terminado,1576326600
+Olot,Espanha - Segunda B,14/12/19 10:00:00,https://www.academiadasapostasbrasil.com/stats/match/espanha/segunda-b/llagostera-costa-brava/olot/3075450,Llagostera,Terminado,1576328400
+Espanyol II,Espanha - Segunda B,14/12/19 10:00:00,https://www.academiadasapostasbrasil.com/stats/match/espanha/segunda-b/orihuela/espanyol-ii/3075451,Orihuela,Terminado,1576328400
+Langreo,Espanha - Segunda B,14/12/19 10:00:00,https://www.academiadasapostasbrasil.com/stats/match/espanha/segunda-b/racing-ferrol/langreo/3075925,Racing Ferrol,Terminado,1576328400
+Algeciras,Espanha - Segunda B,14/12/19 10:00:00,https://www.academiadasapostasbrasil.com/stats/match/espanha/segunda-b/marbella/algeciras/3076770,Marbella,Terminado,1576328400
+Marinhense,Portugal - 2ª Divisão,14/12/19 10:00:00,https://www.academiadasapostasbrasil.com/stats/match/portugal/2-divisao/fontinhas/marinhense/3107588,Fontinhas,Terminado,1576328400
+Badajoz,Espanha - Segunda B,14/12/19 10:30:00,https://www.academiadasapostasbrasil.com/stats/match/espanha/segunda-b/villarrubia/badajoz/3076767,Villarrubia,Terminado,1576330200
+Ejea,Espanha - Segunda B,14/12/19 11:00:00,https://www.academiadasapostasbrasil.com/stats/match/espanha/segunda-b/villarreal-ii/ejea/3075454,Villarreal II,Terminado,1576332000
+Haro,Espanha - Segunda B,14/12/19 11:00:00,https://www.academiadasapostasbrasil.com/stats/match/espanha/segunda-b/arenas-de-getxo/haro/3076392,Arenas Getxo,Terminado,1576332000
+UCAM,Espanha - Segunda B,14/12/19 11:00:00,https://www.academiadasapostasbrasil.com/stats/match/espanha/segunda-b/cartagena/ucam-murcia/3076775,Cartagena,Terminado,1576332000
+Sevilla II,Espanha - Segunda B,14/12/19 11:30:00,https://www.academiadasapostasbrasil.com/stats/match/espanha/segunda-b/granada-ii/sevilla-ii/3076768,Granada II,Terminado,1576333800
+Cádiz II,Espanha - Segunda B,14/12/19 11:30:00,https://www.academiadasapostasbrasil.com/stats/match/espanha/segunda-b/recreativo-huelva/cadiz-ii/3076769,Huelva,Terminado,1576333800
+Anadia,Portugal - 2ª Divisão,14/12/19 11:45:00,https://www.academiadasapostasbrasil.com/stats/match/portugal/2-divisao/agueda/anadia/3107587,Águeda,Terminado,1576334700
+Le Puy F.43,França - National,14/12/19 12:00:00,https://www.academiadasapostasbrasil.com/stats/match/franca/national/pau/le-puy-f43-auvergne/3073284,Pau,Terminado,1576335600
+Badalona,Espanha - Segunda B,14/12/19 12:00:00,https://www.academiadasapostasbrasil.com/stats/match/espanha/segunda-b/hercules/badalona/3075452,Hércules,Terminado,1576335600
+Majadahonda,Espanha - Segunda B,14/12/19 12:00:00,https://www.academiadasapostasbrasil.com/stats/match/espanha/segunda-b/pontevedra/rayo-majadahonda/3075929,Pontevedra,Terminado,1576335600
+Porthmadog,País de Gales - Copa de Gales,14/12/19 08:30:00,https://www.academiadasapostasbrasil.com/stats/match/pais-de-gales/copa-de-gales/penybont/porthmadog/3184392,Penybont,Terminado,1576323000
+Tigre,Argentina - Super Copa,14/12/19 16:10:00,https://www.academiadasapostasbrasil.com/stats/match/argentina/super-copa/racing/tigre/3181834,Racing,,1576350600
+Adelaide,Austrália - W-League,14/12/19 00:30:00,https://www.academiadasapostasbrasil.com/stats/match/australia/w-league/brisbane-roar/adelaide-united/3180393,Roar,Terminado,1576294200
+Sporting CP,Portugal - Júniores U19,14/12/19 05:45:00,https://www.academiadasapostasbrasil.com/stats/match/portugal/juniores-u19/estoril-praia-u19/sporting-cp-u19/3101961,Estoril,Terminado,1576313100
+Nacional,Portugal - Júniores U19,14/12/19 09:00:00,https://www.academiadasapostasbrasil.com/stats/match/portugal/juniores-u19/desportivo-aves-u19/nacional-u19/3101826,Desportivo Aves U19,Terminado,1576324800
+Leixões,Portugal - Júniores U19,14/12/19 09:00:00,https://www.academiadasapostasbrasil.com/stats/match/portugal/juniores-u19/pacos-de-ferreira-u19/leixoes-u19/3101828,Paços,Terminado,1576324800
+Feirense,Portugal - Júniores U19,14/12/19 09:00:00,https://www.academiadasapostasbrasil.com/stats/match/portugal/juniores-u19/porto-u19/feirense-u19/3101829,Porto,Terminado,1576324800
+Vizela,Portugal - Júniores U19,14/12/19 09:00:00,https://www.academiadasapostasbrasil.com/stats/match/portugal/juniores-u19/rio-ave-u19/vizela-u19/3101830,Rio Ave,Terminado,1576324800
+Gil Vicente U19,Portugal - Júniores U19,14/12/19 09:00:00,https://www.academiadasapostasbrasil.com/stats/match/portugal/juniores-u19/vitoria-guimaraes-u19/gil-vicente-u19/3101831,Guimarães,Terminado,1576324800
+Benfica,Portugal - Júniores U19,14/12/19 09:00:00,https://www.academiadasapostasbrasil.com/stats/match/portugal/juniores-u19/amora-u19/benfica-u19/3101958,Amora U19,Terminado,1576324800
+Belenenses,Portugal - Júniores U19,14/12/19 09:00:00,https://www.academiadasapostasbrasil.com/stats/match/portugal/juniores-u19/academica-u19/belenenses-u19/3101959,Académica,Terminado,1576324800
+Vilafranquense U19,Portugal - Júniores U19,14/12/19 09:00:00,https://www.academiadasapostasbrasil.com/stats/match/portugal/juniores-u19/tondela-u19/vilafranquense-u19/3101960,Tondela,Terminado,1576324800
+União Leiria ,Portugal - Júniores U19,14/12/19 09:00:00,https://www.academiadasapostasbrasil.com/stats/match/portugal/juniores-u19/sacavenense-u19/uniao-de-leiria-u19/3101962,Sacavenense U19,Terminado,1576324800
+Alverca U19,Portugal - Júniores U19,14/12/19 09:00:00,https://www.academiadasapostasbrasil.com/stats/match/portugal/juniores-u19/vitoria-setubal-u19/alverca-u19/3101963,Setúbal,Terminado,1576324800
+Leicester,Inglaterra - U18 Premier League,14/12/19 05:00:00,https://www.academiadasapostasbrasil.com/stats/match/inglaterra/u18-premier-league/aston-villa-u18/leicester-city-u18/3114816,Aston Villa,Terminado,1576310400
+Newcastle,Inglaterra - U18 Premier League,14/12/19 06:30:00,https://www.academiadasapostasbrasil.com/stats/match/inglaterra/u18-premier-league/everton-u18/newcastle-united-u18/3114688,Everton,Terminado,1576315800
+WBA,Inglaterra - U18 Premier League,14/12/19 06:30:00,https://www.academiadasapostasbrasil.com/stats/match/inglaterra/u18-premier-league/manchester-city-u18/west-bromwich-albion-u18/3114693,Man City,Terminado,1576315800
+Logroño,Espanha - Superliga,14/12/19 05:00:00,https://www.academiadasapostasbrasil.com/stats/match/espanha/superliga/real-sociedad/logrono/3118550,Sociedad,Terminado,1576310400
+AC Milan,Itália - Femminile Serie A,14/12/19 05:00:00,https://www.academiadasapostasbrasil.com/stats/match/italia/femminile-serie-a/bardolino/ac-milan/3125792,Verona,Terminado,1576310400
+Bari,Itália - Femminile Serie A,14/12/19 05:00:00,https://www.academiadasapostasbrasil.com/stats/match/italia/femminile-serie-a/juventus/bari/3125793,Juventus,Terminado,1576310400
+Duisburg,Alemanha - Frauen Bundesliga,14/12/19 06:00:00,https://www.academiadasapostasbrasil.com/stats/match/alemanha/frauen-bundesliga/wolfsburg/duisburg/3061961,Wolfsburg,Terminado,1576314000
+Stade de Reims,França - Feminine Division 1,14/12/19 07:30:00,https://www.academiadasapostasbrasil.com/stats/match/franca/feminine-division-1/guingamp/stade-de-reims/3073991,Guingamp,Terminado,1576319400
+Bordeaux,França - Feminine Division 1,14/12/19 07:30:00,https://www.academiadasapostasbrasil.com/stats/match/franca/feminine-division-1/olympique-marseille/bordeaux/3073993,Olympique Marseille,Terminado,1576319400
+Orobica,Itália - Femminile Serie A,14/12/19 07:30:00,https://www.academiadasapostasbrasil.com/stats/match/italia/femminile-serie-a/roma/orobica/3125788,Roma,Terminado,1576319400
+Reggiana,Itália - Femminile Serie A,14/12/19 07:30:00,https://www.academiadasapostasbrasil.com/stats/match/italia/femminile-serie-a/empoli/reggiana/3125789,Empoli,Terminado,1576319400
+Tavagnacco,Itália - Femminile Serie A,14/12/19 07:30:00,https://www.academiadasapostasbrasil.com/stats/match/italia/femminile-serie-a/florentia/tavagnacco/3125791,Florentia,Terminado,1576319400
+Sporting CP,Portugal - Feminino 1ª Divisão,14/12/19 08:00:00,https://www.academiadasapostasbrasil.com/stats/match/portugal/feminino-1-divisao/ouriense/sporting-cp/3124252,Ouriense,Terminado,1576321200
+Dijon,França - Feminine Division 1,14/12/19 08:30:00,https://www.academiadasapostasbrasil.com/stats/match/franca/feminine-division-1/lyon/dijon/3073989,Lyon,Terminado,1576323000
+Barcelona,Espanha - Superliga,14/12/19 10:00:00,https://www.academiadasapostasbrasil.com/stats/match/espanha/superliga/espanyol/barcelona/3118548,Espanyol,Terminado,1576328400
+Huelva,Espanha - Superliga,14/12/19 11:30:00,https://www.academiadasapostasbrasil.com/stats/match/espanha/superliga/real-betis/sporting-de-huelva/3118552,Real Betis,Terminado,1576333800
+Reiger Boys,Holanda - KNVB Beker Vrouwen,14/12/19 05:45:00,https://www.academiadasapostasbrasil.com/stats/match/holanda/knvb-beker-vrouwen/ter-leede/reiger-boys/3176473,Ter Leede,Terminado,1576313100
+Eindhoven,Holanda - KNVB Beker Vrouwen,14/12/19 06:00:00,https://www.academiadasapostasbrasil.com/stats/match/holanda/knvb-beker-vrouwen/saestum/eindhoven/3176478,Saestum,Terminado,1576314000
+IJFC,Holanda - KNVB Beker Vrouwen,14/12/19 07:00:00,https://www.academiadasapostasbrasil.com/stats/match/holanda/knvb-beker-vrouwen/berghuizen/ijfc/3176791,Berghuizen,Terminado,1576317600
+Wartburgia,Holanda - KNVB Beker Vrouwen,14/12/19 07:15:00,https://www.academiadasapostasbrasil.com/stats/match/holanda/knvb-beker-vrouwen/berkum/wartburgia/3176475,Berkum,Terminado,1576318500
+Oranje Nassau II,Holanda - KNVB Beker Vrouwen,14/12/19 07:30:00,https://www.academiadasapostasbrasil.com/stats/match/holanda/knvb-beker-vrouwen/rvvh/oranje-nassau-ii/3176477,RVVH,Terminado,1576319400
+Nooit Gedacht,Holanda - KNVB Beker Vrouwen,14/12/19 08:00:00,https://www.academiadasapostasbrasil.com/stats/match/holanda/knvb-beker-vrouwen/eldenia/nooit-gedacht/3176472,Eldenia,Terminado,1576321200
+DTS Ede,Holanda - KNVB Beker Vrouwen,14/12/19 08:00:00,https://www.academiadasapostasbrasil.com/stats/match/holanda/knvb-beker-vrouwen/stiens/dts-ede/3176474,Stiens,Terminado,1576321200
+Oranje Nassau,Holanda - KNVB Beker Vrouwen,14/12/19 08:15:00,https://www.academiadasapostasbrasil.com/stats/match/holanda/knvb-beker-vrouwen/saestum-ii/oranje-nassau/3176481,Saestum II,Terminado,1576322100
+Barendrecht,Holanda - KNVB Beker Vrouwen,14/12/19 08:45:00,https://www.academiadasapostasbrasil.com/stats/match/holanda/knvb-beker-vrouwen/wartburgia-ii/barendrecht/3176480,Wartburgia II,Terminado,1576323900
+Nuenen,Holanda - KNVB Beker Vrouwen,14/12/19 10:00:00,https://www.academiadasapostasbrasil.com/stats/match/holanda/knvb-beker-vrouwen/be-quick-28/nuenen/3176476,Be Quick 28,Terminado,1576328400
+ACV,Holanda - KNVB Beker Vrouwen,14/12/19 10:00:00,https://www.academiadasapostasbrasil.com/stats/match/holanda/knvb-beker-vrouwen/de-tukkers/acv/3176479,De Tukkers,Terminado,1576328400
+Enugu,Nigéria - Premier League,14/12/19 09:00:00,https://www.academiadasapostasbrasil.com/stats/match/nigeria/premier-league/wikki-tourist/enugu-rangers-international-fc/3181995,Wikki,Terminado,1576324800
+Royal Eagles,África do Sul - Liga Mvela Golden,14/12/19 05:00:00,https://www.academiadasapostasbrasil.com/stats/match/africa-do-sul/liga-mvela-golden/university-of-pretoria/royal-eagles/3074994,Pretoria,Terminado,1576310400
+TS Sporting,África do Sul - Liga Mvela Golden,14/12/19 07:30:00,https://www.academiadasapostasbrasil.com/stats/match/africa-do-sul/liga-mvela-golden/real-kings/ts-sporting/3074992,Real Kings,Terminado,1576319400
+Jomo Cosmos,África do Sul - Liga Mvela Golden,14/12/19 07:30:00,https://www.academiadasapostasbrasil.com/stats/match/africa-do-sul/liga-mvela-golden/free-state-stars/jomo-cosmos/3074993,Free State,Terminado,1576319400
+Moroka,África do Sul - Liga Mvela Golden,14/12/19 07:30:00,https://www.academiadasapostasbrasil.com/stats/match/africa-do-sul/liga-mvela-golden/uthongathi/moroka-swallows/3074995,Uthongathi,Terminado,1576319400
+JDR Stars,África do Sul - Liga Mvela Golden,14/12/19 07:30:00,https://www.academiadasapostasbrasil.com/stats/match/africa-do-sul/liga-mvela-golden/steenberg-united/jdr-stars/3074996,Steenberg Utd,Terminado,1576319400
+Villa Española,Uruguai - Segunda Division,14/12/19 13:00:00,https://www.academiadasapostasbrasil.com/stats/match/uruguai/segunda-division/rentistas/villa-espanola/3011810,Rentistas,Terminado,1576339200
+Portoviejo,Equador - Primera B,14/12/19 14:00:00,https://www.academiadasapostasbrasil.com/stats/match/equador/primera-b/orense/ldu-portoviejo/3191892,Orense,Terminado,1576342800
+Balmazújváros,Hungria - NB II,14/12/19 18:00:00,https://www.academiadasapostasbrasil.com/stats/match/hungria/nb-ii/szeged-2011/balmazujvaros-sport/3064015,Szeged 2011,Cancelado,1576357200
+Bugsaşspor,Turquia - Lig B,14/12/19 04:00:00,https://www.academiadasapostasbrasil.com/stats/match/turquia/lig-b/duzyurtspor/bugsasspor/3112306,Düzyurtspor,Terminado,1576306800
+Manisa BBSK,Turquia - Lig B,14/12/19 04:30:00,https://www.academiadasapostasbrasil.com/stats/match/turquia/lig-b/sancaktepe-belediye/manisa-bbsk/3112304,Sancaktepe,Terminado,1576308600
+Selçukspor,Turquia - Lig B,14/12/19 04:30:00,https://www.academiadasapostasbrasil.com/stats/match/turquia/lig-b/samsunspor/anadolu-selcukspor/3112311,Samsun,Terminado,1576308600
+Eyüp,Turquia - Lig B,14/12/19 04:30:00,https://www.academiadasapostasbrasil.com/stats/match/turquia/lig-b/tuzlaspor/eyupspor/3112653,Tuzlaspor,Terminado,1576308600
+Van BB,Turquia - Lig B,14/12/19 04:30:00,https://www.academiadasapostasbrasil.com/stats/match/turquia/lig-b/krsehir-belediyespor/belediye-vanspor/3112657,Kırşehir Belediyespor,Terminado,1576308600
+Ravenna,Itália - Serie C1,14/12/19 08:15:00,https://www.academiadasapostasbrasil.com/stats/match/italia/serie-c1/modena/ravenna/3109703, Modena,Terminado,1576322100
+Pianese,Itália - Serie C1,14/12/19 14:00:00,https://www.academiadasapostasbrasil.com/stats/match/italia/serie-c1/carrarese/pianese/3108936,Carrarese,Terminado,1576342800
+Ternana,Itália - Serie C1,14/12/19 14:00:00,https://www.academiadasapostasbrasil.com/stats/match/italia/serie-c1/cavese/ternana/3109318,Cavese,Terminado,1576342800
+Santutxu,Espanha - Tercera Division,14/12/19 05:00:00,https://www.academiadasapostasbrasil.com/stats/match/espanha/tercera-division/portugalete/santutxu/3093186,Portugalete,Terminado,1576310400
+Reus,Espanha - Tercera Division,14/12/19 05:00:00,https://www.academiadasapostasbrasil.com/stats/match/espanha/tercera-division/cerdanyola-del-valles/reus-deportiu/3118852,Cerdanyola,Terminado,1576310400
+St. Pauli II,Alemanha - Regionalliga,14/12/19 06:00:00,https://www.academiadasapostasbrasil.com/stats/match/alemanha/regionalliga/hamburgo-ii/sankt-pauli-ii/3066198,HSV II,Terminado,1576314000
+San Fernando,Espanha - Tercera Division,14/12/19 06:00:00,https://www.academiadasapostasbrasil.com/stats/match/espanha/tercera-division/tamaraceite/ud-san-fernando/3112972,Tamaraceite,Terminado,1576314000
+Antequera,Espanha - Tercera Division,14/12/19 06:00:00,https://www.academiadasapostasbrasil.com/stats/match/espanha/tercera-division/melilla-cd/antequera/3116088,Melilla CD,Terminado,1576314000
+Hertha II,Alemanha - Regionalliga,14/12/19 06:30:00,https://www.academiadasapostasbrasil.com/stats/match/alemanha/regionalliga/energie-cottbus/hertha-berlin-ii/3068187,Cottbus,Terminado,1576315800
+Lichtenberg,Alemanha - Regionalliga,14/12/19 06:30:00,https://www.academiadasapostasbrasil.com/stats/match/alemanha/regionalliga/optik-rathenow/lichtenberg/3068189,Rathenow,Terminado,1576315800
+Halberstadt,Alemanha - Regionalliga,14/12/19 06:30:00,https://www.academiadasapostasbrasil.com/stats/match/alemanha/regionalliga/meuselwitz/germania-halberstadt/3068190,Meuselwitz,Terminado,1576315800
+Wattenscheid,Alemanha - Regionalliga,14/12/19 07:00:00,https://www.academiadasapostasbrasil.com/stats/match/alemanha/regionalliga/borussia-monchengladbach-ii/wattenscheid/3060556,M'gladbach II,Cancelado,1576317600
+Köln II,Alemanha - Regionalliga,14/12/19 07:00:00,https://www.academiadasapostasbrasil.com/stats/match/alemanha/regionalliga/bergisch-gladbach/koln-ii/3060558,Bergisch Gladb,Terminado,1576317600
+Dortmund II,Alemanha - Regionalliga,14/12/19 07:00:00,https://www.academiadasapostasbrasil.com/stats/match/alemanha/regionalliga/lotte/borussia-dortmund-ii/3060560,SF Lotte,Terminado,1576317600
+Excelsior 31,Holanda - Derde Divisie,14/12/19 07:30:00,https://www.academiadasapostasbrasil.com/stats/match/holanda/derde-divisie/ajax-amateurs/excelsior-31/3051239,Ajax Amateurs,Terminado,1576319400
+DVS,Holanda - Derde Divisie,14/12/19 07:30:00,https://www.academiadasapostasbrasil.com/stats/match/holanda/derde-divisie/lisse/dvs-33/3051242,Lisse,Terminado,1576319400
+DOVO,Holanda - Derde Divisie,14/12/19 07:30:00,https://www.academiadasapostasbrasil.com/stats/match/holanda/derde-divisie/stedoco/dovo/3051243,SteDoCo,Terminado,1576319400
+ODIN '59,Holanda - Derde Divisie,14/12/19 07:30:00,https://www.academiadasapostasbrasil.com/stats/match/holanda/derde-divisie/vvog/odin-59/3051244,VVOG,Terminado,1576319400
+Tilleur,Bélgica - 3e Klasse,14/12/19 07:30:00,https://www.academiadasapostasbrasil.com/stats/match/belgica/3e-klasse/raal-la-louviere/tilleur/3078699,La Louvière,Terminado,1576319400
+Nijkerk,Holanda - Derde Divisie,14/12/19 08:00:00,https://www.academiadasapostasbrasil.com/stats/match/holanda/derde-divisie/ons-sneek/sparta-nijkerk/3051153,ONS,Terminado,1576321200
+Hoek,Holanda - Derde Divisie,14/12/19 08:00:00,https://www.academiadasapostasbrasil.com/stats/match/holanda/derde-divisie/almere-city-ii/hsv-hoek/3051238,Jong Almere City,Terminado,1576321200
+Schiltigheim,França - CFA,14/12/19 08:00:00,https://www.academiadasapostasbrasil.com/stats/match/franca/cfa/st-maur-lusitanos/schiltigheim/3080352,St Maur Lusita,Terminado,1576321200
+Mulhouse,França - CFA,14/12/19 08:00:00,https://www.academiadasapostasbrasil.com/stats/match/franca/cfa/haguenau/mulhouse/3080357,Haguenau,Terminado,1576321200
+Harkemase Boys,Holanda - Derde Divisie,14/12/19 08:30:00,https://www.academiadasapostasbrasil.com/stats/match/holanda/derde-divisie/vvsb/harkemase-boys/3051241,VVSB,Terminado,1576323000
+Solares,Espanha - Tercera Division,14/12/19 08:30:00,https://www.academiadasapostasbrasil.com/stats/match/espanha/tercera-division/ribamontan-al-mar/solares/3094039,Ribamontán,Terminado,1576323000
+Tropezón,Espanha - Tercera Division,14/12/19 08:30:00,https://www.academiadasapostasbrasil.com/stats/match/espanha/tercera-division/barreda/tropezon/3094041,Barreda,Terminado,1576323000
+Laredo,Espanha - Tercera Division,14/12/19 08:30:00,https://www.academiadasapostasbrasil.com/stats/match/espanha/tercera-division/torina/laredo/3094042,Torina,Terminado,1576323000
+Vimenor,Espanha - Tercera Division,14/12/19 08:30:00,https://www.academiadasapostasbrasil.com/stats/match/espanha/tercera-division/cultural-guarnizo/vimenor/3094044,Guarnizo,Terminado,1576323000
+Baztán,Espanha - Tercera Division,14/12/19 08:30:00,https://www.academiadasapostasbrasil.com/stats/match/espanha/tercera-division/lourdes/baztan/3095635,Lourdes,Terminado,1576323000
+Cortes,Espanha - Tercera Division,14/12/19 08:30:00,https://www.academiadasapostasbrasil.com/stats/match/espanha/tercera-division/beti-kozkor/cortes/3095639,Beti Kozkor,Terminado,1576323000
+Villegas,Espanha - Tercera Division,14/12/19 08:30:00,https://www.academiadasapostasbrasil.com/stats/match/espanha/tercera-division/logrones-ii/villegas/3096390,Logroñés II,Terminado,1576323000
+Ardoi,Espanha - Tercera Division,14/12/19 08:45:00,https://www.academiadasapostasbrasil.com/stats/match/espanha/tercera-division/huarte/ardoi/3095632,Huarte,Terminado,1576323900
+Tordesillas,Espanha - Tercera Division,14/12/19 08:45:00,https://www.academiadasapostasbrasil.com/stats/match/espanha/tercera-division/numancia-ii/atletico-tordesillas/3114357,Numancia II,Terminado,1576323900
+Cristo,Espanha - Tercera Division,14/12/19 08:45:00,https://www.academiadasapostasbrasil.com/stats/match/espanha/tercera-division/la-virgen-del-camino/cristo-atletico/3114360,Virgen Camino,Terminado,1576323900
+Edinburgh City,Escócia - 3ª Divisão,14/12/19 09:00:00,https://www.academiadasapostasbrasil.com/stats/match/escocia/3-divisao/annan-athletic/edinburgh-city/3038814,Annan,Terminado,1576324800
+Cowdenbeath,Escócia - 3ª Divisão,14/12/19 09:00:00,https://www.academiadasapostasbrasil.com/stats/match/escocia/3-divisao/brechin-city/cowdenbeath/3038815,Brechin,Terminado,1576324800
+Stenhousemuir,Escócia - 3ª Divisão,14/12/19 09:00:00,https://www.academiadasapostasbrasil.com/stats/match/escocia/3-divisao/cove-rangers/stenhousemuir/3038816,Cove Rangers,Terminado,1576324800
+Albion,Escócia - 3ª Divisão,14/12/19 09:00:00,https://www.academiadasapostasbrasil.com/stats/match/escocia/3-divisao/elgin-city/albion-rovers/3038817,Elgin,Terminado,1576324800
+Stirling,Escócia - 3ª Divisão,14/12/19 09:00:00,https://www.academiadasapostasbrasil.com/stats/match/escocia/3-divisao/queens-park/stirling-albion/3038818,Queen's Park,Terminado,1576324800
+Fréjus,França - CFA,14/12/19 09:00:00,https://www.academiadasapostasbrasil.com/stats/match/franca/cfa/jura-sud-foot/frejus-st-raphael/3082487,Jura Sud,Terminado,1576324800
+Selaya,Espanha - Tercera Division,14/12/19 09:00:00,https://www.academiadasapostasbrasil.com/stats/match/espanha/tercera-division/siete-villas/selaya/3094045,Siete Villas,Terminado,1576324800
+Esporles,Espanha - Tercera Division,14/12/19 09:00:00,https://www.academiadasapostasbrasil.com/stats/match/espanha/tercera-division/santanyi/esporles/3094811,Santanyí,Terminado,1576324800
+Andratx,Espanha - Tercera Division,14/12/19 09:00:00,https://www.academiadasapostasbrasil.com/stats/match/espanha/tercera-division/ibiza-islas-pitiusas/andratx/3094817,Ibiza Islas Pitiusas,Terminado,1576324800
+Diocesano,Espanha - Tercera Division,14/12/19 09:00:00,https://www.academiadasapostasbrasil.com/stats/match/espanha/tercera-division/llerenense/diocesano/3095260,Llerenense,Terminado,1576324800
+Pamplona,Espanha - Tercera Division,14/12/19 09:00:00,https://www.academiadasapostasbrasil.com/stats/match/espanha/tercera-division/pena-sport/pamplona/3095634,Peña Sport,Terminado,1576324800
+Murchante,Espanha - Tercera Division,14/12/19 09:00:00,https://www.academiadasapostasbrasil.com/stats/match/espanha/tercera-division/fontellas/murchante/3095636,Fontellas,Terminado,1576324800
+Valle Egüés,Espanha - Tercera Division,14/12/19 09:00:00,https://www.academiadasapostasbrasil.com/stats/match/espanha/tercera-division/cirbonero/valle-egues/3095638,Cirbonero,Terminado,1576324800
+Sevilla III,Espanha - Tercera Division,14/12/19 09:00:00,https://www.academiadasapostasbrasil.com/stats/match/espanha/tercera-division/antoniano/sevilla-iii/3116470,Antoniano,Terminado,1576324800
+Eldense,Espanha - Tercera Division,14/12/19 09:00:00,https://www.academiadasapostasbrasil.com/stats/match/espanha/tercera-division/atzeneta/eldense/3119321,Atzeneta,Terminado,1576324800
+Totana,Espanha - Tercera Division,14/12/19 09:15:00,https://www.academiadasapostasbrasil.com/stats/match/espanha/tercera-division/minerva/olimpico-totana/3113361,Minerva,Terminado,1576325700
+Guingamp II,França - CFA,14/12/19 09:30:00,https://www.academiadasapostasbrasil.com/stats/match/franca/cfa/poissy/guingamp-ii/3080597,Poissy,Terminado,1576326600
+Platges,Espanha - Tercera Division,14/12/19 09:30:00,https://www.academiadasapostasbrasil.com/stats/match/espanha/tercera-division/poblense/platges-de-calvia/3094815,Poblense,Terminado,1576326600
+Txantrea,Espanha - Tercera Division,14/12/19 09:30:00,https://www.academiadasapostasbrasil.com/stats/match/espanha/tercera-division/pena-azagresa/txantrea/3095640,Peña Azagresa,Terminado,1576326600
+Monzón,Espanha - Tercera Division,14/12/19 09:30:00,https://www.academiadasapostasbrasil.com/stats/match/espanha/tercera-division/tarazona/atletico-monzon/3097420,Tarazona,Terminado,1576326600
+Belchite,Espanha - Tercera Division,14/12/19 09:30:00,https://www.academiadasapostasbrasil.com/stats/match/espanha/tercera-division/illueca/belchite-97/3097423,Illueca,Terminado,1576326600
+Compostela,Espanha - Tercera Division,14/12/19 09:30:00,https://www.academiadasapostasbrasil.com/stats/match/espanha/tercera-division/pontellas/compostela/3102792,Pontellas,Terminado,1576326600
+Burgos,Espanha - Tercera Division,14/12/19 09:30:00,https://www.academiadasapostasbrasil.com/stats/match/espanha/tercera-division/cultural-leonesa-ii/burgos-promesas/3114358,Cultural Leonesa II,Terminado,1576326600
+La Bañeza,Espanha - Tercera Division,14/12/19 09:30:00,https://www.academiadasapostasbrasil.com/stats/match/espanha/tercera-division/la-granja/la-baneza/3114361,La Granja,Terminado,1576326600
+Almazán,Espanha - Tercera Division,14/12/19 09:30:00,https://www.academiadasapostasbrasil.com/stats/match/espanha/tercera-division/atletico-astorga/almazan/3114362,Astorga,Terminado,1576326600
+Portmany,Espanha - Tercera Division,14/12/19 09:45:00,https://www.academiadasapostasbrasil.com/stats/match/espanha/tercera-division/manacor/portmany/3094812,Manacor,Terminado,1576327500
+Ciudad de Torredonjimeno,Espanha - Tercera Division,14/12/19 09:45:00,https://www.academiadasapostasbrasil.com/stats/match/espanha/tercera-division/motril/ciudad-de-torredonjimeno/3116087,Motril,Terminado,1576327500
+Alemannia,Alemanha - Regionalliga,14/12/19 10:00:00,https://www.academiadasapostasbrasil.com/stats/match/alemanha/regionalliga/fortuna-dusseldorf-ii/alemannia-aachen/3060562,Fortuna II,Terminado,1576328400
+Rouen,França - CFA,14/12/19 10:00:00,https://www.academiadasapostasbrasil.com/stats/match/franca/cfa/entente-ssg/rouen/3080595,ESSG,Terminado,1576328400
+Alcobendas,Espanha - Tercera Division,14/12/19 10:00:00,https://www.academiadasapostasbrasil.com/stats/match/espanha/tercera-division/flat-earth/alcobendas-sport/3094427,Flat Earth,Terminado,1576328400
+Binissalem,Espanha - Tercera Division,14/12/19 10:00:00,https://www.academiadasapostasbrasil.com/stats/match/espanha/tercera-division/alcudia/binissalem/3094810,Alcúdia,Terminado,1576328400
+UD Ourense,Espanha - Tercera Division,14/12/19 10:00:00,https://www.academiadasapostasbrasil.com/stats/match/espanha/tercera-division/as-pontes/ud-ourense/3102786,As Pontes,Terminado,1576328400
+La Coruña II,Espanha - Tercera Division,14/12/19 10:00:00,https://www.academiadasapostasbrasil.com/stats/match/espanha/tercera-division/arzua/deportivo-la-coruna-ii/3102789,Arzúa,Terminado,1576328400
+Toledo,Espanha - Tercera Division,14/12/19 10:00:00,https://www.academiadasapostasbrasil.com/stats/match/espanha/tercera-division/tarancon/toledo/3113973,Tarancón,Terminado,1576328400
+Jove,Espanha - Tercera Division,14/12/19 10:00:00,https://www.academiadasapostasbrasil.com/stats/match/espanha/tercera-division/roda/jove-espanol/3119322,Roda,Terminado,1576328400
+Brea,Espanha - Tercera Division,14/12/19 10:15:00,https://www.academiadasapostasbrasil.com/stats/match/espanha/tercera-division/real-zaragoza-ii/brea/3097415,Zaragoza II,Terminado,1576329300
+Extremadura UD II,Espanha - Tercera Division,14/12/19 10:30:00,https://www.academiadasapostasbrasil.com/stats/match/espanha/tercera-division/aceuchal/extremadura-ud-ii/3095263,Aceuchal,Terminado,1576330200
+Bergantiños,Espanha - Tercera Division,14/12/19 10:30:00,https://www.academiadasapostasbrasil.com/stats/match/espanha/tercera-division/paiosaco/bergantinos/3102790,Paiosaco,Terminado,1576330200
+Vera,Espanha - Tercera Division,14/12/19 10:30:00,https://www.academiadasapostasbrasil.com/stats/match/espanha/tercera-division/tenisca/vera/3112976,Tenisca,Terminado,1576330200
+Mensajero,Espanha - Tercera Division,14/12/19 10:30:00,https://www.academiadasapostasbrasil.com/stats/match/espanha/tercera-division/santa-ursula/mensajero/3112977,Santa Úrsula,Terminado,1576330200
+Arandina,Espanha - Tercera Division,14/12/19 10:30:00,https://www.academiadasapostasbrasil.com/stats/match/espanha/tercera-division/zamora/arandina/3114364,Zamora,Terminado,1576330200
+Mutilvera,Espanha - Tercera Division,14/12/19 10:45:00,https://www.academiadasapostasbrasil.com/stats/match/espanha/tercera-division/burlades/mutilvera/3095633,Burladés,Terminado,1576331100
+Lienden,Holanda - Derde Divisie,14/12/19 11:00:00,https://www.academiadasapostasbrasil.com/stats/match/holanda/derde-divisie/evv/lienden/3050912,EVV,Terminado,1576332000
+Lens RC II,França - CFA,14/12/19 11:00:00,https://www.academiadasapostasbrasil.com/stats/match/franca/cfa/ste-genevieve-sp/lens-ii/3080353,SaintGeneviève,Terminado,1576332000
+Iris,França - CFA,14/12/19 11:00:00,https://www.academiadasapostasbrasil.com/stats/match/franca/cfa/belfort/croix-football-ic/3080355,Belfort,Terminado,1576332000
+Reims II,França - CFA,14/12/19 11:00:00,https://www.academiadasapostasbrasil.com/stats/match/franca/cfa/sedan/reims-ii/3080356,Sedan,Terminado,1576332000
+Lille II,França - CFA,14/12/19 11:00:00,https://www.academiadasapostasbrasil.com/stats/match/franca/cfa/drancy-ja/lille-ii/3080358,Drancy,Terminado,1576332000
+St Malo US,França - CFA,14/12/19 11:00:00,https://www.academiadasapostasbrasil.com/stats/match/franca/cfa/oissel-cms/st-malo-us/3080594,Oissel CMS,Terminado,1576332000
+Fleury 91 FC,França - CFA,14/12/19 11:00:00,https://www.academiadasapostasbrasil.com/stats/match/franca/cfa/stade-briochin/fleury-91-fc/3080596,Briochin,Terminado,1576332000
+C' Chartres,França - CFA,14/12/19 11:00:00,https://www.academiadasapostasbrasil.com/stats/match/franca/cfa/vitre/c-chartres/3080598,Vitré,Terminado,1576332000
+Romorantin,França - CFA,14/12/19 11:00:00,https://www.academiadasapostasbrasil.com/stats/match/franca/cfa/colomiers-us/romorantin-so/3080831,Colomiers US,Terminado,1576332000
+Chamalières,França - CFA,14/12/19 11:00:00,https://www.academiadasapostasbrasil.com/stats/match/franca/cfa/bourges-foot/chamalieres/3080832,Bourges Foot,Terminado,1576332000
+Andrézieux,França - CFA,14/12/19 11:00:00,https://www.academiadasapostasbrasil.com/stats/match/franca/cfa/st-pryve-st-hilaire/andrezieux/3080833,St-Pryvé,Terminado,1576332000
+Sète,França - CFA,14/12/19 11:00:00,https://www.academiadasapostasbrasil.com/stats/match/franca/cfa/bergerac/sete/3080834,Bergerac,Terminado,1576332000
+Trélissac,França - CFA,14/12/19 11:00:00,https://www.academiadasapostasbrasil.com/stats/match/franca/cfa/saint-etienne-ii/trelissac/3080835,St-Étienne II,Terminado,1576332000
+Les Herbiers,França - CFA,14/12/19 11:00:00,https://www.academiadasapostasbrasil.com/stats/match/franca/cfa/blois/les-herbiers/3080837,Blois,Terminado,1576332000
+Azergues,França - CFA,14/12/19 11:00:00,https://www.academiadasapostasbrasil.com/stats/match/franca/cfa/yzeure-as/chasselay-mda/3082486,Yzeure AS,Terminado,1576332000
+Martigues,França - CFA,14/12/19 11:00:00,https://www.academiadasapostasbrasil.com/stats/match/franca/cfa/marseille-catalans/martigues/3082488,Marseille Catalans,Terminado,1576332000
+Grasse,França - CFA,14/12/19 11:00:00,https://www.academiadasapostasbrasil.com/stats/match/franca/cfa/monaco-ii/grasse/3082489,Monaco II,Terminado,1576332000
+Saint-Priest,França - CFA,14/12/19 11:00:00,https://www.academiadasapostasbrasil.com/stats/match/franca/cfa/nimes-ii/saint-priest/3082490,Nîmes II,Terminado,1576332000
+Lyon II,França - CFA,14/12/19 11:00:00,https://www.academiadasapostasbrasil.com/stats/match/franca/cfa/hyeres-fc/olympique-lyonnais-ii/3082492,Hyères FC,Terminado,1576332000
+O Marseille II,França - CFA,14/12/19 11:00:00,https://www.academiadasapostasbrasil.com/stats/match/franca/cfa/marignane-gignac/olympique-marseille-ii/3082493,Marignane Gignac,Terminado,1576332000
+Bezana,Espanha - Tercera Division,14/12/19 11:00:00,https://www.academiadasapostasbrasil.com/stats/match/espanha/tercera-division/escobedo/bezana/3094043,Escobedo,Terminado,1576332000
+Mallorca II,Espanha - Tercera Division,14/12/19 11:00:00,https://www.academiadasapostasbrasil.com/stats/match/espanha/tercera-division/felanitx/mallorca-ii/3094816,Felanitx,Terminado,1576332000
+Viera,Espanha - Tercera Division,14/12/19 11:00:00,https://www.academiadasapostasbrasil.com/stats/match/espanha/tercera-division/las-palmas-iii/union-viera/3112981,Las Palmas III,Terminado,1576332000
+Segoviana,Espanha - Tercera Division,14/12/19 11:00:00,https://www.academiadasapostasbrasil.com/stats/match/espanha/tercera-division/becerril/gimnastica-segoviana/3114365,Becerril,Terminado,1576332000
+Loja,Espanha - Tercera Division,14/12/19 11:00:00,https://www.academiadasapostasbrasil.com/stats/match/espanha/tercera-division/linares-deportivo/loja/3116090,Linares,Terminado,1576332000
+Horta,Espanha - Tercera Division,14/12/19 11:00:00,https://www.academiadasapostasbrasil.com/stats/match/espanha/tercera-division/santfeliuenc/horta/3118847,Santfeliuenc,Terminado,1576332000
+Mantes 78,França - CFA,14/12/19 11:30:00,https://www.academiadasapostasbrasil.com/stats/match/franca/cfa/vannes/mantes-78/3080591,Vannes,Terminado,1576333800
+Granville,França - CFA,14/12/19 11:30:00,https://www.academiadasapostasbrasil.com/stats/match/franca/cfa/gobelins/granville/3080592,Gobelins,Terminado,1576333800
+Lealtad,Espanha - Tercera Division,14/12/19 11:30:00,https://www.academiadasapostasbrasil.com/stats/match/espanha/tercera-division/caudal/lealtad/3092814,Caudal,Terminado,1576333800
+Comillas,Espanha - Tercera Division,14/12/19 11:30:00,https://www.academiadasapostasbrasil.com/stats/match/espanha/tercera-division/yague/comillas/3096393,Yagüe,Terminado,1576333800
+Ibañés,Espanha - Tercera Division,14/12/19 11:30:00,https://www.academiadasapostasbrasil.com/stats/match/espanha/tercera-division/illescas/atletico-ibanes/3113974,Illescas,Terminado,1576333800
+L'Hospitalet,Espanha - Tercera Division,14/12/19 11:30:00,https://www.academiadasapostasbrasil.com/stats/match/espanha/tercera-division/banyoles/lhospitalet/3118848,Banyoles,Terminado,1576333800
+Sint-Niklaas,Bélgica - 3e Klasse,14/12/19 12:00:00,https://www.academiadasapostasbrasil.com/stats/match/belgica/3e-klasse/gullegem/sint-niklaas/3078452,Gullegem,Terminado,1576335600
+Angers II,França - CFA,14/12/19 12:00:00,https://www.academiadasapostasbrasil.com/stats/match/franca/cfa/lorient-ii/angers-ii/3080593,Lorient II,Terminado,1576335600
+Berchem,Bélgica - 3e Klasse,14/12/19 12:30:00,https://www.academiadasapostasbrasil.com/stats/match/belgica/3e-klasse/hades/berchem-sport/3077106,Hades,Terminado,1576337400
+Menen,Bélgica - 3e Klasse,14/12/19 12:30:00,https://www.academiadasapostasbrasil.com/stats/match/belgica/3e-klasse/dikkelvenne/toekomst-menen/3078450,Dikkelvenne,Terminado,1576337400
+Arenteiro,Espanha - Tercera Division,14/12/19 12:30:00,https://www.academiadasapostasbrasil.com/stats/match/espanha/tercera-division/ourense-cf/arenteiro/3102794,Ourense CF,Terminado,1576337400
+Maracena,Espanha - Tercera Division,14/12/19 12:45:00,https://www.academiadasapostasbrasil.com/stats/match/espanha/tercera-division/real-jaen/maracena/3116089,Jaén,Terminado,1576338300
+Bocholt,Bélgica - 3e Klasse,14/12/19 13:00:00,https://www.academiadasapostasbrasil.com/stats/match/belgica/3e-klasse/hoogstraten/bocholt/3077107,Hoogstraten,Terminado,1576339200
+Pepingen-Halle,Bélgica - 3e Klasse,14/12/19 13:00:00,https://www.academiadasapostasbrasil.com/stats/match/belgica/3e-klasse/geel/pepingen-halle/3077108,Geel,Terminado,1576339200
+Zwevezele,Bélgica - 3e Klasse,14/12/19 13:00:00,https://www.academiadasapostasbrasil.com/stats/match/belgica/3e-klasse/mandel-united/voorwaarts-zwevezele/3078445,Mandel United,Terminado,1576339200
+Merelbeke,Bélgica - 3e Klasse,14/12/19 13:00:00,https://www.academiadasapostasbrasil.com/stats/match/belgica/3e-klasse/temse/merelbeke/3078446,Temse,Terminado,1576339200
+Hamme,Bélgica - 3e Klasse,14/12/19 13:00:00,https://www.academiadasapostasbrasil.com/stats/match/belgica/3e-klasse/gent-zeehaven/vw-hamme/3078448,Gent-Zeehaven,Terminado,1576339200
+Solières,Bélgica - 3e Klasse,14/12/19 13:00:00,https://www.academiadasapostasbrasil.com/stats/match/belgica/3e-klasse/meux/solieres-sport/3078700,Meux,Terminado,1576339200
+Onhaye,Bélgica - 3e Klasse,14/12/19 13:00:00,https://www.academiadasapostasbrasil.com/stats/match/belgica/3e-klasse/res-durbuy/onhaye/3078701,Durbuy,Terminado,1576339200
+Ceuta,Espanha - Tercera Division,14/12/19 18:00:00,https://www.academiadasapostasbrasil.com/stats/match/espanha/tercera-division/ecija/ceuta/3116468,Écija,Terminado,1576357200
+Pampow,Alemanha - Oberliga,14/12/19 06:00:00,https://www.academiadasapostasbrasil.com/stats/match/alemanha/oberliga/hertha-zehlendorf/pampow/3069041,Zehlendorf,Terminado,1576314000
+FC Grimma,Alemanha - Oberliga,14/12/19 06:00:00,https://www.academiadasapostasbrasil.com/stats/match/alemanha/oberliga/askania-bernburg/fc-grimma/3072073,Askania Bernburg,Terminado,1576314000
+Martinroda,Alemanha - Oberliga,14/12/19 06:00:00,https://www.academiadasapostasbrasil.com/stats/match/alemanha/oberliga/oberlausitz/martinroda/3072074,Oberlausitz,Terminado,1576314000
+Plauen,Alemanha - Oberliga,14/12/19 06:00:00,https://www.academiadasapostasbrasil.com/stats/match/alemanha/oberliga/einheit-rudolstadt/plauen/3072076,Einheit Rudolstadt,Terminado,1576314000
+Krieschow,Alemanha - Oberliga,14/12/19 06:00:00,https://www.academiadasapostasbrasil.com/stats/match/alemanha/oberliga/hohenstein-ernstthal/krieschow/3072077,Hohenstein-Ernstthal,Cancelado,1576314000
+Neuhof,Alemanha - Oberliga,14/12/19 07:00:00,https://www.academiadasapostasbrasil.com/stats/match/alemanha/oberliga/dietkirchen/neuhof/3069583,Dietkirchen,Terminado,1576317600
+Bocholt,Alemanha - Oberliga,14/12/19 07:00:00,https://www.academiadasapostasbrasil.com/stats/match/alemanha/oberliga/velbert-1902/bocholt/3069958,Velbert,Terminado,1576317600
+VfL Halle,Alemanha - Oberliga,14/12/19 07:00:00,https://www.academiadasapostasbrasil.com/stats/match/alemanha/oberliga/international-leipzig/vfl-halle/3072078,International Leipzig,Terminado,1576317600
+Luckenwalde,Alemanha - Oberliga,14/12/19 07:00:00,https://www.academiadasapostasbrasil.com/stats/match/alemanha/oberliga/wacker-nordhausen-ii/luckenwalde/3072079,Wacker Nordhausen II,Terminado,1576317600
+Boulogne Billa,França - CFA 2,14/12/19 07:00:00,https://www.academiadasapostasbrasil.com/stats/match/franca/cfa-2/torcy/boulogne-billancourt-ac/3100572,Torcy,Terminado,1576317600
+Étoile Bleue St Cyr,França - CFA 2,14/12/19 07:30:00,https://www.academiadasapostasbrasil.com/stats/match/franca/cfa-2/ouest-tourangeau/etoile-bleue-st-cyr/3096109,Ouest Tourangeau,Terminado,1576319400
+Ajaccio II,França - CFA 2,14/12/19 07:30:00,https://www.academiadasapostasbrasil.com/stats/match/franca/cfa-2/lucciana/ajaccio-ii/3096962,Lucciana,Terminado,1576319400
+Consolat,França - CFA 2,14/12/19 07:30:00,https://www.academiadasapostasbrasil.com/stats/match/franca/cfa-2/fb-ile-rousse/consolat-marseille/3096963,FB Île Rousse,Terminado,1576319400
+Dijon II,França - CFA 2,14/12/19 07:30:00,https://www.academiadasapostasbrasil.com/stats/match/franca/cfa-2/sochaux-ii/dijon-ii/3097923,Sochaux II,Terminado,1576319400
+Thiers,França - CFA 2,14/12/19 07:30:00,https://www.academiadasapostasbrasil.com/stats/match/franca/cfa-2/le-puy-foot-ii/thiers/3100670,Le Puy Foot II,Terminado,1576319400
+Hammer SpVg,Alemanha - Oberliga,14/12/19 08:00:00,https://www.academiadasapostasbrasil.com/stats/match/alemanha/oberliga/preussen-munster-ii/hammer/3069313,Preußen Münster II,Terminado,1576321200
+Monheim,Alemanha - Oberliga,14/12/19 08:00:00,https://www.academiadasapostasbrasil.com/stats/match/alemanha/oberliga/kleve/monheim/3069957,Kleve,Terminado,1576321200
+Cronenberger SC,Alemanha - Oberliga,14/12/19 08:00:00,https://www.academiadasapostasbrasil.com/stats/match/alemanha/oberliga/sf-baumberg/cronenberger-sc/3069960,Baumberg,Terminado,1576321200
+Germania Ratingen,Alemanha - Oberliga,14/12/19 08:00:00,https://www.academiadasapostasbrasil.com/stats/match/alemanha/oberliga/hilden/germania-ratingen/3069961,Hilden,Terminado,1576321200
+Aubagne,França - CFA 2,14/12/19 08:00:00,https://www.academiadasapostasbrasil.com/stats/match/franca/cfa-2/gemenos/aubagne/3096958,Gémenos,Terminado,1576321200
+Mandelieu LN,França - CFA 2,14/12/19 08:00:00,https://www.academiadasapostasbrasil.com/stats/match/franca/cfa-2/nice-ii/mandelieu-ln/3096959,Nice II,Terminado,1576321200
+Versailles,França - CFA 2,14/12/19 08:00:00,https://www.academiadasapostasbrasil.com/stats/match/franca/cfa-2/racing-colombes-92/versailles/3100487,Racing Colombes 92,Terminado,1576321200
+TuRU,Alemanha - Oberliga,14/12/19 09:00:00,https://www.academiadasapostasbrasil.com/stats/match/alemanha/oberliga/schonnebeck/dusseldorf/3069959,Schonnebeck,Terminado,1576324800
+Kray,Alemanha - Oberliga,14/12/19 09:00:00,https://www.academiadasapostasbrasil.com/stats/match/alemanha/oberliga/union-nettetal/kray/3069962,Union Nettetal,Terminado,1576324800
+SW Essen,Alemanha - Oberliga,14/12/19 09:00:00,https://www.academiadasapostasbrasil.com/stats/match/alemanha/oberliga/tvd-velbert/schwarz-weis-essen/3069964,TVD Velbert,Terminado,1576324800
+Cannes,França - CFA 2,14/12/19 09:00:00,https://www.academiadasapostasbrasil.com/stats/match/franca/cfa-2/istres/cannes/3096957,Istres,Terminado,1576324800
+Morteau,França - CFA 2,14/12/19 09:00:00,https://www.academiadasapostasbrasil.com/stats/match/franca/cfa-2/selongey/morteau-montlebon/3098008,Selongey,Terminado,1576324800
+Prix-lès-Mézières,França - CFA 2,14/12/19 09:00:00,https://www.academiadasapostasbrasil.com/stats/match/franca/cfa-2/raon-letape/prix-les-mezieres/3098095,Raon l'Etape,Terminado,1576324800
+Blagnac,França - CFA 2,14/12/19 09:00:00,https://www.academiadasapostasbrasil.com/stats/match/franca/cfa-2/toulouse-ii/blagnac/3098294,Toulouse II,Terminado,1576324800
+Fougères AGL,França - CFA 2,14/12/19 09:00:00,https://www.academiadasapostasbrasil.com/stats/match/franca/cfa-2/rennes-ii/fougeres-agl/3100307,Rennes II,Terminado,1576324800
+Noisy-le-Grand,França - CFA 2,14/12/19 10:00:00,https://www.academiadasapostasbrasil.com/stats/match/franca/cfa-2/aubervilliers/noisy-le-grand/3100488,Aubervilliers,Terminado,1576328400
+Montlouis,França - CFA 2,14/12/19 11:00:00,https://www.academiadasapostasbrasil.com/stats/match/franca/cfa-2/tours/montlouis/3096108,Tours,Terminado,1576332000
+Montargis,França - CFA 2,14/12/19 11:00:00,https://www.academiadasapostasbrasil.com/stats/match/franca/cfa-2/orleans-ii/montargis/3096112,Orléans II,Terminado,1576332000
+Roche Novillars,França - CFA 2,14/12/19 11:00:00,https://www.academiadasapostasbrasil.com/stats/match/franca/cfa-2/montceau/roche-novillars/3097924,Montceau,Terminado,1576332000
+Gueugnon,França - CFA 2,14/12/19 11:00:00,https://www.academiadasapostasbrasil.com/stats/match/franca/cfa-2/jura-dolois/gueugnon/3097926,Jura Dolois,Terminado,1576332000
+Auxerre II,França - CFA 2,14/12/19 11:00:00,https://www.academiadasapostasbrasil.com/stats/match/franca/cfa-2/sens/auxerre-aj-ii/3097927,Sens,Terminado,1576332000
+Besançon,França - CFA 2,14/12/19 11:00:00,https://www.academiadasapostasbrasil.com/stats/match/franca/cfa-2/besancon/besancon/3097928,Racing,Terminado,1576332000
+Sarre Union US,França - CFA 2,14/12/19 11:00:00,https://www.academiadasapostasbrasil.com/stats/match/franca/cfa-2/thaon/sarre-union-us/3098093,Thaon,Terminado,1576332000
+Illkirch Graffenstaden,França - CFA 2,14/12/19 11:00:00,https://www.academiadasapostasbrasil.com/stats/match/franca/cfa-2/troyes-ii/illkirch-graffenstaden/3098094,Troyes II,Terminado,1576332000
+Sarreguemines,França - CFA 2,14/12/19 11:00:00,https://www.academiadasapostasbrasil.com/stats/match/franca/cfa-2/vauban-strasbourg/sarreguemines/3098096,Vauban Strasbourg,Terminado,1576332000
+Béziers II,França - CFA 2,14/12/19 11:00:00,https://www.academiadasapostasbrasil.com/stats/match/franca/cfa-2/agde/beziers-ii/3098292,Agde,Terminado,1576332000
+Bordeaux II,França - CFA 2,14/12/19 11:00:00,https://www.academiadasapostasbrasil.com/stats/match/franca/cfa-2/niort-ii/bordeaux-ii/3099036,Niort II,Terminado,1576332000
+Cherbourg,França - CFA 2,14/12/19 11:00:00,https://www.academiadasapostasbrasil.com/stats/match/franca/cfa-2/alencon/cherbourg/3099598,Alençon,Terminado,1576332000
+Caen II,França - CFA 2,14/12/19 11:00:00,https://www.academiadasapostasbrasil.com/stats/match/franca/cfa-2/ag-caennaise/caen-ii/3099599,AG Caennaise,Terminado,1576332000
+Gonfreville,França - CFA 2,14/12/19 11:00:00,https://www.academiadasapostasbrasil.com/stats/match/franca/cfa-2/pacy-menilles/gonfreville/3099600,Pacy Ménilles,Terminado,1576332000
+Avranches II,França - CFA 2,14/12/19 11:00:00,https://www.academiadasapostasbrasil.com/stats/match/franca/cfa-2/quevilly-ii/avranches-ii/3099602,Quevilly II,Terminado,1576332000
+Vire,França - CFA 2,14/12/19 11:00:00,https://www.academiadasapostasbrasil.com/stats/match/franca/cfa-2/saint-lo-manche/vire/3099686,Saint-Lô,Terminado,1576332000
+Pontivy GSI,França - CFA 2,14/12/19 11:00:00,https://www.academiadasapostasbrasil.com/stats/match/franca/cfa-2/saint-colomban-locmine/pontivy-gsi/3100305,Locminé,Terminado,1576332000
+Lannion,França - CFA 2,14/12/19 11:00:00,https://www.academiadasapostasbrasil.com/stats/match/franca/cfa-2/ta-rennes/lannion/3100306,TA Rennes,Terminado,1576332000
+Tregunc,França - CFA 2,14/12/19 11:00:00,https://www.academiadasapostasbrasil.com/stats/match/franca/cfa-2/stade-pontivy/tregunc/3100308,Stade Pontivy,Terminado,1576332000
+Plabennec St,França - CFA 2,14/12/19 11:00:00,https://www.academiadasapostasbrasil.com/stats/match/franca/cfa-2/dinan-lehon/plabennec-stade/3100309,Dinan Léhon,Terminado,1576332000
+Plouzané,França - CFA 2,14/12/19 11:00:00,https://www.academiadasapostasbrasil.com/stats/match/franca/cfa-2/guichen/plouzane/3100310,Guichen,Terminado,1576332000
+Brest II,França - CFA 2,14/12/19 11:00:00,https://www.academiadasapostasbrasil.com/stats/match/franca/cfa-2/ergue-gaberic/brest-ii/3100311,Ergué-Gaberic,Terminado,1576332000
+Ivry US,França - CFA 2,14/12/19 11:00:00,https://www.academiadasapostasbrasil.com/stats/match/franca/cfa-2/creteil-ii/ivry-us/3100489,Créteil II,Terminado,1576332000
+Les Ulis,França - CFA 2,14/12/19 11:00:00,https://www.academiadasapostasbrasil.com/stats/match/franca/cfa-2/psg-ii/les-ulis/3100490,PSG II,Terminado,1576332000
+Blanc Mesnil,França - CFA 2,14/12/19 11:00:00,https://www.academiadasapostasbrasil.com/stats/match/franca/cfa-2/paris-fc-ii/blanc-mesnil/3100574,Paris FC II,Terminado,1576332000
+Limonest,França - CFA 2,14/12/19 11:00:00,https://www.academiadasapostasbrasil.com/stats/match/franca/cfa-2/lyon-duchere-ii/limonest/3100669,Lyon Duchère II,Terminado,1576332000
+Ain Sud,França - CFA 2,14/12/19 11:00:00,https://www.academiadasapostasbrasil.com/stats/match/franca/cfa-2/bourgoin-jallieu/ain-sud/3100671,Bourgoin,Terminado,1576332000
+Vaulx,França - CFA 2,14/12/19 11:00:00,https://www.academiadasapostasbrasil.com/stats/match/franca/cfa-2/clermont-ii/vaulx/3100672,Clermont II,Terminado,1576332000
+Rumilly Vallières,França - CFA 2,14/12/19 11:00:00,https://www.academiadasapostasbrasil.com/stats/match/franca/cfa-2/montlucon/rumilly-vallieres/3100674,Montluçon,Terminado,1576332000
+Chateaubriant,França - CFA 2,14/12/19 11:00:00,https://www.academiadasapostasbrasil.com/stats/match/franca/cfa-2/challans/chateaubriant-voltigeurs/3100852,Challans,Terminado,1576332000
+La Fleche RC,França - CFA 2,14/12/19 11:00:00,https://www.academiadasapostasbrasil.com/stats/match/franca/cfa-2/la-roche-sur-yon/la-fleche-rc/3100853,La Roche,Terminado,1576332000
+USSA Vertou,França - CFA 2,14/12/19 11:00:00,https://www.academiadasapostasbrasil.com/stats/match/franca/cfa-2/laval-ii/ussa-vertou/3100854,Laval II,Terminado,1576332000
+Changé,França - CFA 2,14/12/19 11:00:00,https://www.academiadasapostasbrasil.com/stats/match/franca/cfa-2/sable/change/3100856,Sablé,Terminado,1576332000
+Muret,França - CFA 2,14/12/19 11:30:00,https://www.academiadasapostasbrasil.com/stats/match/franca/cfa-2/rodeo/muret/3098288,Rodéo,Terminado,1576333800
+La Châtaigneraie,França - CFA 2,14/12/19 11:30:00,https://www.academiadasapostasbrasil.com/stats/match/franca/cfa-2/saumur/la-chataigneraie/3100858,Saumur,Terminado,1576333800
+Rodez II,França - CFA 2,14/12/19 12:00:00,https://www.academiadasapostasbrasil.com/stats/match/franca/cfa-2/canet/rodez-ii/3098290,Canet,Terminado,1576335600
+Balma,França - CFA 2,14/12/19 12:00:00,https://www.academiadasapostasbrasil.com/stats/match/franca/cfa-2/beaucaire/balma/3098291,Beaucaire,Terminado,1576335600
+LCF,França - CFA 2,14/12/19 12:00:00,https://www.academiadasapostasbrasil.com/stats/match/franca/cfa-2/anglet-genets/lege-cap-ferret/3099039,Anglet Genets,Terminado,1576335600
+Châtellerault,França - CFA 2,14/12/19 12:00:00,https://www.academiadasapostasbrasil.com/stats/match/franca/cfa-2/cognac/chatellerault/3099041,Cognac,Terminado,1576335600
+Billericay,Inglaterra - Conferência N / S,14/12/19 09:00:00,https://www.academiadasapostasbrasil.com/stats/match/inglaterra/conferencia-n-s/dartford/billericay-town/3055127,Dartford,Terminado,1576324800
+Mamelodi,África do Sul - League Cup,14/12/19 10:00:00,https://www.academiadasapostasbrasil.com/stats/match/africa-do-sul/league-cup/maritzburg-united/mamelodi-sundowns/3185957,Maritzburg Utd,Terminado,1576328400
+Notts,Inglaterra - Troféu FA,14/12/19 07:00:00,https://www.academiadasapostasbrasil.com/stats/match/inglaterra/trofeu-fa/chesterfield/notts-county/3186640,Chesterfield,Terminado,1576317600
+Darlington,Inglaterra - Troféu FA,14/12/19 09:00:00,https://www.academiadasapostasbrasil.com/stats/match/inglaterra/trofeu-fa/solihull-moors/darlington-1883/3186635,Solihull,Terminado,1576324800
+Southport,Inglaterra - Troféu FA,14/12/19 09:00:00,https://www.academiadasapostasbrasil.com/stats/match/inglaterra/trofeu-fa/south-shields/southport/3186636,South Shields,Terminado,1576324800
+Halesowen,Inglaterra - Troféu FA,14/12/19 09:00:00,https://www.academiadasapostasbrasil.com/stats/match/inglaterra/trofeu-fa/bradford-park-avenue/halesowen-town/3186637,Bradford PA,Terminado,1576324800
+Hartlepool,Inglaterra - Troféu FA,14/12/19 09:00:00,https://www.academiadasapostasbrasil.com/stats/match/inglaterra/trofeu-fa/harrogate-town/hartlepool-united/3186638,Harrogate,Terminado,1576324800
+Blyth,Inglaterra - Troféu FA,14/12/19 09:00:00,https://www.academiadasapostasbrasil.com/stats/match/inglaterra/trofeu-fa/stockport-county/blyth-spartans/3186639,Stockport,Terminado,1576324800
+Chester,Inglaterra - Troféu FA,14/12/19 09:00:00,https://www.academiadasapostasbrasil.com/stats/match/inglaterra/trofeu-fa/hednesford-town/chester/3186641,Hednesford,Terminado,1576324800
+Wrexham,Inglaterra - Troféu FA,14/12/19 09:00:00,https://www.academiadasapostasbrasil.com/stats/match/inglaterra/trofeu-fa/halifax-town/wrexham/3186642,Halifax,Terminado,1576324800
+Chorley,Inglaterra - Troféu FA,14/12/19 09:00:00,https://www.academiadasapostasbrasil.com/stats/match/inglaterra/trofeu-fa/matlock-town/chorley/3186644,Matlock,Terminado,1576324800
+Kettering,Inglaterra - Troféu FA,14/12/19 09:00:00,https://www.academiadasapostasbrasil.com/stats/match/inglaterra/trofeu-fa/united-of-manchester/kettering-town/3186645,Utd Manchester,Terminado,1576324800
+Curzon Ashton,Inglaterra - Troféu FA,14/12/19 09:00:00,https://www.academiadasapostasbrasil.com/stats/match/inglaterra/trofeu-fa/fylde/curzon-ashton/3186646,Fylde,Terminado,1576324800
+Welling Utd,Inglaterra - Troféu FA,14/12/19 09:00:00,https://www.academiadasapostasbrasil.com/stats/match/inglaterra/trofeu-fa/yeovil-town/welling-united/3186648,Yeovil,Terminado,1576324800
+Dulwich Hamlet,Inglaterra - Troféu FA,14/12/19 09:00:00,https://www.academiadasapostasbrasil.com/stats/match/inglaterra/trofeu-fa/afc-hornchurch/dulwich-hamlet/3186649,Hornchurch,Terminado,1576324800
+Dover,Inglaterra - Troféu FA,14/12/19 09:00:00,https://www.academiadasapostasbrasil.com/stats/match/inglaterra/trofeu-fa/kings-lynn-town/dover-athletic/3186650,King's Lynn,Terminado,1576324800
+Aveley,Inglaterra - Troféu FA,14/12/19 09:00:00,https://www.academiadasapostasbrasil.com/stats/match/inglaterra/trofeu-fa/carshalton-athletic/aveley/3186651,Carshalton,Terminado,1576324800
+Yate,Inglaterra - Troféu FA,14/12/19 09:00:00,https://www.academiadasapostasbrasil.com/stats/match/inglaterra/trofeu-fa/eastleigh/yate-town/3186652,Eastleigh,Terminado,1576324800
+Hampton Richm,Inglaterra - Troféu FA,14/12/19 09:00:00,https://www.academiadasapostasbrasil.com/stats/match/inglaterra/trofeu-fa/tonbridge-angels/hampton-richmond/3186653,Tonbridge,Terminado,1576324800
+Weymouth,Inglaterra - Troféu FA,14/12/19 09:00:00,https://www.academiadasapostasbrasil.com/stats/match/inglaterra/trofeu-fa/barnet/weymouth/3186654,Barnet,Terminado,1576324800
+Havant&Waterl,Inglaterra - Troféu FA,14/12/19 09:00:00,https://www.academiadasapostasbrasil.com/stats/match/inglaterra/trofeu-fa/chelmsford-city/havant-waterlooville/3186656,Chelmsford,Terminado,1576324800
+Ebbsfleet,Inglaterra - Troféu FA,14/12/19 09:00:00,https://www.academiadasapostasbrasil.com/stats/match/inglaterra/trofeu-fa/enfield-town/ebbsfleet-united/3186657,Enfield Town,Terminado,1576324800
+Salisbury,Inglaterra - Troféu FA,14/12/19 09:00:00,https://www.academiadasapostasbrasil.com/stats/match/inglaterra/trofeu-fa/eastbourne-borough/salisbury/3186658,Eastbourne,Terminado,1576324800
+Hempstead,Inglaterra - Troféu FA,14/12/19 09:00:00,https://www.academiadasapostasbrasil.com/stats/match/inglaterra/trofeu-fa/maidenhead-united/hemel-hempstead-town/3186659,Maidenhead Utd,Terminado,1576324800
+Dag & Red,Inglaterra - Troféu FA,14/12/19 09:00:00,https://www.academiadasapostasbrasil.com/stats/match/inglaterra/trofeu-fa/sutton-united/dagenham-redbridge/3186660,Sutton Utd,Terminado,1576324800
+Concord,Inglaterra - Troféu FA,14/12/19 09:00:00,https://www.academiadasapostasbrasil.com/stats/match/inglaterra/trofeu-fa/maidstone-united/concord-rangers/3186661,Maidstone Utd,Terminado,1576324800
+Aldershot,Inglaterra - Troféu FA,14/12/19 09:00:00,https://www.academiadasapostasbrasil.com/stats/match/inglaterra/trofeu-fa/torquay-united/aldershot-town/3186662,Torquay,Terminado,1576324800
+Bromley,Inglaterra - Troféu FA,14/12/19 09:00:00,https://www.academiadasapostasbrasil.com/stats/match/inglaterra/trofeu-fa/dorking-wanderers/bromley/3186664,Dorking W,Terminado,1576324800
+Boreham Wood,Inglaterra - Troféu FA,14/12/19 09:00:00,https://www.academiadasapostasbrasil.com/stats/match/inglaterra/trofeu-fa/royston-town/boreham-wood/3186665,Royston,Terminado,1576324800
+Altrincham,Inglaterra - Troféu FA,14/12/19 09:00:00,https://www.academiadasapostasbrasil.com/stats/match/inglaterra/trofeu-fa/farsley-celtic/altrincham/3186666,Farsley,Terminado,1576324800
+Sholing,Inglaterra - Troféu FA,14/12/19 09:00:00,https://www.academiadasapostasbrasil.com/stats/match/inglaterra/trofeu-fa/paulton-rovers/sholing/3189560,Paulton,Terminado,1576324800

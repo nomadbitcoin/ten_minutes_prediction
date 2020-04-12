@@ -1,0 +1,8 @@
+[0307/093251.861:ERROR:settings.cc(320)] Settings magic is not 1129342067
+[0310/093034.986:ERROR:process_reader_win.cc(151)] SuspendThread: Acesso negado. (0x5)
+[0313/191508.378:ERROR:process_reader_win.cc(151)] SuspendThread: Acesso negado. (0x5)
+[0313/191508.519:ERROR:process_reader_win.cc(151)] SuspendThread: Acesso negado. (0x5)
+[0313/191508.519:ERROR:process_reader_win.cc(123)] NtOpenThread: {Acesso Negado} Um processo solicitou acesso a um objeto, mas o direito de acesso não lhe foi concedido. (0xc0000022)
+[0313/191508.753:ERROR:exception_snapshot_win.cc(98)] thread ID 9420 not found in process
+[0313/191510.454:ERROR:process_reader_win.cc(123)] NtOpenThread: {Acesso Negado} Um processo solicitou acesso a um objeto, mas o direito de acesso não lhe foi concedido. (0xc0000022)
+[0313/191510.454:ERROR:exception_snapshot_win.cc(98)] thread ID 13460 not found in process
