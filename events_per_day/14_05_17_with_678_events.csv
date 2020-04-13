@@ -1,0 +1,679 @@
+back_team,countrie,datetime,event_link,home_team,status,timestamp
+Santos,Brasil - Brasileirão Série A,14/05/17 08:00:00,https://www.academiadasapostasbrasil.com/stats/match/brasil/brasileirao-serie-a/fluminense/santos/2418966,Fluminense,Terminado,1494759600
+Vasco,Brasil - Brasileirão Série A,14/05/17 13:00:00,https://www.academiadasapostasbrasil.com/stats/match/brasil/brasileirao-serie-a/palmeiras/vasco/2418968,Palmeiras,Terminado,1494777600
+São Paulo,Brasil - Brasileirão Série A,14/05/17 13:00:00,https://www.academiadasapostasbrasil.com/stats/match/brasil/brasileirao-serie-a/cruzeiro/sao-paulo/2418970,Cruzeiro,Terminado,1494777600
+Liverpool,Inglaterra - Barclays Premier League,14/05/17 07:15:00,https://www.academiadasapostasbrasil.com/stats/match/inglaterra/barclays-premier-league/west-ham/liverpool/2242128,West Ham,Terminado,1494756900
+Man Utd,Inglaterra - Barclays Premier League,14/05/17 09:30:00,https://www.academiadasapostasbrasil.com/stats/match/inglaterra/barclays-premier-league/tottenham/manchester-united/2242126,Tottenham,Terminado,1494765000
+Atlético,Espanha - Primera Division,14/05/17 12:00:00,https://www.academiadasapostasbrasil.com/stats/match/espanha/primera-division/betis/atletico-de-madrid/2283268,Betis,Terminado,1494774000
+Barcelona,Espanha - Primera Division,14/05/17 12:00:00,https://www.academiadasapostasbrasil.com/stats/match/espanha/primera-division/las-palmas/barcelona/2283270,Las Palmas,Terminado,1494774000
+Sevilla,Espanha - Primera Division,14/05/17 12:00:00,https://www.academiadasapostasbrasil.com/stats/match/espanha/primera-division/real-madrid/sevilla/2283274,Real Madrid,Terminado,1494774000
+Paços Ferreira,Portugal - Liga Sagres,14/05/17 11:00:00,https://www.academiadasapostasbrasil.com/stats/match/portugal/liga-sagres/porto/pacos-ferreira/2285016,Porto,Terminado,1494770400
+PSG,França - Ligue 1,14/05/17 13:00:00,https://www.academiadasapostasbrasil.com/stats/match/franca/ligue-1/saint-etienne/paris-saint-germain/2236786,Saint-Étienne,Terminado,1494777600
+Lille,França - Ligue 1,14/05/17 13:00:00,https://www.academiadasapostasbrasil.com/stats/match/franca/ligue-1/monaco/lille/2236792,Monaco,Terminado,1494777600
+Sassuolo,Itália - Serie A TIM,14/05/17 04:30:00,https://www.academiadasapostasbrasil.com/stats/match/italia/serie-a-tim/internazionale/sassuolo/2306110,Inter,Terminado,1494747000
+Juventus,Itália - Serie A TIM,14/05/17 12:45:00,https://www.academiadasapostasbrasil.com/stats/match/italia/serie-a-tim/roma/juventus/2306105,Roma,Terminado,1494776700
+Atlético PR,Brasil - Brasileirão Série A,14/05/17 13:00:00,https://www.academiadasapostasbrasil.com/stats/match/brasil/brasileirao-serie-a/bahia/atletico-pr/2418973,Bahia,Terminado,1494777600
+Sport,Brasil - Brasileirão Série A,14/05/17 13:00:00,https://www.academiadasapostasbrasil.com/stats/match/brasil/brasileirao-serie-a/ponte-preta/sport/2418974,Ponte Preta,Terminado,1494777600
+Vitória,Brasil - Brasileirão Série A,14/05/17 13:00:00,https://www.academiadasapostasbrasil.com/stats/match/brasil/brasileirao-serie-a/avai/vitoria/2418975,Avaí,Terminado,1494777600
+Botafogo,Brasil - Brasileirão Série A,14/05/17 16:00:00,https://www.academiadasapostasbrasil.com/stats/match/brasil/brasileirao-serie-a/gremio/botafogo/2418972,Grêmio,Terminado,1494788400
+Unión SF,Argentina - Campeonato Argentino,14/05/17 11:00:00,https://www.academiadasapostasbrasil.com/stats/match/argentina/campeonato-argentino/colon/union-de-santa-fe/2328446,Colón,Terminado,1494770400
+Rosario,Argentina - Campeonato Argentino,14/05/17 12:00:00,https://www.academiadasapostasbrasil.com/stats/match/argentina/campeonato-argentino/newell-s-old-boys/rosario-central/2328442,NOB,Terminado,1494774000
+River Plate,Argentina - Campeonato Argentino,14/05/17 14:00:00,https://www.academiadasapostasbrasil.com/stats/match/argentina/campeonato-argentino/boca-juniors/river-plate/2328445,Boca,Terminado,1494781200
+Racing,Argentina - Campeonato Argentino,14/05/17 16:00:00,https://www.academiadasapostasbrasil.com/stats/match/argentina/campeonato-argentino/independiente/racing/2328444,Independiente,Terminado,1494788400
+Sarmiento,Argentina - Campeonato Argentino,14/05/17 16:15:00,https://www.academiadasapostasbrasil.com/stats/match/argentina/campeonato-argentino/patronato/sarmiento/2328452,Patronato,Terminado,1494789300
+Atlas,México - Primera Division,14/05/17 17:00:00,https://www.academiadasapostasbrasil.com/stats/match/mexico/primera-division/chivas-de-guadalajara/atlas/2448162,Guadalajara,Terminado,1494792000
+Morelia,México - Primera Division,14/05/17 19:00:00,https://www.academiadasapostasbrasil.com/stats/match/mexico/primera-division/tijuana/monarcas-morelia/2448160,Tijuana,Terminado,1494799200
+Hull,Inglaterra - Barclays Premier League,14/05/17 05:00:00,https://www.academiadasapostasbrasil.com/stats/match/inglaterra/barclays-premier-league/crystal-palace/hull-city/2242120,Crystal Palace,Terminado,1494748800
+Celta de Vigo,Espanha - Primera Division,14/05/17 08:00:00,https://www.academiadasapostasbrasil.com/stats/match/espanha/primera-division/alaves/celta-de-vigo/2283266,Alavés,Terminado,1494759600
+Leganés,Espanha - Primera Division,14/05/17 12:00:00,https://www.academiadasapostasbrasil.com/stats/match/espanha/primera-division/athletic-bilbao/leganes/2283267,Athletic Club,Terminado,1494774000
+Gijón,Espanha - Primera Division,14/05/17 12:00:00,https://www.academiadasapostasbrasil.com/stats/match/espanha/primera-division/eibar/sporting-gijon/2283269,Eibar,Terminado,1494774000
+La Coruña,Espanha - Primera Division,14/05/17 12:00:00,https://www.academiadasapostasbrasil.com/stats/match/espanha/primera-division/villarreal/deportivo-la-coruna/2283271,Villarreal,Terminado,1494774000
+Málaga,Espanha - Primera Division,14/05/17 12:00:00,https://www.academiadasapostasbrasil.com/stats/match/espanha/primera-division/real-sociedad/malaga/2283275,Real Sociedad,Terminado,1494774000
+Estoril,Portugal - Liga Sagres,14/05/17 09:00:00,https://www.academiadasapostasbrasil.com/stats/match/portugal/liga-sagres/maritimo/estoril/2285015,Marítimo,Terminado,1494763200
+Rio Ave,Portugal - Liga Sagres,14/05/17 09:00:00,https://www.academiadasapostasbrasil.com/stats/match/portugal/liga-sagres/chaves/rio-ave/2285021,Chaves,Terminado,1494763200
+Nacional,Portugal - Liga Sagres,14/05/17 13:15:00,https://www.academiadasapostasbrasil.com/stats/match/portugal/liga-sagres/braga/nacional-de-funchal/2285020,Braga,Terminado,1494778500
+Marseille,França - Ligue 1,14/05/17 13:00:00,https://www.academiadasapostasbrasil.com/stats/match/franca/ligue-1/bordeaux/olympique-de-marseille/2236787,Bordeaux,Terminado,1494777600
+Lyon,França - Ligue 1,14/05/17 13:00:00,https://www.academiadasapostasbrasil.com/stats/match/franca/ligue-1/montpellier/lyon/2236788,Montpellier,Terminado,1494777600
+Angers,França - Ligue 1,14/05/17 13:00:00,https://www.academiadasapostasbrasil.com/stats/match/franca/ligue-1/nice/angers/2236789,Nice,Terminado,1494777600
+Lorient,França - Ligue 1,14/05/17 13:00:00,https://www.academiadasapostasbrasil.com/stats/match/franca/ligue-1/bastia/lorient/2236790,Bastia,Terminado,1494777600
+Nancy,França - Ligue 1,14/05/17 13:00:00,https://www.academiadasapostasbrasil.com/stats/match/franca/ligue-1/dijon/nancy/2236791,Dijon,Terminado,1494777600
+Guingamp,França - Ligue 1,14/05/17 13:00:00,https://www.academiadasapostasbrasil.com/stats/match/franca/ligue-1/nantes/guingamp/2236793,Nantes,Terminado,1494777600
+Rennes,França - Ligue 1,14/05/17 13:00:00,https://www.academiadasapostasbrasil.com/stats/match/franca/ligue-1/caen/rennes/2236794,Caen,Terminado,1494777600
+Toulouse,França - Ligue 1,14/05/17 13:00:00,https://www.academiadasapostasbrasil.com/stats/match/franca/ligue-1/metz/toulouse/2236795,Metz,Terminado,1494777600
+Chievo,Itália - Serie A TIM,14/05/17 07:00:00,https://www.academiadasapostasbrasil.com/stats/match/italia/serie-a-tim/sampdoria/chievo/2306102,Sampdoria,Terminado,1494756000
+Empoli,Itália - Serie A TIM,14/05/17 07:00:00,https://www.academiadasapostasbrasil.com/stats/match/italia/serie-a-tim/cagliari/empoli/2306103,Cagliari,Terminado,1494756000
+Genoa,Itália - Serie A TIM,14/05/17 07:00:00,https://www.academiadasapostasbrasil.com/stats/match/italia/serie-a-tim/palermo/genoa/2306104,Palermo,Terminado,1494756000
+Napoli,Itália - Serie A TIM,14/05/17 07:00:00,https://www.academiadasapostasbrasil.com/stats/match/italia/serie-a-tim/torino/napoli/2306108,Torino,Terminado,1494756000
+Pescara,Itália - Serie A TIM,14/05/17 07:00:00,https://www.academiadasapostasbrasil.com/stats/match/italia/serie-a-tim/bologna/pescara/2306109,Bologna,Terminado,1494756000
+Udinese,Itália - Serie A TIM,14/05/17 07:00:00,https://www.academiadasapostasbrasil.com/stats/match/italia/serie-a-tim/crotone/udinese/2306111,Crotone,Terminado,1494756000
+Mounana,África - Copa das Confederações Africanas,14/05/17 07:30:00,https://www.academiadasapostasbrasil.com/stats/match/africa/copa-das-confederacoes-africanas/tp-mazembe-englebert/mounana/2447404,Mazembe,Terminado,1494757800
+Hilal Obayed,África - Copa das Confederações Africanas,14/05/17 08:00:00,https://www.academiadasapostasbrasil.com/stats/match/africa/copa-das-confederacoes-africanas/recreativo-do-libolo/hilal-obayed/2447391,Recreativo,Terminado,1494759600
+MC Alger,África - Copa das Confederações Africanas,14/05/17 09:00:00,https://www.academiadasapostasbrasil.com/stats/match/africa/copa-das-confederacoes-africanas/platinum-stars/mc-alger/2447380,Platinum,Terminado,1494763200
+Rivers United,África - Copa das Confederações Africanas,14/05/17 11:00:00,https://www.academiadasapostasbrasil.com/stats/match/africa/copa-das-confederacoes-africanas/club-africain/rivers-united/2447367,Club Africain,Terminado,1494770400
+Palestino,Chile - Primera Division,14/05/17 10:00:00,https://www.academiadasapostasbrasil.com/stats/match/chile/primera-division/deportes-temuco/palestino/2412304,Temuco,Terminado,1494766800
+Univ Chile,Chile - Primera Division,14/05/17 13:00:00,https://www.academiadasapostasbrasil.com/stats/match/chile/primera-division/ohiggins/univ-de-chile/2412299,O'Higgins,Terminado,1494777600
+Antofagasta,Chile - Primera Division,14/05/17 13:00:00,https://www.academiadasapostasbrasil.com/stats/match/chile/primera-division/colo-colo/antofagasta/2412301,Colo Colo,Terminado,1494777600
+Municipal,Peru - Primera Division,14/05/17 12:00:00,https://www.academiadasapostasbrasil.com/stats/match/peru/primera-division/sport-huancayo/deportivo-municipal/2399233,Huancayo,Terminado,1494774000
+Melgar,Peru - Primera Division,14/05/17 14:30:00,https://www.academiadasapostasbrasil.com/stats/match/peru/primera-division/sporting-cristal/melgar/2399229,Cristal,Terminado,1494783000
+Academia Cantolao,Peru - Primera Division,14/05/17 14:30:00,https://www.academiadasapostasbrasil.com/stats/match/peru/primera-division/sport-rosario/academia-cantolao/2399231,Sport Rosario,Terminado,1494783000
+Alianza,Peru - Primera Division,14/05/17 14:30:00,https://www.academiadasapostasbrasil.com/stats/match/peru/primera-division/utc-cajamarca/alianza-lima/2399232,Cajamarca,Terminado,1494783000
+Juan Aurich,Peru - Primera Division,14/05/17 14:30:00,https://www.academiadasapostasbrasil.com/stats/match/peru/primera-division/real-garcilaso/juan-aurich/2399234,Garcilaso,Terminado,1494783000
+Danubio,Uruguai - Primera Division,14/05/17 12:00:00,https://www.academiadasapostasbrasil.com/stats/match/uruguai/primera-division/boston-river/danubio/2405779,Boston River,Terminado,1494774000
+Rampla Juniors,Uruguai - Primera Division,14/05/17 12:30:00,https://www.academiadasapostasbrasil.com/stats/match/uruguai/primera-division/cerro/rampla-juniors/2405775,Cerro,Terminado,1494775800
+Plaza Colonia,Uruguai - Primera Division,14/05/17 12:30:00,https://www.academiadasapostasbrasil.com/stats/match/uruguai/primera-division/liverpool-montevideo/plaza-colonia/2405780,Liverpool,Terminado,1494775800
+River Plate,Uruguai - Primera Division,14/05/17 12:30:00,https://www.academiadasapostasbrasil.com/stats/match/uruguai/primera-division/el-tanque-sisley/river-plate-montevideo/2405781,Tanque Sisley,Terminado,1494775800
+Peñarol,Uruguai - Primera Division,14/05/17 12:30:00,https://www.academiadasapostasbrasil.com/stats/match/uruguai/primera-division/racing/penarol/2405782,Racing,Terminado,1494775800
+Sheff Wed,Inglaterra - Championship,14/05/17 05:00:00,https://www.academiadasapostasbrasil.com/stats/match/inglaterra/championship/huddersfield-town/sheffield-wednesday/2448121,Huddersfield,Terminado,1494748800
+UCAM,Espanha - Liga Adelante,14/05/17 04:00:00,https://www.academiadasapostasbrasil.com/stats/match/espanha/liga-adelante/lugo/ucam-murcia/2283943,Lugo,Terminado,1494745200
+Charleroi,Bélgica - 1e Klasse,14/05/17 06:30:00,https://www.academiadasapostasbrasil.com/stats/match/belgica/1e-klasse/gent/charleroi/2426909,Gent,Terminado,1494754200
+Anderlecht,Bélgica - 1e Klasse,14/05/17 10:00:00,https://www.academiadasapostasbrasil.com/stats/match/belgica/1e-klasse/club-brugge/anderlecht/2426910,Club Brugge,Terminado,1494766800
+Ascoli,Itália - Serie B,14/05/17 07:00:00,https://www.academiadasapostasbrasil.com/stats/match/italia/serie-b/bari/ascoli/2327890,Bari 1908,Terminado,1494756000
+Olhanense,Portugal - Liga Vitalis,14/05/17 04:15:00,https://www.academiadasapostasbrasil.com/stats/match/portugal/liga-vitalis/portimonense/olhanense/2284710,Portimonense,Terminado,1494746100
+Santa Clara,Portugal - Liga Vitalis,14/05/17 08:00:00,https://www.academiadasapostasbrasil.com/stats/match/portugal/liga-vitalis/sporting-covilha/santa-clara/2284712,Covilhã,Terminado,1494759600
+Académica,Portugal - Liga Vitalis,14/05/17 09:00:00,https://www.academiadasapostasbrasil.com/stats/match/portugal/liga-vitalis/sporting-cp-ii/academica-de-coimbra/2284704,Sporting CP II,Terminado,1494763200
+Freamunde,Portugal - Liga Vitalis,14/05/17 09:00:00,https://www.academiadasapostasbrasil.com/stats/match/portugal/liga-vitalis/vizela/freamunde/2284706,Vizela,Terminado,1494763200
+Gil Vicente,Portugal - Liga Vitalis,14/05/17 09:00:00,https://www.academiadasapostasbrasil.com/stats/match/portugal/liga-vitalis/uniao-madeira/gil-vicente/2284707,União Madeira,Terminado,1494763200
+Leixões,Portugal - Liga Vitalis,14/05/17 09:00:00,https://www.academiadasapostasbrasil.com/stats/match/portugal/liga-vitalis/penafiel/leixoes/2284709,Penafiel,Terminado,1494763200
+Braga II,Portugal - Liga Vitalis,14/05/17 09:00:00,https://www.academiadasapostasbrasil.com/stats/match/portugal/liga-vitalis/benfica-ii/sporting-braga-ii/2284711,Benfica II,Terminado,1494763200
+Varzim,Portugal - Liga Vitalis,14/05/17 09:00:00,https://www.academiadasapostasbrasil.com/stats/match/portugal/liga-vitalis/fafe/varzim/2284713,Fafe,Terminado,1494763200
+Viseu,Portugal - Liga Vitalis,14/05/17 09:00:00,https://www.academiadasapostasbrasil.com/stats/match/portugal/liga-vitalis/famalicao/academico-viseu/2284714,Famalicão,Terminado,1494763200
+Stuttgart,Alemanha - 2. Liga,14/05/17 07:30:00,https://www.academiadasapostasbrasil.com/stats/match/alemanha/2-liga/hannover/stuttgart/2255500,Hannover,Terminado,1494757800
+Düsseldorf,Alemanha - 2. Liga,14/05/17 07:30:00,https://www.academiadasapostasbrasil.com/stats/match/alemanha/2-liga/nuremberg/fortuna-dusseldorf/2255501,Nürnberg,Terminado,1494757800
+Greuther Fürth,Alemanha - 2. Liga,14/05/17 07:30:00,https://www.academiadasapostasbrasil.com/stats/match/alemanha/2-liga/st-pauli/greuther-furth/2255502,St. Pauli,Terminado,1494757800
+Heidenheim,Alemanha - 2. Liga,14/05/17 07:30:00,https://www.academiadasapostasbrasil.com/stats/match/alemanha/2-liga/union-berlin/heidenheim/2255503,Union Berlin,Terminado,1494757800
+Dresden,Alemanha - 2. Liga,14/05/17 07:30:00,https://www.academiadasapostasbrasil.com/stats/match/alemanha/2-liga/karlsruher/dynamo-dresden/2255504,Karlsruhe,Terminado,1494757800
+Braunschweig,Alemanha - 2. Liga,14/05/17 07:30:00,https://www.academiadasapostasbrasil.com/stats/match/alemanha/2-liga/arminia-bielefeld/eintracht-braunschweig/2255505,Bielefeld,Terminado,1494757800
+Bochum,Alemanha - 2. Liga,14/05/17 07:30:00,https://www.academiadasapostasbrasil.com/stats/match/alemanha/2-liga/munique-1860/bochum/2255506,1860 München,Terminado,1494757800
+Kaiserslautern,Alemanha - 2. Liga,14/05/17 07:30:00,https://www.academiadasapostasbrasil.com/stats/match/alemanha/2-liga/erzgebirge-aue/kaiserslautern/2255507,Aue,Terminado,1494757800
+Sandhausen,Alemanha - 2. Liga,14/05/17 07:30:00,https://www.academiadasapostasbrasil.com/stats/match/alemanha/2-liga/wurzburger-kickers/sandhausen/2255508,Würzburg,Terminado,1494757800
+Excelsior,Holanda - Eredivisie,14/05/17 06:30:00,https://www.academiadasapostasbrasil.com/stats/match/holanda/eredivisie/ado-den-haag/excelsior/2240558,ADO,Terminado,1494754200
+Utrecht,Holanda - Eredivisie,14/05/17 06:30:00,https://www.academiadasapostasbrasil.com/stats/match/holanda/eredivisie/az-alkmaar/utrecht/2240559,AZ,Terminado,1494754200
+Heracles,Holanda - Eredivisie,14/05/17 06:30:00,https://www.academiadasapostasbrasil.com/stats/match/holanda/eredivisie/feyenoord/heracles-almelo/2240560,Feyenoord,Terminado,1494754200
+Sparta,Holanda - Eredivisie,14/05/17 06:30:00,https://www.academiadasapostasbrasil.com/stats/match/holanda/eredivisie/go-ahead-eagles/sparta-rotterdam/2240561,Go Ahead,Terminado,1494754200
+NEC,Holanda - Eredivisie,14/05/17 06:30:00,https://www.academiadasapostasbrasil.com/stats/match/holanda/eredivisie/heerenveen/nec/2240562,Heerenveen,Terminado,1494754200
+Ajax,Holanda - Eredivisie,14/05/17 06:30:00,https://www.academiadasapostasbrasil.com/stats/match/holanda/eredivisie/willem-ii/ajax/2240563,Willem II,Terminado,1494754200
+Zwolle,Holanda - Eredivisie,14/05/17 06:30:00,https://www.academiadasapostasbrasil.com/stats/match/holanda/eredivisie/psv-eindhoven/zwolle/2240564,PSV,Terminado,1494754200
+Roda,Holanda - Eredivisie,14/05/17 06:30:00,https://www.academiadasapostasbrasil.com/stats/match/holanda/eredivisie/vitesse/roda/2240565,Vitesse,Terminado,1494754200
+Groningen,Holanda - Eredivisie,14/05/17 06:30:00,https://www.academiadasapostasbrasil.com/stats/match/holanda/eredivisie/twente/groningen/2240924,Twente,Terminado,1494754200
+Akhisar,Turquia - Super LIga,14/05/17 07:00:00,https://www.academiadasapostasbrasil.com/stats/match/turquia/super-liga/ankaraspor/akhisar-belediyespor/2291421,Osmanlıspor,Terminado,1494756000
+Galatasaray,Turquia - Super LIga,14/05/17 10:00:00,https://www.academiadasapostasbrasil.com/stats/match/turquia/super-liga/gaziantepspor/galatasaray/2291415,Gaziantep,Terminado,1494766800
+Karabük,Turquia - Super LIga,14/05/17 10:00:00,https://www.academiadasapostasbrasil.com/stats/match/turquia/super-liga/alanyaspor/kardemir-karabukspor/2291417,Alanya,Terminado,1494766800
+Zirka,Ucrânia - Liga Premier,14/05/17 05:00:00,https://www.academiadasapostasbrasil.com/stats/match/ucrania/liga-premier/vorskla-poltava/zirka/2431763,Vorskla,Terminado,1494748800
+Karpaty,Ucrânia - Liga Premier,14/05/17 10:30:00,https://www.academiadasapostasbrasil.com/stats/match/ucrania/liga-premier/dnipro-dnipropetrovsk/karpaty-lviv/2431764,Dnipro,Terminado,1494768600
+Atlanta United,Estados Unidos - Major League Soccer,14/05/17 14:00:00,https://www.academiadasapostasbrasil.com/stats/match/estados-unidos/major-league-soccer/portland-timbers/atlanta-united/2394088,Portland,Terminado,1494781200
+Galaxy,Estados Unidos - Major League Soccer,14/05/17 16:00:00,https://www.academiadasapostasbrasil.com/stats/match/estados-unidos/major-league-soccer/new-york-rb/los-angeles-galaxy/2394087,New York,Terminado,1494788400
+NYCFC,Estados Unidos - Major League Soccer,14/05/17 18:00:00,https://www.academiadasapostasbrasil.com/stats/match/estados-unidos/major-league-soccer/fc-dallas/new-york-city/2394086,Dallas,Terminado,1494795600
+Hammarby,Suécia - Allsvenskan,14/05/17 07:00:00,https://www.academiadasapostasbrasil.com/stats/match/suecia/allsvenskan/halmstads/hammarby/2380204,Halmstad,Terminado,1494756000
+Jönköpings S,Suécia - Allsvenskan,14/05/17 07:00:00,https://www.academiadasapostasbrasil.com/stats/match/suecia/allsvenskan/gif-sundsvall/jonkopings-sodra/2380207,Sundsvall,Terminado,1494756000
+Elfsborg,Suécia - Allsvenskan,14/05/17 09:30:00,https://www.academiadasapostasbrasil.com/stats/match/suecia/allsvenskan/sirius/elfsborg/2380206,Sirius,Terminado,1494765000
+Östersunds FK,Suécia - Allsvenskan,14/05/17 09:30:00,https://www.academiadasapostasbrasil.com/stats/match/suecia/allsvenskan/malmo/ostersunds-fk/2380208,Malmö,Terminado,1494765000
+Sturm,Áustria - Bundesliga,14/05/17 08:30:00,https://www.academiadasapostasbrasil.com/stats/match/austria/bundesliga/rheindorf-altach/sturm-graz/2241154,Altach,Terminado,1494761400
+Tolima,Colômbia - Primera División,14/05/17 13:00:00,https://www.academiadasapostasbrasil.com/stats/match/colombia/primera-division/deportivo-pasto/tolima/2398048,Pasto,Terminado,1494777600
+Junior,Colômbia - Primera División,14/05/17 15:00:00,https://www.academiadasapostasbrasil.com/stats/match/colombia/primera-division/rionegro-aguilas/junior-barranquilla/2398047,Rionegro Ág.,Terminado,1494784800
+Millonarios,Colômbia - Primera División,14/05/17 16:15:00,https://www.academiadasapostasbrasil.com/stats/match/colombia/primera-division/tigres/millonarios/2398041,Tigres,Terminado,1494789300
+Equidad,Colômbia - Primera División,14/05/17 17:00:00,https://www.academiadasapostasbrasil.com/stats/match/colombia/primera-division/atletico-bucaramanga/la-equidad/2398046,Bucaramanga,Terminado,1494792000
+Petrolera,Colômbia - Primera División,14/05/17 19:00:00,https://www.academiadasapostasbrasil.com/stats/match/colombia/primera-division/deportivo-cali/alianza-petrolera/2398043,Cali,Terminado,1494799200
+Guangzhou,China - Super Liga,14/05/17 01:00:00,https://www.academiadasapostasbrasil.com/stats/match/china/super-liga/changchun-yatai/guangzhou-evergrande/2413242,Changchun,Terminado,1494734400
+Shandong,China - Super Liga,14/05/17 05:35:00,https://www.academiadasapostasbrasil.com/stats/match/china/super-liga/jiangsu-suning/shandong-luneng/2413240,Jiangsu,Terminado,1494750900
+Shanghai SIPG,China - Super Liga,14/05/17 05:35:00,https://www.academiadasapostasbrasil.com/stats/match/china/super-liga/tianjin-teda/shanghai-sipg/2413241,Tianjin,Terminado,1494750900
+Anorthosis,Chipre - 1. Division,14/05/17 09:00:00,https://www.academiadasapostasbrasil.com/stats/match/chipre/1-division/apollon-limassol/anorthosis-famagusta/2447727,Apollon,Terminado,1494763200
+Karmiotissa,Chipre - 1. Division,14/05/17 10:00:00,https://www.academiadasapostasbrasil.com/stats/match/chipre/1-division/nea-salamis/karmiotissa/2447723,Nea Salamis,Terminado,1494766800
+Doxa,Chipre - 1. Division,14/05/17 10:00:00,https://www.academiadasapostasbrasil.com/stats/match/chipre/1-division/ethnikos/doxa/2447724,Ethnikos Achna,Terminado,1494766800
+Bohemians 1905,República Tcheca - Czech Liga,14/05/17 10:30:00,https://www.academiadasapostasbrasil.com/stats/match/republica-tcheca/czech-liga/teplice/bohemians-praga/2245278,Teplice,Terminado,1494768600
+Brøndby,Dinamarca - Superligaen,14/05/17 10:00:00,https://www.academiadasapostasbrasil.com/stats/match/dinamarca/superligaen/kobenhavn/brondby/2429735,København,Terminado,1494766800
+Panathinaikos,Grécia - Super Liga,14/05/17 09:15:00,https://www.academiadasapostasbrasil.com/stats/match/grecia/super-liga/panionios/panathinaikos/2450784,Panionios,Terminado,1494764100
+AEK,Grécia - Super Liga,14/05/17 11:30:00,https://www.academiadasapostasbrasil.com/stats/match/grecia/super-liga/paok/aek/2450785,PAOK,Terminado,1494772200
+Panthrakikos,Grécia - B Ethniki,14/05/17 06:00:00,https://www.academiadasapostasbrasil.com/stats/match/grecia/b-ethniki/acharnaikos/panthrakikos-komotini/2355859,Acharnaikos,Terminado,1494752400
+Apollon,Grécia - B Ethniki,14/05/17 08:00:00,https://www.academiadasapostasbrasil.com/stats/match/grecia/b-ethniki/lamia/smirnis/2355855,Lamia,Terminado,1494759600
+Trikala,Grécia - B Ethniki,14/05/17 08:00:00,https://www.academiadasapostasbrasil.com/stats/match/grecia/b-ethniki/eleysina/trikala/2355856,Panelefsiniako,Terminado,1494759600
+Kallithea,Grécia - B Ethniki,14/05/17 08:00:00,https://www.academiadasapostasbrasil.com/stats/match/grecia/b-ethniki/kissamikos/kallithea/2355860,Kissamikos,Terminado,1494759600
+Sparta,Grécia - B Ethniki,14/05/17 08:00:00,https://www.academiadasapostasbrasil.com/stats/match/grecia/b-ethniki/panserraikos/sparta/2355861,Panserraikos,Terminado,1494759600
+Panegialios,Grécia - B Ethniki,14/05/17 08:00:00,https://www.academiadasapostasbrasil.com/stats/match/grecia/b-ethniki/aiginiakos/panegialios/2355862,Aiginiakos,Terminado,1494759600
+Anagennisi K,Grécia - B Ethniki,14/05/17 08:00:00,https://www.academiadasapostasbrasil.com/stats/match/grecia/b-ethniki/agrotikos-asteras/anagennisi-karditsas/2355863,Agrotikos,Terminado,1494759600
+Luton,Inglaterra - Liga 2,14/05/17 11:30:00,https://www.academiadasapostasbrasil.com/stats/match/inglaterra/liga-2/blackpool/luton-town/2448095,Blackpool,Terminado,1494772200
+Exeter,Inglaterra - Liga 2,14/05/17 11:30:00,https://www.academiadasapostasbrasil.com/stats/match/inglaterra/liga-2/carlisle-united/exeter-city/2448097,Carlisle,Terminado,1494772200
+Maccabi TA,Israel - Ligat Al,14/05/17 11:15:00,https://www.academiadasapostasbrasil.com/stats/match/israel/ligat-al/maccabi-petah-tikva/maccabi-tel-aviv/2427045,M Petah Tikva,Terminado,1494771300
+Víkingur R,Islândia - Landsbankadeild Karla,14/05/17 11:00:00,https://www.academiadasapostasbrasil.com/stats/match/islandia/landsbankadeild-karla/vestmannaeyjar/vikingur-reykjavik/2402048,ÍBV,Terminado,1494770400
+ÍA,Islândia - Landsbankadeild Karla,14/05/17 11:00:00,https://www.academiadasapostasbrasil.com/stats/match/islandia/landsbankadeild-karla/reykjavik/akranes/2402049,KR,Terminado,1494770400
+Fjölnir,Islândia - Landsbankadeild Karla,14/05/17 12:00:00,https://www.academiadasapostasbrasil.com/stats/match/islandia/landsbankadeild-karla/ka/fjolnir/2402050,KA,Terminado,1494774000
+Víkingur Ó,Islândia - Landsbankadeild Karla,14/05/17 12:00:00,https://www.academiadasapostasbrasil.com/stats/match/islandia/landsbankadeild-karla/grindavik/vikingur-olafsvik/2402052,Grindavík,Terminado,1494774000
+Stjarnan,Islândia - Landsbankadeild Karla,14/05/17 14:00:00,https://www.academiadasapostasbrasil.com/stats/match/islandia/landsbankadeild-karla/breidablik/stjarnan/2402051,Breidablik,Terminado,1494781200
+Olimpia,Paraguai - Division Profesional,14/05/17 08:00:00,https://www.academiadasapostasbrasil.com/stats/match/paraguai/division-profesional/deportivo-capiata/olimpia/2388125,Capiatá,Terminado,1494759600
+General Díaz,Paraguai - Division Profesional,14/05/17 17:10:00,https://www.academiadasapostasbrasil.com/stats/match/paraguai/division-profesional/cerro-porteno/general-diaz/2388126,Cerro Porteño,Terminado,1494792600
+Pogoń,Polônia - Ekstraklasa,14/05/17 07:30:00,https://www.academiadasapostasbrasil.com/stats/match/polonia/ekstraklasa/lech-poznan/pogon-szczecin/2442779,Lech,Terminado,1494757800
+Kielce,Polônia - Ekstraklasa,14/05/17 07:30:00,https://www.academiadasapostasbrasil.com/stats/match/polonia/ekstraklasa/lechia-gdansk/korona-kielce/2442781,Lechia,Terminado,1494757800
+Nieciecza,Polônia - Ekstraklasa,14/05/17 10:00:00,https://www.academiadasapostasbrasil.com/stats/match/polonia/ekstraklasa/legia-varsovia/nieciecza/2442780,Legia,Terminado,1494766800
+Terek,Rússia - Premier League,14/05/17 03:00:00,https://www.academiadasapostasbrasil.com/stats/match/russia/premier-league/tom-tomsk/terek-groznyi/2246351,Tom',Terminado,1494741600
+Anzhi,Rússia - Premier League,14/05/17 07:30:00,https://www.academiadasapostasbrasil.com/stats/match/russia/premier-league/ufa/anzhi-makhachkala/2246459,Ufa,Terminado,1494757800
+Rubin,Rússia - Premier League,14/05/17 10:00:00,https://www.academiadasapostasbrasil.com/stats/match/russia/premier-league/rostov/rubin-kazan/2246458,Rostov,Terminado,1494766800
+Tyumen,Rússia - 1ª Divisão,14/05/17 02:00:00,https://www.academiadasapostasbrasil.com/stats/match/russia/1-divisao/yenisey/tyumen/2241734,Yenisey,Terminado,1494738000
+Sibir,Rússia - 1ª Divisão,14/05/17 02:00:00,https://www.academiadasapostasbrasil.com/stats/match/russia/1-divisao/luch-vladivostok/sibir/2241740,Luch,Terminado,1494738000
+Shinnik,Rússia - 1ª Divisão,14/05/17 06:00:00,https://www.academiadasapostasbrasil.com/stats/match/russia/1-divisao/dinamo-moscou/shinnik-yaroslavl/2241735,Dinamo M,Terminado,1494752400
+Sokol,Rússia - 1ª Divisão,14/05/17 07:00:00,https://www.academiadasapostasbrasil.com/stats/match/russia/1-divisao/baltika/sokol-saratov/2241736,Baltika,Terminado,1494756000
+Tambov,Rússia - 1ª Divisão,14/05/17 07:00:00,https://www.academiadasapostasbrasil.com/stats/match/russia/1-divisao/neftekhimik/tambov/2241743,Neftekhimik,Terminado,1494756000
+Fakel,Rússia - 1ª Divisão,14/05/17 08:00:00,https://www.academiadasapostasbrasil.com/stats/match/russia/1-divisao/zenit-ii/fakel/2241737,Zenit SPb II,Terminado,1494759600
+Kuban',Rússia - 1ª Divisão,14/05/17 08:00:00,https://www.academiadasapostasbrasil.com/stats/match/russia/1-divisao/volgar-astrakhan/kuban-krasnodar/2241738,Volgar,Terminado,1494759600
+Khimki,Rússia - 1ª Divisão,14/05/17 08:00:00,https://www.academiadasapostasbrasil.com/stats/match/russia/1-divisao/spartak-moskva-ii/khimki/2241741,Spartak M II,Terminado,1494759600
+Energiya,Rússia - 1ª Divisão,14/05/17 08:00:00,https://www.academiadasapostasbrasil.com/stats/match/russia/1-divisao/tosno/ska-khabarovsk/2241742,Tosno,Terminado,1494759600
+Mordovia,Rússia - 1ª Divisão,14/05/17 09:30:00,https://www.academiadasapostasbrasil.com/stats/match/russia/1-divisao/spartak-nalchik/mordovia-saransk/2241739,Spartak,Terminado,1494765000
+Degerfors,Suécia - Superettan,14/05/17 07:00:00,https://www.academiadasapostasbrasil.com/stats/match/suecia/superettan/osters-if-vaxjo/degerfors/2380437,Öster,Terminado,1494756000
+Varberg,Suécia - Superettan,14/05/17 09:00:00,https://www.academiadasapostasbrasil.com/stats/match/suecia/superettan/varnamo/varberg/2380439,Värnamo,Terminado,1494763200
+Thun,Suíça - Super Liga,14/05/17 05:45:00,https://www.academiadasapostasbrasil.com/stats/match/suica/super-liga/basel/thun/2243336,Basileia,Terminado,1494751500
+Lausanne,Suíça - Super Liga,14/05/17 05:45:00,https://www.academiadasapostasbrasil.com/stats/match/suica/super-liga/grasshopper/lausanne/2243337,Grasshopper,Terminado,1494751500
+Luzern,Suíça - Super Liga,14/05/17 08:00:00,https://www.academiadasapostasbrasil.com/stats/match/suica/super-liga/young-boys/luzern/2243340,Young Boys,Terminado,1494759600
+Iaşi,Romênia - Liga I,14/05/17 09:00:00,https://www.academiadasapostasbrasil.com/stats/match/romenia/liga-i/acs-poli-timisoara/csm-iasi/2424314,Poli Timişoara,Terminado,1494763200
+Kabuscorp,Angola - Campionato Nacional,14/05/17 08:00:00,https://www.academiadasapostasbrasil.com/stats/match/angola/campionato-nacional/recreativo-da-caala/kabuscorp/2396230,Caála,Terminado,1494759600
+ASA,Angola - Campionato Nacional,14/05/17 08:00:00,https://www.academiadasapostasbrasil.com/stats/match/angola/campionato-nacional/primeiro-de-agosto/asa/2396231,1º de Agosto,Terminado,1494759600
+Lunda Sul,Angola - Campionato Nacional,14/05/17 08:00:00,https://www.academiadasapostasbrasil.com/stats/match/angola/campionato-nacional/academica-do-lobito/progresso-lunda-sul/2396232,Académica,Terminado,1494759600
+Interclube,Angola - Campionato Nacional,14/05/17 08:00:00,https://www.academiadasapostasbrasil.com/stats/match/angola/campionato-nacional/desportivo-huila/interclube/2396233,Huíla,Terminado,1494759600
+Juventud UG,Argentina - Primera B Nacional,14/05/17 18:00:00,https://www.academiadasapostasbrasil.com/stats/match/argentina/primera-b-nacional/independiente-rivadavia/juventud-unida-g/2343585,Independiente,Terminado,1494795600
+Seoul,Coreia do Sul - K-League,14/05/17 00:00:00,https://www.academiadasapostasbrasil.com/stats/match/coreia-do-sul/k-league/sangju-sangmu/seoul/2396574,Sangju,Terminado,1494730800
+Jeonbuk Motors,Coreia do Sul - K-League,14/05/17 00:00:00,https://www.academiadasapostasbrasil.com/stats/match/coreia-do-sul/k-league/ulsan-horang-i/jeonbuk-motors/2396575,Ulsan,Terminado,1494730800
+Jeju Utd,Coreia do Sul - K-League,14/05/17 00:00:00,https://www.academiadasapostasbrasil.com/stats/match/coreia-do-sul/k-league/pohang-steelers/jeju-united/2396576,Pohang,Terminado,1494730800
+Suwon,Coreia do Sul - K-League,14/05/17 02:00:00,https://www.academiadasapostasbrasil.com/stats/match/coreia-do-sul/k-league/chunnam-dragons/suwon-bluewings/2396577,Dragons,Terminado,1494738000
+Sagan,Japão - J League,13/05/17 22:00:00,https://www.academiadasapostasbrasil.com/stats/match/japao/j-league/shimizu-s-pulse/sagan-tosu/2402899,Shimizu,Terminado,1494723600
+Vissel Kobe,Japão - J League,13/05/17 23:00:00,https://www.academiadasapostasbrasil.com/stats/match/japao/j-league/kashima-antlers/vissel-kobe/2402900,Kashima,Terminado,1494727200
+Ventforet,Japão - J League,13/05/17 23:00:00,https://www.academiadasapostasbrasil.com/stats/match/japao/j-league/yokohama-f-marinos/ventforet-kofu/2402901,F Marinos,Terminado,1494727200
+Urawa,Japão - J League,13/05/17 23:00:00,https://www.academiadasapostasbrasil.com/stats/match/japao/j-league/albirex-niigata/urawa-red-diamonds/2402902,Albirex,Terminado,1494727200
+Kashiwa,Japão - J League,14/05/17 00:00:00,https://www.academiadasapostasbrasil.com/stats/match/japao/j-league/tokyo/kashiwa-reysol/2402903,Tokyo,Terminado,1494730800
+Kawasaki,Japão - J League,14/05/17 00:00:00,https://www.academiadasapostasbrasil.com/stats/match/japao/j-league/jubilo-iwata/kawasaki-frontale/2402904,Júbilo,Terminado,1494730800
+Sanfrecce,Japão - J League,14/05/17 00:00:00,https://www.academiadasapostasbrasil.com/stats/match/japao/j-league/cerezo-osaka/sanfrecce-hiroshima/2402905,Cerezo,Terminado,1494730800
+Vegalta,Japão - J League,14/05/17 02:00:00,https://www.academiadasapostasbrasil.com/stats/match/japao/j-league/omiya-ardija/vegalta-sendai/2402906,Omiya,Terminado,1494738000
+Gamba,Japão - J League,14/05/17 04:00:00,https://www.academiadasapostasbrasil.com/stats/match/japao/j-league/consadole-sapporo/gamba-osaka/2402907,Consadole,Terminado,1494745200
+Argentina U20,Mundo - Hybrid Friendlies,14/05/17 06:00:00,https://www.academiadasapostasbrasil.com/stats/match/mundo/hybrid-friendlies/vietnam-u22/argentina-sub20/2451063,Vietnam U22,Terminado,1494752400
+Kairat,Cazaquistão - Super Liga,14/05/17 02:00:00,https://www.academiadasapostasbrasil.com/stats/match/cazaquistao/super-liga/okzhetpes/kairat-almaty/2408539,Okzhetpes,Terminado,1494738000
+Akzhayik,Cazaquistão - Super Liga,14/05/17 04:00:00,https://www.academiadasapostasbrasil.com/stats/match/cazaquistao/super-liga/shakhter-karaganda/akzhayik/2408535,Karagandy,Terminado,1494745200
+Irtysh,Cazaquistão - Super Liga,14/05/17 06:00:00,https://www.academiadasapostasbrasil.com/stats/match/cazaquistao/super-liga/astana/irtysh-pavlodar/2408536,Astana,Terminado,1494752400
+Dinamo Brest,Bielorrússia - Premier League,14/05/17 06:00:00,https://www.academiadasapostasbrasil.com/stats/match/bielorrussia/premier-league/dinamo-minsk/dinamo-brest/2412989,Dinamo Minsk,Terminado,1494752400
+Podbrezová,Eslováquia - Super Liga,14/05/17 06:20:00,https://www.academiadasapostasbrasil.com/stats/match/eslovaquia/super-liga/dac/podbrezova/2264265,DAC,Terminado,1494753600
+Banants,Armênia - Liga,14/05/17 07:00:00,https://www.academiadasapostasbrasil.com/stats/match/armenia/liga/shirak-giumri/banants-yerevan/2303665,Shirak,Terminado,1494756000
+Ordabasy,Cazaquistão - Super Liga,14/05/17 07:00:00,https://www.academiadasapostasbrasil.com/stats/match/cazaquistao/super-liga/atyrau/ordabasy/2408537,Atyrau,Terminado,1494756000
+Tobol,Cazaquistão - Super Liga,14/05/17 07:00:00,https://www.academiadasapostasbrasil.com/stats/match/cazaquistao/super-liga/aktobe/tobyl-kostanai/2408538,Aktobe,Terminado,1494756000
+Kaisar,Cazaquistão - Super Liga,14/05/17 07:00:00,https://www.academiadasapostasbrasil.com/stats/match/cazaquistao/super-liga/taraz/kaisar/2408540,Taraz,Terminado,1494756000
+Ferro Nampula,Moçambique - Moçambola,14/05/17 07:00:00,https://www.academiadasapostasbrasil.com/stats/match/mocambique/mocambola/macuacua/nampula/2448460,Macuácua,Terminado,1494756000
+LD Maputo,Moçambique - Moçambola,14/05/17 07:00:00,https://www.academiadasapostasbrasil.com/stats/match/mocambique/mocambola/desportivo-nacala/ld-maputo/2448461,Nacala,Terminado,1494756000
+1° de Maio,Moçambique - Moçambola,14/05/17 07:00:00,https://www.academiadasapostasbrasil.com/stats/match/mocambique/mocambola/up-de-lichinga/1-de-maio/2448462,UP de Lichinga,Terminado,1494756000
+Songo,Moçambique - Moçambola,14/05/17 07:00:00,https://www.academiadasapostasbrasil.com/stats/match/mocambique/mocambola/cd-costa-do-sol/hcb-songo/2448465,Costa do Sol,Terminado,1494756000
+Textáfrica,Moçambique - Moçambola,14/05/17 07:00:00,https://www.academiadasapostasbrasil.com/stats/match/mocambique/mocambola/chingale-de-tete/textafrica/2448466,Chingale,Terminado,1494756000
+RM Hamm,Luxemburgo - Divisão Nacional,14/05/17 08:00:00,https://www.academiadasapostasbrasil.com/stats/match/luxemburgo/divisao-nacional/progres-niedercorn/rm-hamm-benfica/2257162,Progrès,Terminado,1494759600
+Pétange,Luxemburgo - Divisão Nacional,14/05/17 08:00:00,https://www.academiadasapostasbrasil.com/stats/match/luxemburgo/divisao-nacional/una-strassen/petange/2257163,Strassen,Terminado,1494759600
+Fola,Luxemburgo - Divisão Nacional,14/05/17 08:00:00,https://www.academiadasapostasbrasil.com/stats/match/luxemburgo/divisao-nacional/dudelange/fola-esch/2257165,Dudelange,Terminado,1494759600
+Differdange,Luxemburgo - Divisão Nacional,14/05/17 08:00:00,https://www.academiadasapostasbrasil.com/stats/match/luxemburgo/divisao-nacional/mondorf-les-bains/differdange-03/2257166,Mondorf,Terminado,1494759600
+Rumelange,Luxemburgo - Divisão Nacional,14/05/17 08:00:00,https://www.academiadasapostasbrasil.com/stats/match/luxemburgo/divisao-nacional/un-kaerjeng/rumelange/2257167,Käerjéng,Terminado,1494759600
+Racing,Luxemburgo - Divisão Nacional,14/05/17 08:00:00,https://www.academiadasapostasbrasil.com/stats/match/luxemburgo/divisao-nacional/victoria-rosport/racing-union-luxemburgo/2257168,Rosport,Terminado,1494759600
+BATE,Bielorrússia - Premier League,14/05/17 08:00:00,https://www.academiadasapostasbrasil.com/stats/match/bielorrussia/premier-league/slutsk/bate-borisov/2412988,Slutsk,Terminado,1494759600
+Maribor,Eslovênia - 1. SNL,14/05/17 08:55:00,https://www.academiadasapostasbrasil.com/stats/match/eslovenia/1-snl/aluminij/maribor/2252181,Aluminij,Terminado,1494762900
+Željezničar,Bósnia-Herzegovina - Premier Liga,14/05/17 09:00:00,https://www.academiadasapostasbrasil.com/stats/match/bosnia-herzegovina/premier-liga/krupa-na-vrbasu/zeljeznicar-sarajevo/2432718,Krupa Vrbasu,Terminado,1494763200
+Anzoátegui,Venezuela - Primera Division,14/05/17 09:06:00,https://www.academiadasapostasbrasil.com/stats/match/venezuela/primera-division/atletico-venezuela/deportivo-anzoategui/2401769,Venezuela,Terminado,1494763560
+LDU Quito,Equador - Primera A,14/05/17 09:30:00,https://www.academiadasapostasbrasil.com/stats/match/equador/primera-a/deportivo-cuenca/ldu/2397819,Cuenca,Terminado,1494765000
+Minsk,Bielorrússia - Premier League,14/05/17 10:00:00,https://www.academiadasapostasbrasil.com/stats/match/bielorrussia/premier-league/vitebsk/minsk/2412990,Vitebsk,Terminado,1494766800
+Delfin,Equador - Primera A,14/05/17 10:15:00,https://www.academiadasapostasbrasil.com/stats/match/equador/primera-a/el-nacional/delfin/2397815,Nacional,Terminado,1494767700
+Canach,Luxemburgo - Divisão Nacional,14/05/17 11:00:00,https://www.academiadasapostasbrasil.com/stats/match/luxemburgo/divisao-nacional/la-jeunesse-d-esch/jeunesse-canach/2257164,Esch,Terminado,1494770400
+Yacuiba,Bolívia - Primera Division,14/05/17 13:00:00,https://www.academiadasapostasbrasil.com/stats/match/bolivia/primera-division/san-jose-oruro/petrolero-yacuiba/2417716,San José,Terminado,1494777600
+Católica,Equador - Primera A,14/05/17 14:00:00,https://www.academiadasapostasbrasil.com/stats/match/equador/primera-a/fuerza-amarilla/universidad-catolica/2397820,F. Amarilla,Terminado,1494781200
+Metropolitanos,Venezuela - Primera Division,14/05/17 14:00:00,https://www.academiadasapostasbrasil.com/stats/match/venezuela/primera-division/monagas/metropolitanos/2401774,Monagas,Terminado,1494781200
+Aragua,Venezuela - Primera Division,14/05/17 14:00:00,https://www.academiadasapostasbrasil.com/stats/match/venezuela/primera-division/trujillano/aragua/2401777,Trujillanos,Terminado,1494781200
+Strongest,Bolívia - Primera Division,14/05/17 14:00:00,https://www.academiadasapostasbrasil.com/stats/match/bolivia/primera-division/bolivar/the-strongest/2417717,Bolívar,Terminado,1494781200
+Guápiles,Costa Rica - Primera Division,14/05/17 14:00:00,https://www.academiadasapostasbrasil.com/stats/match/costa-rica/primera-division/deportivo-saprissa/santos-de-guapiles/2447199,Saprissa,Terminado,1494781200
+Limón,Costa Rica - Primera Division,14/05/17 14:00:00,https://www.academiadasapostasbrasil.com/stats/match/costa-rica/primera-division/herediano/limon/2447200,Herediano,Terminado,1494781200
+Zamora,Venezuela - Primera Division,14/05/17 15:00:00,https://www.academiadasapostasbrasil.com/stats/match/venezuela/primera-division/carabobo/zamora/2401770,Carabobo,Terminado,1494784800
+Santa Tecla,El Salvador - Primera Division,14/05/17 15:00:00,https://www.academiadasapostasbrasil.com/stats/match/el-salvador/primera-division/aguila/santa-tecla/2448176,Águila,Terminado,1494784800
+Blooming,Bolívia - Primera Division,14/05/17 15:15:00,https://www.academiadasapostasbrasil.com/stats/match/bolivia/primera-division/jorge-wilstermann/blooming/2417718,Wilstermann,Terminado,1494785700
+Isidro,El Salvador - Primera Division,14/05/17 15:15:00,https://www.academiadasapostasbrasil.com/stats/match/el-salvador/primera-division/alianza/isidro-metapan/2448174,Alianza,Terminado,1494785700
+Ind del Valle,Equador - Primera A,14/05/17 15:30:00,https://www.academiadasapostasbrasil.com/stats/match/equador/primera-a/barcelona-guayaquil/independiente-del-valle/2397817,Barcelona,Terminado,1494786600
+Portuguesa,Venezuela - Primera Division,14/05/17 16:00:00,https://www.academiadasapostasbrasil.com/stats/match/venezuela/primera-division/deportivo-la-guaira/portuguesa/2401772,La Guaira,Terminado,1494788400
+Suchitepéquez,Guatemala - Liga Nacional,14/05/17 18:00:00,https://www.academiadasapostasbrasil.com/stats/match/guatemala/liga-nacional/comunicaciones/suchitepequez/2448188,Comunicaciones,Terminado,1494795600
+Ansan M.,Coreia do Sul - K League Challenge,14/05/17 00:00:00,https://www.academiadasapostasbrasil.com/stats/match/coreia-do-sul/k-league-challenge/busan-i-park/ansan-mugunghwa/2405498,Busan,Terminado,1494730800
+Daejeon,Coreia do Sul - K League Challenge,14/05/17 00:00:00,https://www.academiadasapostasbrasil.com/stats/match/coreia-do-sul/k-league-challenge/bucheon-1995/daejeon-citizen/2405499,Bucheon,Terminado,1494730800
+Nykøbing,Dinamarca - 1ª Divisão,14/05/17 05:45:00,https://www.academiadasapostasbrasil.com/stats/match/dinamarca/1-divisao/akademisk-boldklub/lolland-falster-alliancen/2250762,AB,Terminado,1494751500
+Vendsyssel,Dinamarca - 1ª Divisão,14/05/17 05:45:00,https://www.academiadasapostasbrasil.com/stats/match/dinamarca/1-divisao/fc-helsingor/vendsyssel/2250763,Helsingør,Terminado,1494751500
+Næstved,Dinamarca - 1ª Divisão,14/05/17 05:45:00,https://www.academiadasapostasbrasil.com/stats/match/dinamarca/1-divisao/hb-koge/naestved/2250764,HB Køge,Terminado,1494751500
+Vejle,Dinamarca - 1ª Divisão,14/05/17 05:45:00,https://www.academiadasapostasbrasil.com/stats/match/dinamarca/1-divisao/skive/vejle/2250765,Skive,Terminado,1494751500
+Hobro,Dinamarca - 1ª Divisão,14/05/17 05:45:00,https://www.academiadasapostasbrasil.com/stats/match/dinamarca/1-divisao/fredericia/hobro/2250766,Fredericia,Terminado,1494751500
+Fremad Amager,Dinamarca - 1ª Divisão,14/05/17 05:45:00,https://www.academiadasapostasbrasil.com/stats/match/dinamarca/1-divisao/roskilde/fremad-amager/2250767,Roskilde,Terminado,1494751500
+Wohlen,Suíça - Challenge League,14/05/17 07:00:00,https://www.academiadasapostasbrasil.com/stats/match/suica/challenge-league/le-mont/wohlen/2243518,Le Mont,Terminado,1494756000
+Servette,Suíça - Challenge League,14/05/17 07:00:00,https://www.academiadasapostasbrasil.com/stats/match/suica/challenge-league/neuchatel-xamax/servette/2243519,Xamax,Terminado,1494756000
+Altınordu,Turquia - Lig A,14/05/17 08:00:00,https://www.academiadasapostasbrasil.com/stats/match/turquia/lig-a/umranyespor/altnordu/2304089,Ümranıyespor,Terminado,1494759600
+Samsun,Turquia - Lig A,14/05/17 08:00:00,https://www.academiadasapostasbrasil.com/stats/match/turquia/lig-a/goztepe-izmir/samsunspor/2304090,Göztepe,Terminado,1494759600
+Bolu,Turquia - Lig A,14/05/17 08:00:00,https://www.academiadasapostasbrasil.com/stats/match/turquia/lig-a/yeni-malatyaspor/boluspor/2304091,Yeni Malatya,Terminado,1494759600
+Sivas,Turquia - Lig A,14/05/17 08:00:00,https://www.academiadasapostasbrasil.com/stats/match/turquia/lig-a/adana-demirspor/sivasspor/2304092,Demirspor,Terminado,1494759600
+Şanlıurfa,Turquia - Lig A,14/05/17 08:00:00,https://www.academiadasapostasbrasil.com/stats/match/turquia/lig-a/manisaspor/sanlurfaspor/2304093,Manisa,Terminado,1494759600
+Balıkesir,Turquia - Lig A,14/05/17 08:00:00,https://www.academiadasapostasbrasil.com/stats/match/turquia/lig-a/elazigspor/balkesirspor/2304094,Elazığ,Terminado,1494759600
+Gaziantep BB,Turquia - Lig A,14/05/17 08:00:00,https://www.academiadasapostasbrasil.com/stats/match/turquia/lig-a/eskisehirspor/gaziantep-bb/2304095,Eskişehir,Terminado,1494759600
+Denizli,Turquia - Lig A,14/05/17 08:00:00,https://www.academiadasapostasbrasil.com/stats/match/turquia/lig-a/giresunspor/denizlispor/2304096,Giresun,Terminado,1494759600
+Mersin İY,Turquia - Lig A,14/05/17 08:00:00,https://www.academiadasapostasbrasil.com/stats/match/turquia/lig-a/bandrmaspor/mersin-idmanyurdu/2304097,Bandırma,Terminado,1494759600
+Bylis,Albânia - Liga 1,14/05/17 08:00:00,https://www.academiadasapostasbrasil.com/stats/match/albania/liga-1/lushnja/bylis-ballsh/2425320,Lushnja,Terminado,1494759600
+Switchbacks,Estados Unidos - USL,14/05/17 16:00:00,https://www.academiadasapostasbrasil.com/stats/match/estados-unidos/usl/whitecaps-fc-ii/colorado-springs/2405991,Whitecaps II,Terminado,1494788400
+Galaxy,Estados Unidos - USL,14/05/17 19:00:00,https://www.academiadasapostasbrasil.com/stats/match/estados-unidos/usl/new-york-rb-ii/la-galaxy-ii/2405990,New York RB II,Terminado,1494799200
+Toledo,Espanha - Segunda B,14/05/17 03:30:00,https://www.academiadasapostasbrasil.com/stats/match/espanha/segunda-b/athletic-club-ii/toledo/2297515,Athletic II,Terminado,1494743400
+Caniçal,Portugal - 2ª Divisão,14/05/17 08:00:00,https://www.academiadasapostasbrasil.com/stats/match/portugal/2-divisao/braganca/canical/2408960,Bragança,Terminado,1494759600
+Sacavenense,Portugal - 2ª Divisão,14/05/17 08:30:00,https://www.academiadasapostasbrasil.com/stats/match/portugal/2-divisao/real/sacavenense/2409545,Real,Terminado,1494761400
+Praiense,Portugal - 2ª Divisão,14/05/17 08:30:00,https://www.academiadasapostasbrasil.com/stats/match/portugal/2-divisao/farense/praiense/2409546,Farense,Terminado,1494761400
+Louletano,Portugal - 2ª Divisão,14/05/17 08:30:00,https://www.academiadasapostasbrasil.com/stats/match/portugal/2-divisao/fatima/louletano/2409547,Fátima,Terminado,1494761400
+Operário,Portugal - 2ª Divisão,14/05/17 08:30:00,https://www.academiadasapostasbrasil.com/stats/match/portugal/2-divisao/torreense/operario/2409548,Torreense,Terminado,1494761400
+Socuéllamos,Espanha - Segunda B,14/05/17 09:00:00,https://www.academiadasapostasbrasil.com/stats/match/espanha/segunda-b/zamudio/socuellamos/2297514,Zamudio,Terminado,1494763200
+Tudelano,Espanha - Segunda B,14/05/17 10:00:00,https://www.academiadasapostasbrasil.com/stats/match/espanha/segunda-b/ponferradina/tudelano/2297134,Ponferradina,Terminado,1494766800
+Osasuna II,Espanha - Segunda B,14/05/17 10:00:00,https://www.academiadasapostasbrasil.com/stats/match/espanha/segunda-b/cultural-leonesa/osasuna-ii/2297135,Leonesa,Terminado,1494766800
+Valladolid II,Espanha - Segunda B,14/05/17 10:00:00,https://www.academiadasapostasbrasil.com/stats/match/espanha/segunda-b/somozas/real-valladolid-ii/2297136,Somozas,Terminado,1494766800
+Lealtad,Espanha - Segunda B,14/05/17 10:00:00,https://www.academiadasapostasbrasil.com/stats/match/espanha/segunda-b/coruxo/lealtad/2297137,Coruxo,Terminado,1494766800
+Burgos,Espanha - Segunda B,14/05/17 10:00:00,https://www.academiadasapostasbrasil.com/stats/match/espanha/segunda-b/boiro/burgos/2297138,Boiro,Terminado,1494766800
+Racing Ferrol,Espanha - Segunda B,14/05/17 10:00:00,https://www.academiadasapostasbrasil.com/stats/match/espanha/segunda-b/arandina/racing-ferrol/2297139,Arandina,Terminado,1494766800
+Pontevedra,Espanha - Segunda B,14/05/17 10:00:00,https://www.academiadasapostasbrasil.com/stats/match/espanha/segunda-b/caudal/pontevedra/2297140,Caudal,Terminado,1494766800
+Celta Vigo II,Espanha - Segunda B,14/05/17 10:00:00,https://www.academiadasapostasbrasil.com/stats/match/espanha/segunda-b/guijuelo/celta-de-vigo-ii/2297141,Guijuelo,Terminado,1494766800
+Palencia,Espanha - Segunda B,14/05/17 10:00:00,https://www.academiadasapostasbrasil.com/stats/match/espanha/segunda-b/mutilvera/cd-palencia/2297142,Mutilvera,Terminado,1494766800
+Santander,Espanha - Segunda B,14/05/17 10:00:00,https://www.academiadasapostasbrasil.com/stats/match/espanha/segunda-b/izarra/racing-santander/2297143,Izarra,Terminado,1494766800
+Majadahonda,Espanha - Segunda B,14/05/17 10:00:00,https://www.academiadasapostasbrasil.com/stats/match/espanha/segunda-b/barakaldo/rayo-majadahonda/2297516,Barakaldo,Terminado,1494766800
+Fuenlabrada,Espanha - Segunda B,14/05/17 10:00:00,https://www.academiadasapostasbrasil.com/stats/match/espanha/segunda-b/sestao-river/fuenlabrada/2297517,Sestao,Terminado,1494766800
+Leioa,Espanha - Segunda B,14/05/17 10:00:00,https://www.academiadasapostasbrasil.com/stats/match/espanha/segunda-b/arenas-de-getxo/leioa/2297518,Arenas Getxo,Terminado,1494766800
+Gernika,Espanha - Segunda B,14/05/17 10:00:00,https://www.academiadasapostasbrasil.com/stats/match/espanha/segunda-b/ud-logrones/gernika/2297519,UD Logroñés,Terminado,1494766800
+Amorebieta,Espanha - Segunda B,14/05/17 10:00:00,https://www.academiadasapostasbrasil.com/stats/match/espanha/segunda-b/ss-reyes/amorebieta/2297520,SS Reyes,Terminado,1494766800
+Real Unión,Espanha - Segunda B,14/05/17 10:00:00,https://www.academiadasapostasbrasil.com/stats/match/espanha/segunda-b/navalcarnero/real-union/2297521,Navalcarnero,Terminado,1494766800
+Real Madrid II,Espanha - Segunda B,14/05/17 10:00:00,https://www.academiadasapostasbrasil.com/stats/match/espanha/segunda-b/albacete/real-madrid-ii/2297523,Albacete,Terminado,1494766800
+Alcoyano,Espanha - Segunda B,14/05/17 10:00:00,https://www.academiadasapostasbrasil.com/stats/match/espanha/segunda-b/atletico-baleares/alcoyano/2297894,Baleares,Terminado,1494766800
+Villarreal II,Espanha - Segunda B,14/05/17 10:00:00,https://www.academiadasapostasbrasil.com/stats/match/espanha/segunda-b/mallorca-ii/villarreal-ii/2297895,Mallorca II,Terminado,1494766800
+Hércules,Espanha - Segunda B,14/05/17 10:00:00,https://www.academiadasapostasbrasil.com/stats/match/espanha/segunda-b/cornella/hercules/2297896,Cornellà,Terminado,1494766800
+Ebro,Espanha - Segunda B,14/05/17 10:00:00,https://www.academiadasapostasbrasil.com/stats/match/espanha/segunda-b/barcelona-ii/ebro/2297898,Barcelona II,Terminado,1494766800
+Espanyol II,Espanha - Segunda B,14/05/17 10:00:00,https://www.academiadasapostasbrasil.com/stats/match/espanha/segunda-b/sabadell/espanyol-ii/2297899,Sabadell,Terminado,1494766800
+L'Hospitalet,Espanha - Segunda B,14/05/17 10:00:00,https://www.academiadasapostasbrasil.com/stats/match/espanha/segunda-b/valencia-ii/lhospitalet/2297901,Valencia II,Terminado,1494766800
+Lleida,Espanha - Segunda B,14/05/17 10:00:00,https://www.academiadasapostasbrasil.com/stats/match/espanha/segunda-b/eldense/lleida-esportiu/2297902,Eldense,Terminado,1494766800
+Badalona,Espanha - Segunda B,14/05/17 10:00:00,https://www.academiadasapostasbrasil.com/stats/match/espanha/segunda-b/levante-ii/badalona/2297903,Levante II,Terminado,1494766800
+La Roda,Espanha - Segunda B,14/05/17 10:00:00,https://www.academiadasapostasbrasil.com/stats/match/espanha/segunda-b/merida-ad/la-roda/2298274,Mérida AD,Terminado,1494766800
+Mancha Real,Espanha - Segunda B,14/05/17 10:00:00,https://www.academiadasapostasbrasil.com/stats/match/espanha/segunda-b/melilla/mancha-real/2298276,Melilla,Terminado,1494766800
+Linares,Espanha - Segunda B,14/05/17 10:00:00,https://www.academiadasapostasbrasil.com/stats/match/espanha/segunda-b/san-fernando-cd/linares-deportivo/2298278,San Fernando,Terminado,1494766800
+Huelva,Espanha - Segunda B,14/05/17 10:00:00,https://www.academiadasapostasbrasil.com/stats/match/espanha/segunda-b/cartagena/recreativo-huelva/2298279,Cartagena,Terminado,1494766800
+Linense,Espanha - Segunda B,14/05/17 10:00:00,https://www.academiadasapostasbrasil.com/stats/match/espanha/segunda-b/marbella/linense/2298280,Marbella,Terminado,1494766800
+Villanovense,Espanha - Segunda B,14/05/17 10:00:00,https://www.academiadasapostasbrasil.com/stats/match/espanha/segunda-b/sanluqueno/villanovense/2298282,Sanluqueño,Terminado,1494766800
+Extremadura,Espanha - Segunda B,14/05/17 10:00:00,https://www.academiadasapostasbrasil.com/stats/match/espanha/segunda-b/real-murcia/extremadura-ud/2298283,Murcia,Terminado,1494766800
+Camacha,Portugal - 2ª Divisão,14/05/17 10:00:00,https://www.academiadasapostasbrasil.com/stats/match/portugal/2-divisao/pedras-rubras/camacha/2408961,Pedras Rubras,Terminado,1494766800
+Vilaverdense,Portugal - 2ª Divisão,14/05/17 10:00:00,https://www.academiadasapostasbrasil.com/stats/match/portugal/2-divisao/montalegre/vilaverdense/2408962,Montalegre,Terminado,1494766800
+Torcatense,Portugal - 2ª Divisão,14/05/17 10:00:00,https://www.academiadasapostasbrasil.com/stats/match/portugal/2-divisao/torre-de-moncorvo/torcatense/2408963,Torre de Moncorvo,Terminado,1494766800
+Mirandela,Portugal - 2ª Divisão,14/05/17 10:00:00,https://www.academiadasapostasbrasil.com/stats/match/portugal/2-divisao/ar-sao-martinho/mirandela/2409016,São Martinho,Terminado,1494766800
+Limianos,Portugal - 2ª Divisão,14/05/17 10:00:00,https://www.academiadasapostasbrasil.com/stats/match/portugal/2-divisao/trofense/os-limianos/2409017,Trofense,Terminado,1494766800
+Aliança de Gandra,Portugal - 2ª Divisão,14/05/17 10:00:00,https://www.academiadasapostasbrasil.com/stats/match/portugal/2-divisao/ponte-da-barca/alianca-de-gandra/2409018,Ponte da Barca,Terminado,1494766800
+Felgueiras,Portugal - 2ª Divisão,14/05/17 10:00:00,https://www.academiadasapostasbrasil.com/stats/match/portugal/2-divisao/pedras-salgadas/felgueiras-1932/2409019,P Salgadas,Terminado,1494766800
+Nogueirense,Portugal - 2ª Divisão,14/05/17 10:00:00,https://www.academiadasapostasbrasil.com/stats/match/portugal/2-divisao/sousense/ad-nogueirense/2409131,Sousense,Terminado,1494766800
+Cinfães,Portugal - 2ª Divisão,14/05/17 10:00:00,https://www.academiadasapostasbrasil.com/stats/match/portugal/2-divisao/tourizense/cinfaes/2409132,Tourizense,Terminado,1494766800
+Sanjoanense,Portugal - 2ª Divisão,14/05/17 10:00:00,https://www.academiadasapostasbrasil.com/stats/match/portugal/2-divisao/coimbroes/sanjoanense/2409133,Coimbrões,Terminado,1494766800
+Pampilhosa,Portugal - 2ª Divisão,14/05/17 10:00:00,https://www.academiadasapostasbrasil.com/stats/match/portugal/2-divisao/acad-coimbra-sfutebol/pampilhosa/2409134,Coimbra/S.Fut.,Terminado,1494766800
+Anadia,Portugal - 2ª Divisão,14/05/17 10:00:00,https://www.academiadasapostasbrasil.com/stats/match/portugal/2-divisao/cesarense/anadia/2409188,Cesarense,Terminado,1494766800
+Estarreja,Portugal - 2ª Divisão,14/05/17 10:00:00,https://www.academiadasapostasbrasil.com/stats/match/portugal/2-divisao/agueda/estarreja/2409189,Águeda,Terminado,1494766800
+Moimenta da Beira,Portugal - 2ª Divisão,14/05/17 10:00:00,https://www.academiadasapostasbrasil.com/stats/match/portugal/2-divisao/mortagua-/moimenta-da-beira/2409190,Mortágua,Terminado,1494766800
+Gondomar,Portugal - 2ª Divisão,14/05/17 10:00:00,https://www.academiadasapostasbrasil.com/stats/match/portugal/2-divisao/gouveia/gondomar/2409191,Gouveia,Terminado,1494766800
+Sertanense,Portugal - 2ª Divisão,14/05/17 10:00:00,https://www.academiadasapostasbrasil.com/stats/match/portugal/2-divisao/ideal/sertanense/2409244,Ideal,Terminado,1494766800
+Lusitânia,Portugal - 2ª Divisão,14/05/17 10:00:00,https://www.academiadasapostasbrasil.com/stats/match/portugal/2-divisao/ginasio-de-alcobaca-/lusitania/2409245,Ginásio de Alcobaça ,Terminado,1494766800
+União Leiria,Portugal - 2ª Divisão,14/05/17 10:00:00,https://www.academiadasapostasbrasil.com/stats/match/portugal/2-divisao/gafetense/uniao-leiria/2409246,Gafetense,Terminado,1494766800
+Benfica CB,Portugal - 2ª Divisão,14/05/17 10:00:00,https://www.academiadasapostasbrasil.com/stats/match/portugal/2-divisao/angrense/benfica-castelo-branco/2409247,Angrense,Terminado,1494766800
+Caldas,Portugal - 2ª Divisão,14/05/17 10:00:00,https://www.academiadasapostasbrasil.com/stats/match/portugal/2-divisao/alcanenense/caldas/2409301,Alcanenense,Terminado,1494766800
+Vilafranquense,Portugal - 2ª Divisão,14/05/17 10:00:00,https://www.academiadasapostasbrasil.com/stats/match/portugal/2-divisao/oleiros/vilafranquense/2409302,Oleiros,Terminado,1494766800
+Naval 1º,Portugal - 2ª Divisão,14/05/17 10:00:00,https://www.academiadasapostasbrasil.com/stats/match/portugal/2-divisao/carapinheirense/associacao-naval/2409303,Carapinheirens,Terminado,1494766800
+Sernache,Portugal - 2ª Divisão,14/05/17 10:00:00,https://www.academiadasapostasbrasil.com/stats/match/portugal/2-divisao/mafra/vitoria-de-sernache/2409304,Mafra,Terminado,1494766800
+Aljustrelense,Portugal - 2ª Divisão,14/05/17 10:00:00,https://www.academiadasapostasbrasil.com/stats/match/portugal/2-divisao/viana-alentejo/aljustrelense/2409357,Viana Alentejo,Terminado,1494766800
+Oriental,Portugal - 2ª Divisão,14/05/17 10:00:00,https://www.academiadasapostasbrasil.com/stats/match/portugal/2-divisao/loures/oriental-lisboa/2409358,Loures,Terminado,1494766800
+Armacenenses,Portugal - 2ª Divisão,14/05/17 10:00:00,https://www.academiadasapostasbrasil.com/stats/match/portugal/2-divisao/casa-pia/armacenenses/2409359,Casa Pia,Terminado,1494766800
+Fabril Barreiro,Portugal - 2ª Divisão,14/05/17 10:00:00,https://www.academiadasapostasbrasil.com/stats/match/portugal/2-divisao/sintrense/fabril-barreiro/2409360,Sintrense,Terminado,1494766800
+Barreirense,Portugal - 2ª Divisão,14/05/17 10:00:00,https://www.academiadasapostasbrasil.com/stats/match/portugal/2-divisao/atletico-malveira/fc-barreirense/2409413,Malveira,Terminado,1494766800
+Lusitano VRSA,Portugal - 2ª Divisão,14/05/17 10:00:00,https://www.academiadasapostasbrasil.com/stats/match/portugal/2-divisao/pinhalnovense/lusitano-vrsa/2409414,Pinhalnovense,Terminado,1494766800
+Moura,Portugal - 2ª Divisão,14/05/17 10:00:00,https://www.academiadasapostasbrasil.com/stats/match/portugal/2-divisao/1-dezembro/moura/2409415,1º Dezembro,Terminado,1494766800
+Atlético CP,Portugal - 2ª Divisão,14/05/17 10:00:00,https://www.academiadasapostasbrasil.com/stats/match/portugal/2-divisao/almancilense/atletico-cp/2409416,Almancilense,Terminado,1494766800
+Salgueiros,Portugal - 2ª Divisão,14/05/17 10:00:00,https://www.academiadasapostasbrasil.com/stats/match/portugal/2-divisao/ud-oliveirense/salgueiros/2409489,UD Oliveirense,Terminado,1494766800
+Marítimo II,Portugal - 2ª Divisão,14/05/17 10:00:00,https://www.academiadasapostasbrasil.com/stats/match/portugal/2-divisao/amarante/maritimo-ii/2409490,Amarante,Terminado,1494766800
+Merelinense,Portugal - 2ª Divisão,14/05/17 10:00:00,https://www.academiadasapostasbrasil.com/stats/match/portugal/2-divisao/lusitano-fcv/merelinense/2409491,Lusitano FCV,Terminado,1494766800
+Oliveirense,Portugal - 2ª Divisão,14/05/17 10:00:00,https://www.academiadasapostasbrasil.com/stats/match/portugal/2-divisao/gafanha/oliveirense/2409492,Gafanha,Terminado,1494766800
+Real Soc II,Espanha - Segunda B,14/05/17 11:00:00,https://www.academiadasapostasbrasil.com/stats/match/espanha/segunda-b/mensajero/real-sociedad-ii/2297522,Mensajero,Terminado,1494770400
+Joinville,Brasil - Série C,14/05/17 12:30:00,https://www.academiadasapostasbrasil.com/stats/match/brasil/serie-c/ypiranga-erechim/joinville/2420579,Erechim,Terminado,1494775800
+ASA,Brasil - Série C,14/05/17 13:00:00,https://www.academiadasapostasbrasil.com/stats/match/brasil/serie-c/csa/asa/2420571,CSA,Terminado,1494777600
+Cuiabá,Brasil - Série C,14/05/17 13:00:00,https://www.academiadasapostasbrasil.com/stats/match/brasil/serie-c/botafogo-pb/cuiaba/2420572,Botafogo PB,Terminado,1494777600
+Correcaminos UAT II,México - Segunda División,14/05/17 15:00:00,https://www.academiadasapostasbrasil.com/stats/match/mexico/segunda-division/yalmakan/correcaminos-uat-ii/2450820,Yalmakan,Terminado,1494784800
+Fortaleza,Brasil - Série C,14/05/17 16:00:00,https://www.academiadasapostasbrasil.com/stats/match/brasil/serie-c/remo/fortaleza/2420574,Remo,Terminado,1494788400
+Puerto Rico,Estados Unidos - NASL,14/05/17 11:00:00,https://www.academiadasapostasbrasil.com/stats/match/estados-unidos/nasl/ny-cosmos/puerto-rico/2411956,Cosmos,Terminado,1494770400
+San Francisco Deltas,Estados Unidos - NASL,14/05/17 14:00:00,https://www.academiadasapostasbrasil.com/stats/match/estados-unidos/nasl/edmonton/san-francisco-deltas/2411959,Edmonton,Terminado,1494781200
+South China,Hong Kong - Copa FA,14/05/17 01:00:00,https://www.academiadasapostasbrasil.com/stats/match/hong-kong/copa-fa/kitchee-fc/south-china-aa/2447212,Kitchee,Terminado,1494734400
+Akhisar Belediye U21,Turquia - U21 Süper Lig,14/05/17 04:00:00,https://www.academiadasapostasbrasil.com/stats/match/turquia/u21-super-lig/osmanlspor-u21/akhisar-belediye-u21/2317486,Osmanlıspor U21,Terminado,1494745200
+Karabükspor U21 ,Turquia - U21 Süper Lig,14/05/17 07:00:00,https://www.academiadasapostasbrasil.com/stats/match/turquia/u21-super-lig/alanyaspor-u21/karabukspor-u21-/2317485,Alanyaspor U21,Terminado,1494756000
+Galatasaray U21,Turquia - U21 Süper Lig,14/05/17 07:00:00,https://www.academiadasapostasbrasil.com/stats/match/turquia/u21-super-lig/gazantepspor-u21/galatasaray-u21/2317491,Gazıantepspor U21,Terminado,1494756000
+Athletic Club,Espanha - Superliga,14/05/17 04:00:00,https://www.academiadasapostasbrasil.com/stats/match/espanha/superliga/transportes-alcaine/athletic-bilbao/2324300,Alcaine,Terminado,1494745200
+Tacuense,Espanha - Superliga,14/05/17 04:15:00,https://www.academiadasapostasbrasil.com/stats/match/espanha/superliga/fundacion-albacete/tacuense/2324302,Fundación A,Terminado,1494746100
+Santa Teresa,Espanha - Superliga,14/05/17 04:15:00,https://www.academiadasapostasbrasil.com/stats/match/espanha/superliga/sporting-de-huelva/santa-teresa/2324303,Huelva,Terminado,1494746100
+Oiartzun,Espanha - Superliga,14/05/17 04:30:00,https://www.academiadasapostasbrasil.com/stats/match/espanha/superliga/rayo-vallecano/oiartzun/2324299,Rayo,Terminado,1494747000
+Levante,Espanha - Superliga,14/05/17 05:00:00,https://www.academiadasapostasbrasil.com/stats/match/espanha/superliga/udg-tenerife-sur/levante/2324296,Granadilla,Terminado,1494748800
+Sand,Alemanha - Frauen Bundesliga,14/05/17 06:00:00,https://www.academiadasapostasbrasil.com/stats/match/alemanha/frauen-bundesliga/usv-jena/sc-sand/2286894,USV,Terminado,1494752400
+Hoffenheim,Alemanha - Frauen Bundesliga,14/05/17 06:00:00,https://www.academiadasapostasbrasil.com/stats/match/alemanha/frauen-bundesliga/frankfurt/hoffenheim/2286895,Frankfurt,Terminado,1494752400
+Duisburg,Alemanha - Frauen Bundesliga,14/05/17 06:00:00,https://www.academiadasapostasbrasil.com/stats/match/alemanha/frauen-bundesliga/borussia-mgladbach/duisburg/2286896,Borussia M'gladbach,Terminado,1494752400
+Bayern,Alemanha - Frauen Bundesliga,14/05/17 06:00:00,https://www.academiadasapostasbrasil.com/stats/match/alemanha/frauen-bundesliga/turbine-potsdam/bayern-munchen/2286897,Turbine,Terminado,1494752400
+Bayer,Alemanha - Frauen Bundesliga,14/05/17 06:00:00,https://www.academiadasapostasbrasil.com/stats/match/alemanha/frauen-bundesliga/sgs-essen/bayer-leverkusen/2286898,SGS,Terminado,1494752400
+Wolfsburg,Alemanha - Frauen Bundesliga,14/05/17 06:00:00,https://www.academiadasapostasbrasil.com/stats/match/alemanha/frauen-bundesliga/freiburg/wolfsburg/2286899,Freiburg,Terminado,1494752400
+Rosengård,Suécia - Damallsvenskan,14/05/17 06:00:00,https://www.academiadasapostasbrasil.com/stats/match/suecia/damallsvenskan/hammarby/rosengard/2393446,Hammarby,Terminado,1494752400
+Saint-Étienne,França - Feminine Division 1,14/05/17 07:00:00,https://www.academiadasapostasbrasil.com/stats/match/franca/feminine-division-1/olympique-marseille/saint-etienne/2298627,Olympique Marseille,Terminado,1494756000
+Metz,França - Feminine Division 1,14/05/17 07:00:00,https://www.academiadasapostasbrasil.com/stats/match/franca/feminine-division-1/guingamp/metz/2298629,Guingamp,Terminado,1494756000
+Juvisy,França - Feminine Division 1,14/05/17 07:00:00,https://www.academiadasapostasbrasil.com/stats/match/franca/feminine-division-1/bordeaux/juvisy/2298630,Bordeaux,Terminado,1494756000
+Rodez,França - Feminine Division 1,14/05/17 07:00:00,https://www.academiadasapostasbrasil.com/stats/match/franca/feminine-division-1/asptt-albi/rodez/2298631,Albi,Terminado,1494756000
+Piteå,Suécia - Damallsvenskan,14/05/17 07:00:00,https://www.academiadasapostasbrasil.com/stats/match/suecia/damallsvenskan/goteborg-fc/pitea/2393447,Göteborg,Terminado,1494756000
+Kristianstad,Suécia - Damallsvenskan,14/05/17 08:00:00,https://www.academiadasapostasbrasil.com/stats/match/suecia/damallsvenskan/djurgardens/kristianstad/2393448,Djurgården,Terminado,1494759600
+Valencia,Espanha - Superliga,14/05/17 08:15:00,https://www.academiadasapostasbrasil.com/stats/match/espanha/superliga/real-sociedad/valencia/2324298,Sociedad,Terminado,1494760500
+CAC,Portugal - Feminino 1ª Divisão,14/05/17 09:00:00,https://www.academiadasapostasbrasil.com/stats/match/portugal/feminino-1-divisao/vilaverdense/cac/2337447,Vilaverdense,Terminado,1494763200
+Pallokissat,Finlândia - Naistenliiga,14/05/17 09:05:00,https://www.academiadasapostasbrasil.com/stats/match/finlandia/naistenliiga/hjk-helsinki/pallokissat/2399528,HJK,Terminado,1494763500
+North Carolina Courage,Estados Unidos - NWSL,14/05/17 15:00:00,https://www.academiadasapostasbrasil.com/stats/match/estados-unidos/nwsl/orlando-pride/north-carolina-courage/2425739,Orlando Pride,Terminado,1494784800
+Boston Breakers,Estados Unidos - NWSL,14/05/17 16:00:00,https://www.academiadasapostasbrasil.com/stats/match/estados-unidos/nwsl/chicago-red-stars/boston-breakers/2425740,Chicago Red Stars,Terminado,1494788400
+Mitra Kukar,Indonésia - Super Liga,14/05/17 02:00:00,https://www.academiadasapostasbrasil.com/stats/match/indonesia/super-liga/persija/mitra-kukar/2435599,Persija,Terminado,1494738000
+Osotspa,Tailândia - Liga Tailandesa,14/05/17 05:00:00,https://www.academiadasapostasbrasil.com/stats/match/tailandia/liga-tailandesa/navy/osotspa-m150/2415084,Navy FC,Terminado,1494748800
+Port FC,Tailândia - Liga Tailandesa,14/05/17 05:00:00,https://www.academiadasapostasbrasil.com/stats/match/tailandia/liga-tailandesa/nakhon-ratchasima/port-fc/2415085,Ratchasima,Terminado,1494748800
+Persipasi BR,Indonésia - Super Liga,14/05/17 05:30:00,https://www.academiadasapostasbrasil.com/stats/match/indonesia/super-liga/arema/madura-united/2435598,Arema,Terminado,1494750600
+Pusamania,Indonésia - Super Liga,14/05/17 05:30:00,https://www.academiadasapostasbrasil.com/stats/match/indonesia/super-liga/bali-united/pusamania-borneo/2435600,Bali United,Terminado,1494750600
+Muang Thong,Tailândia - Liga Tailandesa,14/05/17 06:00:00,https://www.academiadasapostasbrasil.com/stats/match/tailandia/liga-tailandesa/thai-honda/muang-thong-united/2415086,Thai Honda,Terminado,1494752400
+Bangkok Glass,Tailândia - Liga Tailandesa,14/05/17 06:00:00,https://www.academiadasapostasbrasil.com/stats/match/tailandia/liga-tailandesa/bec-tero-sasana/bangkok-glass/2415087,BEC,Terminado,1494752400
+Tema,Gana - Premier League,14/05/17 09:00:00,https://www.academiadasapostasbrasil.com/stats/match/gana/premier-league/kotoko/tema-youth/2403681,Asante Kotoko,Terminado,1494763200
+Great Olympics,Gana - Premier League,14/05/17 09:00:00,https://www.academiadasapostasbrasil.com/stats/match/gana/premier-league/berekum-chelsea/great-olympics/2403682,Chelsea,Terminado,1494763200
+Aduana,Gana - Premier League,14/05/17 09:00:00,https://www.academiadasapostasbrasil.com/stats/match/gana/premier-league/bechem-united/aduana-stars/2403683,Bechem Utd,Terminado,1494763200
+Wa,Gana - Premier League,14/05/17 09:00:00,https://www.academiadasapostasbrasil.com/stats/match/gana/premier-league/ashanti-gold/wa-all-stars/2403684,Ashanti,Terminado,1494763200
+Ebusua,Gana - Premier League,14/05/17 09:00:00,https://www.academiadasapostasbrasil.com/stats/match/gana/premier-league/elmina-sharks/ebusua-dwarfs/2403685,Elmina Sharks,Terminado,1494763200
+Medeama,Gana - Premier League,14/05/17 09:00:00,https://www.academiadasapostasbrasil.com/stats/match/gana/premier-league/bolga-all-stars/medeama/2403686,Bolga All Stars,Terminado,1494763200
+Oak,Gana - Premier League,14/05/17 09:00:00,https://www.academiadasapostasbrasil.com/stats/match/gana/premier-league/liberty-professionals/hearts-of-oak/2403688,Liberty,Terminado,1494763200
+Real España,Honduras - Liga Nacional,14/05/17 16:00:00,https://www.academiadasapostasbrasil.com/stats/match/honduras/liga-nacional/motagua/real-espana/2448194,Motagua,Terminado,1494788400
+Tauro,Panamá - Primera Division,14/05/17 17:00:00,https://www.academiadasapostasbrasil.com/stats/match/panama/primera-division/atletico-veraguense/tauro/2448171,Veragüense,Terminado,1494792000
+Citizen,Hong Kong - 2ª Divisão HKFA,13/05/17 23:30:00,https://www.academiadasapostasbrasil.com/stats/match/hong-kong/2-divisao-hkfa/yau-tsim-mong/citizen-aa/2392474,Yau Tsim Mong,Terminado,1494729000
+Sun Hei,Hong Kong - 2ª Divisão HKFA,13/05/17 23:30:00,https://www.academiadasapostasbrasil.com/stats/match/hong-kong/2-divisao-hkfa/kwun-tong/sun-hei-sc/2392475,Kwun Tong,Terminado,1494729000
+Double Flower,Hong Kong - 2ª Divisão HKFA,13/05/17 23:30:00,https://www.academiadasapostasbrasil.com/stats/match/hong-kong/2-divisao-hkfa/wong-tai-sin/double-flower/2392476,Wong Tai Sin,Terminado,1494729000
+Wanchai,Hong Kong - 2ª Divisão HKFA,13/05/17 23:30:00,https://www.academiadasapostasbrasil.com/stats/match/hong-kong/2-divisao-hkfa/shatin/wanchai/2392477,Shatin,Terminado,1494729000
+Dreams,Hong Kong - 2ª Divisão HKFA,13/05/17 23:30:00,https://www.academiadasapostasbrasil.com/stats/match/hong-kong/2-divisao-hkfa/kwai-tsing/dreams-metro-gallery/2392478,Kwai Tsing,Terminado,1494729000
+Tai Chung,Hong Kong - 2ª Divisão HKFA,13/05/17 23:30:00,https://www.academiadasapostasbrasil.com/stats/match/hong-kong/2-divisao-hkfa/wing-yee/tai-chung/2392479,Wing Yee,Terminado,1494729000
+Eastern District,Hong Kong - 2ª Divisão HKFA,13/05/17 23:30:00,https://www.academiadasapostasbrasil.com/stats/match/hong-kong/2-divisao-hkfa/tung-sing/eastern-district/2392480,Tung Sing,Terminado,1494729000
+UTA B. Doamnă,Romênia - Liga II,14/05/17 02:30:00,https://www.academiadasapostasbrasil.com/stats/match/romenia/liga-ii/academica-clinceni/uta-batrana-doamna/2373098,Academica,Terminado,1494739800
+Dukla,Eslováquia - I Liga,14/05/17 02:30:00,https://www.academiadasapostasbrasil.com/stats/match/eslovaquia/i-liga/spartak-trnava-ii/dukla-banska-bystrica/2431328,Trnava II,Terminado,1494739800
+Lokomotíva,Eslováquia - I Liga,14/05/17 02:30:00,https://www.academiadasapostasbrasil.com/stats/match/eslovaquia/i-liga/zilina-ii/lokomotiva-kosice/2431585,Žilina II,Terminado,1494739800
+Znojmo,República Tcheca - 2. Liga,14/05/17 04:20:00,https://www.academiadasapostasbrasil.com/stats/match/republica-tcheca/2-liga/frydek-mistek/znojmo/2245677,Frýdek-Místek,Terminado,1494746400
+Bucks,África do Sul - Liga Mvela Golden,14/05/17 07:00:00,https://www.academiadasapostasbrasil.com/stats/match/africa-do-sul/liga-mvela-golden/black-leopards/mthatha-bucks/2329150,Leopards,Terminado,1494756000
+Pretoria,África do Sul - Liga Mvela Golden,14/05/17 07:00:00,https://www.academiadasapostasbrasil.com/stats/match/africa-do-sul/liga-mvela-golden/jomo-cosmos/university-of-pretoria/2329151,Jomo Cosmos,Terminado,1494756000
+Royal Eagles,África do Sul - Liga Mvela Golden,14/05/17 07:00:00,https://www.academiadasapostasbrasil.com/stats/match/africa-do-sul/liga-mvela-golden/witbank-spurs/royal-eagles/2329152,Witbank,Terminado,1494756000
+AmaZulu,África do Sul - Liga Mvela Golden,14/05/17 07:00:00,https://www.academiadasapostasbrasil.com/stats/match/africa-do-sul/liga-mvela-golden/fc-cape-town/amazulu/2329153,Cape Town,Terminado,1494756000
+Santos,África do Sul - Liga Mvela Golden,14/05/17 07:00:00,https://www.academiadasapostasbrasil.com/stats/match/africa-do-sul/liga-mvela-golden/stellenbosch/santos/2329154,Vasco,Terminado,1494756000
+Milano Utd,África do Sul - Liga Mvela Golden,14/05/17 07:00:00,https://www.academiadasapostasbrasil.com/stats/match/africa-do-sul/liga-mvela-golden/cape-town-all-stars-/milano-united/2329155,All Stars ,Terminado,1494756000
+Magesi,África do Sul - Liga Mvela Golden,14/05/17 07:00:00,https://www.academiadasapostasbrasil.com/stats/match/africa-do-sul/liga-mvela-golden/mbombela-united/magesi/2329156,Mbombela Utd,Terminado,1494756000
+Royal Zulu,África do Sul - Liga Mvela Golden,14/05/17 07:00:00,https://www.academiadasapostasbrasil.com/stats/match/africa-do-sul/liga-mvela-golden/real-kings/thanda-royal-zulu/2329157,Real Kings,Terminado,1494756000
+Táborsko,República Tcheca - 2. Liga,14/05/17 09:00:00,https://www.academiadasapostasbrasil.com/stats/match/republica-tcheca/2-liga/dynamo-ceske-budejovice/taborsko/2245674,Dynamo CB,Terminado,1494763200
+Etar,Bulgária - B PFG,14/05/17 09:00:00,https://www.academiadasapostasbrasil.com/stats/match/bulgaria/b-pfg/sozopol/etar/2346994,Sozopol,Terminado,1494763200
+Botev Vratsa,Bulgária - B PFG,14/05/17 09:00:00,https://www.academiadasapostasbrasil.com/stats/match/bulgaria/b-pfg/vitosha-bistritsa/botev-vratsa/2346995,Bistritsa,Terminado,1494763200
+Botev Galabovo,Bulgária - B PFG,14/05/17 09:00:00,https://www.academiadasapostasbrasil.com/stats/match/bulgaria/b-pfg/cska-sofia-ii/botev-galabovo/2346996,CSKA Sofia II,Terminado,1494763200
+Čelarevo,Sérvia - Prva Liga,14/05/17 09:00:00,https://www.academiadasapostasbrasil.com/stats/match/servia/prva-liga/radnicki-pirot/celarevo/2356314,Radnički P,Terminado,1494763200
+Novigrad,Croácia - 2. HNL,14/05/17 09:00:00,https://www.academiadasapostasbrasil.com/stats/match/croacia/2-hnl/gorica/novigrad/2430594,Gorica,Terminado,1494763200
+Rudeš,Croácia - 2. HNL,14/05/17 09:00:00,https://www.academiadasapostasbrasil.com/stats/match/croacia/2-hnl/solin/rudes/2430595,Solin,Terminado,1494763200
+Radnik,Croácia - 2. HNL,14/05/17 09:00:00,https://www.academiadasapostasbrasil.com/stats/match/croacia/2-hnl/sibenik/sesvete/2430596,Šibenik,Terminado,1494763200
+Dinamo Zagreb II,Croácia - 2. HNL,14/05/17 09:00:00,https://www.academiadasapostasbrasil.com/stats/match/croacia/2-hnl/hrvatski-dragovoljac/dinamo-zagreb-ii/2430597,Hr Dragovoljac,Terminado,1494763200
+Lučko,Croácia - 2. HNL,14/05/17 09:00:00,https://www.academiadasapostasbrasil.com/stats/match/croacia/2-hnl/zagreb/lucko/2430598,Zagreb,Terminado,1494763200
+Imotski,Croácia - 2. HNL,14/05/17 09:00:00,https://www.academiadasapostasbrasil.com/stats/match/croacia/2-hnl/dugopolje/imotski/2430599,Dugopolje,Terminado,1494763200
+Brežice,Eslovênia - 2. SNL,14/05/17 09:00:00,https://www.academiadasapostasbrasil.com/stats/match/eslovenia/2-snl/triglav/brezice/2431264,Triglav,Terminado,1494763200
+Slovan II,Eslováquia - I Liga,14/05/17 09:00:00,https://www.academiadasapostasbrasil.com/stats/match/eslovaquia/i-liga/svaty-jur/slovan-bratislava-ii/2431329,Svätý Jur,Terminado,1494763200
+Bardejov,Eslováquia - I Liga,14/05/17 09:00:00,https://www.academiadasapostasbrasil.com/stats/match/eslovaquia/i-liga/samorin/partizan-bardejov/2431580,Šamorín,Terminado,1494763200
+Budaörsi,Hungria - NB II,14/05/17 09:30:00,https://www.academiadasapostasbrasil.com/stats/match/hungria/nb-ii/kozarmisleny/budaors/2270576,Kozármisleny,Terminado,1494765000
+Balmazújváros,Hungria - NB II,14/05/17 09:30:00,https://www.academiadasapostasbrasil.com/stats/match/hungria/nb-ii/soroksar-sc/balmazujvaros-sport/2270577,Soroksár,Terminado,1494765000
+Dorogi,Hungria - NB II,14/05/17 09:30:00,https://www.academiadasapostasbrasil.com/stats/match/hungria/nb-ii/varda-se/dorogi-fc/2270580,Várda,Terminado,1494765000
+Siófok,Hungria - NB II,14/05/17 09:30:00,https://www.academiadasapostasbrasil.com/stats/match/hungria/nb-ii/bekescsaba/siofok/2270582,Békéscsaba,Terminado,1494765000
+Futura,Hungria - NB II,14/05/17 09:30:00,https://www.academiadasapostasbrasil.com/stats/match/hungria/nb-ii/szeol/mosonmagyarovari-te/2270583,Szeol,Terminado,1494765000
+ZTE,Hungria - NB II,14/05/17 09:30:00,https://www.academiadasapostasbrasil.com/stats/match/hungria/nb-ii/cigand-se/zalaegerszegi/2270584,Cigánd,Terminado,1494765000
+Ceglédi,Hungria - NB II,14/05/17 10:00:00,https://www.academiadasapostasbrasil.com/stats/match/hungria/nb-ii/szolnoki-mav/cegledi/2270578,Szolnoki,Terminado,1494766800
+Szeged 2011,Hungria - NB II,14/05/17 10:00:00,https://www.academiadasapostasbrasil.com/stats/match/hungria/nb-ii/puskas-fc/szeged-2011/2270579,Puskás,Terminado,1494766800
+Nyíregyháza,Hungria - NB II,14/05/17 10:00:00,https://www.academiadasapostasbrasil.com/stats/match/hungria/nb-ii/soproni-vse/nyiregyhaza-spartacus/2270581,Soproni,Terminado,1494766800
+Vác,Hungria - NB II,14/05/17 10:00:00,https://www.academiadasapostasbrasil.com/stats/match/hungria/nb-ii/csakvari-tk/vac/2270585,Csákvári,Terminado,1494766800
+Maardu,Estônia - Esiliiga,14/05/17 10:00:00,https://www.academiadasapostasbrasil.com/stats/match/estonia/esiliiga/infonet-ii/maardu/2396830,Infonet II,Terminado,1494766800
+Magdalena,Colômbia - Primera B,14/05/17 10:30:00,https://www.academiadasapostasbrasil.com/stats/match/colombia/primera-b/universitario-popayan/union-magdalena/2398225,Univ Popayán,Terminado,1494768600
+Oriental,Uruguai - Segunda Division,14/05/17 12:30:00,https://www.academiadasapostasbrasil.com/stats/match/uruguai/segunda-division/cerro-largo/oriental/2429001,Cerro Largo,Terminado,1494775800
+Torque,Uruguai - Segunda Division,14/05/17 12:30:00,https://www.academiadasapostasbrasil.com/stats/match/uruguai/segunda-division/tacuarembo/torque/2429002,Tacuarembó,Terminado,1494775800
+La Bocana,Peru - Segunda Division,14/05/17 14:30:00,https://www.academiadasapostasbrasil.com/stats/match/peru/segunda-division/cienciano/defensor-la-bocana/2433809,Cienciano,Terminado,1494783000
+Los Caimanes,Peru - Segunda Division,14/05/17 14:30:00,https://www.academiadasapostasbrasil.com/stats/match/peru/segunda-division/santa-rosa-pnp/los-caimanes/2433810,Santa Rosa PNP,Terminado,1494783000
+CA Manucci,Peru - Segunda Division,14/05/17 14:30:00,https://www.academiadasapostasbrasil.com/stats/match/peru/segunda-division/union-huaral/carlos-manucci/2433812,Huaral,Terminado,1494783000
+Olmedo,Equador - Primera B,14/05/17 15:00:00,https://www.academiadasapostasbrasil.com/stats/match/equador/primera-b/gualaceo/olmedo/2408101,Gualaceo,Terminado,1494784800
+Deportivo Hualgayoc,Peru - Segunda Division,14/05/17 15:00:00,https://www.academiadasapostasbrasil.com/stats/match/peru/segunda-division/willy-serrato/deportivo-hualgayoc/2433815,Willy Serrato,Terminado,1494784800
+Energomash,Rússia - 2ª Divisão,14/05/17 04:00:00,https://www.academiadasapostasbrasil.com/stats/match/russia/2-divisao/torpedo-moscou/energomash-belgorod/2305163,Torpedo,Terminado,1494745200
+Chita,Rússia - 2ª Divisão,14/05/17 04:00:00,https://www.academiadasapostasbrasil.com/stats/match/russia/2-divisao/dinamo-barnaul/chita/2333284,Dinamo Barnaul,Terminado,1494745200
+Legion Dynamo,Rússia - 2ª Divisão,14/05/17 05:00:00,https://www.academiadasapostasbrasil.com/stats/match/russia/2-divisao/spartak-vladikavkaz/legion-dynamo/2280598,Alaniya,Terminado,1494748800
+Dinamo,Rússia - 2ª Divisão,14/05/17 05:00:00,https://www.academiadasapostasbrasil.com/stats/match/russia/2-divisao/crfso-smolensk/dinamo-st-petersburg/2294592,Dinamo Sm,Terminado,1494748800
+Dolgie Prudy,Rússia - 2ª Divisão,14/05/17 05:00:00,https://www.academiadasapostasbrasil.com/stats/match/russia/2-divisao/kolomna/dolgie-prudy/2294593,Kolomna,Terminado,1494748800
+Metallurg Lp,Rússia - 2ª Divisão,14/05/17 05:00:00,https://www.academiadasapostasbrasil.com/stats/match/russia/2-divisao/kaluga/metallurg-lipetsk/2305159,Kaluga,Terminado,1494748800
+Zenit-Radian,Rússia - 2ª Divisão,14/05/17 05:00:00,https://www.academiadasapostasbrasil.com/stats/match/russia/2-divisao/irtysh/zenit-irkutsk/2333285,Irtysh,Terminado,1494748800
+Avarta,Dinamarca - 2ª Divisão,14/05/17 05:00:00,https://www.academiadasapostasbrasil.com/stats/match/dinamarca/2-divisao/thisted/avarta/2378795,Thisted,Terminado,1494748800
+Dinamo Br,Rússia - 2ª Divisão,14/05/17 06:00:00,https://www.academiadasapostasbrasil.com/stats/match/russia/2-divisao/arsenal-tula-ii/dinamo-bryansk/2305161,Arsenal Tula II,Terminado,1494752400
+Avangard K,Rússia - 2ª Divisão,14/05/17 06:00:00,https://www.academiadasapostasbrasil.com/stats/match/russia/2-divisao/zenit-penza/avangard-kursk/2305164,Zenit Pz,Terminado,1494752400
+KTP,Finlândia - Kakkonen,14/05/17 06:00:00,https://www.academiadasapostasbrasil.com/stats/match/finlandia/kakkonen/klubi-04/ktp/2404508,Klubi-04,Terminado,1494752400
+Neusiedl,Áustria - Regionalliga,14/05/17 06:30:00,https://www.academiadasapostasbrasil.com/stats/match/austria/regionalliga/admira-ii/neusiedl/2253245,Admira II,Terminado,1494754200
+AlbinoLeffe,Itália - Serie C1,14/05/17 06:30:00,https://www.academiadasapostasbrasil.com/stats/match/italia/serie-c1/calcio-padova/albinoleffe/2450901,Calcio Padova,Terminado,1494754200
+Grödig,Áustria - Regionalliga,14/05/17 07:00:00,https://www.academiadasapostasbrasil.com/stats/match/austria/regionalliga/worgl/grodig/2261965,Wörgl,Terminado,1494756000
+Chayka,Rússia - 2ª Divisão,14/05/17 07:00:00,https://www.academiadasapostasbrasil.com/stats/match/russia/2-divisao/cherno-novorosisk/chayka/2280596,Chernomorets,Terminado,1494756000
+Angusht,Rússia - 2ª Divisão,14/05/17 07:00:00,https://www.academiadasapostasbrasil.com/stats/match/russia/2-divisao/rotor-volgograd/angusht/2280597,Rotor,Terminado,1494756000
+Dinamo St,Rússia - 2ª Divisão,14/05/17 07:00:00,https://www.academiadasapostasbrasil.com/stats/match/russia/2-divisao/mashuk-kmv/dinamo-stavropol/2280599,Mashuk,Terminado,1494756000
+Volga Tv,Rússia - 2ª Divisão,14/05/17 07:00:00,https://www.academiadasapostasbrasil.com/stats/match/russia/2-divisao/spartak-kostroma/volga-tver/2294594,Spartak Ks,Terminado,1494756000
+Saturn,Rússia - 2ª Divisão,14/05/17 07:00:00,https://www.academiadasapostasbrasil.com/stats/match/russia/2-divisao/ryazan/saturn/2305162,Ryazan,Terminado,1494756000
+Luleå,Suécia - Division 1,14/05/17 07:00:00,https://www.academiadasapostasbrasil.com/stats/match/suecia/division-1/arameiska-syrianska/ifk-lulea/2394407,Arameiska,Terminado,1494756000
+Catania,Itália - Serie C1,14/05/17 07:00:00,https://www.academiadasapostasbrasil.com/stats/match/italia/serie-c1/juve-stabia/catania/2450904,Juve Stabia,Terminado,1494756000
+Krasnodar II,Rússia - 2ª Divisão,14/05/17 08:00:00,https://www.academiadasapostasbrasil.com/stats/match/russia/2-divisao/biolog/krasnodar-ii/2280593,Biolog,Terminado,1494759600
+Afips,Rússia - 2ª Divisão,14/05/17 08:00:00,https://www.academiadasapostasbrasil.com/stats/match/russia/2-divisao/sochi/afips/2280594,Sochi,Terminado,1494759600
+Torpedo Arm,Rússia - 2ª Divisão,14/05/17 08:00:00,https://www.academiadasapostasbrasil.com/stats/match/russia/2-divisao/ska-rostov-na-donu/armavir/2280595,SKA,Terminado,1494759600
+Dinamo Moskva II,Rússia - 2ª Divisão,14/05/17 08:00:00,https://www.academiadasapostasbrasil.com/stats/match/russia/2-divisao/strogino/dinamo-moskva-ii/2294591,Strogino,Terminado,1494759600
+Vasalund,Suécia - Division 1,14/05/17 08:00:00,https://www.academiadasapostasbrasil.com/stats/match/suecia/division-1/nykoping/vasalund/2394408,Nyköping,Terminado,1494759600
+Oddevold,Suécia - Division 1,14/05/17 08:00:00,https://www.academiadasapostasbrasil.com/stats/match/suecia/division-1/mjallby/oddevold/2394592,Mjällby,Terminado,1494759600
+JäPS,Finlândia - Kakkonen,14/05/17 08:00:00,https://www.academiadasapostasbrasil.com/stats/match/finlandia/kakkonen/pepo/japs/2404509,PEPO,Terminado,1494759600
+Peimari Utd,Finlândia - Kakkonen,14/05/17 08:00:00,https://www.academiadasapostasbrasil.com/stats/match/finlandia/kakkonen/tpv/peimari-united/2404640,TPV,Terminado,1494759600
+Aconquija,Argentina - Argentino A,14/05/17 08:00:00,https://www.academiadasapostasbrasil.com/stats/match/argentina/argentino-a/chaco-for-ever/union-aconquija/2450988,Chaco,Terminado,1494759600
+Dep Madryn,Argentina - Argentino A,14/05/17 08:00:00,https://www.academiadasapostasbrasil.com/stats/match/argentina/argentino-a/juventud-antoniana/deportivo-madryn/2450990,Juv Antoniana,Terminado,1494759600
+Husqvarna,Suécia - Division 1,14/05/17 08:05:00,https://www.academiadasapostasbrasil.com/stats/match/suecia/division-1/rosengard/husqvarna/2394591,Rosengård,Terminado,1494759900
+Wiener SK,Áustria - Regionalliga,14/05/17 08:30:00,https://www.academiadasapostasbrasil.com/stats/match/austria/regionalliga/st-polten-ii/wiener-sk/2253244,St. Pölten II,Terminado,1494761400
+Druzhba,Rússia - 2ª Divisão,14/05/17 08:30:00,https://www.academiadasapostasbrasil.com/stats/match/russia/2-divisao/kuban-krasnodar-ii/druzhba/2280592,Kuban' Krasnodar II,Terminado,1494761400
+Renate,Itália - Serie C1,14/05/17 08:30:00,https://www.academiadasapostasbrasil.com/stats/match/italia/serie-c1/livorno/renate/2450896,Livorno,Terminado,1494761400
+Viterbese,Itália - Serie C1,14/05/17 08:30:00,https://www.academiadasapostasbrasil.com/stats/match/italia/serie-c1/giana-erminio/viterbese-castrense/2450898,Erminio,Terminado,1494761400
+FeralpiSalò,Itália - Serie C1,14/05/17 08:30:00,https://www.academiadasapostasbrasil.com/stats/match/italia/serie-c1/reggiana/feralpisalo/2450902,Reggiana,Terminado,1494761400
+Västerås SK,Suécia - Division 1,14/05/17 09:00:00,https://www.academiadasapostasbrasil.com/stats/match/suecia/division-1/enskede/vasteras-sk/2394409,Enskede,Terminado,1494763200
+Hercules,Finlândia - Kakkonen,14/05/17 09:30:00,https://www.academiadasapostasbrasil.com/stats/match/finlandia/kakkonen/kraft/js-hercules/2404377,Kraft,Terminado,1494765000
+Kiffen,Finlândia - Kakkonen,14/05/17 09:30:00,https://www.academiadasapostasbrasil.com/stats/match/finlandia/kakkonen/mp/kiffen/2404510,MP,Terminado,1494765000
+Jazz-j,Finlândia - Kakkonen,14/05/17 09:30:00,https://www.academiadasapostasbrasil.com/stats/match/finlandia/kakkonen/fc-espoo/jazz/2404641,Espoo,Terminado,1494765000
+Fondi,Itália - Serie C1,14/05/17 09:30:00,https://www.academiadasapostasbrasil.com/stats/match/italia/serie-c1/virtus-francavilla/fondi/2450905,Virtus Francavilla,Terminado,1494765000
+Como,Itália - Serie C1,14/05/17 10:00:00,https://www.academiadasapostasbrasil.com/stats/match/italia/serie-c1/piacenza/como/2450899,Piacenza,Terminado,1494766800
+Bassano,Itália - Serie C1,14/05/17 10:00:00,https://www.academiadasapostasbrasil.com/stats/match/italia/serie-c1/pordenone/bassano-virtus/2450900,Pordenone,Terminado,1494766800
+Sp Patria,Argentina - Argentino A,14/05/17 12:00:00,https://www.academiadasapostasbrasil.com/stats/match/argentina/argentino-a/gutierrez/sportivo-patria/2451549,Gutiérrez,Terminado,1494774000
+Casertana,Itália - Serie C1,14/05/17 12:30:00,https://www.academiadasapostasbrasil.com/stats/match/italia/serie-c1/siracusa/casertana/2450906,Siracusa,Terminado,1494775800
+Paganese,Itália - Serie C1,14/05/17 12:30:00,https://www.academiadasapostasbrasil.com/stats/match/italia/serie-c1/cosenza/paganese/2450907,Cosenza,Terminado,1494775800
+Deportes Vallenar,Chile - Segunda División,14/05/17 13:30:00,https://www.academiadasapostasbrasil.com/stats/match/chile/segunda-division/colchagua/deportes-vallenar/2373679,Colchagua,Terminado,1494779400
+SA Unido,Chile - Segunda División,14/05/17 14:00:00,https://www.academiadasapostasbrasil.com/stats/match/chile/segunda-division/naval/san-antonio-unido/2373680,Naval,Terminado,1494781200
+S Resistencia,Argentina - Argentino A,14/05/17 17:00:00,https://www.academiadasapostasbrasil.com/stats/match/argentina/argentino-a/sportivo-belgrano/sarmiento-resistencia/2451551,Belgrano,Terminado,1494792000
+Alcobendas CF,Espanha - Tercera Division,14/05/17 03:30:00,https://www.academiadasapostasbrasil.com/stats/match/espanha/tercera-division/atletico-madrid-ii/alcobendas-levitt/2308054,A Madrid II,Terminado,1494743400
+Parla,Espanha - Tercera Division,14/05/17 03:30:00,https://www.academiadasapostasbrasil.com/stats/match/espanha/tercera-division/trival-valderas/parla/2308055,Trival,Terminado,1494743400
+Villaverde-Boetticher,Espanha - Tercera Division,14/05/17 03:30:00,https://www.academiadasapostasbrasil.com/stats/match/espanha/tercera-division/union-adarve/villaverde-boetticher/2308056,Adarve,Terminado,1494743400
+Atlético Pinto,Espanha - Tercera Division,14/05/17 03:30:00,https://www.academiadasapostasbrasil.com/stats/match/espanha/tercera-division/rayo-vallecano-ii/atletico-de-pinto/2308057,Rayo II,Terminado,1494743400
+Aravaca,Espanha - Tercera Division,14/05/17 03:30:00,https://www.academiadasapostasbrasil.com/stats/match/espanha/tercera-division/leganes-ii/aravaca/2308058,Leganés II,Terminado,1494743400
+Alcorcón II,Espanha - Tercera Division,14/05/17 03:30:00,https://www.academiadasapostasbrasil.com/stats/match/espanha/tercera-division/san-fernando-de-henares/alcorcon-ii/2308059,SF Henares,Terminado,1494743400
+Pozuelo,Espanha - Tercera Division,14/05/17 03:30:00,https://www.academiadasapostasbrasil.com/stats/match/espanha/tercera-division/getafe-ii/pozuelo-alarcon/2308060,Getafe II,Terminado,1494743400
+Móstoles,Espanha - Tercera Division,14/05/17 03:30:00,https://www.academiadasapostasbrasil.com/stats/match/espanha/tercera-division/alcobendas-sport/mostoles/2308063,Alcobendas,Terminado,1494743400
+Épila,Espanha - Tercera Division,14/05/17 03:30:00,https://www.academiadasapostasbrasil.com/stats/match/espanha/tercera-division/real-zaragoza-ii/epila/2312165,Zaragoza II,Terminado,1494743400
+Gerena,Espanha - Tercera Division,14/05/17 03:30:00,https://www.academiadasapostasbrasil.com/stats/match/espanha/tercera-division/coria-cf/gerena/2321573,Coria,Terminado,1494743400
+Barco,Espanha - Tercera Division,14/05/17 04:00:00,https://www.academiadasapostasbrasil.com/stats/match/espanha/tercera-division/choco/barco/2302368,Choco,Terminado,1494745200
+Olot,Espanha - Tercera Division,14/05/17 04:00:00,https://www.academiadasapostasbrasil.com/stats/match/espanha/tercera-division/manlleu/olot/2306887,Manlleu,Terminado,1494745200
+Vilafranca,Espanha - Tercera Division,14/05/17 04:00:00,https://www.academiadasapostasbrasil.com/stats/match/espanha/tercera-division/asco/vilafranca/2306888,Ascó,Terminado,1494745200
+Peralada,Espanha - Tercera Division,14/05/17 04:00:00,https://www.academiadasapostasbrasil.com/stats/match/espanha/tercera-division/jupiter/peralada/2306889,Júpiter,Terminado,1494745200
+La Jonquera,Espanha - Tercera Division,14/05/17 04:00:00,https://www.academiadasapostasbrasil.com/stats/match/espanha/tercera-division/santfeliuenc/la-jonquera/2306890,Santfeliuenc,Terminado,1494745200
+Sabadell II,Espanha - Tercera Division,14/05/17 04:00:00,https://www.academiadasapostasbrasil.com/stats/match/espanha/tercera-division/europa/sabadell-ii/2306891,Europa,Terminado,1494745200
+Sant Andreu,Espanha - Tercera Division,14/05/17 04:00:00,https://www.academiadasapostasbrasil.com/stats/match/espanha/tercera-division/pobla-mafumet/sant-andreu/2306894,Pobla,Terminado,1494745200
+Terrassa,Espanha - Tercera Division,14/05/17 04:00:00,https://www.academiadasapostasbrasil.com/stats/match/espanha/tercera-division/cerdanyola-del-valles/terrassa/2306895,Cerdanyola,Terminado,1494745200
+Montañesa,Espanha - Tercera Division,14/05/17 04:00:00,https://www.academiadasapostasbrasil.com/stats/match/espanha/tercera-division/castelldefels/montanesa/2306896,Castelldefels,Terminado,1494745200
+V del Pardillo,Espanha - Tercera Division,14/05/17 04:00:00,https://www.academiadasapostasbrasil.com/stats/match/espanha/tercera-division/santa-ana/villanueva-del-pardillo/2308062,Santa Ana,Terminado,1494745200
+Platges,Espanha - Tercera Division,14/05/17 04:00:00,https://www.academiadasapostasbrasil.com/stats/match/espanha/tercera-division/penya-ciutadella/platges-de-calvia/2309352,Penya,Terminado,1494745200
+Collerense,Espanha - Tercera Division,14/05/17 04:00:00,https://www.academiadasapostasbrasil.com/stats/match/espanha/tercera-division/ciudad-de-ibiza/collerense/2309354,Ciudad de Ibiza,Terminado,1494745200
+Ferriolense,Espanha - Tercera Division,14/05/17 04:00:00,https://www.academiadasapostasbrasil.com/stats/match/espanha/tercera-division/binissalem/ferriolense/2309357,Binissalem,Terminado,1494745200
+Poblense,Espanha - Tercera Division,14/05/17 04:00:00,https://www.academiadasapostasbrasil.com/stats/match/espanha/tercera-division/alcudia/poblense/2309358,Alcúdia,Terminado,1494745200
+Peña,Espanha - Tercera Division,14/05/17 04:00:00,https://www.academiadasapostasbrasil.com/stats/match/espanha/tercera-division/rotlet-molinar/pena-deportiva/2309359,Rotlet Molinar,Terminado,1494745200
+San Rafael,Espanha - Tercera Division,14/05/17 04:00:00,https://www.academiadasapostasbrasil.com/stats/match/espanha/tercera-division/son-cladera/san-rafael/2309360,Son Cladera,Terminado,1494745200
+Mercadal,Espanha - Tercera Division,14/05/17 04:00:00,https://www.academiadasapostasbrasil.com/stats/match/espanha/tercera-division/esporles/mercadal/2309361,Esporles,Terminado,1494745200
+Condal,Espanha - Tercera Division,14/05/17 04:00:00,https://www.academiadasapostasbrasil.com/stats/match/espanha/tercera-division/covadonga/condal/2321128,Covadonga,Terminado,1494745200
+Melilla,Espanha - Tercera Division,14/05/17 04:00:00,https://www.academiadasapostasbrasil.com/stats/match/espanha/tercera-division/alhaurin/river-melilla/2326317,Alhaurín,Terminado,1494745200
+Maracena,Espanha - Tercera Division,14/05/17 04:00:00,https://www.academiadasapostasbrasil.com/stats/match/espanha/tercera-division/atarfe-industrial/maracena/2326320,Atarfe,Terminado,1494745200
+Plasencia,Espanha - Tercera Division,14/05/17 04:00:00,https://www.academiadasapostasbrasil.com/stats/match/espanha/tercera-division/montijo/up-plasencia/2333224,Montijo,Terminado,1494745200
+Cacereño,Espanha - Tercera Division,14/05/17 04:00:00,https://www.academiadasapostasbrasil.com/stats/match/espanha/tercera-division/olivenza/cacereno/2333226,Olivenza,Terminado,1494745200
+Ceuta,Espanha - Tercera Division,14/05/17 04:30:00,https://www.academiadasapostasbrasil.com/stats/match/espanha/tercera-division/recreativo-huelva-ii/ceuta/2321566,Huelva II,Terminado,1494747000
+Écija,Espanha - Tercera Division,14/05/17 04:30:00,https://www.academiadasapostasbrasil.com/stats/match/espanha/tercera-division/arcos/ecija/2321568,Arcos,Terminado,1494747000
+Betis II,Espanha - Tercera Division,14/05/17 04:30:00,https://www.academiadasapostasbrasil.com/stats/match/espanha/tercera-division/atletico-espeleno/real-betis-ii/2321569,Atlético Espeleño,Terminado,1494747000
+Algeciras,Espanha - Tercera Division,14/05/17 04:30:00,https://www.academiadasapostasbrasil.com/stats/match/espanha/tercera-division/castilleja/algeciras/2321570,Castilleja,Terminado,1494747000
+Guadalcacín,Espanha - Tercera Division,14/05/17 04:30:00,https://www.academiadasapostasbrasil.com/stats/match/espanha/tercera-division/cd-alcala/guadalcacin/2321572,Alcalá,Terminado,1494747000
+Sevilla III,Espanha - Tercera Division,14/05/17 04:30:00,https://www.academiadasapostasbrasil.com/stats/match/espanha/tercera-division/antoniano/sevilla-iii/2321574,Antoniano,Terminado,1494747000
+Roque Lepe,Espanha - Tercera Division,14/05/17 04:30:00,https://www.academiadasapostasbrasil.com/stats/match/espanha/tercera-division/utrera/san-roque-de-lepe/2321575,Utrera,Terminado,1494747000
+Huétor Tájar,Espanha - Tercera Division,14/05/17 04:30:00,https://www.academiadasapostasbrasil.com/stats/match/espanha/tercera-division/el-palo/huetor-tajar/2326316,El Palo,Terminado,1494747000
+Motril,Espanha - Tercera Division,14/05/17 04:30:00,https://www.academiadasapostasbrasil.com/stats/match/espanha/tercera-division/martos/motril/2326319,Martos,Terminado,1494747000
+Rincón,Espanha - Tercera Division,14/05/17 04:30:00,https://www.academiadasapostasbrasil.com/stats/match/espanha/tercera-division/ud-san-pedro/rincon/2326321,San Pedro,Terminado,1494747000
+Ciudad de Torredonjimeno,Espanha - Tercera Division,14/05/17 04:30:00,https://www.academiadasapostasbrasil.com/stats/match/espanha/tercera-division/antequera/ciudad-de-torredonjimeno/2326322,Antequera,Terminado,1494747000
+Almería II,Espanha - Tercera Division,14/05/17 04:30:00,https://www.academiadasapostasbrasil.com/stats/match/espanha/tercera-division/huetor-vega/almeria-ii/2326325,Huétor Vega,Terminado,1494747000
+VSK Aarhus II,Dinamarca - Denmarksserien,14/05/17 05:00:00,https://www.academiadasapostasbrasil.com/stats/match/dinamarca/denmarksserien/aarhus-fremad-ii/vsk-aarhus-ii/2274775,Fremad II,Terminado,1494748800
+Randers Freja,Dinamarca - Denmarksserien,14/05/17 05:00:00,https://www.academiadasapostasbrasil.com/stats/match/dinamarca/denmarksserien/holstebro/randers-freja/2274776,Holstebro,Terminado,1494748800
+Santa Úrsula,Espanha - Tercera Division,14/05/17 05:00:00,https://www.academiadasapostasbrasil.com/stats/match/espanha/tercera-division/union-viera/santa-ursula/2322925,Viera,Terminado,1494748800
+Ibarra,Espanha - Tercera Division,14/05/17 05:00:00,https://www.academiadasapostasbrasil.com/stats/match/espanha/tercera-division/ud-san-fernando/ibarra/2322926,San Fernando,Terminado,1494748800
+Yaiza,Espanha - Tercera Division,14/05/17 05:00:00,https://www.academiadasapostasbrasil.com/stats/match/espanha/tercera-division/villa-santa-brigida/union-sur-yaiza/2322928,Santa Brígida,Terminado,1494748800
+Panadería Pulido,Espanha - Tercera Division,14/05/17 05:00:00,https://www.academiadasapostasbrasil.com/stats/match/espanha/tercera-division/lanzarote/panaderia-pulido/2322929,Lanzarote,Terminado,1494748800
+Estrella,Espanha - Tercera Division,14/05/17 05:00:00,https://www.academiadasapostasbrasil.com/stats/match/espanha/tercera-division/marino/estrella/2322931,Marino,Terminado,1494748800
+Tenisca,Espanha - Tercera Division,14/05/17 05:00:00,https://www.academiadasapostasbrasil.com/stats/match/espanha/tercera-division/vera/tenisca/2322932,Vera,Terminado,1494748800
+Las Zocas,Espanha - Tercera Division,14/05/17 05:00:00,https://www.academiadasapostasbrasil.com/stats/match/espanha/tercera-division/las-palmas-ii/las-zocas/2322934,Las Palmas II,Terminado,1494748800
+Babelsberg,Alemanha - Regionalliga,14/05/17 05:30:00,https://www.academiadasapostasbrasil.com/stats/match/alemanha/regionalliga/luckenwalde/babelsberg/2273527,Luckenwalde,Terminado,1494750600
+Meuselwitz,Alemanha - Regionalliga,14/05/17 05:30:00,https://www.academiadasapostasbrasil.com/stats/match/alemanha/regionalliga/auerbach/meuselwitz/2273528,Auerbach,Terminado,1494750600
+BFC Dynamo,Alemanha - Regionalliga,14/05/17 05:30:00,https://www.academiadasapostasbrasil.com/stats/match/alemanha/regionalliga/budissa-bautzen/berliner-fc-dynamo/2273529,Budissa,Terminado,1494750600
+Schönberg,Alemanha - Regionalliga,14/05/17 05:30:00,https://www.academiadasapostasbrasil.com/stats/match/alemanha/regionalliga/union-furstenwalde/schonberg/2273531,Fürstenwalde,Terminado,1494750600
+Leipzig II,Alemanha - Regionalliga,14/05/17 05:30:00,https://www.academiadasapostasbrasil.com/stats/match/alemanha/regionalliga/neustrelitz/rb-leipzig-ii/2273532,Neustrelitz,Terminado,1494750600
+Lok Leipzig,Alemanha - Regionalliga,14/05/17 05:30:00,https://www.academiadasapostasbrasil.com/stats/match/alemanha/regionalliga/berlin-ankaraspor/lokomotive-leipzig/2273533,BAK,Terminado,1494750600
+Oberlausitz,Alemanha - Regionalliga,14/05/17 05:30:00,https://www.academiadasapostasbrasil.com/stats/match/alemanha/regionalliga/hertha-berlin-ii/oberlausitz/2273534,Hertha II,Terminado,1494750600
+Nordhausen,Alemanha - Regionalliga,14/05/17 05:30:00,https://www.academiadasapostasbrasil.com/stats/match/alemanha/regionalliga/energie-cottbus/wacker-nordhausen/2273535,Cottbus,Terminado,1494750600
+Magreb,Holanda - Derde Divisie,14/05/17 06:00:00,https://www.academiadasapostasbrasil.com/stats/match/holanda/derde-divisie/de-dijk/magreb-90/2263759,De Dijk,Terminado,1494752400
+JVC,Holanda - Derde Divisie,14/05/17 06:00:00,https://www.academiadasapostasbrasil.com/stats/match/holanda/derde-divisie/dongen/jvc-cuijk/2263760,Dongen,Terminado,1494752400
+Jong Den Bosch,Holanda - Derde Divisie,14/05/17 06:00:00,https://www.academiadasapostasbrasil.com/stats/match/holanda/derde-divisie/hbs/den-bosch-ii/2263761,HBS,Terminado,1494752400
+OFC Oostzaan,Holanda - Derde Divisie,14/05/17 06:00:00,https://www.academiadasapostasbrasil.com/stats/match/holanda/derde-divisie/usv-hercules/ofc-oostzaan/2263762,Hercules,Terminado,1494752400
+EVV,Holanda - Derde Divisie,14/05/17 06:00:00,https://www.academiadasapostasbrasil.com/stats/match/holanda/derde-divisie/hsc-21/evv/2263763,HSC 21,Terminado,1494752400
+Quick '20,Holanda - Derde Divisie,14/05/17 06:00:00,https://www.academiadasapostasbrasil.com/stats/match/holanda/derde-divisie/de-graafschap-ii/quick-20/2263764,Graafschap,Terminado,1494752400
+Achilles '29 II,Holanda - Derde Divisie,14/05/17 06:00:00,https://www.academiadasapostasbrasil.com/stats/match/holanda/derde-divisie/juliana-31/achilles-29-ii/2263765,Juliana 31,Terminado,1494752400
+Be Quick,Holanda - Derde Divisie,14/05/17 06:00:00,https://www.academiadasapostasbrasil.com/stats/match/holanda/derde-divisie/ojc-rosmalen/be-quick-1887/2263766,OJC,Terminado,1494752400
+UDI,Holanda - Derde Divisie,14/05/17 06:00:00,https://www.academiadasapostasbrasil.com/stats/match/holanda/derde-divisie/westlandia/udi-19/2263767,Westlandia,Terminado,1494752400
+HSV II,Alemanha - Regionalliga,14/05/17 06:00:00,https://www.academiadasapostasbrasil.com/stats/match/alemanha/regionalliga/eintracht-norderstedt/hamburgo-ii/2282730,Norderstedt,Terminado,1494752400
+Havelse,Alemanha - Regionalliga,14/05/17 07:00:00,https://www.academiadasapostasbrasil.com/stats/match/alemanha/regionalliga/oldenburg/havelse/2282731,VfB Oldenburg,Terminado,1494756000
+Hildesheim,Alemanha - Regionalliga,14/05/17 07:00:00,https://www.academiadasapostasbrasil.com/stats/match/alemanha/regionalliga/germania-egestorf/borussia-hildesheim/2282732,Egestorf,Terminado,1494756000
+Braunschw. II,Alemanha - Regionalliga,14/05/17 07:00:00,https://www.academiadasapostasbrasil.com/stats/match/alemanha/regionalliga/drochtersen-assel/eintracht-braunschweig-ii/2282733,Drochtersen,Terminado,1494756000
+H96 II,Alemanha - Regionalliga,14/05/17 07:00:00,https://www.academiadasapostasbrasil.com/stats/match/alemanha/regionalliga/meppen-1912/hannover-96-ii/2282734,Meppen,Terminado,1494756000
+Eichede,Alemanha - Regionalliga,14/05/17 07:00:00,https://www.academiadasapostasbrasil.com/stats/match/alemanha/regionalliga/hansa-luneburg/eichede/2282735,LSK Hansa,Terminado,1494756000
+Knokke,Bélgica - 3e Klasse,14/05/17 07:00:00,https://www.academiadasapostasbrasil.com/stats/match/belgica/3e-klasse/berchem-sport/knokke/2447782,Berchem,Terminado,1494756000
+Granollers,Espanha - Tercera Division,14/05/17 08:30:00,https://www.academiadasapostasbrasil.com/stats/match/espanha/tercera-division/figueres/granollers/2306893,Figueres,Terminado,1494761400
+Borja,Espanha - Tercera Division,14/05/17 09:00:00,https://www.academiadasapostasbrasil.com/stats/match/espanha/tercera-division/cdj-tamarite/borja/2312167,Tamarite,Terminado,1494763200
+Oyonesa,Espanha - Tercera Division,14/05/17 09:00:00,https://www.academiadasapostasbrasil.com/stats/match/espanha/tercera-division/river-ebro/oyonesa/2312539,River Ebro,Terminado,1494763200
+Tuilla,Espanha - Tercera Division,14/05/17 09:00:00,https://www.academiadasapostasbrasil.com/stats/match/espanha/tercera-division/sporting-gijon-ii/tuilla/2321126,Gijón II,Terminado,1494763200
+Ceares,Espanha - Tercera Division,14/05/17 09:00:00,https://www.academiadasapostasbrasil.com/stats/match/espanha/tercera-division/llanes/ceares/2321127,Llanes,Terminado,1494763200
+Urraca,Espanha - Tercera Division,14/05/17 09:00:00,https://www.academiadasapostasbrasil.com/stats/match/espanha/tercera-division/real-oviedo-ii/urraca/2321129,Oviedo II,Terminado,1494763200
+Colunga,Espanha - Tercera Division,14/05/17 09:00:00,https://www.academiadasapostasbrasil.com/stats/match/espanha/tercera-division/real-aviles/colunga/2321130,Real Avilés,Terminado,1494763200
+Lenense,Espanha - Tercera Division,14/05/17 09:00:00,https://www.academiadasapostasbrasil.com/stats/match/espanha/tercera-division/siero/lenense/2321131,Siero,Terminado,1494763200
+Llanera,Espanha - Tercera Division,14/05/17 09:00:00,https://www.academiadasapostasbrasil.com/stats/match/espanha/tercera-division/atletico-de-lugones/llanera/2321132,Lugones,Terminado,1494763200
+Praviano,Espanha - Tercera Division,14/05/17 09:00:00,https://www.academiadasapostasbrasil.com/stats/match/espanha/tercera-division/langreo/praviano/2321133,Langreo,Terminado,1494763200
+Tineo,Espanha - Tercera Division,14/05/17 09:00:00,https://www.academiadasapostasbrasil.com/stats/match/espanha/tercera-division/mosconia/tineo/2321134,Mosconia,Terminado,1494763200
+L'Entregu,Espanha - Tercera Division,14/05/17 09:00:00,https://www.academiadasapostasbrasil.com/stats/match/espanha/tercera-division/marino-de-luanco/lentregu/2321135,Marino Luanco,Terminado,1494763200
+Comunicaciones,Argentina - Primera B Metropolitana,14/05/17 09:00:00,https://www.academiadasapostasbrasil.com/stats/match/argentina/primera-b-metropolitana/san-telmo/comunicaciones/2346060,San Telmo,Terminado,1494763200
+Binéfar,Espanha - Tercera Division,14/05/17 09:30:00,https://www.academiadasapostasbrasil.com/stats/match/espanha/tercera-division/sarinena/binefar/2312158,Sariñena,Terminado,1494765000
+Escalerillas,Espanha - Tercera Division,14/05/17 09:30:00,https://www.academiadasapostasbrasil.com/stats/match/espanha/tercera-division/robres/atletico-escalerillas/2312159,Robres,Terminado,1494765000
+Cuarte,Espanha - Tercera Division,14/05/17 09:30:00,https://www.academiadasapostasbrasil.com/stats/match/espanha/tercera-division/andorra/cuarte-industrial/2312160,Andorra,Terminado,1494765000
+Sabiñánigo,Espanha - Tercera Division,14/05/17 09:30:00,https://www.academiadasapostasbrasil.com/stats/match/espanha/tercera-division/tarazona/sabinanigo/2312161,Tarazona,Terminado,1494765000
+Cariñena,Espanha - Tercera Division,14/05/17 09:30:00,https://www.academiadasapostasbrasil.com/stats/match/espanha/tercera-division/illueca/carinena/2312162,Illueca,Terminado,1494765000
+Brea,Espanha - Tercera Division,14/05/17 09:30:00,https://www.academiadasapostasbrasil.com/stats/match/espanha/tercera-division/teruel/brea/2312163,Teruel,Terminado,1494765000
+Belchite,Espanha - Tercera Division,14/05/17 09:30:00,https://www.academiadasapostasbrasil.com/stats/match/espanha/tercera-division/ejea/belchite-97/2312164,Ejea,Terminado,1494765000
+Almudévar,Espanha - Tercera Division,14/05/17 09:30:00,https://www.academiadasapostasbrasil.com/stats/match/espanha/tercera-division/utebo/almudevar/2312166,Utebo,Terminado,1494765000
+Náxara,Espanha - Tercera Division,14/05/17 09:30:00,https://www.academiadasapostasbrasil.com/stats/match/espanha/tercera-division/casalarreina/naxara/2312538,Casalarreina,Terminado,1494765000
+CD Calahorra,Espanha - Tercera Division,14/05/17 09:30:00,https://www.academiadasapostasbrasil.com/stats/match/espanha/tercera-division/vianes/cd-calahorra/2312540,Vianés,Terminado,1494765000
+SD Logroñés,Espanha - Tercera Division,14/05/17 09:30:00,https://www.academiadasapostasbrasil.com/stats/match/espanha/tercera-division/varea/sd-logrones/2312542,Varea,Terminado,1494765000
+San Marcial,Espanha - Tercera Division,14/05/17 09:30:00,https://www.academiadasapostasbrasil.com/stats/match/espanha/tercera-division/villegas/san-marcial/2312543,Villegas,Terminado,1494765000
+Rapid de Murillo,Espanha - Tercera Division,14/05/17 09:30:00,https://www.academiadasapostasbrasil.com/stats/match/espanha/tercera-division/calasancio/rapid-de-murillo/2312544,Calasancio,Terminado,1494765000
+Tedeón,Espanha - Tercera Division,14/05/17 09:30:00,https://www.academiadasapostasbrasil.com/stats/match/espanha/tercera-division/arnedo/tedeon/2312545,Arnedo,Terminado,1494765000
+Alfaro,Espanha - Tercera Division,14/05/17 09:30:00,https://www.academiadasapostasbrasil.com/stats/match/espanha/tercera-division/anguiano/alfaro/2312546,Anguiano,Terminado,1494765000
+Haro,Espanha - Tercera Division,14/05/17 09:30:00,https://www.academiadasapostasbrasil.com/stats/match/espanha/tercera-division/cdfc-la-calzada/haro/2312547,Calzada,Terminado,1494765000
+Cieza,Espanha - Tercera Division,14/05/17 09:45:00,https://www.academiadasapostasbrasil.com/stats/match/espanha/tercera-division/nueva-vanguardia/cieza/2313142,Espinardo,Terminado,1494765900
+Órdenes,Espanha - Tercera Division,14/05/17 10:00:00,https://www.academiadasapostasbrasil.com/stats/match/espanha/tercera-division/villalonga/ordenes/2302366,Villalonga,Terminado,1494766800
+Arosa,Espanha - Tercera Division,14/05/17 10:00:00,https://www.academiadasapostasbrasil.com/stats/match/espanha/tercera-division/rapido-bouzas/arosa/2302367,Bouzas,Terminado,1494766800
+Silva,Espanha - Tercera Division,14/05/17 10:00:00,https://www.academiadasapostasbrasil.com/stats/match/espanha/tercera-division/cerceda/silva/2302369,Cerceda,Terminado,1494766800
+Bergantiños,Espanha - Tercera Division,14/05/17 10:00:00,https://www.academiadasapostasbrasil.com/stats/match/espanha/tercera-division/negreira/bergantinos/2302370,Negreira,Terminado,1494766800
+Dubra,Espanha - Tercera Division,14/05/17 10:00:00,https://www.academiadasapostasbrasil.com/stats/match/espanha/tercera-division/deportivo-la-coruna-ii/dubra/2302372,La Coruña II,Terminado,1494766800
+As Pontes,Espanha - Tercera Division,14/05/17 10:00:00,https://www.academiadasapostasbrasil.com/stats/match/espanha/tercera-division/ribadumia/as-pontes/2302373,Ribadumia,Terminado,1494766800
+CD Castro,Espanha - Tercera Division,14/05/17 10:00:00,https://www.academiadasapostasbrasil.com/stats/match/espanha/tercera-division/celtiga/cd-castro/2302374,Céltiga,Terminado,1494766800
+Alondras,Espanha - Tercera Division,14/05/17 10:00:00,https://www.academiadasapostasbrasil.com/stats/match/espanha/tercera-division/villalbes/alondras/2302375,Villalbés,Terminado,1494766800
+Xàtiva,Espanha - Tercera Division,14/05/17 10:00:00,https://www.academiadasapostasbrasil.com/stats/match/espanha/tercera-division/castellon/olimpic-de-xativa/2305747,Castellón,Terminado,1494766800
+Orihuela,Espanha - Tercera Division,14/05/17 10:00:00,https://www.academiadasapostasbrasil.com/stats/match/espanha/tercera-division/bunol/orihuela/2305748,Buñol,Terminado,1494766800
+Rayo Ibense,Espanha - Tercera Division,14/05/17 10:00:00,https://www.academiadasapostasbrasil.com/stats/match/espanha/tercera-division/ontinyent/rayo-ibense/2305750,Ontinyent,Terminado,1494766800
+Virgen Camino,Espanha - Tercera Division,14/05/17 10:00:00,https://www.academiadasapostasbrasil.com/stats/match/espanha/tercera-division/cultural-cebrerena/la-virgen-del-camino/2306507,Cebrereña,Terminado,1494766800
+Cristo,Espanha - Tercera Division,14/05/17 10:00:00,https://www.academiadasapostasbrasil.com/stats/match/espanha/tercera-division/bembibre/cristo-atletico/2306508,Bembibre,Terminado,1494766800
+Uxama,Espanha - Tercera Division,14/05/17 10:00:00,https://www.academiadasapostasbrasil.com/stats/match/espanha/tercera-division/atletico-tordesillas/sporting-uxama/2306509,Tordesillas,Terminado,1494766800
+Ávila,Espanha - Tercera Division,14/05/17 10:00:00,https://www.academiadasapostasbrasil.com/stats/match/espanha/tercera-division/zamora/real-avila/2306511,Zamora,Terminado,1494766800
+Mirandés II,Espanha - Tercera Division,14/05/17 10:00:00,https://www.academiadasapostasbrasil.com/stats/match/espanha/tercera-division/la-baneza/mirandes-ii/2306512,La Bañeza,Terminado,1494766800
+Numancia II,Espanha - Tercera Division,14/05/17 10:00:00,https://www.academiadasapostasbrasil.com/stats/match/espanha/tercera-division/beroil-bupolsa/numancia-ii/2306513,Beroil Bupolsa,Terminado,1494766800
+Burgos,Espanha - Tercera Division,14/05/17 10:00:00,https://www.academiadasapostasbrasil.com/stats/match/espanha/tercera-division/san-jose-de-soria/burgos-promesas/2306514,San José de Soria,Terminado,1494766800
+Astorga,Espanha - Tercera Division,14/05/17 10:00:00,https://www.academiadasapostasbrasil.com/stats/match/espanha/tercera-division/villamuriel/atletico-astorga/2306515,Villamuriel,Terminado,1494766800
+Segoviana,Espanha - Tercera Division,14/05/17 10:00:00,https://www.academiadasapostasbrasil.com/stats/match/espanha/tercera-division/unionistas-de-salamanca/gimnastica-segoviana/2306516,Unionistas de Salamanca,Terminado,1494766800
+Mar Menor,Espanha - Tercera Division,14/05/17 10:00:00,https://www.academiadasapostasbrasil.com/stats/match/espanha/tercera-division/cap-ciudad-de-murcia/mar-menor/2313134,CAP Murcia,Terminado,1494766800
+Yeclano,Espanha - Tercera Division,14/05/17 10:00:00,https://www.academiadasapostasbrasil.com/stats/match/espanha/tercera-division/pinatar-arena/yeclano/2313136,Pinatar Arena,Terminado,1494766800
+El Palmar,Espanha - Tercera Division,14/05/17 10:00:00,https://www.academiadasapostasbrasil.com/stats/match/espanha/tercera-division/la-hoya-lorca-ii/eg-el-palmar/2313137,La Hoya Lorca II,Terminado,1494766800
+Minera,Espanha - Tercera Division,14/05/17 10:00:00,https://www.academiadasapostasbrasil.com/stats/match/espanha/tercera-division/la-union-cf/deportiva-minera/2313138,La Unión CF,Terminado,1494766800
+Churra,Espanha - Tercera Division,14/05/17 10:00:00,https://www.academiadasapostasbrasil.com/stats/match/espanha/tercera-division/olimpico-totana/edmf-churra/2313140,Totana,Terminado,1494766800
+Lorca Deportiva,Espanha - Tercera Division,14/05/17 10:00:00,https://www.academiadasapostasbrasil.com/stats/match/espanha/tercera-division/ucam-murcia-ii/lorca-deportiva/2313141,UCAM Murcia II,Terminado,1494766800
+Albacete II,Espanha - Tercera Division,14/05/17 10:00:00,https://www.academiadasapostasbrasil.com/stats/match/espanha/tercera-division/yuncos/albacete-ii/2323307,Yuncos,Terminado,1494766800
+Conquense,Espanha - Tercera Division,14/05/17 10:00:00,https://www.academiadasapostasbrasil.com/stats/match/espanha/tercera-division/villarrubia/conquense/2323311,Villarrubia,Terminado,1494766800
+Villarrobledo,Espanha - Tercera Division,14/05/17 10:00:00,https://www.academiadasapostasbrasil.com/stats/match/espanha/tercera-division/talavera-cf/villarrobledo/2323312,Talavera,Terminado,1494766800
+Almansa,Espanha - Tercera Division,14/05/17 10:00:00,https://www.academiadasapostasbrasil.com/stats/match/espanha/tercera-division/madridejos/almansa/2323313,Madridejos,Terminado,1494766800
+Illescas,Espanha - Tercera Division,14/05/17 10:00:00,https://www.academiadasapostasbrasil.com/stats/match/espanha/tercera-division/toledo-ii/illescas/2323315,Toledo II,Terminado,1494766800
+Guadalajara,Espanha - Tercera Division,14/05/17 10:00:00,https://www.academiadasapostasbrasil.com/stats/match/espanha/tercera-division/pedroneras/guadalajara/2323316,Pedroñeras,Terminado,1494766800
+Calamonte,Espanha - Tercera Division,14/05/17 10:00:00,https://www.academiadasapostasbrasil.com/stats/match/espanha/tercera-division/cp-amanecer/calamonte/2333227,Amanecer,Terminado,1494766800
+Jerez,Espanha - Tercera Division,14/05/17 10:00:00,https://www.academiadasapostasbrasil.com/stats/match/espanha/tercera-division/arroyo/jerez/2333228,Arroyo,Terminado,1494766800
+Azuaga,Espanha - Tercera Division,14/05/17 10:00:00,https://www.academiadasapostasbrasil.com/stats/match/espanha/tercera-division/cd-coria/azuaga/2333229,CD Coria,Terminado,1494766800
+Badajoz,Espanha - Tercera Division,14/05/17 10:00:00,https://www.academiadasapostasbrasil.com/stats/match/espanha/tercera-division/atletico-pueblonuevo/badajoz/2333230,Pueblonuevo,Terminado,1494766800
+La Estrella,Espanha - Tercera Division,14/05/17 10:00:00,https://www.academiadasapostasbrasil.com/stats/match/espanha/tercera-division/fuente-de-cantos/la-estrella/2333231,Fuente Cantos,Terminado,1494766800
+Lane United,Estados Unidos - PDL,14/05/17 15:00:00,https://www.academiadasapostasbrasil.com/stats/match/estados-unidos/pdl/victoria-highlanders/lane-united/2417929,Highlanders,Terminado,1494784800
+South Florida Surf,Estados Unidos - PDL,14/05/17 16:00:00,https://www.academiadasapostasbrasil.com/stats/match/estados-unidos/pdl/fc-miami-city/south-florida-surf/2417930,FC Miami City,Terminado,1494788400
+Fresno,Estados Unidos - PDL,14/05/17 17:00:00,https://www.academiadasapostasbrasil.com/stats/match/estados-unidos/pdl/burlingame-dragons/fresno-fuego/2417931,Dragons,Terminado,1494792000
+Rugenbergen,Alemanha - Oberliga,14/05/17 05:00:00,https://www.academiadasapostasbrasil.com/stats/match/alemanha/oberliga/kosova/rugenbergen/2250502,Kosova,Terminado,1494748800
+Türkiye,Alemanha - Oberliga,14/05/17 06:00:00,https://www.academiadasapostasbrasil.com/stats/match/alemanha/oberliga/buchholz/turkiye/2250504,TSV Buchholz,Terminado,1494752400
+Concordia,Alemanha - Oberliga,14/05/17 06:00:00,https://www.academiadasapostasbrasil.com/stats/match/alemanha/oberliga/halstenbek-rellingen/concordia/2250505,Halstenbek-Rel,Terminado,1494752400
+Mecklenburg Schwerin,Alemanha - Oberliga,14/05/17 06:00:00,https://www.academiadasapostasbrasil.com/stats/match/alemanha/oberliga/hansa-rostock-ii/mecklenburg-schwerin/2273766,Hansa II,Terminado,1494752400
+Chemie Leipzig,Alemanha - Oberliga,14/05/17 06:00:00,https://www.academiadasapostasbrasil.com/stats/match/alemanha/oberliga/merseburg/chemie-leipzig/2275446,Merseburg,Terminado,1494752400
+Askania Bernburg,Alemanha - Oberliga,14/05/17 06:00:00,https://www.academiadasapostasbrasil.com/stats/match/alemanha/oberliga/plauen/askania-bernburg/2275447,Plauen,Terminado,1494752400
+Einheit Rudolstadt,Alemanha - Oberliga,14/05/17 06:00:00,https://www.academiadasapostasbrasil.com/stats/match/alemanha/oberliga/germania-halberstadt/einheit-rudolstadt/2275448,Halberstadt,Terminado,1494752400
+Flensburg,Alemanha - Oberliga,14/05/17 06:00:00,https://www.academiadasapostasbrasil.com/stats/match/alemanha/oberliga/strand/flensburger/2301941,NTSV Strand,Terminado,1494752400
+Heide,Alemanha - Oberliga,14/05/17 06:00:00,https://www.academiadasapostasbrasil.com/stats/match/alemanha/oberliga/holstein-kiel-ii/heider/2301944,Holstein II,Terminado,1494752400
+Blau Weis Bornreihe,Alemanha - Oberliga,14/05/17 07:00:00,https://www.academiadasapostasbrasil.com/stats/match/alemanha/oberliga/bersenbruck/blau-weis-bornreihe/2268893,Bersenbrück,Terminado,1494756000
+Northeim,Alemanha - Oberliga,14/05/17 07:00:00,https://www.academiadasapostasbrasil.com/stats/match/alemanha/oberliga/spelle-venhaus/eintracht-northeim/2268895,Spelle-Venhaus,Terminado,1494756000
+Arminia Hannover,Alemanha - Oberliga,14/05/17 07:00:00,https://www.academiadasapostasbrasil.com/stats/match/alemanha/oberliga/osnabruck-ii/arminia-hannover/2268896,Osnabrück II,Terminado,1494756000
+FT Braunschw,Alemanha - Oberliga,14/05/17 07:00:00,https://www.academiadasapostasbrasil.com/stats/match/alemanha/oberliga/heeslinger-sc/braunschweig/2268897,Heeslinger SC,Terminado,1494756000
+ASC Dortmund,Alemanha - Oberliga,14/05/17 07:00:00,https://www.academiadasapostasbrasil.com/stats/match/alemanha/oberliga/eintracht-rheine/asc-dortmund/2277820,Rheine,Terminado,1494756000
+Neuenkirchen,Alemanha - Oberliga,14/05/17 07:00:00,https://www.academiadasapostasbrasil.com/stats/match/alemanha/oberliga/ennepetal/neuenkirchen/2277821,Ennepetal,Terminado,1494756000
+Westfalia Rhynern,Alemanha - Oberliga,14/05/17 07:00:00,https://www.academiadasapostasbrasil.com/stats/match/alemanha/oberliga/brunninghausen/westfalia-rhynern/2277822,Brünninghausen,Terminado,1494756000
+Arminia II,Alemanha - Oberliga,14/05/17 07:00:00,https://www.academiadasapostasbrasil.com/stats/match/alemanha/oberliga/paderborn-07-ii/arminia-bielefeld-ii/2277824,Paderborn 07 II,Terminado,1494756000
+Gütersloh,Alemanha - Oberliga,14/05/17 07:00:00,https://www.academiadasapostasbrasil.com/stats/match/alemanha/oberliga/stadtlohn/gutersloh/2277825,Stadtlohn,Terminado,1494756000
+Erkenschwick,Alemanha - Oberliga,14/05/17 07:00:00,https://www.academiadasapostasbrasil.com/stats/match/alemanha/oberliga/erndtebruck/erkenschwick/2277826,Erndtebrück,Terminado,1494756000
+Hassel,Alemanha - Oberliga,14/05/17 07:00:00,https://www.academiadasapostasbrasil.com/stats/match/alemanha/oberliga/roland-beckum/hassel/2277827,Roland Beckum,Terminado,1494756000
+Marl-Hüls,Alemanha - Oberliga,14/05/17 07:00:00,https://www.academiadasapostasbrasil.com/stats/match/alemanha/oberliga/hammer/marl-huls/2277828,Hammer SpVg,Terminado,1494756000
+Schonnebeck,Alemanha - Oberliga,14/05/17 07:00:00,https://www.academiadasapostasbrasil.com/stats/match/alemanha/oberliga/krefeld-fischeln/schonnebeck/2298917,Krefeld-Fischeln,Terminado,1494756000
+SW Essen,Alemanha - Oberliga,14/05/17 07:00:00,https://www.academiadasapostasbrasil.com/stats/match/alemanha/oberliga/velbert-1902/schwarz-weis-essen/2298918,Velbert,Terminado,1494756000
+Hönnepel-Niedermörmter,Alemanha - Oberliga,14/05/17 07:00:00,https://www.academiadasapostasbrasil.com/stats/match/alemanha/oberliga/kray/honnepel-niedermormter/2298919,Kray,Terminado,1494756000
+Homberg,Alemanha - Oberliga,14/05/17 07:00:00,https://www.academiadasapostasbrasil.com/stats/match/alemanha/oberliga/sf-baumberg/homberg/2298920,Baumberg,Terminado,1494756000
+TuRU,Alemanha - Oberliga,14/05/17 07:00:00,https://www.academiadasapostasbrasil.com/stats/match/alemanha/oberliga/bocholt/dusseldorf/2298921,Bocholt,Terminado,1494756000
+Uerdingen,Alemanha - Oberliga,14/05/17 07:00:00,https://www.academiadasapostasbrasil.com/stats/match/alemanha/oberliga/jahn-dinslaken-hiesfeld/uerdingen-05/2298922,Dinslaken,Terminado,1494756000
+Germania Ratingen,Alemanha - Oberliga,14/05/17 07:00:00,https://www.academiadasapostasbrasil.com/stats/match/alemanha/oberliga/meerbusch/germania-ratingen/2298923,Meerbusch,Terminado,1494756000
+Kapellen-Erft,Alemanha - Oberliga,14/05/17 07:00:00,https://www.academiadasapostasbrasil.com/stats/match/alemanha/oberliga/hilden/kapellen-erft/2298925,Hilden,Terminado,1494756000
+Neumünster,Alemanha - Oberliga,14/05/17 07:00:00,https://www.academiadasapostasbrasil.com/stats/match/alemanha/oberliga/tsv-lagerdorf/neumunster/2301945,TSV Lägerdorf,Terminado,1494756000
+Oldenburger SV,Alemanha - Oberliga,14/05/17 07:00:00,https://www.academiadasapostasbrasil.com/stats/match/alemanha/oberliga/hartenholm/oldenburger-sv/2301946,Hartenholm,Terminado,1494756000
+Borussia Freialdenhoven,Alemanha - Oberliga,14/05/17 07:00:00,https://www.academiadasapostasbrasil.com/stats/match/alemanha/oberliga/bergisch-gladbach/borussia-freialdenhoven/2317831,Bergisch Gladb,Terminado,1494756000
+TV Herkenrath,Alemanha - Oberliga,14/05/17 07:00:00,https://www.academiadasapostasbrasil.com/stats/match/alemanha/oberliga/euskirchen/tv-herkenrath/2317832,Euskirchen,Terminado,1494756000
+Rheinbach,Alemanha - Oberliga,14/05/17 07:00:00,https://www.academiadasapostasbrasil.com/stats/match/alemanha/oberliga/inde-hahn/rheinbach/2317834,Inde Hahn,Terminado,1494756000
+Hürth,Alemanha - Oberliga,14/05/17 07:00:00,https://www.academiadasapostasbrasil.com/stats/match/alemanha/oberliga/viktoria-arnoldsweiler/hurth/2317835,Arnoldsweiler,Terminado,1494756000
+Leher TS,Alemanha - Oberliga,14/05/17 07:00:00,https://www.academiadasapostasbrasil.com/stats/match/alemanha/oberliga/grohn/leher-ts/2318782,Grohn,Terminado,1494756000
+Blau-Weiß Friesdorf,Alemanha - Oberliga,14/05/17 07:15:00,https://www.academiadasapostasbrasil.com/stats/match/alemanha/oberliga/wesseling-urfeld/blau-weiss-friesdorf/2317837,Wesseling-Urfeld,Terminado,1494756900
+Windeck,Alemanha - Oberliga,14/05/17 07:30:00,https://www.academiadasapostasbrasil.com/stats/match/alemanha/oberliga/hennef-05/germania-windeck/2317836,Hennef,Terminado,1494757800
+Siegburger,Alemanha - Oberliga,14/05/17 07:30:00,https://www.academiadasapostasbrasil.com/stats/match/alemanha/oberliga/hilal-maroc-bergheim/siegburger/2317838,Hilal Maroc Bergheim,Terminado,1494757800
+Forest Green,Inglaterra - Conferência Nacional,14/05/17 08:00:00,https://www.academiadasapostasbrasil.com/stats/match/inglaterra/conferencia-nacional/tranmere-rovers/forest-green-rovers/2429976,Tranmere,Terminado,1494759600
+Gifhorn,Alemanha - Oberliga,14/05/17 08:30:00,https://www.academiadasapostasbrasil.com/stats/match/alemanha/oberliga/cloppenburg/gifhorn/2268892,Cloppenburg,Terminado,1494761400
+Guajará,Brasil - Rondoniense,14/05/17 14:00:00,https://www.academiadasapostasbrasil.com/stats/match/brasil/rondoniense/ji-parana/guajara/2420849,Ji-Paraná,Terminado,1494781200
+Barcelona RO,Brasil - Rondoniense,14/05/17 14:00:00,https://www.academiadasapostasbrasil.com/stats/match/brasil/rondoniense/vilhena/barcelona-ro/2420850,Vilhena,Terminado,1494781200
+Gênus,Brasil - Rondoniense,14/05/17 14:00:00,https://www.academiadasapostasbrasil.com/stats/match/brasil/rondoniense/rondoniense/genus/2420851,Rondoniense,Terminado,1494781200
+Real Ariquemes,Brasil - Rondoniense,14/05/17 14:00:00,https://www.academiadasapostasbrasil.com/stats/match/brasil/rondoniense/ariquemes/real-ariquemes/2420852,Ariquemes,Terminado,1494781200
+Ypiranga,Brasil - Baiano 2ª Div,14/05/17 07:00:00,https://www.academiadasapostasbrasil.com/stats/match/brasil/baiano-2-div/jequie/ypiranga-ba/2419364,Jequié,Terminado,1494756000
+Colo Colo,Brasil - Baiano 2ª Div,14/05/17 13:00:00,https://www.academiadasapostasbrasil.com/stats/match/brasil/baiano-2-div/atletico-alagoinhas/colo-colo/2419363,Alagoinhas,Terminado,1494777600
+Iguatu,Brasil - Cearense 2,14/05/17 12:30:00,https://www.academiadasapostasbrasil.com/stats/match/brasil/cearense-2/maracana/iguatu/2447757,Maracanã,Terminado,1494775800
+CAB,Brasil - Paranaense 2,14/05/17 12:30:00,https://www.academiadasapostasbrasil.com/stats/match/brasil/paranaense-2/paranavai/clube-andraus-brasil/2442729,Paranavaí,Terminado,1494775800
+Cascavel,Brasil - Paranaense 2,14/05/17 15:30:00,https://www.academiadasapostasbrasil.com/stats/match/brasil/paranaense-2/maringa/cascavel-cr/2442730,Maringá,Terminado,1494786600
+Nacional,Brasil - Paulista A3,14/05/17 07:00:00,https://www.academiadasapostasbrasil.com/stats/match/brasil/paulista-a3/olimpia/nacional-sp/2447618,Olímpia,Terminado,1494756000
+Francana,Brasil - Paulista Série B,14/05/17 07:00:00,https://www.academiadasapostasbrasil.com/stats/match/brasil/paulista-serie-b/jaguariuna/francana/2419585,Jaguariúna,Terminado,1494756000
+Brasilis,Brasil - Paulista Série B,14/05/17 07:00:00,https://www.academiadasapostasbrasil.com/stats/match/brasil/paulista-serie-b/xv-de-jau/brasilis/2419587,XV de Jaú,Terminado,1494756000
+Itararé,Brasil - Paulista Série B,14/05/17 07:00:00,https://www.academiadasapostasbrasil.com/stats/match/brasil/paulista-serie-b/diadema/itarare/2419590,Diadema,Terminado,1494756000
+Mauaense,Brasil - Paulista Série B,14/05/17 07:00:00,https://www.academiadasapostasbrasil.com/stats/match/brasil/paulista-serie-b/jabaquara/mauaense/2419592,Jabaquara,Terminado,1494756000
+Manthiqueira,Brasil - Paulista Série B,14/05/17 07:00:00,https://www.academiadasapostasbrasil.com/stats/match/brasil/paulista-serie-b/guaratingueta/manthiqueira/2419594,Guaratinguetá,Cancelado,1494756000
+Atlético Mogi,Brasil - Paulista Série B,14/05/17 07:00:00,https://www.academiadasapostasbrasil.com/stats/match/brasil/paulista-serie-b/uniao-mogi/atletico-mogi/2419595,União Mogi,Terminado,1494756000
+Assisense,Brasil - Paulista Série B,14/05/17 12:00:00,https://www.academiadasapostasbrasil.com/stats/match/brasil/paulista-serie-b/osvaldo-cruz/assisense/2419582,Osvaldo Cruz,Terminado,1494774000

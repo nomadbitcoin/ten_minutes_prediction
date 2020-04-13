@@ -1,0 +1,843 @@
+back_team,countrie,datetime,event_link,home_team,status,timestamp
+Celta de Vigo,Espanha - Primera Division,16/03/19 09:15:00,https://www.academiadasapostasbrasil.com/stats/match/espanha/primera-division/real-madrid/celta-de-vigo/2857295,Real Madrid,Terminado,1552738500
+Atlético,Espanha - Primera Division,16/03/19 11:30:00,https://www.academiadasapostasbrasil.com/stats/match/espanha/primera-division/athletic-bilbao/atletico-de-madrid/2857290,Athletic Club,Terminado,1552746600
+Dortmund,Alemanha - Bundesliga,16/03/19 11:30:00,https://www.academiadasapostasbrasil.com/stats/match/alemanha/bundesliga/hertha-berlin/borussia-dortmund/2811140,Hertha BSC,Terminado,1552746600
+Marítimo,Portugal - Liga Sagres,16/03/19 14:30:00,https://www.academiadasapostasbrasil.com/stats/match/portugal/liga-sagres/porto/maritimo/2826130,Porto,Terminado,1552757400
+Palmeiras,Brasil - Paulista A1,16/03/19 13:30:00,https://www.academiadasapostasbrasil.com/stats/match/brasil/paulista-a1/sao-paulo/palmeiras/2940454,São Paulo,Terminado,1552753800
+Man City,Inglaterra - Copa FA,16/03/19 11:20:00,https://www.academiadasapostasbrasil.com/stats/match/inglaterra/copa-fa/swansea-city/manchester-city/2986637,Swansea,Terminado,1552746000
+Man Utd,Inglaterra - Copa FA,16/03/19 13:55:00,https://www.academiadasapostasbrasil.com/stats/match/inglaterra/copa-fa/wolverhampton/manchester-united/2986639,Wolverhampton,Terminado,1552755300
+Tucumán,Argentina - Campeonato Argentino,16/03/19 10:15:00,https://www.academiadasapostasbrasil.com/stats/match/argentina/campeonato-argentino/velez-sarsfield/atletico-tucuman/2849061,Vélez,Terminado,1552742100
+Lanús,Argentina - Campeonato Argentino,16/03/19 12:30:00,https://www.academiadasapostasbrasil.com/stats/match/argentina/campeonato-argentino/union-de-santa-fe/lanus/2849070,Unión SF,Terminado,1552750200
+Arg Juniors,Argentina - Campeonato Argentino,16/03/19 14:45:00,https://www.academiadasapostasbrasil.com/stats/match/argentina/campeonato-argentino/san-martin-de-san-juan/argentinos-juniors/2849069,San Martín SJ,Terminado,1552758300
+Belgrano,Argentina - Campeonato Argentino,16/03/19 17:00:00,https://www.academiadasapostasbrasil.com/stats/match/argentina/campeonato-argentino/racing/belgrano/2849065,Racing,Terminado,1552766400
+Pumas,México - Primera Division,15/03/19 21:00:00,https://www.academiadasapostasbrasil.com/stats/match/mexico/primera-division/puebla/pumas/2950601,Puebla,Terminado,1552694400
+Pachuca,México - Primera Division,16/03/19 17:00:00,https://www.academiadasapostasbrasil.com/stats/match/mexico/primera-division/cruz-azul/pachuca/2950602,Cruz Azul,Terminado,1552766400
+América,México - Primera Division,16/03/19 19:00:00,https://www.academiadasapostasbrasil.com/stats/match/mexico/primera-division/chivas-de-guadalajara/america-mexico/2950603,Guadalajara,Terminado,1552773600
+Querétaro,México - Primera Division,16/03/19 21:00:00,https://www.academiadasapostasbrasil.com/stats/match/mexico/primera-division/tigres/queretaro/2950604,Tigres,Terminado,1552780800
+Newcastle,Inglaterra - Barclays Premier League,16/03/19 09:00:00,https://www.academiadasapostasbrasil.com/stats/match/inglaterra/barclays-premier-league/bournemouth/newcastle/2795570,Bournemouth,Terminado,1552737600
+Leicester,Inglaterra - Barclays Premier League,16/03/19 09:00:00,https://www.academiadasapostasbrasil.com/stats/match/inglaterra/barclays-premier-league/burnley/leicester-city/2795572,Burnley,Terminado,1552737600
+Huddersfield,Inglaterra - Barclays Premier League,16/03/19 09:00:00,https://www.academiadasapostasbrasil.com/stats/match/inglaterra/barclays-premier-league/west-ham/huddersfield-town/2795578,West Ham,Terminado,1552737600
+Alavés,Espanha - Primera Division,16/03/19 06:00:00,https://www.academiadasapostasbrasil.com/stats/match/espanha/primera-division/huesca/alaves/2857293,Huesca,Terminado,1552726800
+Girona,Espanha - Primera Division,16/03/19 13:45:00,https://www.academiadasapostasbrasil.com/stats/match/espanha/primera-division/leganes/girona/2857297,Leganés,Terminado,1552754700
+Leipzig,Alemanha - Bundesliga,16/03/19 08:30:00,https://www.academiadasapostasbrasil.com/stats/match/alemanha/bundesliga/schalke-04/rb-leipzig/2811135,Schalke 04,Terminado,1552735800
+Hoffenheim,Alemanha - Bundesliga,16/03/19 08:30:00,https://www.academiadasapostasbrasil.com/stats/match/alemanha/bundesliga/stuttgart/hoffenheim/2811137,Stuttgart,Terminado,1552735800
+Hannover,Alemanha - Bundesliga,16/03/19 08:30:00,https://www.academiadasapostasbrasil.com/stats/match/alemanha/bundesliga/augsburg/hannover/2811141,Augsburg,Terminado,1552735800
+Düsseldorf,Alemanha - Bundesliga,16/03/19 08:30:00,https://www.academiadasapostasbrasil.com/stats/match/alemanha/bundesliga/wolfsburg/fortuna-dusseldorf/2811142,Wolfsburg,Terminado,1552735800
+Portimonense,Portugal - Liga Sagres,16/03/19 09:30:00,https://www.academiadasapostasbrasil.com/stats/match/portugal/liga-sagres/belenenses/portimonense/2826131,Belenenses,Terminado,1552739400
+Braga,Portugal - Liga Sagres,16/03/19 09:30:00,https://www.academiadasapostasbrasil.com/stats/match/portugal/liga-sagres/vitoria-de-setubal/braga/2826133,Setúbal,Terminado,1552739400
+Boavista,Portugal - Liga Sagres,16/03/19 12:00:00,https://www.academiadasapostasbrasil.com/stats/match/portugal/liga-sagres/vitoria-de-guimaraes/boavista/2826135,Guimarães,Terminado,1552748400
+Guarani,Brasil - Paulista A1,16/03/19 16:00:00,https://www.academiadasapostasbrasil.com/stats/match/brasil/paulista-a1/ponte-preta/guarani/2940456,Ponte Preta,Terminado,1552762800
+Madureira,Brasil - Carioca 1ª Div,16/03/19 13:30:00,https://www.academiadasapostasbrasil.com/stats/match/brasil/carioca-1-div/resende/madureira/2968554,Resende,Terminado,1552753800
+Volta Redonda,Brasil - Carioca 1ª Div,16/03/19 16:00:00,https://www.academiadasapostasbrasil.com/stats/match/brasil/carioca-1-div/flamengo/volta-redonda/2968550,Flamengo,Terminado,1552762800
+Amiens,França - Ligue 1,16/03/19 13:00:00,https://www.academiadasapostasbrasil.com/stats/match/franca/ligue-1/angers/amiens/2792496,Angers,Terminado,1552752000
+Saint-Étienne,França - Ligue 1,16/03/19 13:00:00,https://www.academiadasapostasbrasil.com/stats/match/franca/ligue-1/caen/saint-etienne/2792498,Caen,Terminado,1552752000
+Dijon,França - Ligue 1,16/03/19 13:00:00,https://www.academiadasapostasbrasil.com/stats/match/franca/ligue-1/guingamp/dijon/2792499,Guingamp,Terminado,1552752000
+Strasbourg,França - Ligue 1,16/03/19 13:00:00,https://www.academiadasapostasbrasil.com/stats/match/franca/ligue-1/nimes/strasbourg/2792503,Nîmes,Terminado,1552752000
+Sampdoria,Itália - Serie A TIM,16/03/19 08:00:00,https://www.academiadasapostasbrasil.com/stats/match/italia/serie-a-tim/sassuolo/sampdoria/2864035,Sassuolo,Terminado,1552734000
+Roma,Itália - Serie A TIM,16/03/19 11:00:00,https://www.academiadasapostasbrasil.com/stats/match/italia/serie-a-tim/spal/roma/2864034,SPAL,Terminado,1552744800
+Bologna,Itália - Serie A TIM,16/03/19 13:30:00,https://www.academiadasapostasbrasil.com/stats/match/italia/serie-a-tim/torino/bologna/2864027,Torino,Terminado,1552753800
+Tunis,África - Liga dos Campeões da África,16/03/19 07:00:00,https://www.academiadasapostasbrasil.com/stats/match/africa/liga-dos-campeoes-da-africa/platinum/esperance-de-tunis/2955387,Platinum,Terminado,1552730400
+Ismaily,África - Liga dos Campeões da África,16/03/19 07:00:00,https://www.academiadasapostasbrasil.com/stats/match/africa/liga-dos-campeoes-da-africa/club-africain/ismaily-sc/2955396,Club Africain,Terminado,1552730400
+CS Constantine,África - Liga dos Campeões da África,16/03/19 07:00:00,https://www.academiadasapostasbrasil.com/stats/match/africa/liga-dos-campeoes-da-africa/tp-mazembe-englebert/cs-constantine/2955401,Mazembe,Terminado,1552730400
+Mamelodi,África - Liga dos Campeões da África,16/03/19 10:00:00,https://www.academiadasapostasbrasil.com/stats/match/africa/liga-dos-campeoes-da-africa/wac-casablanca/mamelodi-sundowns/2955367,Wydad AC,Terminado,1552741200
+ASEC,África - Liga dos Campeões da África,16/03/19 10:00:00,https://www.academiadasapostasbrasil.com/stats/match/africa/liga-dos-campeoes-da-africa/lobi-stars/asec-mimosas/2955372,Lobi Stars,Terminado,1552741200
+Pirates,África - Liga dos Campeões da África,16/03/19 10:00:00,https://www.academiadasapostasbrasil.com/stats/match/africa/liga-dos-campeoes-da-africa/horoya/orlando-pirates/2955384,Horoya,Terminado,1552741200
+JS Saoura,África - Liga dos Campeões da África,16/03/19 10:00:00,https://www.academiadasapostasbrasil.com/stats/match/africa/liga-dos-campeoes-da-africa/al-ahly/js-saoura/2955403,Ahly,Terminado,1552741200
+V.Club,África - Liga dos Campeões da África,16/03/19 10:00:00,https://www.academiadasapostasbrasil.com/stats/match/africa/liga-dos-campeoes-da-africa/simba/asv-club/2955411,Simba,Terminado,1552741200
+Univ Chile,Chile - Primera Division,16/03/19 15:00:00,https://www.academiadasapostasbrasil.com/stats/match/chile/primera-division/univ-de-concepcion/univ-de-chile/2977547,Uni Concepción,Terminado,1552759200
+O'Higgins,Chile - Primera Division,16/03/19 17:30:00,https://www.academiadasapostasbrasil.com/stats/match/chile/primera-division/audax-italiano/ohiggins/2977548,Audax,Terminado,1552768200
+Uni San Martín,Peru - Primera Division,16/03/19 14:30:00,https://www.academiadasapostasbrasil.com/stats/match/peru/primera-division/union-comercio/univ-san-martin/2968422,Unión Comercio,Terminado,1552757400
+Ayacucho,Peru - Primera Division,16/03/19 16:45:00,https://www.academiadasapostasbrasil.com/stats/match/peru/primera-division/sport-huancayo/ayacucho/2968420,Huancayo,Terminado,1552765500
+Municipal,Peru - Primera Division,16/03/19 19:00:00,https://www.academiadasapostasbrasil.com/stats/match/peru/primera-division/alianza-lima/deportivo-municipal/2968421,Alianza,Terminado,1552773600
+Nacional,Uruguai - Primera Division,16/03/19 13:30:00,https://www.academiadasapostasbrasil.com/stats/match/uruguai/primera-division/danubio/nacional-uruguai/2983910,Danubio,Terminado,1552753800
+Fénix,Uruguai - Primera Division,16/03/19 13:30:00,https://www.academiadasapostasbrasil.com/stats/match/uruguai/primera-division/boston-river/fenix/2983911,Boston River,Terminado,1552753800
+Defensor Sp.,Uruguai - Primera Division,16/03/19 13:30:00,https://www.academiadasapostasbrasil.com/stats/match/uruguai/primera-division/liverpool-montevideo/defensor/2983914,Liverpool,Terminado,1552753800
+Cerro,Uruguai - Primera Division,16/03/19 16:30:00,https://www.academiadasapostasbrasil.com/stats/match/uruguai/primera-division/cerro-largo/cerro/2983908,Cerro Largo,Terminado,1552764600
+Sheff Utd,Inglaterra - Championship,16/03/19 06:30:00,https://www.academiadasapostasbrasil.com/stats/match/inglaterra/championship/leeds-united/sheffield-united/2802228,Leeds,Terminado,1552728600
+Middlesbrough,Inglaterra - Championship,16/03/19 09:00:00,https://www.academiadasapostasbrasil.com/stats/match/inglaterra/championship/aston-villa/middlesbrough/2802220,Aston Villa,Terminado,1552737600
+West Bromwich,Inglaterra - Championship,16/03/19 09:00:00,https://www.academiadasapostasbrasil.com/stats/match/inglaterra/championship/brentford/west-bromwich/2802222,Brentford,Terminado,1552737600
+QPR,Inglaterra - Championship,16/03/19 09:00:00,https://www.academiadasapostasbrasil.com/stats/match/inglaterra/championship/hull-city/queens-park-rangers/2802224,Hull,Terminado,1552737600
+Nottm Forest,Inglaterra - Championship,16/03/19 09:00:00,https://www.academiadasapostasbrasil.com/stats/match/inglaterra/championship/ipswich-town/nottingham-forest/2802226,Ipswich,Terminado,1552737600
+Birmingham,Inglaterra - Championship,16/03/19 09:00:00,https://www.academiadasapostasbrasil.com/stats/match/inglaterra/championship/preston-north-end/birmingham-city/2802232,Preston,Terminado,1552737600
+Norwich,Inglaterra - Championship,16/03/19 09:00:00,https://www.academiadasapostasbrasil.com/stats/match/inglaterra/championship/rotherham-united/norwich-city/2802234,Rotherham,Terminado,1552737600
+Blackburn,Inglaterra - Championship,16/03/19 09:00:00,https://www.academiadasapostasbrasil.com/stats/match/inglaterra/championship/sheffield-wednesday/blackburn-rovers/2802236,Sheff Wed,Terminado,1552737600
+Reading,Inglaterra - Championship,16/03/19 09:00:00,https://www.academiadasapostasbrasil.com/stats/match/inglaterra/championship/stoke/reading/2802238,Stoke,Terminado,1552737600
+Bolton,Inglaterra - Championship,16/03/19 09:00:00,https://www.academiadasapostasbrasil.com/stats/match/inglaterra/championship/wigan/bolton/2802242,Wigan,Terminado,1552737600
+Crystal Palace,Inglaterra - Copa FA,16/03/19 06:15:00,https://www.academiadasapostasbrasil.com/stats/match/inglaterra/copa-fa/watford/crystal-palace/2986638,Watford,Terminado,1552727700
+Extremadura,Espanha - Liga Adelante,16/03/19 09:00:00,https://www.academiadasapostasbrasil.com/stats/match/espanha/liga-adelante/albacete/extremadura-ud/2861876,Albacete,Terminado,1552737600
+Lugo,Espanha - Liga Adelante,16/03/19 11:00:00,https://www.academiadasapostasbrasil.com/stats/match/espanha/liga-adelante/cadiz/lugo/2861879,Cádiz,Terminado,1552744800
+Tenerife,Espanha - Liga Adelante,16/03/19 13:30:00,https://www.academiadasapostasbrasil.com/stats/match/espanha/liga-adelante/alcorcon/tenerife/2861877,Alcorcón,Terminado,1552753800
+Elche,Espanha - Liga Adelante,16/03/19 13:30:00,https://www.academiadasapostasbrasil.com/stats/match/espanha/liga-adelante/zaragoza/elche/2861884,Zaragoza,Terminado,1552753800
+La Coruña,Espanha - Liga Adelante,16/03/19 18:00:00,https://www.academiadasapostasbrasil.com/stats/match/espanha/liga-adelante/reus-deportiu/deportivo-la-coruna/2861883,Reus,Terminado,1552770000
+Cittadella,Itália - Serie B,16/03/19 08:00:00,https://www.academiadasapostasbrasil.com/stats/match/italia/serie-b/foggia/cittadella/2893924,Foggia,Terminado,1552734000
+Perugia,Itália - Serie B,16/03/19 08:00:00,https://www.academiadasapostasbrasil.com/stats/match/italia/serie-b/calcio-padova/perugia/2893928,Calcio Padova,Terminado,1552734000
+Salernitana,Itália - Serie B,16/03/19 08:00:00,https://www.academiadasapostasbrasil.com/stats/match/italia/serie-b/livorno/salernitana/2893929,Livorno,Terminado,1552734000
+Spezia,Itália - Serie B,16/03/19 08:00:00,https://www.academiadasapostasbrasil.com/stats/match/italia/serie-b/benevento/spezia/2893930,Benevento,Terminado,1552734000
+Ascoli,Itália - Serie B,16/03/19 11:00:00,https://www.academiadasapostasbrasil.com/stats/match/italia/serie-b/verona/ascoli/2893922,Verona,Terminado,1552744800
+Braga II,Portugal - Liga Vitalis,16/03/19 05:00:00,https://www.academiadasapostasbrasil.com/stats/match/portugal/liga-vitalis/academica-de-coimbra/sporting-braga-ii/2826440,Académica,Terminado,1552723200
+Penafiel,Portugal - Liga Vitalis,16/03/19 09:00:00,https://www.academiadasapostasbrasil.com/stats/match/portugal/liga-vitalis/benfica-ii/penafiel/2826436,Benfica II,Terminado,1552737600
+Viseu,Portugal - Liga Vitalis,16/03/19 09:00:00,https://www.academiadasapostasbrasil.com/stats/match/portugal/liga-vitalis/mafra/academico-viseu/2826437,Mafra,Terminado,1552737600
+Arouca,Portugal - Liga Vitalis,16/03/19 09:00:00,https://www.academiadasapostasbrasil.com/stats/match/portugal/liga-vitalis/leixoes/arouca/2826442,Leixões,Terminado,1552737600
+Darmstadt 98,Alemanha - 2. Liga,16/03/19 06:00:00,https://www.academiadasapostasbrasil.com/stats/match/alemanha/2-liga/hamburgo/darmstadt-98/2811441,Hamburg,Terminado,1552726800
+St. Pauli,Alemanha - 2. Liga,16/03/19 06:00:00,https://www.academiadasapostasbrasil.com/stats/match/alemanha/2-liga/sandhausen/st-pauli/2811446,Sandhausen,Terminado,1552726800
+Magdeburg,Alemanha - 2. Liga,16/03/19 06:00:00,https://www.academiadasapostasbrasil.com/stats/match/alemanha/2-liga/dynamo-dresden/magdeburg/2811448,Dresden,Terminado,1552726800
+Brest,França - Ligue 2,16/03/19 08:00:00,https://www.academiadasapostasbrasil.com/stats/match/franca/ligue-2/lorient/brestois/2792881,Lorient,Terminado,1552734000
+De Graafschap,Holanda - Eredivisie,16/03/19 11:30:00,https://www.academiadasapostasbrasil.com/stats/match/holanda/eredivisie/heerenveen/de-graafschap/2794153,Heerenveen,Terminado,1552746600
+Willem II,Holanda - Eredivisie,16/03/19 12:45:00,https://www.academiadasapostasbrasil.com/stats/match/holanda/eredivisie/feyenoord/willem-ii/2794154,Feyenoord,Terminado,1552751100
+Utrecht,Holanda - Eredivisie,16/03/19 12:45:00,https://www.academiadasapostasbrasil.com/stats/match/holanda/eredivisie/nac-breda/utrecht/2794155,NAC,Terminado,1552751100
+Vitesse,Holanda - Eredivisie,16/03/19 13:45:00,https://www.academiadasapostasbrasil.com/stats/match/holanda/eredivisie/heracles-almelo/vitesse/2794156,Heracles,Terminado,1552754700
+Rize,Turquia - Super LIga,16/03/19 04:30:00,https://www.academiadasapostasbrasil.com/stats/match/turquia/super-liga/konyaspor/caykur-rizespor/2827857,Konya,Terminado,1552721400
+Kasımpaşa,Turquia - Super LIga,16/03/19 07:00:00,https://www.academiadasapostasbrasil.com/stats/match/turquia/super-liga/akhisar-belediyespor/kasimpasa/2827853,Akhisar,Terminado,1552730400
+Trabzon,Turquia - Super LIga,16/03/19 07:00:00,https://www.academiadasapostasbrasil.com/stats/match/turquia/super-liga/bb-erzurumspor/trabzonspor/2827858,BB Erzurumspor,Terminado,1552730400
+Alanya,Turquia - Super LIga,16/03/19 10:00:00,https://www.academiadasapostasbrasil.com/stats/match/turquia/super-liga/antalyaspor/alanyaspor/2827859,Antalya,Terminado,1552741200
+Göztepe,Turquia - Super LIga,16/03/19 10:00:00,https://www.academiadasapostasbrasil.com/stats/match/turquia/super-liga/besiktas/goztepe-izmir/2827860,Beşiktaş,Terminado,1552741200
+Oleksandria,Ucrânia - Liga Premier,16/03/19 06:00:00,https://www.academiadasapostasbrasil.com/stats/match/ucrania/liga-premier/chornomorets-odessa/oleksandria/2799011,Chornomorets,Terminado,1552726800
+Shakhtar D,Ucrânia - Liga Premier,16/03/19 09:00:00,https://www.academiadasapostasbrasil.com/stats/match/ucrania/liga-premier/zorya-luhansk/shakhtar-donetsk/2799009,Zorya,Terminado,1552737600
+Sounders,Estados Unidos - Major League Soccer,16/03/19 11:00:00,https://www.academiadasapostasbrasil.com/stats/match/estados-unidos/major-league-soccer/chicago-fire/seattle-sounders/2959836,Chicago,Terminado,1552744800
+Dallas,Estados Unidos - Major League Soccer,16/03/19 12:00:00,https://www.academiadasapostasbrasil.com/stats/match/estados-unidos/major-league-soccer/columbus-crew/fc-dallas/2959837,Columbus,Terminado,1552748400
+Whitecaps,Estados Unidos - Major League Soccer,16/03/19 13:00:00,https://www.academiadasapostasbrasil.com/stats/match/estados-unidos/major-league-soccer/houston-dynamo/whitecaps/2959839,Houston,Terminado,1552752000
+Earthquakes,Estados Unidos - Major League Soccer,16/03/19 13:30:00,https://www.academiadasapostasbrasil.com/stats/match/estados-unidos/major-league-soccer/new-york-rb/sj-earthquakes/2959835,New York,Terminado,1552753800
+Montreal,Estados Unidos - Major League Soccer,16/03/19 14:00:00,https://www.academiadasapostasbrasil.com/stats/match/estados-unidos/major-league-soccer/orlando-city/montreal-impact/2959841,Orlando,Terminado,1552755600
+Salt Lake,Estados Unidos - Major League Soccer,16/03/19 18:00:00,https://www.academiadasapostasbrasil.com/stats/match/estados-unidos/major-league-soccer/dc-united/real-salt-lake/2959838,DC United,Terminado,1552770000
+Minnesota,Estados Unidos - Major League Soccer,16/03/19 20:30:00,https://www.academiadasapostasbrasil.com/stats/match/estados-unidos/major-league-soccer/los-angeles-galaxy/minnesota-united/2959840,Galaxy,Terminado,1552779000
+Häcken,Suécia - Svenska Cupen,16/03/19 11:15:00,https://www.academiadasapostasbrasil.com/stats/match/suecia/svenska-cupen/djurgardens/hacken/2994336,Djurgården,Terminado,1552745700
+Nacional,Colômbia - Primera División,16/03/19 14:15:00,https://www.academiadasapostasbrasil.com/stats/match/colombia/primera-division/independiente-medellin/nacional-de-medellin/2964729,Medellín,Terminado,1552756500
+América,Colômbia - Primera División,16/03/19 16:00:00,https://www.academiadasapostasbrasil.com/stats/match/colombia/primera-division/deportivo-cali/america-de-cali/2964728,Cali,Terminado,1552762800
+Patriotas,Colômbia - Primera División,16/03/19 16:30:00,https://www.academiadasapostasbrasil.com/stats/match/colombia/primera-division/la-equidad/patriotas-boyaca/2964726,Equidad,Terminado,1552764600
+Rionegro Ág.,Colômbia - Primera División,16/03/19 18:45:00,https://www.academiadasapostasbrasil.com/stats/match/colombia/primera-division/envigado/rionegro-aguilas/2964720,Envigado,Terminado,1552772700
+Slaven,Croácia - 1. HNL,16/03/19 08:00:00,https://www.academiadasapostasbrasil.com/stats/match/croacia/1-hnl/lokomotiva-zagreb/slaven-koprivnica/2798755,Lokomotiva,Terminado,1552734000
+Rudeš,Croácia - 1. HNL,16/03/19 10:30:00,https://www.academiadasapostasbrasil.com/stats/match/croacia/1-hnl/hajduk-split/rudes/2798759,Hajduk,Terminado,1552743000
+AEK,Chipre - 1. Division,16/03/19 09:00:00,https://www.academiadasapostasbrasil.com/stats/match/chipre/1-division/nea-salamis/aek-larnaca/2990994,Nea Salamis,Terminado,1552737600
+AEL,Chipre - 1. Division,16/03/19 10:00:00,https://www.academiadasapostasbrasil.com/stats/match/chipre/1-division/omonia-nicosia/ael-limassol/2990995,Omonia,Terminado,1552741200
+Mladá Boleslav,República Tcheca - Czech Liga,16/03/19 07:00:00,https://www.academiadasapostasbrasil.com/stats/match/republica-tcheca/czech-liga/banik-ostrava/mlada-boleslav/2803132,Baník,Terminado,1552730400
+Zlín,República Tcheca - Czech Liga,16/03/19 08:00:00,https://www.academiadasapostasbrasil.com/stats/match/republica-tcheca/czech-liga/slovan-liberec/zlin/2803131,Slovan,Terminado,1552734000
+Jablonec,República Tcheca - Czech Liga,16/03/19 08:00:00,https://www.academiadasapostasbrasil.com/stats/match/republica-tcheca/czech-liga/slovacko/jablonec/2803136,Slovácko,Terminado,1552734000
+Sigma,República Tcheca - Czech Liga,16/03/19 10:30:00,https://www.academiadasapostasbrasil.com/stats/match/republica-tcheca/czech-liga/sparta-praga/sigma-olomouc/2803130,Sparta,Terminado,1552743000
+Smouha,Egito - Premier League,16/03/19 10:00:00,https://www.academiadasapostasbrasil.com/stats/match/egito/premier-league/el-masry-club/smouha/2957807,Masry,Terminado,1552741200
+Levadia,Estônia - Meistriliiga,16/03/19 05:00:00,https://www.academiadasapostasbrasil.com/stats/match/estonia/meistriliiga/kuressaare/levadia-tallinn/2970725,Kuressaare,Terminado,1552723200
+Tammeka,Estônia - Meistriliiga,16/03/19 05:00:00,https://www.academiadasapostasbrasil.com/stats/match/estonia/meistriliiga/tulevik-viljandi/tammeka/2970726,Tulevik,Terminado,1552723200
+Trans,Estônia - Meistriliiga,16/03/19 08:00:00,https://www.academiadasapostasbrasil.com/stats/match/estonia/meistriliiga/tallinna-kalev/trans-narva/2970727,Tallinna Kalev,Terminado,1552734000
+Lamia,Grécia - Super Liga,16/03/19 09:15:00,https://www.academiadasapostasbrasil.com/stats/match/grecia/super-liga/asteras-tripolis/lamia/2892279,Asteras,Terminado,1552738500
+PAOK,Grécia - Super Liga,16/03/19 11:00:00,https://www.academiadasapostasbrasil.com/stats/match/grecia/super-liga/panaitolikos/paok/2892283,Panaitolikos,Terminado,1552744800
+Larissa,Grécia - Super Liga,16/03/19 11:30:00,https://www.academiadasapostasbrasil.com/stats/match/grecia/super-liga/giannina/larisa/2892285,Giannina,Terminado,1552746600
+Kerkyra,Grécia - B Ethniki,16/03/19 07:00:00,https://www.academiadasapostasbrasil.com/stats/match/grecia/b-ethniki/kissamikos/kerkyra/2969670,Kissamikos,Terminado,1552730400
+Platanias,Grécia - B Ethniki,16/03/19 07:30:00,https://www.academiadasapostasbrasil.com/stats/match/grecia/b-ethniki/trikala/platanias/2969666,Trikala,Terminado,1552732200
+MTK,Hungria - NB I,16/03/19 10:00:00,https://www.academiadasapostasbrasil.com/stats/match/hungria/nb-i/puskas-fc/hungaria-fc/2808089,Puskás,Terminado,1552741200
+Szombathelyi,Hungria - NB I,16/03/19 10:00:00,https://www.academiadasapostasbrasil.com/stats/match/hungria/nb-i/ferencvarosi/szombathelyi-haladas/2808090,Ferencváros,Terminado,1552741200
+Várda,Hungria - NB I,16/03/19 10:00:00,https://www.academiadasapostasbrasil.com/stats/match/hungria/nb-i/ujpest/varda-se/2808091,Újpest,Terminado,1552741200
+Paksi,Hungria - NB I,16/03/19 10:00:00,https://www.academiadasapostasbrasil.com/stats/match/hungria/nb-i/budapest-honved/paksi-se/2808092,Honvéd,Terminado,1552741200
+MZSE,Hungria - NB I,16/03/19 10:00:00,https://www.academiadasapostasbrasil.com/stats/match/hungria/nb-i/fehervar/mezokovesd-zsory/2808093,Videoton,Terminado,1552741200
+DVTK,Hungria - NB I,16/03/19 12:30:00,https://www.academiadasapostasbrasil.com/stats/match/hungria/nb-i/debreceni/diosgyor/2808094,Debrecen,Terminado,1552750200
+Charlton,Inglaterra - Liga 1,16/03/19 09:00:00,https://www.academiadasapostasbrasil.com/stats/match/inglaterra/liga-1/bristol-rovers/charlton/2802558,Bristol Rovers,Terminado,1552737600
+Blackpool,Inglaterra - Liga 1,16/03/19 09:00:00,https://www.academiadasapostasbrasil.com/stats/match/inglaterra/liga-1/burton-albion/blackpool/2802559,Burton Albion,Terminado,1552737600
+Plymouth,Inglaterra - Liga 1,16/03/19 09:00:00,https://www.academiadasapostasbrasil.com/stats/match/inglaterra/liga-1/fleetwood-town/plymouth-argyle/2802561,Fleetwood,Terminado,1552737600
+Gillingham,Inglaterra - Liga 1,16/03/19 09:00:00,https://www.academiadasapostasbrasil.com/stats/match/inglaterra/liga-1/luton-town/gillingham/2802562,Luton,Terminado,1552737600
+Bradford,Inglaterra - Liga 1,16/03/19 09:00:00,https://www.academiadasapostasbrasil.com/stats/match/inglaterra/liga-1/oxford-united/bradford-city/2802563,Oxford,Terminado,1552737600
+Coventry,Inglaterra - Liga 1,16/03/19 09:00:00,https://www.academiadasapostasbrasil.com/stats/match/inglaterra/liga-1/peterborough-united/coventry-city/2802564,Peterborough,Terminado,1552737600
+Scunthorpe,Inglaterra - Liga 1,16/03/19 09:00:00,https://www.academiadasapostasbrasil.com/stats/match/inglaterra/liga-1/portsmouth/scunthorpe-united/2802565,Portsmouth,Terminado,1552737600
+Wycombe,Inglaterra - Liga 1,16/03/19 09:00:00,https://www.academiadasapostasbrasil.com/stats/match/inglaterra/liga-1/shrewsbury-town/wycombe-wanderers/2802566,Shrewsbury,Terminado,1552737600
+Wimbledon,Inglaterra - Liga 1,16/03/19 09:00:00,https://www.academiadasapostasbrasil.com/stats/match/inglaterra/liga-1/southend-united/afc-wimbledon/2802567,Southend,Terminado,1552737600
+Walsall,Inglaterra - Liga 1,16/03/19 09:00:00,https://www.academiadasapostasbrasil.com/stats/match/inglaterra/liga-1/sunderland/walsall/2802568,Sunderland,Terminado,1552737600
+Crawley,Inglaterra - Liga 2,16/03/19 09:00:00,https://www.academiadasapostasbrasil.com/stats/match/inglaterra/liga-2/crewe-alexandra/crawley-town/2801511,Crewe,Terminado,1552737600
+Colchester,Inglaterra - Liga 2,16/03/19 09:00:00,https://www.academiadasapostasbrasil.com/stats/match/inglaterra/liga-2/exeter-city/colchester-united/2801513,Exeter,Terminado,1552737600
+Carlisle,Inglaterra - Liga 2,16/03/19 09:00:00,https://www.academiadasapostasbrasil.com/stats/match/inglaterra/liga-2/forest-green-rovers/carlisle-united/2801515,Forest Green,Terminado,1552737600
+Northampton,Inglaterra - Liga 2,16/03/19 09:00:00,https://www.academiadasapostasbrasil.com/stats/match/inglaterra/liga-2/grimsby-town/northampton-town/2801517,Grimsby,Terminado,1552737600
+Stevenage,Inglaterra - Liga 2,16/03/19 09:00:00,https://www.academiadasapostasbrasil.com/stats/match/inglaterra/liga-2/milton-keynes-dons/stevenage/2801521,MK Dons,Terminado,1552737600
+Morecambe,Inglaterra - Liga 2,16/03/19 09:00:00,https://www.academiadasapostasbrasil.com/stats/match/inglaterra/liga-2/notts-county/morecambe/2801525,Notts,Terminado,1552737600
+Port Vale,Inglaterra - Liga 2,16/03/19 09:00:00,https://www.academiadasapostasbrasil.com/stats/match/inglaterra/liga-2/swindon-town/port-vale/2801529,Swindon,Terminado,1552737600
+Macclesfield,Inglaterra - Liga 2,16/03/19 09:00:00,https://www.academiadasapostasbrasil.com/stats/match/inglaterra/liga-2/yeovil-town/macclesfield-town/2801531,Yeovil,Terminado,1552737600
+H Eran Hadera,Israel - Ligat Al,16/03/19 08:00:00,https://www.academiadasapostasbrasil.com/stats/match/israel/ligat-al/maccabi-tel-aviv/hapoel-eran-hadera/2996656,Maccabi TA,Terminado,1552734000
+Sakhnin,Israel - Ligat Al,16/03/19 10:00:00,https://www.academiadasapostasbrasil.com/stats/match/israel/ligat-al/hapoel-raanana/ihoud-bnei-sakhnin/2996686,H Ra'anana,Terminado,1552741200
+Ashdod,Israel - Ligat Al,16/03/19 10:15:00,https://www.academiadasapostasbrasil.com/stats/match/israel/ligat-al/hapoel-tel-aviv/ashdod/2996687,Hapoel TA,Terminado,1552742100
+Bnei Yehuda,Israel - Ligat Al,16/03/19 12:30:00,https://www.academiadasapostasbrasil.com/stats/match/israel/ligat-al/maccabi-haifa/bnei-yehuda-tel-aviv/2996657,M Haifa,Terminado,1552750200
+Luqueño,Paraguai - Division Profesional,16/03/19 07:00:00,https://www.academiadasapostasbrasil.com/stats/match/paraguai/division-profesional/deportivo-capiata/sportivo-luqueno/2949444,Capiatá,Terminado,1552730400
+Nacional,Paraguai - Division Profesional,16/03/19 15:15:00,https://www.academiadasapostasbrasil.com/stats/match/paraguai/division-profesional/river-plate/nacional-asuncion/2949442,River Plate,Terminado,1552760100
+Santaní,Paraguai - Division Profesional,16/03/19 17:15:00,https://www.academiadasapostasbrasil.com/stats/match/paraguai/division-profesional/libertad/deportivo-santani/2949445,Libertad,Terminado,1552767300
+Kielce,Polônia - Ekstraklasa,16/03/19 08:30:00,https://www.academiadasapostasbrasil.com/stats/match/polonia/ekstraklasa/jagiellonia-bialystok/korona-kielce/2791796,Jagiellonia,Terminado,1552735800
+Lechia,Polônia - Ekstraklasa,16/03/19 11:00:00,https://www.academiadasapostasbrasil.com/stats/match/polonia/ekstraklasa/zaglebie-sosnowiec/lechia-gdansk/2791803,Z Sosnowiec,Terminado,1552744800
+Śląsk,Polônia - Ekstraklasa,16/03/19 13:30:00,https://www.academiadasapostasbrasil.com/stats/match/polonia/ekstraklasa/legia-varsovia/slask-wroclaw/2791798,Legia,Terminado,1552753800
+Tampico,México - Primera A,15/03/19 21:00:00,https://www.academiadasapostasbrasil.com/stats/match/mexico/primera-a/universidad-guadalajara/tampico-madero/2951345,Leones,Terminado,1552694400
+Venados,México - Primera A,16/03/19 19:00:00,https://www.academiadasapostasbrasil.com/stats/match/mexico/primera-a/alebrijes-de-oaxaca/venados/2951346,Alebrijes,Terminado,1552773600
+Mineros,México - Primera A,16/03/19 21:00:00,https://www.academiadasapostasbrasil.com/stats/match/mexico/primera-a/dorados/mineros-de-zacatecas/2951347,Dorados,Terminado,1552780800
+Dinamo M,Rússia - Premier League,16/03/19 02:30:00,https://www.academiadasapostasbrasil.com/stats/match/russia/premier-league/orenburg/dinamo-moscou/2805295,Gazovik,Terminado,1552714200
+CSKA,Rússia - Premier League,16/03/19 05:00:00,https://www.academiadasapostasbrasil.com/stats/match/russia/premier-league/ural/cska-moscou/2805292,Ural,Terminado,1552723200
+Rostov,Rússia - Premier League,16/03/19 07:30:00,https://www.academiadasapostasbrasil.com/stats/match/russia/premier-league/rubin-kazan/rostov/2805290,Rubin,Terminado,1552732200
+Yenisey,Rússia - Premier League,16/03/19 10:00:00,https://www.academiadasapostasbrasil.com/stats/match/russia/premier-league/arsenal-tula/yenisey/2805291,Arsenal,Terminado,1552741200
+Chertanovo M,Rússia - 1ª Divisão,16/03/19 04:00:00,https://www.academiadasapostasbrasil.com/stats/match/russia/1-divisao/tyumen/chertanovo/2791462,Tyumen,Terminado,1552719600
+Dinamo,Rússia - 1ª Divisão,16/03/19 06:00:00,https://www.academiadasapostasbrasil.com/stats/match/russia/1-divisao/krasnodar-ii/dinamo-st-petersburg/2791465,Krasnodar II,Terminado,1552726800
+Spartak M II,Rússia - 1ª Divisão,16/03/19 09:00:00,https://www.academiadasapostasbrasil.com/stats/match/russia/1-divisao/baltika/spartak-moskva-ii/2791468,Baltika,Terminado,1552737600
+Motherwell,Escócia - Premier League,16/03/19 09:00:00,https://www.academiadasapostasbrasil.com/stats/match/escocia/premier-league/hibernian/motherwell/2796450,Hibernian,Terminado,1552737600
+Kilmarnock,Escócia - Premier League,16/03/19 09:00:00,https://www.academiadasapostasbrasil.com/stats/match/escocia/premier-league/rangers/kilmarnock/2796451,Rangers,Terminado,1552737600
+Livingston,Escócia - Premier League,16/03/19 09:00:00,https://www.academiadasapostasbrasil.com/stats/match/escocia/premier-league/aberdeen/livingston/2796453,Aberdeen,Terminado,1552737600
+Midlothian,Escócia - Premier League,16/03/19 09:00:00,https://www.academiadasapostasbrasil.com/stats/match/escocia/premier-league/hamilton/heart-of-midlothian/2796454,Hamilton,Terminado,1552737600
+Partick,Escócia - 1ª Divisão,16/03/19 09:00:00,https://www.academiadasapostasbrasil.com/stats/match/escocia/1-divisao/falkirk/partick-thistle/2796239,Falkirk,Terminado,1552737600
+Grasshopper,Suíça - Super Liga,16/03/19 12:00:00,https://www.academiadasapostasbrasil.com/stats/match/suica/super-liga/sion/grasshopper/2797362,Sion,Terminado,1552748400
+Lugano,Suíça - Super Liga,16/03/19 12:00:00,https://www.academiadasapostasbrasil.com/stats/match/suica/super-liga/st-gallen/lugano/2797363,St. Gallen,Terminado,1552748400
+Radnički Niš,Sérvia - Super Liga,16/03/19 08:00:00,https://www.academiadasapostasbrasil.com/stats/match/servia/super-liga/zemun/radnicki-nis/2797210,Zemun,Terminado,1552734000
+Spartak,Sérvia - Super Liga,16/03/19 08:00:00,https://www.academiadasapostasbrasil.com/stats/match/servia/super-liga/partizan-belgrado/spartak-subotica/2797212,Partizan,Terminado,1552734000
+Napredak,Sérvia - Super Liga,16/03/19 09:00:00,https://www.academiadasapostasbrasil.com/stats/match/servia/super-liga/radnik-surdulica/napredak-krusevac/2797213,Radnik,Terminado,1552737600
+Proleter,Sérvia - Super Liga,16/03/19 11:00:00,https://www.academiadasapostasbrasil.com/stats/match/servia/super-liga/macva-sabac/proleter-novi-sad/2797208,Mačva,Terminado,1552744800
+Iaşi,Romênia - Liga I,16/03/19 05:00:00,https://www.academiadasapostasbrasil.com/stats/match/romenia/liga-i/dunarea-calarasi/csm-iasi/2994382,Dunărea C,Terminado,1552723200
+CFR,Romênia - Liga I,16/03/19 12:30:00,https://www.academiadasapostasbrasil.com/stats/match/romenia/liga-i/viitorul/cluj/2994362,Viitorul,Terminado,1552750200
+Recreativo,Angola - Campionato Nacional,16/03/19 08:00:00,https://www.academiadasapostasbrasil.com/stats/match/angola/campionato-nacional/sagrada-esperanca/recreativo-do-libolo/2935648,Sagrada,Terminado,1552734000
+ASA,Angola - Campionato Nacional,16/03/19 08:00:00,https://www.academiadasapostasbrasil.com/stats/match/angola/campionato-nacional/interclube/asa/2935652,Interclube,Terminado,1552734000
+Santa Rita,Angola - Campionato Nacional,16/03/19 10:30:00,https://www.academiadasapostasbrasil.com/stats/match/angola/campionato-nacional/kabuscorp/santa-rita/2935651,Kabuscorp,Terminado,1552743000
+Arsenal,Argentina - Primera B Nacional,16/03/19 14:05:00,https://www.academiadasapostasbrasil.com/stats/match/argentina/primera-b-nacional/platense/arsenal-de-sarandi/2894904,Platense,Terminado,1552755900
+Central Coast,Austrália - A-League,16/03/19 00:35:00,https://www.academiadasapostasbrasil.com/stats/match/australia/a-league/newcastle-jets/central-coast-mariners/2835025,Newcastle,Terminado,1552707300
+Brisbane,Austrália - A-League,16/03/19 02:50:00,https://www.academiadasapostasbrasil.com/stats/match/australia/a-league/melbourne-victory/queensland-roar/2835024,Mel Victory,Terminado,1552715400
+Levski,Bulgária - A PFG,16/03/19 05:00:00,https://www.academiadasapostasbrasil.com/stats/match/bulgaria/a-pfg/vereya/levski-sofia/2798604,Vereya,Terminado,1552723200
+Septemvri,Bulgária - A PFG,16/03/19 07:15:00,https://www.academiadasapostasbrasil.com/stats/match/bulgaria/a-pfg/ludogorets/septemvri-sofia/2798605,Ludogorets,Terminado,1552731300
+Beroe,Bulgária - A PFG,16/03/19 09:45:00,https://www.academiadasapostasbrasil.com/stats/match/bulgaria/a-pfg/cska-sofia/beroe/2798607,CSKA,Terminado,1552740300
+Atlantas,Lituânia - A Lyga,16/03/19 07:00:00,https://www.academiadasapostasbrasil.com/stats/match/lituania/a-lyga/stumbras/atlantas-klaipeda/2988367,Stumbras,Terminado,1552730400
+Spyris,Lituânia - A Lyga,16/03/19 09:00:00,https://www.academiadasapostasbrasil.com/stats/match/lituania/a-lyga/suduva-marijampole/kauno-zalgiris/2988368,Sūduva,Terminado,1552737600
+Rīgas FS,Letônia - Virsliga,16/03/19 07:00:00,https://www.academiadasapostasbrasil.com/stats/match/letonia/virsliga/spartaks-jurmala/rigas-fs/2983703,Spartaks,Terminado,1552730400
+Ventspils,Letônia - Virsliga,16/03/19 09:00:00,https://www.academiadasapostasbrasil.com/stats/match/letonia/virsliga/jelgava/ventspils/2983704,Jelgava,Terminado,1552737600
+Incheon Utd,Coreia do Sul - K-League,15/03/19 23:00:00,https://www.academiadasapostasbrasil.com/stats/match/coreia-do-sul/k-league/sangju-sangmu/incheon-united/2969678,Sangju,Terminado,1552701600
+Jeju Utd,Coreia do Sul - K-League,16/03/19 01:00:00,https://www.academiadasapostasbrasil.com/stats/match/coreia-do-sul/k-league/seoul/jeju-united/2969679,Seoul,Terminado,1552708800
+Suwon,Coreia do Sul - K-League,16/03/19 01:00:00,https://www.academiadasapostasbrasil.com/stats/match/coreia-do-sul/k-league/seongnam-ilhwa/suwon-bluewings/2969680,Seongnam,Terminado,1552708800
+Tochigi,Japão - Liga J2,15/03/19 23:00:00,https://www.academiadasapostasbrasil.com/stats/match/japao/liga-j2/tokyo-verdy/tochigi/2972310,Tokyo Verdy,Terminado,1552701600
+Albirex,Japão - Liga J2,15/03/19 23:00:00,https://www.academiadasapostasbrasil.com/stats/match/japao/liga-j2/yokohama/albirex-niigata/2972311,Yokohama,Terminado,1552701600
+Tokushima,Japão - Liga J2,16/03/19 03:00:00,https://www.academiadasapostasbrasil.com/stats/match/japao/liga-j2/ryukyu/tokushima-vortis/2972312,Ryūkyū,Terminado,1552716000
+Turcas e Caicos,Mundo - Amistoso,16/03/19 17:00:00,https://www.academiadasapostasbrasil.com/stats/match/mundo/amistoso/bahamas/ilhas-turks-e-caicos/2996763,Bahamas,Terminado,1552766400
+Kalush,Mundo - Amistosos,16/03/19 02:00:00,https://www.academiadasapostasbrasil.com/stats/match/mundo/amistosos/slavia/kalush/2991056,Slavia,Terminado,1552712400
+Isloch,Mundo - Amistosos,16/03/19 04:00:00,https://www.academiadasapostasbrasil.com/stats/match/mundo/amistosos/zorka-bdu/isloch/2997030,Zorka-BDU,Terminado,1552719600
+Tiller,Mundo - Amistosos,16/03/19 04:00:00,https://www.academiadasapostasbrasil.com/stats/match/mundo/amistosos/byasen/tiller/2997115,Byåsen,Terminado,1552719600
+Grorud,Mundo - Amistosos,16/03/19 05:00:00,https://www.academiadasapostasbrasil.com/stats/match/mundo/amistosos/skeid/grorud/2966197,Skeid,Terminado,1552723200
+Smolevichy,Mundo - Amistosos,16/03/19 05:00:00,https://www.academiadasapostasbrasil.com/stats/match/mundo/amistosos/tarpeda/smolevichy-sti/2969523,Tarpeda,Cancelado,1552723200
+Nyköping,Mundo - Amistosos,16/03/19 06:00:00,https://www.academiadasapostasbrasil.com/stats/match/mundo/amistosos/degerfors/nykoping/2957109,Degerfors,Terminado,1552726800
+Västerås SK,Mundo - Amistosos,16/03/19 06:00:00,https://www.academiadasapostasbrasil.com/stats/match/mundo/amistosos/sandviken/vasteras-sk/2997023,Sandviken,Terminado,1552726800
+Oppsal,Mundo - Amistosos,16/03/19 06:00:00,https://www.academiadasapostasbrasil.com/stats/match/mundo/amistosos/stjordals-blink/oppsal/2997116,Stjørdals,Terminado,1552726800
+Gorodeya,Mundo - Amistosos,16/03/19 06:30:00,https://www.academiadasapostasbrasil.com/stats/match/mundo/amistosos/lida/gorodeya/2996285,Lida,Terminado,1552728600
+Ullensaker,Mundo - Amistosos,16/03/19 07:00:00,https://www.academiadasapostasbrasil.com/stats/match/mundo/amistosos/stabaek/ullensaker-kisa/2947053,Stabæk,Terminado,1552730400
+Fredericia,Mundo - Amistosos,16/03/19 07:00:00,https://www.academiadasapostasbrasil.com/stats/match/mundo/amistosos/strommen/fredericia/2956593,Strømmen,Cancelado,1552730400
+Nest-Sotra,Mundo - Amistosos,16/03/19 07:00:00,https://www.academiadasapostasbrasil.com/stats/match/mundo/amistosos/sotra/nest-sotra/2974813,Sotra,Terminado,1552730400
+Vidar,Mundo - Amistosos,16/03/19 07:00:00,https://www.academiadasapostasbrasil.com/stats/match/mundo/amistosos/viking-ii/vidar/2997117,Viking II,Terminado,1552730400
+Kjelsås,Mundo - Amistosos,16/03/19 07:00:00,https://www.academiadasapostasbrasil.com/stats/match/mundo/amistosos/asker/kjelsas/2997118,Asker,Terminado,1552730400
+Tromsø,Mundo - Amistosos,16/03/19 07:00:00,https://www.academiadasapostasbrasil.com/stats/match/mundo/amistosos/mjondalen/tromso/2997120,Mjøndalen,Terminado,1552730400
+Sirius,Mundo - Amistosos,16/03/19 07:30:00,https://www.academiadasapostasbrasil.com/stats/match/mundo/amistosos/brommapojkarna/sirius/2957081,Brommapojkarna,Terminado,1552732200
+HamKam,Mundo - Amistosos,16/03/19 08:00:00,https://www.academiadasapostasbrasil.com/stats/match/mundo/amistosos/lillestrom/hamkam/2950041,Lillestrøm,Terminado,1552734000
+Sundsvall,Mundo - Amistosos,16/03/19 08:00:00,https://www.academiadasapostasbrasil.com/stats/match/mundo/amistosos/kalmar/gif-sundsvall/2957270,Kalmar,Terminado,1552734000
+Dordoi,Mundo - Amistosos,16/03/19 08:00:00,https://www.academiadasapostasbrasil.com/stats/match/mundo/amistosos/slavia/dordoi-bishkek/2991057,Slavia,Terminado,1552734000
+IFK Göteborg,Mundo - Amistosos,16/03/19 08:00:00,https://www.academiadasapostasbrasil.com/stats/match/mundo/amistosos/varberg/gotemborg/2997016,Varberg,Terminado,1552734000
+Halmstad,Mundo - Amistosos,16/03/19 08:00:00,https://www.academiadasapostasbrasil.com/stats/match/mundo/amistosos/falkenberg/halmstads/2997019,Falkenberg,Terminado,1552734000
+GAIS,Mundo - Amistosos,16/03/19 08:00:00,https://www.academiadasapostasbrasil.com/stats/match/mundo/amistosos/utsikten/gais/2998279,Utsikten,Terminado,1552734000
+Carlstad Utd,Mundo - Amistosos,16/03/19 08:30:00,https://www.academiadasapostasbrasil.com/stats/match/mundo/amistosos/jonkopings-sodra/carlstad-united/2957128,Jönköpings S,Terminado,1552735800
+KaaPo,Mundo - Amistosos,16/03/19 08:30:00,https://www.academiadasapostasbrasil.com/stats/match/mundo/amistosos/musa/kaapo/2959046,MuSa,Terminado,1552735800
+KuPS,Mundo - Amistosos,16/03/19 09:30:00,https://www.academiadasapostasbrasil.com/stats/match/mundo/amistosos/helsinki/kups/2996602,HJK,Terminado,1552739400
+Kristiansund,Mundo - Amistosos,16/03/19 09:30:00,https://www.academiadasapostasbrasil.com/stats/match/mundo/amistosos/dinamo-brest/kristiansund/2997029,Dinamo Brest,Terminado,1552739400
+Southern Utd,Nova Zelândia - Premier League,15/03/19 21:00:00,https://www.academiadasapostasbrasil.com/stats/match/nova-zelandia/premier-league/eastern-suburbs/southern-united/2917629,Eastern Suburbs,Terminado,1552694400
+Kitchee,Hong Kong - 1ª Divisão HKFA,16/03/19 00:30:00,https://www.academiadasapostasbrasil.com/stats/match/hong-kong/1-divisao-hkfa/guangzhou-rf-u19/kitchee-fc/2865278,Guangzhou R&F U19,Terminado,1552707000
+BCGS Hong Kong Sapling,Hong Kong - 1ª Divisão HKFA,16/03/19 00:30:00,https://www.academiadasapostasbrasil.com/stats/match/hong-kong/1-divisao-hkfa/southern-district/bcgs-hong-kong-sapling/2865279,Southern,Terminado,1552707000
+Wofoo,Hong Kong - 1ª Divisão HKFA,16/03/19 03:30:00,https://www.academiadasapostasbrasil.com/stats/match/hong-kong/1-divisao-hkfa/pegasus/wofoo-tai-po/2865280,Pegasus,Terminado,1552717800
+Tampines,Cingapura - S-League,16/03/19 03:30:00,https://www.academiadasapostasbrasil.com/stats/match/cingapura/s-league/geylang-united/tampines-rovers/2973895,Geylang,Terminado,1552717800
+Warriors,Cingapura - S-League,16/03/19 03:30:00,https://www.academiadasapostasbrasil.com/stats/match/cingapura/s-league/sengkang-punggol/armed-forces/2973896,Hougang Utd,Terminado,1552717800
+Artsakh,Armênia - Liga,16/03/19 04:00:00,https://www.academiadasapostasbrasil.com/stats/match/armenia/liga/pyunik-yerevan/artsakh/2856965,Pyunik,Terminado,1552719600
+Ittihad,Arábia Saudita - Liga,16/03/19 07:00:00,https://www.academiadasapostasbrasil.com/stats/match/arabia-saudita/liga/al-hazm-rass/al-ittihad/2830383,Hazm,Terminado,1552730400
+Kamza,Albânia - Super Liga,16/03/19 07:00:00,https://www.academiadasapostasbrasil.com/stats/match/albania/super-liga/luftetari-gjirokaster/dajti-kamze/2867935,Luftëtari,Terminado,1552730400
+Persepolis,Irã - Premier League,16/03/19 07:00:00,https://www.academiadasapostasbrasil.com/stats/match/ira/premier-league/sepidrood-rasht/persepolis/2985377,Sepidrood Rasht,Terminado,1552730400
+Rapid-2 Petrocub,Moldova - Divizia Nationala,16/03/19 07:00:00,https://www.academiadasapostasbrasil.com/stats/match/moldova/divizia-nationala/zimbru-chisinau/petrocub/2994492,Zimbru,Terminado,1552730400
+AmaZulu,África do Sul - Premier Soccer League,16/03/19 07:30:00,https://www.academiadasapostasbrasil.com/stats/match/africa-do-sul/premier-soccer-league/free-state-stars/amazulu/2859163,Free State,Terminado,1552732200
+Triglav,Eslovênia - 1. SNL,16/03/19 07:45:00,https://www.academiadasapostasbrasil.com/stats/match/eslovenia/1-snl/celje/triglav/2803378,Celje,Terminado,1552733100
+Sadd,Catar - Liga,16/03/19 08:00:00,https://www.academiadasapostasbrasil.com/stats/match/catar/liga/al-sailiya/al-sadd/2967949,Sailiya,Terminado,1552734000
+Čelik,Bósnia-Herzegovina - Premier Liga,16/03/19 08:00:00,https://www.academiadasapostasbrasil.com/stats/match/bosnia-herzegovina/premier-liga/sloboda-tuzla/celik-zenica/2996783,Sloboda T,Terminado,1552734000
+Radnik,Bósnia-Herzegovina - Premier Liga,16/03/19 08:00:00,https://www.academiadasapostasbrasil.com/stats/match/bosnia-herzegovina/premier-liga/mladost-doboj-kakanj/radnik-bijeljina/2996784,Mladost DK,Terminado,1552734000
+Slovan,Eslováquia - Super Liga,16/03/19 08:30:00,https://www.academiadasapostasbrasil.com/stats/match/eslovaquia/super-liga/sered/slovan-bratislava/2996227,Sereď,Terminado,1552735800
+Warrenpoint,Irlanda do Norte - IFA Premiership,16/03/19 09:00:00,https://www.academiadasapostasbrasil.com/stats/match/irlanda-do-norte/ifa-premiership/ards/warrenpoint-town/2810624,Ards,Terminado,1552737600
+Glentoran,Irlanda do Norte - IFA Premiership,16/03/19 09:00:00,https://www.academiadasapostasbrasil.com/stats/match/irlanda-do-norte/ifa-premiership/ballymena-united/glentoran/2810625,Ballymena Utd,Terminado,1552737600
+Cliftonville,Irlanda do Norte - IFA Premiership,16/03/19 09:00:00,https://www.academiadasapostasbrasil.com/stats/match/irlanda-do-norte/ifa-premiership/crusaders/cliftonville/2810626,Crusaders,Terminado,1552737600
+Dungannon,Irlanda do Norte - IFA Premiership,16/03/19 09:00:00,https://www.academiadasapostasbrasil.com/stats/match/irlanda-do-norte/ifa-premiership/glenavon/dungannon-swifts/2810627,Glenavon,Terminado,1552737600
+Institute,Irlanda do Norte - IFA Premiership,16/03/19 09:00:00,https://www.academiadasapostasbrasil.com/stats/match/irlanda-do-norte/ifa-premiership/linfield/institute/2810628,Linfield,Terminado,1552737600
+Speranţa Nisporeni,Moldova - Divizia Nationala,16/03/19 09:00:00,https://www.academiadasapostasbrasil.com/stats/match/moldova/divizia-nationala/sheriff-tiraspol/speranta-nisporeni/2994491,Sheriff,Terminado,1552737600
+Nassaji,Irã - Premier League,16/03/19 09:30:00,https://www.academiadasapostasbrasil.com/stats/match/ira/premier-league/esteghlal/nassaji-mazandaran/2985380,Esteghlal,Terminado,1552739400
+Krško,Eslovênia - 1. SNL,16/03/19 10:00:00,https://www.academiadasapostasbrasil.com/stats/match/eslovenia/1-snl/mura/krsko/2803374,Mura,Terminado,1552741200
+Kukësi,Albânia - Super Liga,16/03/19 10:00:00,https://www.academiadasapostasbrasil.com/stats/match/albania/super-liga/skenderbeu-korce/perparimi-kukes/2867936,Skënderbeu,Terminado,1552741200
+Bala,País de Gales - Premier League,16/03/19 10:00:00,https://www.academiadasapostasbrasil.com/stats/match/pais-de-gales/premier-league/barry-town/bala-town/2965910,Barry Town,Terminado,1552741200
+Zemplín,Eslováquia - Super Liga,16/03/19 10:00:00,https://www.academiadasapostasbrasil.com/stats/match/eslovaquia/super-liga/zilina/zemplin-michalovce/2996228,Žilina,Terminado,1552741200
+Nitra,Eslováquia - Super Liga,16/03/19 10:00:00,https://www.academiadasapostasbrasil.com/stats/match/eslovaquia/super-liga/podbrezova/nitra/2996232,Podbrezová,Terminado,1552741200
+Senica,Eslováquia - Super Liga,16/03/19 10:00:00,https://www.academiadasapostasbrasil.com/stats/match/eslovaquia/super-liga/zlate-moravce/senica/2996233,Zlaté Moravce,Terminado,1552741200
+Trnava,Eslováquia - Super Liga,16/03/19 10:00:00,https://www.academiadasapostasbrasil.com/stats/match/eslovaquia/super-liga/trencin/spartak-trnava/2996234,Trenčín,Terminado,1552741200
+Lekhwiya,Catar - Liga,16/03/19 10:25:00,https://www.academiadasapostasbrasil.com/stats/match/catar/liga/umm-salal/lekhwiya/2967950,Umm Salal,Terminado,1552742700
+Nassr,Arábia Saudita - Liga,16/03/19 11:30:00,https://www.academiadasapostasbrasil.com/stats/match/arabia-saudita/liga/al-wehda-mecca/al-nasr-riyadh/2830493,Wahda,Terminado,1552746600
+Siquinalá,Guatemala - Liga Nacional,16/03/19 13:00:00,https://www.academiadasapostasbrasil.com/stats/match/guatemala/liga-nacional/iztapa/siquinala/2961079,Iztapa,Terminado,1552752000
+Strongest,Bolívia - Primera Division,16/03/19 13:00:00,https://www.academiadasapostasbrasil.com/stats/match/bolivia/primera-division/always-ready/the-strongest/2962816,Always Ready,Terminado,1552752000
+Maribor,Eslovênia - 1. SNL,16/03/19 13:30:00,https://www.academiadasapostasbrasil.com/stats/match/eslovenia/1-snl/olimpija-ljubljana/maribor/2803377,Olimpija,Terminado,1552753800
+Guayaquil City FC,Equador - Primera A,16/03/19 14:00:00,https://www.academiadasapostasbrasil.com/stats/match/equador/primera-a/olmedo/guayaquil-city-fc/2967018,Olmedo,Terminado,1552755600
+Cobán Imperial,Guatemala - Liga Nacional,16/03/19 15:00:00,https://www.academiadasapostasbrasil.com/stats/match/guatemala/liga-nacional/municipal/coban-imperial/2961084,Municipal,Terminado,1552759200
+Grecia,Costa Rica - Primera Division,16/03/19 16:00:00,https://www.academiadasapostasbrasil.com/stats/match/costa-rica/primera-division/ucr/grecia/2954153,UCR,Terminado,1552762800
+Delfin,Equador - Primera A,16/03/19 16:15:00,https://www.academiadasapostasbrasil.com/stats/match/equador/primera-a/universidad-catolica/delfin/2967024,Católica,Terminado,1552763700
+Guadalupe,Costa Rica - Primera Division,16/03/19 18:00:00,https://www.academiadasapostasbrasil.com/stats/match/costa-rica/primera-division/santos-de-guapiles/guadalupe/2954151,Guápiles,Terminado,1552770000
+Municipal Limeño,El Salvador - Primera Division,16/03/19 18:30:00,https://www.academiadasapostasbrasil.com/stats/match/el-salvador/primera-division/chalatenango/municipal-limeno/2960525,Chalatenango,Terminado,1552771800
+Macará,Equador - Primera A,16/03/19 18:30:00,https://www.academiadasapostasbrasil.com/stats/match/equador/primera-a/america-de-quito/macara/2967022,América de Quito,Terminado,1552771800
+Hawke's Bay,Nova Zelândia - Premier League,16/03/19 19:00:00,https://www.academiadasapostasbrasil.com/stats/match/nova-zelandia/premier-league/wellington-phoenix-res/hawkes-bay-united/2917630,Wellington,Terminado,1552773600
+Wellington,Nova Zelândia - Premier League,16/03/19 19:00:00,https://www.academiadasapostasbrasil.com/stats/match/nova-zelandia/premier-league/hamilton-wanderers/team-wellington/2917631,Hamilton Wanderers,Terminado,1552773600
+Canterbury Utd,Nova Zelândia - Premier League,16/03/19 19:00:00,https://www.academiadasapostasbrasil.com/stats/match/nova-zelandia/premier-league/tasman-united/canterbury-united/2917632,Tasman United,Terminado,1552773600
+FAS,El Salvador - Primera Division,16/03/19 19:00:00,https://www.academiadasapostasbrasil.com/stats/match/el-salvador/primera-division/luis-angel-firpo/deportivo-fas/2960524,Firpo,Terminado,1552773600
+Audaz,El Salvador - Primera Division,16/03/19 19:15:00,https://www.academiadasapostasbrasil.com/stats/match/el-salvador/primera-division/isidro-metapan/audaz/2960522,Isidro,Terminado,1552774500
+Sonsonate,El Salvador - Primera Division,16/03/19 19:15:00,https://www.academiadasapostasbrasil.com/stats/match/el-salvador/primera-division/alianza/sonsonate/2960526,Alianza,Terminado,1552774500
+Cartaginés,Costa Rica - Primera Division,16/03/19 19:30:00,https://www.academiadasapostasbrasil.com/stats/match/costa-rica/primera-division/alajuelense/cartagines/2954148,Alajuelense,Terminado,1552775400
+San Carlos,Costa Rica - Primera Division,16/03/19 20:00:00,https://www.academiadasapostasbrasil.com/stats/match/costa-rica/primera-division/municipal-perez-zeledon/san-carlos/2954150,Pérez Zeledón,Terminado,1552777200
+Comunicaciones,Guatemala - Liga Nacional,16/03/19 20:00:00,https://www.academiadasapostasbrasil.com/stats/match/guatemala/liga-nacional/xelaju-mario-camposeco/comunicaciones/2961081,Xelajú,Terminado,1552777200
+White Eagles,Austrália - FFA Cup,15/03/19 21:00:00,https://www.academiadasapostasbrasil.com/stats/match/australia/ffa-cup/wagga-city-wanderers/canberra-white-eagles/2996239,Wagga City,Terminado,1552694400
+Hunter Simba,Austrália - FFA Cup,15/03/19 21:30:00,https://www.academiadasapostasbrasil.com/stats/match/australia/ffa-cup/greta-branxton/hunter-simba/2985282,Greta Branxton,Terminado,1552696200
+Barnsley Utd,Austrália - FFA Cup,15/03/19 21:30:00,https://www.academiadasapostasbrasil.com/stats/match/australia/ffa-cup/dudley-redhead-united/barnsley-united/2985286,Dudley RU,Adiado,1552696200
+Canberra City,Austrália - FFA Cup,15/03/19 22:00:00,https://www.academiadasapostasbrasil.com/stats/match/australia/ffa-cup/weston-molonglo-fc/canberra-city/2996240,Weston Molonglo FC,Terminado,1552698000
+Lilli Pilli,Austrália - FFA Cup,15/03/19 23:00:00,https://www.academiadasapostasbrasil.com/stats/match/australia/ffa-cup/coogee-utd/lilli-pilli/2996328,Coogee Utd,Terminado,1552701600
+Edge Hill Utd,Austrália - FFA Cup,16/03/19 03:00:00,https://www.academiadasapostasbrasil.com/stats/match/australia/ffa-cup/southside-comets/edge-hill-united/2996409,Comets,Terminado,1552716000
+Nelson Bay,Austrália - FFA Cup,16/03/19 19:00:00,https://www.academiadasapostasbrasil.com/stats/match/australia/ffa-cup/maitland-junior/nelson-bay/2985275,Maitland Junior,Terminado,1552773600
+Westlakes,Austrália - FFA Cup,16/03/19 19:00:00,https://www.academiadasapostasbrasil.com/stats/match/australia/ffa-cup/kotara-south/westlakes-wildcats/2985284,Kotara South,Adiado,1552773600
+Jesmond,Austrália - FFA Cup,16/03/19 19:30:00,https://www.academiadasapostasbrasil.com/stats/match/australia/ffa-cup/merewether-advance/jesmond/2985277,Merewether,Adiado,1552775400
+Warners Bay,Austrália - FFA Cup,16/03/19 19:30:00,https://www.academiadasapostasbrasil.com/stats/match/australia/ffa-cup/charlestown-junior/warners-bay/2985283,Charlestown Jr,Adiado,1552775400
+Morisset Utd,Austrália - FFA Cup,16/03/19 20:00:00,https://www.academiadasapostasbrasil.com/stats/match/australia/ffa-cup/stockton-sharks/morisset-united/2985281,Stockton Sharks,Cancelado,1552777200
+UC Pumas,Austrália - FFA Cup,16/03/19 21:00:00,https://www.academiadasapostasbrasil.com/stats/match/australia/ffa-cup/stu/uc-pumas/2996241,STU,Terminado,1552780800
+Bucheon,Coreia do Sul - K League Challenge,15/03/19 22:00:00,https://www.academiadasapostasbrasil.com/stats/match/coreia-do-sul/k-league-challenge/ansan-mugunghwa/bucheon-1995/2974503,Ansan M.,Terminado,1552698000
+Ansan Greeners,Coreia do Sul - K League Challenge,16/03/19 00:00:00,https://www.academiadasapostasbrasil.com/stats/match/coreia-do-sul/k-league-challenge/suwon/ansan-greeners/2974504,Suwon,Terminado,1552705200
+Gaziantep BB,Turquia - Lig A,16/03/19 04:30:00,https://www.academiadasapostasbrasil.com/stats/match/turquia/lig-a/umranyespor/gaziantep-bb/2829447,Ümranıyespor,Terminado,1552721400
+Demirspor,Turquia - Lig A,16/03/19 04:30:00,https://www.academiadasapostasbrasil.com/stats/match/turquia/lig-a/elazigspor/adana-demirspor/2829450,Elazığ,Terminado,1552721400
+İstanbulspor,Turquia - Lig A,16/03/19 07:00:00,https://www.academiadasapostasbrasil.com/stats/match/turquia/lig-a/giresunspor/istanbulspor/2829449,Giresun,Terminado,1552730400
+Hatay,Turquia - Lig A,16/03/19 07:00:00,https://www.academiadasapostasbrasil.com/stats/match/turquia/lig-a/ankaraspor/hatayspor/2829452,Osmanlıspor,Terminado,1552730400
+Dinamo,Albânia - Liga 1,16/03/19 08:00:00,https://www.academiadasapostasbrasil.com/stats/match/albania/liga-1/vllaznia-shkoder/dinamo-tirana/2988830,Vllaznia,Terminado,1552734000
+Korabi,Albânia - Liga 1,16/03/19 08:00:00,https://www.academiadasapostasbrasil.com/stats/match/albania/liga-1/erzeni-shijak/korabi-peshkop/2988831,Erzeni,Terminado,1552734000
+Oriku,Albânia - Liga 1,16/03/19 08:00:00,https://www.academiadasapostasbrasil.com/stats/match/albania/liga-1/bylis-ballsh/oriku/2988850,Bylis,Terminado,1552734000
+Lushnja,Albânia - Liga 1,16/03/19 08:00:00,https://www.academiadasapostasbrasil.com/stats/match/albania/liga-1/besa-kavaje/lushnja/2988851,Besa,Terminado,1552734000
+Wigry,Polônia - I Liga,16/03/19 09:00:00,https://www.academiadasapostasbrasil.com/stats/match/polonia/i-liga/stomil-olsztyn/wigry-suwalki/2804178,Stomil,Terminado,1552737600
+Beerschot,Bélgica - 2e Klasse,16/03/19 09:00:00,https://www.academiadasapostasbrasil.com/stats/match/belgica/2e-klasse/mechelen/beerschot-wilrijk/2994317,Mechelen,Terminado,1552737600
+Servette,Suíça - Challenge League,16/03/19 10:00:00,https://www.academiadasapostasbrasil.com/stats/match/suica/challenge-league/rapperswil-jona/servette/2796028,Rapperswil,Terminado,1552741200
+Chrobry,Polônia - I Liga,16/03/19 10:00:00,https://www.academiadasapostasbrasil.com/stats/match/polonia/i-liga/chojniczanka-chojnice/chrobry-glogow/2804328,Chojniczanka,Terminado,1552741200
+Katowice,Polônia - I Liga,16/03/19 10:00:00,https://www.academiadasapostasbrasil.com/stats/match/polonia/i-liga/jastrzebie/katowice/2804329,Jastrzębie,Terminado,1552741200
+Garbarnia,Polônia - I Liga,16/03/19 10:00:00,https://www.academiadasapostasbrasil.com/stats/match/polonia/i-liga/sandecja-nowy-sacz/garbarnia-krakow/2804332,Sandecja,Terminado,1552741200
+Warta Poznań,Polônia - I Liga,16/03/19 10:00:00,https://www.academiadasapostasbrasil.com/stats/match/polonia/i-liga/lodz/warta-poznan/2804334,Łódzki KS,Terminado,1552741200
+Lausanne,Suíça - Challenge League,16/03/19 10:30:00,https://www.academiadasapostasbrasil.com/stats/match/suica/challenge-league/schaffhausen/lausanne/2796029,FC Schaffh,Terminado,1552743000
+Bytovia,Polônia - I Liga,16/03/19 11:00:00,https://www.academiadasapostasbrasil.com/stats/match/polonia/i-liga/podbeskidzie/bytovia-bytow/2804335,Podbeskidzie,Terminado,1552744800
+El Paso Locomotive,Estados Unidos - USL,16/03/19 13:00:00,https://www.academiadasapostasbrasil.com/stats/match/estados-unidos/usl/real-monarchs/el-paso-locomotive/2949098,Real Monarchs,Terminado,1552752000
+Rangers,Chile - Primera B,16/03/19 14:30:00,https://www.academiadasapostasbrasil.com/stats/match/chile/primera-b/melipilla/rangers/2973799,Melipilla,Terminado,1552757400
+Temuco,Chile - Primera B,16/03/19 14:45:00,https://www.academiadasapostasbrasil.com/stats/match/chile/primera-b/santiago-morning/deportes-temuco/2973800,Morning,Terminado,1552758300
+Austin Bold,Estados Unidos - USL,16/03/19 15:00:00,https://www.academiadasapostasbrasil.com/stats/match/estados-unidos/usl/reno-1868/austin-bold/2950714,Reno 1868,Terminado,1552759200
+La Serena,Chile - Primera B,16/03/19 15:00:00,https://www.academiadasapostasbrasil.com/stats/match/chile/primera-b/puerto-montt/la-serena/2973794,Puerto Montt,Terminado,1552759200
+Wanderers,Chile - Primera B,16/03/19 15:00:00,https://www.academiadasapostasbrasil.com/stats/match/chile/primera-b/san-luis/santiago-wanderers/2973796,San Luis,Terminado,1552759200
+Carolina,Estados Unidos - USL,16/03/19 17:30:00,https://www.academiadasapostasbrasil.com/stats/match/estados-unidos/usl/bethlehem-steel/carolina-railhawks/2949077,Bethlehem,Terminado,1552768200
+Pittsburgh,Estados Unidos - USL,16/03/19 17:30:00,https://www.academiadasapostasbrasil.com/stats/match/estados-unidos/usl/tampa-bay-rowdies/pittsburgh-riverhounds/2949100,Tampa Bay,Terminado,1552768200
+Hartford Athletic,Estados Unidos - USL,16/03/19 17:30:00,https://www.academiadasapostasbrasil.com/stats/match/estados-unidos/usl/charleston-battery/hartford-athletic/2950710,Charleston,Terminado,1552768200
+Sacramento ,Estados Unidos - USL,16/03/19 18:00:00,https://www.academiadasapostasbrasil.com/stats/match/estados-unidos/usl/colorado-springs/sacramento-republic/2949078,Switchbacks,Terminado,1552770000
+Ottawa Fury,Estados Unidos - USL,16/03/19 18:00:00,https://www.academiadasapostasbrasil.com/stats/match/estados-unidos/usl/birmingham-legion/ottawa-fury/2950708,Birmingham Legion,Terminado,1552770000
+Loudoun United,Estados Unidos - USL,16/03/19 18:00:00,https://www.academiadasapostasbrasil.com/stats/match/estados-unidos/usl/memphis-901/loudoun-united/2950709,Memphis 901,Terminado,1552770000
+St. Louis FC,Estados Unidos - USL,16/03/19 18:00:00,https://www.academiadasapostasbrasil.com/stats/match/estados-unidos/usl/nashville/saint-louis/2950712,Nashville,Terminado,1552770000
+San Felipe,Chile - Primera B,16/03/19 18:00:00,https://www.academiadasapostasbrasil.com/stats/match/chile/primera-b/deportes-santa-cruz/union-san-felipe/2973795,Santa Cruz,Terminado,1552770000
+Las Vegas Lights,Estados Unidos - USL,16/03/19 18:30:00,https://www.academiadasapostasbrasil.com/stats/match/estados-unidos/usl/okc-energy/las-vegas-lights/2949095,Energy,Terminado,1552771800
+Fresno FC,Estados Unidos - USL,16/03/19 18:30:00,https://www.academiadasapostasbrasil.com/stats/match/estados-unidos/usl/rio-grande-valley/fresno-fc/2949099,RGV FC Toros,Terminado,1552771800
+Portland U23,Estados Unidos - USL,16/03/19 18:30:00,https://www.academiadasapostasbrasil.com/stats/match/estados-unidos/usl/san-antonio/portland-timbers-ii/2950711,San Antonio,Terminado,1552771800
+Roughnecks,Estados Unidos - USL,16/03/19 20:00:00,https://www.academiadasapostasbrasil.com/stats/match/estados-unidos/usl/orange-county-blues/tulsa-roughnecks/2949096,OC Blues,Terminado,1552777200
+Galaxy,Estados Unidos - USL,16/03/19 20:00:00,https://www.academiadasapostasbrasil.com/stats/match/estados-unidos/usl/seattle-sounders-ii/la-galaxy-ii/2950713,Sounders II,Terminado,1552777200
+New Mexico United,Estados Unidos - USL,16/03/19 20:30:00,https://www.academiadasapostasbrasil.com/stats/match/estados-unidos/usl/arizona-united/new-mexico-united/2949097,Arizona Utd,Terminado,1552779000
+Tepatitlán de Morelos,México - Segunda División,15/03/19 21:00:00,https://www.academiadasapostasbrasil.com/stats/match/mexico/segunda-division/coras-de-nayarit/tepatitlan-de-morelos/2943903,Coras de Nayarit,Terminado,1552694400
+Münster,Alemanha - 3. Liga,16/03/19 07:00:00,https://www.academiadasapostasbrasil.com/stats/match/alemanha/3-liga/wehen-wiesbaden/preussen-06-munster/2824010,Wiesbaden,Terminado,1552730400
+Großaspach,Alemanha - 3. Liga,16/03/19 07:00:00,https://www.academiadasapostasbrasil.com/stats/match/alemanha/3-liga/unterhaching/sonnenhof-grosaspach/2824011,Unterhaching,Terminado,1552730400
+1860 München,Alemanha - 3. Liga,16/03/19 07:00:00,https://www.academiadasapostasbrasil.com/stats/match/alemanha/3-liga/wurzburger-kickers/munique-1860/2824012,Würzburg,Terminado,1552730400
+Kaiserslautern,Alemanha - 3. Liga,16/03/19 07:00:00,https://www.academiadasapostasbrasil.com/stats/match/alemanha/3-liga/lotte/kaiserslautern/2824014,SF Lotte,Terminado,1552730400
+Jena,Alemanha - 3. Liga,16/03/19 07:00:00,https://www.academiadasapostasbrasil.com/stats/match/alemanha/3-liga/osnabruck/carl-zeiss-jena/2824015,Osnabrück,Terminado,1552730400
+Zwickau,Alemanha - 3. Liga,16/03/19 07:00:00,https://www.academiadasapostasbrasil.com/stats/match/alemanha/3-liga/aalen/fsv-zwickau/2824017,Aalen,Terminado,1552730400
+East Fife,Escócia - 2ª Divisão,16/03/19 09:00:00,https://www.academiadasapostasbrasil.com/stats/match/escocia/2-divisao/arbroath/east-fife/2796801,Arbroath,Terminado,1552737600
+Raith Rovers,Escócia - 2ª Divisão,16/03/19 09:00:00,https://www.academiadasapostasbrasil.com/stats/match/escocia/2-divisao/forfar-athletic/raith-rovers/2796803,Forfar,Terminado,1552737600
+Stranraer,Escócia - 2ª Divisão,16/03/19 09:00:00,https://www.academiadasapostasbrasil.com/stats/match/escocia/2-divisao/stenhousemuir/stranraer/2796805,Stenhousemuir,Terminado,1552737600
+Marítimo II,Portugal - 2ª Divisão,16/03/19 09:00:00,https://www.academiadasapostasbrasil.com/stats/match/portugal/2-divisao/espinho/maritimo-ii/2862754,Espinho,Terminado,1552737600
+Chaves II,Portugal - 2ª Divisão,16/03/19 09:00:00,https://www.academiadasapostasbrasil.com/stats/match/portugal/2-divisao/trofense/chaves-ii/2863064,Trofense,Terminado,1552737600
+Gil Vicente,Portugal - 2ª Divisão,16/03/19 09:00:00,https://www.academiadasapostasbrasil.com/stats/match/portugal/2-divisao/fafe/gil-vicente/2863065,Fafe,Terminado,1552737600
+UD Logroñés,Espanha - Segunda B,16/03/19 09:00:00,https://www.academiadasapostasbrasil.com/stats/match/espanha/segunda-b/amorebieta/ud-logrones/2866924,Amorebieta,Terminado,1552737600
+Navalcarnero,Espanha - Segunda B,16/03/19 09:30:00,https://www.academiadasapostasbrasil.com/stats/match/espanha/segunda-b/real-valladolid-ii/navalcarnero/2866544,Valladolid II,Terminado,1552739400
+Gernika,Espanha - Segunda B,16/03/19 10:00:00,https://www.academiadasapostasbrasil.com/stats/match/espanha/segunda-b/vitoria/gernika/2866922,Vitoria,Terminado,1552741200
+Oviedo II,Espanha - Segunda B,16/03/19 10:00:00,https://www.academiadasapostasbrasil.com/stats/match/espanha/segunda-b/leioa/real-oviedo-ii/2866923,Leioa,Terminado,1552741200
+Durango,Espanha - Segunda B,16/03/19 10:00:00,https://www.academiadasapostasbrasil.com/stats/match/espanha/segunda-b/sporting-gijon-ii/durango/2866930,Gijón II,Terminado,1552741200
+Espanyol II,Espanha - Segunda B,16/03/19 11:00:00,https://www.academiadasapostasbrasil.com/stats/match/espanha/segunda-b/barcelona-ii/espanyol-ii/2867307,Barcelona II,Terminado,1552744800
+Levante II,Espanha - Segunda B,16/03/19 11:00:00,https://www.academiadasapostasbrasil.com/stats/match/espanha/segunda-b/ejea/levante-ii/2867311,Ejea,Terminado,1552744800
+Yalmakan,México - Segunda División,16/03/19 11:00:00,https://www.academiadasapostasbrasil.com/stats/match/mexico/segunda-division/coyotes/yalmakan/2943902,Coyotes,Terminado,1552744800
+Cartagena,Espanha - Segunda B,16/03/19 11:30:00,https://www.academiadasapostasbrasil.com/stats/match/espanha/segunda-b/sanluqueno/cartagena/2867691,Sanluqueño,Terminado,1552746600
+A Madrid II,Espanha - Segunda B,16/03/19 12:00:00,https://www.academiadasapostasbrasil.com/stats/match/espanha/segunda-b/ponferradina/atletico-madrid-ii/2866540,Ponferradina,Terminado,1552748400
+Lleida,Espanha - Segunda B,16/03/19 12:00:00,https://www.academiadasapostasbrasil.com/stats/match/espanha/segunda-b/hercules/lleida-esportiu/2867314,Hércules,Terminado,1552748400
+Cocodrilos de Tabasco,México - Segunda División,16/03/19 12:15:00,https://www.academiadasapostasbrasil.com/stats/match/mexico/segunda-division/toluca-premier/cocodrilos-de-tabasco/2943901,Toluca Premier,Terminado,1552749300
+Irapuato,México - Segunda División,16/03/19 14:00:00,https://www.academiadasapostasbrasil.com/stats/match/mexico/segunda-division/inter-playa-del-carmen/irapuato/2943896,Inter Playa del Carmen,Terminado,1552755600
+Caçadores das Taipas,Portugal - 2ª Divisão,16/03/19 14:30:00,https://www.academiadasapostasbrasil.com/stats/match/portugal/2-divisao/maria-da-fonte/cacadores-das-taipas/2863066,Maria da Fonte,Terminado,1552757400
+Reboceros,México - Segunda División,16/03/19 15:00:00,https://www.academiadasapostasbrasil.com/stats/match/mexico/segunda-division/jiquipilas/reboceros-la-piedad/2943898,Jiquipilas,Terminado,1552759200
+Real Zamora,México - Segunda División,16/03/19 15:00:00,https://www.academiadasapostasbrasil.com/stats/match/mexico/segunda-division/orizaba/real-zamora/2943899,Orizaba,Terminado,1552759200
+CA Hidalgo,México - Segunda División,16/03/19 16:00:00,https://www.academiadasapostasbrasil.com/stats/match/mexico/segunda-division/pioneros-de-cancun/cruz-azul-hidalgo/2943897,Pioneros de Cancún,Terminado,1552762800
+Morelia P.,México - Segunda División,16/03/19 16:00:00,https://www.academiadasapostasbrasil.com/stats/match/mexico/segunda-division/loros-universidad/monarcas-morelia-premier/2943900,Loros Universidad,Terminado,1552762800
+Leones Negros,México - Segunda División,16/03/19 17:00:00,https://www.academiadasapostasbrasil.com/stats/match/mexico/segunda-division/ua-chihuahua/leones-negros/2943906,UA Chihuahua,Terminado,1552766400
+Andong Science Uni,Coreia do Sul - Copa FA,15/03/19 22:00:00,https://www.academiadasapostasbrasil.com/stats/match/coreia-do-sul/copa-fa/yeoju-sejong/andong-science-uni/2991345,Yeoju Sejong,Terminado,1552698000
+SMCE,Coreia do Sul - Copa FA,15/03/19 23:00:00,https://www.academiadasapostasbrasil.com/stats/match/coreia-do-sul/copa-fa/yong-in-university/smce/2991342,Yong In,Terminado,1552701600
+Soongsil,Coreia do Sul - Copa FA,15/03/19 23:00:00,https://www.academiadasapostasbrasil.com/stats/match/coreia-do-sul/copa-fa/seoul-united/soongsil-university/2991350,Seoul Utd,Terminado,1552701600
+Hwaseong,Coreia do Sul - Copa FA,15/03/19 23:00:00,https://www.academiadasapostasbrasil.com/stats/match/coreia-do-sul/copa-fa/mokpo-christian-hospital/hwaseong/2991351,Mokpo CH,Terminado,1552701600
+Pyeongtaek Citizen,Coreia do Sul - Copa FA,15/03/19 23:00:00,https://www.academiadasapostasbrasil.com/stats/match/coreia-do-sul/copa-fa/honam-university/pyeongtaek-citizen/2991353,Honam,Terminado,1552701600
+Yeungnam,Coreia do Sul - Copa FA,15/03/19 23:00:00,https://www.academiadasapostasbrasil.com/stats/match/coreia-do-sul/copa-fa/gimhae-university/yeungnam-university/2991356,Gimhae University,Terminado,1552701600
+Gwangju Univ,Coreia do Sul - Copa FA,15/03/19 23:00:00,https://www.academiadasapostasbrasil.com/stats/match/coreia-do-sul/copa-fa/paju-citizen/gwangju-university/2991357,Paju,Terminado,1552701600
+Ulsan Univ,Coreia do Sul - Copa FA,16/03/19 00:00:00,https://www.academiadasapostasbrasil.com/stats/match/coreia-do-sul/copa-fa/yangpyeong/ulsan-university/2991343,Yangpyeong,Terminado,1552705200
+Catholic Kwandong Univ,Coreia do Sul - Copa FA,16/03/19 00:00:00,https://www.academiadasapostasbrasil.com/stats/match/coreia-do-sul/copa-fa/jeonju-university/catholic-kwandong-univ/2991344,Jeonju University,Terminado,1552705200
+Jeonju,Coreia do Sul - Copa FA,16/03/19 00:00:00,https://www.academiadasapostasbrasil.com/stats/match/coreia-do-sul/copa-fa/siheung-citizen/jeonju/2991347,Siheung Citizen,Terminado,1552705200
+Kyung Hee,Coreia do Sul - Copa FA,16/03/19 00:00:00,https://www.academiadasapostasbrasil.com/stats/match/coreia-do-sul/copa-fa/incheon-university/kyung-hee-university/2991355,Incheon University,Terminado,1552705200
+Hanyang University,Coreia do Sul - Copa FA,16/03/19 00:00:00,https://www.academiadasapostasbrasil.com/stats/match/coreia-do-sul/copa-fa/dong-eui-university/hanyang-university/2991358,Dong Eui,Terminado,1552705200
+Dong-woo,Coreia do Sul - Copa FA,16/03/19 01:00:00,https://www.academiadasapostasbrasil.com/stats/match/coreia-do-sul/copa-fa/chungju-citizen/dong-woo/2991346,Chungju Citizen,Terminado,1552708800
+Donggook,Coreia do Sul - Copa FA,16/03/19 01:00:00,https://www.academiadasapostasbrasil.com/stats/match/coreia-do-sul/copa-fa/yonsei-university/donggook-university/2991349,Yeonsei,Terminado,1552708800
+Chung-Ang University	,Coreia do Sul - Copa FA,16/03/19 04:00:00,https://www.academiadasapostasbrasil.com/stats/match/coreia-do-sul/copa-fa/cheongju-fc/chung-ang-university/2991352,Cheongju,Terminado,1552719600
+Vitebsk,Bielorrússia - Copa,16/03/19 05:00:00,https://www.academiadasapostasbrasil.com/stats/match/bielorrussia/copa/gomelzheldortrans/vitebsk/2988668,Gomelzheldortr,Terminado,1552723200
+RoPS,Finlândia - Copa Suomen,16/03/19 06:30:00,https://www.academiadasapostasbrasil.com/stats/match/finlandia/copa-suomen/haka-valkeakoski/rops/2994313,Haka,Terminado,1552728600
+Ilves,Finlândia - Copa Suomen,16/03/19 07:00:00,https://www.academiadasapostasbrasil.com/stats/match/finlandia/copa-suomen/ktp/ilves/2994310,KTP,Terminado,1552730400
+Honka,Finlândia - Copa Suomen,16/03/19 07:30:00,https://www.academiadasapostasbrasil.com/stats/match/finlandia/copa-suomen/oulu/honka/2994312,Oulu,Terminado,1552732200
+Lahti,Finlândia - Copa Suomen,16/03/19 08:00:00,https://www.academiadasapostasbrasil.com/stats/match/finlandia/copa-suomen/kiisto/lahti/2994306,Kiisto,Terminado,1552734000
+Mariehamn,Finlândia - Copa Suomen,16/03/19 08:00:00,https://www.academiadasapostasbrasil.com/stats/match/finlandia/copa-suomen/tpv/mariehamn/2994307,TPV,Terminado,1552734000
+Persepar,Indonésia - Piala Presiden,16/03/19 02:30:00,https://www.academiadasapostasbrasil.com/stats/match/indonesia/piala-presiden/persipura-jayapura/persepar-kalteng-putra/2987302,Persipura,Terminado,1552714200
+PSM,Indonésia - Piala Presiden,16/03/19 05:30:00,https://www.academiadasapostasbrasil.com/stats/match/indonesia/piala-presiden/psis-semarang/psm-makassar/2987303,PSIS,Terminado,1552725000
+Juventude,Brasil - Gaucho 1ª Div,16/03/19 15:00:00,https://www.academiadasapostasbrasil.com/stats/match/brasil/gaucho-1-div/novo-hamburgo/juventude/2935325,Novo Hamburgo,Terminado,1552759200
+Tombense,Brasil - Mineiro I,16/03/19 13:00:00,https://www.academiadasapostasbrasil.com/stats/match/brasil/mineiro-i/guarani-mg/tombense/2938491,Guarani MG,Terminado,1552752000
+Cruzeiro,Brasil - Mineiro I,16/03/19 13:00:00,https://www.academiadasapostasbrasil.com/stats/match/brasil/mineiro-i/tupi/cruzeiro/2938492,Tupi,Terminado,1552752000
+URT,Brasil - Mineiro I,16/03/19 13:00:00,https://www.academiadasapostasbrasil.com/stats/match/brasil/mineiro-i/villa-nova/urt/2938494,Villa Nova,Terminado,1552752000
+Boa,Brasil - Mineiro I,16/03/19 14:00:00,https://www.academiadasapostasbrasil.com/stats/match/brasil/mineiro-i/cap/boa/2938496,CAP Patrocinense,Terminado,1552755600
+Hercílio,Brasil - Catarinense,16/03/19 13:00:00,https://www.academiadasapostasbrasil.com/stats/match/brasil/catarinense/metropolitano/hercilio-luz/2936545,Metropolitano,Terminado,1552752000
+Marcílio Dias,Brasil - Catarinense,16/03/19 15:00:00,https://www.academiadasapostasbrasil.com/stats/match/brasil/catarinense/brusque/marcilio-dias/2936547,Brusque,Terminado,1552759200
+Itumbiara,Brasil - Goiano,16/03/19 13:00:00,https://www.academiadasapostasbrasil.com/stats/match/brasil/goiano/vila-nova/itumbiara/2939263,Vila Nova,Terminado,1552752000
+Goianésia,Brasil - Goiano,16/03/19 13:00:00,https://www.academiadasapostasbrasil.com/stats/match/brasil/goiano/goiania/goianesia/2939264,Goiânia,Terminado,1552752000
+Aparecidense,Brasil - Goiano,16/03/19 13:00:00,https://www.academiadasapostasbrasil.com/stats/match/brasil/goiano/gremio-anapolis/aparecidense/2939268,G Anapolis,Terminado,1552752000
+Água Santa,Brasil - Paulista A2,16/03/19 12:00:00,https://www.academiadasapostasbrasil.com/stats/match/brasil/paulista-a2/sao-bernardo-fc/agua-santa/2940697,São Bernardo,Terminado,1552748400
+Atibaia,Brasil - Paulista A2,16/03/19 12:00:00,https://www.academiadasapostasbrasil.com/stats/match/brasil/paulista-a2/santo-andre/atibaia/2940703,Santo André,Terminado,1552748400
+Portuguesa,Brasil - Paulista A2,16/03/19 14:00:00,https://www.academiadasapostasbrasil.com/stats/match/brasil/paulista-a2/rio-claro/portuguesa/2940702,Rio Claro,Terminado,1552755600
+Votuporanguens,Brasil - Paulista A2,16/03/19 16:00:00,https://www.academiadasapostasbrasil.com/stats/match/brasil/paulista-a2/sertaozinho/votuporanguense/2940700,Sertãozinho,Terminado,1552762800
+Altos,Brasil - Copa do Nordeste,16/03/19 13:00:00,https://www.academiadasapostasbrasil.com/stats/match/brasil/copa-do-nordeste/botafogo-pb/altos/2929204,Botafogo PB,Terminado,1552752000
+Rizespor U21,Turquia - U21 Süper Lig,16/03/19 02:00:00,https://www.academiadasapostasbrasil.com/stats/match/turquia/u21-super-lig/konyaspor-u21/rizespor-u21/2841797,Konyaspor U21,Terminado,1552712400
+Kasımpaşa U21,Turquia - U21 Süper Lig,16/03/19 03:00:00,https://www.academiadasapostasbrasil.com/stats/match/turquia/u21-super-lig/akhisar-belediye-u21/kasmpasa-u21/2841793,Akhisar Belediye U21,Terminado,1552716000
+Trabzonspor U21,Turquia - U21 Süper Lig,16/03/19 03:00:00,https://www.academiadasapostasbrasil.com/stats/match/turquia/u21-super-lig/bb-erzurumspor-u21/trabzonspor-u21/2841798,BB Erzurumspor U21,Terminado,1552716000
+Göztepe U21,Turquia - U21 Süper Lig,16/03/19 03:00:00,https://www.academiadasapostasbrasil.com/stats/match/turquia/u21-super-lig/besiktas-u21/goztepe-u21/2841800,Beşiktaş U21,Terminado,1552716000
+Alanyaspor U21,Turquia - U21 Süper Lig,16/03/19 04:00:00,https://www.academiadasapostasbrasil.com/stats/match/turquia/u21-super-lig/antalyaspor-u21/alanyaspor-u21/2841799,Antalyaspor U21,Terminado,1552719600
+Hoffenheim,Alemanha - U19 Bundesliga,16/03/19 05:00:00,https://www.academiadasapostasbrasil.com/stats/match/alemanha/u19-bundesliga/kaiserslautern-u19/hoffenheim-u19/2848192,1. FCK,Terminado,1552723200
+Paderborn U19,Alemanha - U19 Bundesliga,16/03/19 06:00:00,https://www.academiadasapostasbrasil.com/stats/match/alemanha/u19-bundesliga/bochum-u19/paderborn-u19/2848355,Bochum,Terminado,1552726800
+RW Essen,Alemanha - U19 Bundesliga,16/03/19 06:00:00,https://www.academiadasapostasbrasil.com/stats/match/alemanha/u19-bundesliga/borussia-mgladbach-u19/rot-weiss-essen-u19/2848398,M'gladbach,Terminado,1552726800
+Werder,Alemanha - U19 Bundesliga,16/03/19 06:00:00,https://www.academiadasapostasbrasil.com/stats/match/alemanha/u19-bundesliga/niendorfer-tsv-u19/werder-bremen-u19/2848683,Niendorfer TSV U19,Terminado,1552726800
+Fortuna,Alemanha - U19 Bundesliga,16/03/19 08:00:00,https://www.academiadasapostasbrasil.com/stats/match/alemanha/u19-bundesliga/alemannia-aachen-u19/fortuna-dusseldorf-u19/2848353,Aachen U19,Terminado,1552734000
+Derby,Inglaterra - U18 Premier League,16/03/19 05:00:00,https://www.academiadasapostasbrasil.com/stats/match/inglaterra/u18-premier-league/stoke-city-u18/derby-county-u18/2881235,Stoke City,Terminado,1552723200
+Brighton&Hove,Inglaterra - U18 Premier League,16/03/19 05:00:00,https://www.academiadasapostasbrasil.com/stats/match/inglaterra/u18-premier-league/chelsea-u18/brighton-u18/2881365,Chelsea,Terminado,1552723200
+Aston Villa,Inglaterra - U18 Premier League,16/03/19 05:00:00,https://www.academiadasapostasbrasil.com/stats/match/inglaterra/u18-premier-league/leicester-city-u18/aston-villa-u18/2881366,Leicester,Terminado,1552723200
+Fulham,Inglaterra - U18 Premier League,16/03/19 05:00:00,https://www.academiadasapostasbrasil.com/stats/match/inglaterra/u18-premier-league/reading-u18/fulham-u18/2881367,Reading,Terminado,1552723200
+Arsenal,Inglaterra - U18 Premier League,16/03/19 05:00:00,https://www.academiadasapostasbrasil.com/stats/match/inglaterra/u18-premier-league/west-ham-united-u18/arsenal-u18/2881368,West Ham,Terminado,1552723200
+Everton,Inglaterra - U18 Premier League,16/03/19 05:30:00,https://www.academiadasapostasbrasil.com/stats/match/inglaterra/u18-premier-league/west-bromwich-albion-u18/everton-u18/2881236,WBA,Terminado,1552725000
+Hotspur,Inglaterra - U18 Premier League,16/03/19 06:00:00,https://www.academiadasapostasbrasil.com/stats/match/inglaterra/u18-premier-league/norwich-city-u18/tottenham-hotspur-u18/2881369,Norwich,Terminado,1552726800
+Swansea,Inglaterra - U18 Premier League,16/03/19 06:00:00,https://www.academiadasapostasbrasil.com/stats/match/inglaterra/u18-premier-league/southampton-u18/swansea-city-u18/2881370,Southampton,Terminado,1552726800
+Man Utd,Inglaterra - U18 Premier League,16/03/19 06:30:00,https://www.academiadasapostasbrasil.com/stats/match/inglaterra/u18-premier-league/newcastle-united-u18/manchester-united-u18/2881238,Newcastle,Terminado,1552728600
+VSK Aarhus,Dinamarca - Elitedivisionen,16/03/19 05:30:00,https://www.academiadasapostasbrasil.com/stats/match/dinamarca/elitedivisionen/bsf/vsk-aarhus/2948610,BSF,Terminado,1552725000
+Fortuna,Dinamarca - Elitedivisionen,16/03/19 06:00:00,https://www.academiadasapostasbrasil.com/stats/match/dinamarca/elitedivisionen/koldingq/fortuna-hjorring/2948611,KoldingQ,Terminado,1552726800
+Thisted,Dinamarca - Elitedivisionen,16/03/19 06:00:00,https://www.academiadasapostasbrasil.com/stats/match/dinamarca/elitedivisionen/brondby/thisted/2948612,Brøndby,Terminado,1552726800
+Fundación A,Espanha - Superliga,16/03/19 07:00:00,https://www.academiadasapostasbrasil.com/stats/match/espanha/superliga/real-betis/fundacion-albacete/2857587,Real Betis,Terminado,1552730400
+Frankfurt,Alemanha - Frauen Bundesliga,16/03/19 07:05:00,https://www.academiadasapostasbrasil.com/stats/match/alemanha/frauen-bundesliga/sgs-essen/frankfurt/2822007,SGS,Terminado,1552730700
+Lyon,França - Feminine Division 1,16/03/19 07:30:00,https://www.academiadasapostasbrasil.com/stats/match/franca/feminine-division-1/bordeaux/lyon/2844351,Bordeaux,Terminado,1552732200
+Soyaux,França - Feminine Division 1,16/03/19 07:30:00,https://www.academiadasapostasbrasil.com/stats/match/franca/feminine-division-1/paris/soyaux/2844352,Paris,Terminado,1552732200
+Rodez,França - Feminine Division 1,16/03/19 07:30:00,https://www.academiadasapostasbrasil.com/stats/match/franca/feminine-division-1/fleury-91/rodez/2844354,Fleury 91,Terminado,1552732200
+Montpellier,França - Feminine Division 1,16/03/19 07:30:00,https://www.academiadasapostasbrasil.com/stats/match/franca/feminine-division-1/metz/montpellier/2844355,Metz,Terminado,1552732200
+Guingamp,França - Feminine Division 1,16/03/19 07:30:00,https://www.academiadasapostasbrasil.com/stats/match/franca/feminine-division-1/lille/guingamp/2844356,Lille,Terminado,1552732200
+Juventus,Itália - Femminile Serie A,16/03/19 07:30:00,https://www.academiadasapostasbrasil.com/stats/match/italia/femminile-serie-a/bari/juventus/2916371,Bari,Terminado,1552732200
+Orobica,Itália - Femminile Serie A,16/03/19 08:00:00,https://www.academiadasapostasbrasil.com/stats/match/italia/femminile-serie-a/mozzanica/orobica/2916372,Mozzanica,Terminado,1552734000
+Roma,Itália - Femminile Serie A,16/03/19 08:00:00,https://www.academiadasapostasbrasil.com/stats/match/italia/femminile-serie-a/fimauto-valpolicella/roma/2916373,Fimauto,Terminado,1552734000
+Tavagnacco,Itália - Femminile Serie A,16/03/19 08:00:00,https://www.academiadasapostasbrasil.com/stats/match/italia/femminile-serie-a/reggiana/tavagnacco/2916374,Reggiana,Terminado,1552734000
+Verona,Itália - Femminile Serie A,16/03/19 08:00:00,https://www.academiadasapostasbrasil.com/stats/match/italia/femminile-serie-a/fiorentina/bardolino/2916375,Fiorentina,Terminado,1552734000
+Sporting Braga,Portugal - Feminino 1ª Divisão,16/03/19 09:00:00,https://www.academiadasapostasbrasil.com/stats/match/portugal/feminino-1-divisao/boavista-porto/sporting-braga/2901268,Boavista,Terminado,1552737600
+Sporting CP,Portugal - Feminino 1ª Divisão,16/03/19 09:00:00,https://www.academiadasapostasbrasil.com/stats/match/portugal/feminino-1-divisao/albergaria/sporting-cp/2901269,Albergaria,Terminado,1552737600
+Vilaverdense,Portugal - Feminino 1ª Divisão,16/03/19 09:00:00,https://www.academiadasapostasbrasil.com/stats/match/portugal/feminino-1-divisao/valadares-gaia/vilaverdense/2901270,Valadares,Terminado,1552737600
+Benfica,Portugal - Feminino 1ª Divisão,16/03/19 09:00:00,https://www.academiadasapostasbrasil.com/stats/match/portugal/feminino-1-divisao/estoril-praia/benfica/2901272,Estoril Praia,Terminado,1552737600
+Ovarense,Portugal - Feminino 1ª Divisão,16/03/19 10:00:00,https://www.academiadasapostasbrasil.com/stats/match/portugal/feminino-1-divisao/maritimo/ovarense/2901273,Marítimo,Terminado,1552741200
+São José,Brasil - Brasileiro Women,16/03/19 12:00:00,https://www.academiadasapostasbrasil.com/stats/match/brasil/brasileiro-women/minas-icesp/sao-jose/2991977,Minas ICESP,Terminado,1552748400
+Corinthians,Brasil - Brasileiro Women,16/03/19 13:00:00,https://www.academiadasapostasbrasil.com/stats/match/brasil/brasileiro-women/ponte-preta/corinthians/2991982,Ponte Preta,Terminado,1552752000
+Osasco Audax,Brasil - Brasileiro Women,16/03/19 14:00:00,https://www.academiadasapostasbrasil.com/stats/match/brasil/brasileiro-women/vitoria/audax/2991979,Vitória,Terminado,1552755600
+Djurgården,Suécia - Damer Svenska Cupen,16/03/19 05:00:00,https://www.academiadasapostasbrasil.com/stats/match/suecia/damer-svenska-cupen/goteborg-fc/djurgardens/2996595,Göteborg,Terminado,1552723200
+Kristianstad,Suécia - Damer Svenska Cupen,16/03/19 07:45:00,https://www.academiadasapostasbrasil.com/stats/match/suecia/damer-svenska-cupen/pitea/kristianstad/2996594,Piteå,Terminado,1552733100
+Ratchaburi,Tailândia - Liga Tailandesa,16/03/19 04:45:00,https://www.academiadasapostasbrasil.com/stats/match/tailandia/liga-tailandesa/chiangmai/ratchaburi/2973447,Chiangmai,Terminado,1552722300
+Chonburi,Tailândia - Liga Tailandesa,16/03/19 05:00:00,https://www.academiadasapostasbrasil.com/stats/match/tailandia/liga-tailandesa/suphanburi/chonburi-fc/2973448,Suphanburi,Terminado,1552723200
+Muang Thong,Tailândia - Liga Tailandesa,16/03/19 06:00:00,https://www.academiadasapostasbrasil.com/stats/match/tailandia/liga-tailandesa/chiangrai-united/muang-thong-united/2973449,Chiangrai Utd,Terminado,1552726800
+Trat,Tailândia - Liga Tailandesa,16/03/19 07:00:00,https://www.academiadasapostasbrasil.com/stats/match/tailandia/liga-tailandesa/nakhon-ratchasima/trat/2973450,Ratchasima,Terminado,1552730400
+Árabe,Panamá - Primera Division,16/03/19 17:00:00,https://www.academiadasapostasbrasil.com/stats/match/panama/primera-division/alianza/arabe-unido/2977983,Alianza,Terminado,1552766400
+San Francisco,Panamá - Primera Division,16/03/19 17:00:00,https://www.academiadasapostasbrasil.com/stats/match/panama/primera-division/santa-gema/san-francisco/2977984,Santa Gema,Terminado,1552766400
+Vida,Honduras - Liga Nacional,16/03/19 18:00:00,https://www.academiadasapostasbrasil.com/stats/match/honduras/liga-nacional/upnfm/vida/2954599,UPNFM,Terminado,1552770000
+Plaza Amador,Panamá - Primera Division,16/03/19 18:00:00,https://www.academiadasapostasbrasil.com/stats/match/panama/primera-division/tauro/plaza-amador/2977986,Tauro,Terminado,1552770000
+Luc. Oradea,Romênia - Liga II,16/03/19 03:00:00,https://www.academiadasapostasbrasil.com/stats/match/romenia/liga-ii/uta-batrana-doamna/luceafarul-oradea/2847789,UTA B. Doamnă,Terminado,1552716000
+Academica,Romênia - Liga II,16/03/19 03:00:00,https://www.academiadasapostasbrasil.com/stats/match/romenia/liga-ii/acs-poli-timisoara/academica-clinceni/2847790,Poli Timişoara,Terminado,1552716000
+Baloteşti,Romênia - Liga II,16/03/19 03:00:00,https://www.academiadasapostasbrasil.com/stats/match/romenia/liga-ii/dacia-unirea-braila/balotesti/2847792,Dacia Unirea,Terminado,1552716000
+Pandurii,Romênia - Liga II,16/03/19 03:00:00,https://www.academiadasapostasbrasil.com/stats/match/romenia/liga-ii/ssc-farul/pandurii-targu-jiu/2847793,SSC Farul,Terminado,1552716000
+Metaloglobus,Romênia - Liga II,16/03/19 03:00:00,https://www.academiadasapostasbrasil.com/stats/match/romenia/liga-ii/juventus-bucuresti/metaloglobus/2847794,Juventus,Terminado,1552716000
+ASU Poli,Romênia - Liga II,16/03/19 03:00:00,https://www.academiadasapostasbrasil.com/stats/match/romenia/liga-ii/scm-pitesti/asu-poli/2847797,SCM Piteşti,Terminado,1552716000
+Znojmo,República Tcheca - 2. Liga,16/03/19 03:15:00,https://www.academiadasapostasbrasil.com/stats/match/republica-tcheca/2-liga/trinec/znojmo/2805632,Třinec,Terminado,1552716900
+Pardubice,República Tcheca - 2. Liga,16/03/19 03:15:00,https://www.academiadasapostasbrasil.com/stats/match/republica-tcheca/2-liga/chrudim/pardubice/2805633,Chrudim,Terminado,1552716900
+K-Järve,Estônia - Esiliiga,16/03/19 05:00:00,https://www.academiadasapostasbrasil.com/stats/match/estonia/esiliiga/vaprus/k-jarve-jk-jarve/2968573,Vaprus,Terminado,1552723200
+Rafsanjan,Irã - Liga Azadegan,16/03/19 05:30:00,https://www.academiadasapostasbrasil.com/stats/match/ira/liga-azadegan/mes-kerman/mes-rafsanjan/2993116,Mes Kerman,Terminado,1552725000
+Shahrdari T,Irã - Liga Azadegan,16/03/19 05:30:00,https://www.academiadasapostasbrasil.com/stats/match/ira/liga-azadegan/baderan/machine-shahrdari/2993117,Baderan,Terminado,1552725000
+Qashqai,Irã - Liga Azadegan,16/03/19 05:30:00,https://www.academiadasapostasbrasil.com/stats/match/ira/liga-azadegan/aluminium-arak/qashqai/2993129,Aluminium Arak,Terminado,1552725000
+Persepolis Pakdasht,Irã - Liga Azadegan,16/03/19 05:30:00,https://www.academiadasapostasbrasil.com/stats/match/ira/liga-azadegan/gol-gohar-sirjan/persepolis-pakdasht/2993130,Gohar Sirjan,Terminado,1552725000
+Malavan,Irã - Liga Azadegan,16/03/19 05:30:00,https://www.academiadasapostasbrasil.com/stats/match/ira/liga-azadegan/oxin-alborz/malavan/2993131,Oxin Alborz,Terminado,1552725000
+Bravo,Eslovênia - 2. SNL,16/03/19 06:00:00,https://www.academiadasapostasbrasil.com/stats/match/eslovenia/2-snl/bilje/bravo/2803839,Bilje,Terminado,1552726800
+Arvand Khorramshahr,Irã - Liga Azadegan,16/03/19 06:00:00,https://www.academiadasapostasbrasil.com/stats/match/ira/liga-azadegan/shahin-bushehr/arvand-khorramshahr/2993132,Shahin,Terminado,1552726800
+Khouneh,Irã - Liga Azadegan,16/03/19 06:00:00,https://www.academiadasapostasbrasil.com/stats/match/ira/liga-azadegan/shahrdari-mahshahr/khouneh-be-khouneh-babol/2993133,Shahrdari Mahshahr,Terminado,1552726800
+Wong Tai Sin,Hong Kong - 2ª Divisão HKFA,16/03/19 06:30:00,https://www.academiadasapostasbrasil.com/stats/match/hong-kong/2-divisao-hkfa/hong-kong-fc/wong-tai-sin/2957700,Hong Kong,Terminado,1552728600
+Universitatea Cluj,Romênia - Liga II,16/03/19 07:00:00,https://www.academiadasapostasbrasil.com/stats/match/romenia/liga-ii/aerostar-bacau/universitatea-cluj/2847798,Aerostar,Terminado,1552730400
+Dobrudzha,Bulgária - B PFG,16/03/19 07:30:00,https://www.academiadasapostasbrasil.com/stats/match/bulgaria/b-pfg/montana/dobrudzha-1919/2798233,Montana,Terminado,1552732200
+Tsarsko selo,Bulgária - B PFG,16/03/19 07:30:00,https://www.academiadasapostasbrasil.com/stats/match/bulgaria/b-pfg/chernomorets-balchik/tsarsko-selo/2798234,Balchik,Terminado,1552732200
+Pomorie,Bulgária - B PFG,16/03/19 07:30:00,https://www.academiadasapostasbrasil.com/stats/match/bulgaria/b-pfg/lokomotiv-sofia-1929/pomorie/2798235,Lokomotiv Sofia 1929,Terminado,1552732200
+Botev Galabovo,Bulgária - B PFG,16/03/19 07:30:00,https://www.academiadasapostasbrasil.com/stats/match/bulgaria/b-pfg/nesebar/botev-galabovo/2798237,Nesebar,Terminado,1552732200
+Strumska slava,Bulgária - B PFG,16/03/19 07:30:00,https://www.academiadasapostasbrasil.com/stats/match/bulgaria/b-pfg/lovech/strumska-slava/2798239,Lovech,Terminado,1552732200
+Bardejov,Eslováquia - I Liga,16/03/19 07:30:00,https://www.academiadasapostasbrasil.com/stats/match/eslovaquia/i-liga/inter-bratislava/partizan-bardejov/2809083,Inter,Terminado,1552732200
+Petržalka akadémia,Eslováquia - I Liga,16/03/19 07:30:00,https://www.academiadasapostasbrasil.com/stats/match/eslovaquia/i-liga/samorin/petrzalka-akademia/2809084,Šamorín,Terminado,1552732200
+Dubnica,Eslováquia - I Liga,16/03/19 07:30:00,https://www.academiadasapostasbrasil.com/stats/match/eslovaquia/i-liga/komarno/dubnica/2809085,Komárno,Terminado,1552732200
+Skalica,Eslováquia - I Liga,16/03/19 07:30:00,https://www.academiadasapostasbrasil.com/stats/match/eslovaquia/i-liga/poprad/skalica/2809087,Poprad,Terminado,1552732200
+Vasco,África do Sul - Liga Mvela Golden,16/03/19 07:30:00,https://www.academiadasapostasbrasil.com/stats/match/africa-do-sul/liga-mvela-golden/milano-united/stellenbosch/2869480,Milano Utd,Terminado,1552732200
+Mbombela Utd,África do Sul - Liga Mvela Golden,16/03/19 07:30:00,https://www.academiadasapostasbrasil.com/stats/match/africa-do-sul/liga-mvela-golden/royal-eagles/mbombela-united/2869481,Royal Eagles,Terminado,1552732200
+TS Galaxy,África do Sul - Liga Mvela Golden,16/03/19 07:30:00,https://www.academiadasapostasbrasil.com/stats/match/africa-do-sul/liga-mvela-golden/maccabi/ts-galaxy/2869483,Maccabi,Terminado,1552732200
+Witbank,África do Sul - Liga Mvela Golden,16/03/19 07:30:00,https://www.academiadasapostasbrasil.com/stats/match/africa-do-sul/liga-mvela-golden/ts-sporting/witbank-spurs/2869484,TS Sporting,Terminado,1552732200
+Tabor,Eslovênia - 2. SNL,16/03/19 08:00:00,https://www.academiadasapostasbrasil.com/stats/match/eslovenia/2-snl/radomlje/tabor-sezana/2803833,Radomlje,Terminado,1552734000
+Dekani,Eslovênia - 2. SNL,16/03/19 08:00:00,https://www.academiadasapostasbrasil.com/stats/match/eslovenia/2-snl/ilirija/dekani/2803834,Ilirija,Terminado,1552734000
+Brda,Eslovênia - 2. SNL,16/03/19 08:00:00,https://www.academiadasapostasbrasil.com/stats/match/eslovenia/2-snl/krka/brda-dobrovo/2803835,Krka,Terminado,1552734000
+NŠ Drava,Eslovênia - 2. SNL,16/03/19 08:00:00,https://www.academiadasapostasbrasil.com/stats/match/eslovenia/2-snl/dob/ns-drava/2803837,Dob,Terminado,1552734000
+Ankaran,Eslovênia - 2. SNL,16/03/19 08:00:00,https://www.academiadasapostasbrasil.com/stats/match/eslovenia/2-snl/rogaska/ankaran-hrvatini/2803838,Rogaška,Terminado,1552734000
+Fužinar,Eslovênia - 2. SNL,16/03/19 08:00:00,https://www.academiadasapostasbrasil.com/stats/match/eslovenia/2-snl/brezice/fuzinar/2803840,Brežice,Terminado,1552734000
+Sokolov,República Tcheca - 2. Liga,16/03/19 08:00:00,https://www.academiadasapostasbrasil.com/stats/match/republica-tcheca/2-liga/vysocina-jihlava/banik-sokolov/2805635,Vysočina,Terminado,1552734000
+Borac,Sérvia - Prva Liga,16/03/19 08:00:00,https://www.academiadasapostasbrasil.com/stats/match/servia/prva-liga/becej/borac-cacak/2918130,Bečej,Terminado,1552734000
+Radnički Krag,Sérvia - Prva Liga,16/03/19 08:00:00,https://www.academiadasapostasbrasil.com/stats/match/servia/prva-liga/backa-topola/radnicki-kragujevac/2918131,Bačka Topola,Terminado,1552734000
+Novi Pazar,Sérvia - Prva Liga,16/03/19 08:00:00,https://www.academiadasapostasbrasil.com/stats/match/servia/prva-liga/zarkovo/novi-pazar/2918132,Žarkovo,Terminado,1552734000
+Dobanovci,Sérvia - Prva Liga,16/03/19 08:00:00,https://www.academiadasapostasbrasil.com/stats/match/servia/prva-liga/javor-ivanjica/buducnost-dobanovci/2918134,Javor,Terminado,1552734000
+Hr Dragovoljac,Croácia - 2. HNL,16/03/19 08:30:00,https://www.academiadasapostasbrasil.com/stats/match/croacia/2-hnl/solin/hrvatski-dragovoljac/2858359,Solin,Terminado,1552735800
+Radnik,Croácia - 2. HNL,16/03/19 08:30:00,https://www.academiadasapostasbrasil.com/stats/match/croacia/2-hnl/zadar/sesvete/2858361,Zadar,Terminado,1552735800
+Bijelo Brdo,Croácia - 2. HNL,16/03/19 08:30:00,https://www.academiadasapostasbrasil.com/stats/match/croacia/2-hnl/osijek-ii/bijelo-brdo/2858362,Osijek II,Terminado,1552735800
+Dugopolje,Croácia - 2. HNL,16/03/19 08:30:00,https://www.academiadasapostasbrasil.com/stats/match/croacia/2-hnl/varteks-varazdin/dugopolje/2858364,Varaždin,Terminado,1552735800
+Legion,Estônia - Esiliiga,16/03/19 11:00:00,https://www.academiadasapostasbrasil.com/stats/match/estonia/esiliiga/tartu-welco/legion/2968574,Welco,Terminado,1552744800
+Univ Popayán,Colômbia - Primera B,16/03/19 13:30:00,https://www.academiadasapostasbrasil.com/stats/match/colombia/primera-b/fortaleza/universitario-popayan/2964890,Fortaleza,Terminado,1552753800
+Dépor,Colômbia - Primera B,16/03/19 14:00:00,https://www.academiadasapostasbrasil.com/stats/match/colombia/primera-b/valledupar/atletico/2964887,Valledupar,Terminado,1552755600
+Santander,Colômbia - Primera B,16/03/19 14:00:00,https://www.academiadasapostasbrasil.com/stats/match/colombia/primera-b/barranquilla/real-santander/2964889,Barranquilla,Terminado,1552755600
+Gualaceo,Equador - Primera B,16/03/19 14:00:00,https://www.academiadasapostasbrasil.com/stats/match/equador/primera-b/clan-juvenil/gualaceo/2987675,Clan Juvenil,Terminado,1552755600
+Duros del Balón,Equador - Primera B,16/03/19 14:00:00,https://www.academiadasapostasbrasil.com/stats/match/equador/primera-b/independiente-juniors/atletico-porteno/2987676,Independiente Juniors,Terminado,1552755600
+Puerto Quito,Equador - Primera B,16/03/19 14:30:00,https://www.academiadasapostasbrasil.com/stats/match/equador/primera-b/santa-rita/atletico-santo-domingo/2987677,Santa Rita,Terminado,1552757400
+Portoviejo,Equador - Primera B,16/03/19 15:00:00,https://www.academiadasapostasbrasil.com/stats/match/equador/primera-b/manta/ldu-portoviejo/2987678,Manta,Terminado,1552759200
+Transportation,Coreia do Sul - Liga K2,16/03/19 00:00:00,https://www.academiadasapostasbrasil.com/stats/match/coreia-do-sul/liga-k2/gyeongju-hnp/busan-transportation/2985400,Gyeongju HNP,Terminado,1552705200
+Mokpo,Coreia do Sul - Liga K2,16/03/19 00:00:00,https://www.academiadasapostasbrasil.com/stats/match/coreia-do-sul/liga-k2/cheonan-city/mokpo-city/2985401,Cheonan City,Terminado,1552705200
+Daejeon Korail,Coreia do Sul - Liga K2,16/03/19 00:00:00,https://www.academiadasapostasbrasil.com/stats/match/coreia-do-sul/liga-k2/changwon-city/daejeon-korail/2985402,Changwon,Terminado,1552705200
+Gangneung,Coreia do Sul - Liga K2,16/03/19 00:00:00,https://www.academiadasapostasbrasil.com/stats/match/coreia-do-sul/liga-k2/gimhae-city/gangneung-city/2985403,Gimhae,Terminado,1552705200
+Chernomorets,Rússia - 2ª Divisão,16/03/19 03:00:00,https://www.academiadasapostasbrasil.com/stats/match/russia/2-divisao/akademiya-futbola/cherno-novorosisk/2875090,Akademiya Futbola,Terminado,1552716000
+Chayka,Rússia - 2ª Divisão,16/03/19 05:00:00,https://www.academiadasapostasbrasil.com/stats/match/russia/2-divisao/mashuk-kmv/chayka/2875087,Mashuk,Terminado,1552723200
+Druzhba,Rússia - 2ª Divisão,16/03/19 05:00:00,https://www.academiadasapostasbrasil.com/stats/match/russia/2-divisao/dinamo-stavropol/druzhba/2875088,Dinamo St,Terminado,1552723200
+Kolding IF,Dinamarca - 2ª Divisão,16/03/19 06:00:00,https://www.academiadasapostasbrasil.com/stats/match/dinamarca/2-divisao/tarup-paarup/kolding-if/2815765,Tarup,Terminado,1552726800
+Middelfart,Dinamarca - 2ª Divisão,16/03/19 06:00:00,https://www.academiadasapostasbrasil.com/stats/match/dinamarca/2-divisao/skovshoved/middelfart/2815897,Skovshoved,Terminado,1552726800
+Kastamonu,Turquia - Lig B,16/03/19 06:00:00,https://www.academiadasapostasbrasil.com/stats/match/turquia/lig-b/keciorengucu/kastamonuspor/2845554,Keçiörengücü,Terminado,1552726800
+Manisa BBSK,Turquia - Lig B,16/03/19 06:00:00,https://www.academiadasapostasbrasil.com/stats/match/turquia/lig-b/fatih-karagumruk/manisa-bbsk/2845865,Fatih,Terminado,1552726800
+Angusht,Rússia - 2ª Divisão,16/03/19 06:00:00,https://www.academiadasapostasbrasil.com/stats/match/russia/2-divisao/legion-dynamo/angusht/2875091,Legion Dynamo,Terminado,1552726800
+Biolog,Rússia - 2ª Divisão,16/03/19 06:00:00,https://www.academiadasapostasbrasil.com/stats/match/russia/2-divisao/spartak-vladikavkaz/biolog/2875092,Alaniya,Terminado,1552726800
+Aarhus Fremad,Dinamarca - 2ª Divisão,16/03/19 06:15:00,https://www.academiadasapostasbrasil.com/stats/match/dinamarca/2-divisao/vejgaard-b/aarhus-fremad/2815764,Vejgaard B,Terminado,1552727700
+Stargard,Polônia - II Liga,16/03/19 07:00:00,https://www.academiadasapostasbrasil.com/stats/match/polonia/ii-liga/row-rybnik/stargard-szczecinski/2804680,ROW Rybnik,Terminado,1552730400
+Leobendorf,Áustria - Regionalliga,16/03/19 07:00:00,https://www.academiadasapostasbrasil.com/stats/match/austria/regionalliga/stadlau/leobendorf/2813112,Stadlau,Terminado,1552730400
+Sydvest,Dinamarca - 2ª Divisão,16/03/19 07:00:00,https://www.academiadasapostasbrasil.com/stats/match/dinamarca/2-divisao/dalum/sydvest/2815767,Dalum,Terminado,1552730400
+Odder,Dinamarca - 2ª Divisão,16/03/19 07:00:00,https://www.academiadasapostasbrasil.com/stats/match/dinamarca/2-divisao/jammerbugt/odder/2815768,Jammerbugt,Terminado,1552730400
+Marienlyst,Dinamarca - 2ª Divisão,16/03/19 07:00:00,https://www.academiadasapostasbrasil.com/stats/match/dinamarca/2-divisao/frem/marienlyst/2815898,Frem,Terminado,1552730400
+HIK,Dinamarca - 2ª Divisão,16/03/19 07:00:00,https://www.academiadasapostasbrasil.com/stats/match/dinamarca/2-divisao/hillerod/hellerup/2815899,Hillerød,Terminado,1552730400
+Arezzo,Itália - Serie C1,16/03/19 07:30:00,https://www.academiadasapostasbrasil.com/stats/match/italia/serie-c1/carrarese/arezzo/2919119,Carrarese,Terminado,1552732200
+Arzachena,Itália - Serie C1,16/03/19 07:30:00,https://www.academiadasapostasbrasil.com/stats/match/italia/serie-c1/pro-vercelli/arzachena/2919120,Pro Vercelli,Terminado,1552732200
+Cuneo,Itália - Serie C1,16/03/19 07:30:00,https://www.academiadasapostasbrasil.com/stats/match/italia/serie-c1/novara/cuneo/2919121,Novara,Terminado,1552732200
+Pisa,Itália - Serie C1,16/03/19 07:30:00,https://www.academiadasapostasbrasil.com/stats/match/italia/serie-c1/olbia/pisa/2919125,Olbia,Terminado,1552732200
+Virtus,Itália - Serie C1,16/03/19 07:30:00,https://www.academiadasapostasbrasil.com/stats/match/italia/serie-c1/alessandria/virtus-entella/2919128,Alessandria,Terminado,1552732200
+Widzew,Polônia - II Liga,16/03/19 08:00:00,https://www.academiadasapostasbrasil.com/stats/match/polonia/ii-liga/resovia-rzeszow/widzew-lodz/2804679,Resovia,Terminado,1552734000
+Siarka,Polônia - II Liga,16/03/19 08:00:00,https://www.academiadasapostasbrasil.com/stats/match/polonia/ii-liga/stal-stalowa-wola/siarka/2804682,Stal SW,Terminado,1552734000
+SKRA,Polônia - II Liga,16/03/19 08:00:00,https://www.academiadasapostasbrasil.com/stats/match/polonia/ii-liga/rozwoj-katowice/skra-czestochowa/2804684,Rozwój,Terminado,1552734000
+WAC II,Áustria - Regionalliga,16/03/19 08:00:00,https://www.academiadasapostasbrasil.com/stats/match/austria/regionalliga/kalsdorf/wolfsberger-ac-ii/2812173,Kalsdorf,Terminado,1552734000
+Vanløse,Dinamarca - 2ª Divisão,16/03/19 08:00:00,https://www.academiadasapostasbrasil.com/stats/match/dinamarca/2-divisao/bronshoj/vanlose/2815896,Brønshøj,Terminado,1552734000
+B 93,Dinamarca - 2ª Divisão,16/03/19 08:00:00,https://www.academiadasapostasbrasil.com/stats/match/dinamarca/2-divisao/slagelse-bi/boldklubben/2815901,SBI,Terminado,1552734000
+Gozzano,Itália - Serie C1,16/03/19 09:30:00,https://www.academiadasapostasbrasil.com/stats/match/italia/serie-c1/albissola/gozzano/2919122,Albissola,Terminado,1552739400
+Lucchese,Itália - Serie C1,16/03/19 09:30:00,https://www.academiadasapostasbrasil.com/stats/match/italia/serie-c1/siena/lucchese-libertas/2919124,Siena,Terminado,1552739400
+Pro Piacenza,Itália - Serie C1,16/03/19 09:30:00,https://www.academiadasapostasbrasil.com/stats/match/italia/serie-c1/pro-patria/pro-piacenza/2919127,Pro Patria,Terminado,1552739400
+Ruch,Polônia - II Liga,16/03/19 10:00:00,https://www.academiadasapostasbrasil.com/stats/match/polonia/ii-liga/olimpia-elblag/ruch-chorzow/2804685,Olimpia,Terminado,1552741200
+Pistoiese,Itália - Serie C1,16/03/19 11:30:00,https://www.academiadasapostasbrasil.com/stats/match/italia/serie-c1/piacenza/pistoiese/2919126,Piacenza,Terminado,1552746600
+Juventus II,Itália - Serie C1,16/03/19 13:30:00,https://www.academiadasapostasbrasil.com/stats/match/italia/serie-c1/pontedera/juventus-ii/2919123,Pontedera,Terminado,1552753800
+AlbinoLeffe,Itália - Serie C1,16/03/19 13:30:00,https://www.academiadasapostasbrasil.com/stats/match/italia/serie-c1/renate/albinoleffe/2919499,Renate,Terminado,1552753800
+Gaziantep,Turquia - Lig B,16/03/19 17:00:00,https://www.academiadasapostasbrasil.com/stats/match/turquia/lig-b/hacettepe/gaziantepspor/2845555,Hacettepe,Terminado,1552766400
+Potenza,Itália - Serie C1,16/03/19 18:00:00,https://www.academiadasapostasbrasil.com/stats/match/italia/serie-c1/matera/rossoblu-potenza/2919924,Matera,Terminado,1552770000
+Torre Levante,Espanha - Tercera Division,16/03/19 05:00:00,https://www.academiadasapostasbrasil.com/stats/match/espanha/tercera-division/paterna/torre-levante/2871864,Paterna,Terminado,1552723200
+Santa Catalina,Espanha - Tercera Division,16/03/19 05:00:00,https://www.academiadasapostasbrasil.com/stats/match/espanha/tercera-division/felanitx/santa-catalina-atletico/2877311,Felanitx,Terminado,1552723200
+Tenisca,Espanha - Tercera Division,16/03/19 06:00:00,https://www.academiadasapostasbrasil.com/stats/match/espanha/tercera-division/lanzarote/tenisca/2885606,Lanzarote,Terminado,1552726800
+Viktoria B,Alemanha - Regionalliga,16/03/19 06:30:00,https://www.academiadasapostasbrasil.com/stats/match/alemanha/regionalliga/altglienicke/viktoria-berlin/2821326,Altglienicke,Terminado,1552728600
+Erfurt,Alemanha - Regionalliga,16/03/19 06:30:00,https://www.academiadasapostasbrasil.com/stats/match/alemanha/regionalliga/optik-rathenow/rot-weiss-erfurt/2821330,Rathenow,Terminado,1552728600
+Holstein II,Alemanha - Regionalliga,16/03/19 06:30:00,https://www.academiadasapostasbrasil.com/stats/match/alemanha/regionalliga/weiche-flensburg/holstein-kiel-ii/2827163,Weiche,Terminado,1552728600
+Buzanada,Espanha - Tercera Division,16/03/19 06:30:00,https://www.academiadasapostasbrasil.com/stats/match/espanha/tercera-division/union-viera/buzanada/2885601,Viera,Terminado,1552728600
+Aschaffenburg,Alemanha - Regionalliga,16/03/19 07:00:00,https://www.academiadasapostasbrasil.com/stats/match/alemanha/regionalliga/eichstatt/viktoria-aschaffenburg/2797990,Eichstätt,Terminado,1552730400
+Schalding,Alemanha - Regionalliga,16/03/19 07:00:00,https://www.academiadasapostasbrasil.com/stats/match/alemanha/regionalliga/pipinsried/schalding-heining/2797992,Pipinsried,Terminado,1552730400
+Illertissen,Alemanha - Regionalliga,16/03/19 07:00:00,https://www.academiadasapostasbrasil.com/stats/match/alemanha/regionalliga/nuremberg-ii/illertissen/2797993,Nürnberg II,Terminado,1552730400
+Memmingen,Alemanha - Regionalliga,16/03/19 07:00:00,https://www.academiadasapostasbrasil.com/stats/match/alemanha/regionalliga/heimstetten/memmingen/2797994,Heimstetten,Terminado,1552730400
+1860 Rosenheim,Alemanha - Regionalliga,16/03/19 07:00:00,https://www.academiadasapostasbrasil.com/stats/match/alemanha/regionalliga/schweinfurt/1860-rosenheim/2797995,Schweinfurt,Terminado,1552730400
+Buchbach,Alemanha - Regionalliga,16/03/19 07:00:00,https://www.academiadasapostasbrasil.com/stats/match/alemanha/regionalliga/greuther-furth-ii/buchbach/2797996,Fürth II,Terminado,1552730400
+FSV Frankfurt,Alemanha - Regionalliga,16/03/19 07:00:00,https://www.academiadasapostasbrasil.com/stats/match/alemanha/regionalliga/wormatia-worms/fsv-frankfurt/2822605,Wormatia,Terminado,1552730400
+Dreieich,Alemanha - Regionalliga,16/03/19 07:00:00,https://www.academiadasapostasbrasil.com/stats/match/alemanha/regionalliga/homburg-saar/hessen-dreieich/2822606,Homburg,Terminado,1552730400
+Hoffenheim II,Alemanha - Regionalliga,16/03/19 07:00:00,https://www.academiadasapostasbrasil.com/stats/match/alemanha/regionalliga/elversberg/hoffenheim-ii/2822607,Elversberg,Terminado,1552730400
+Ulm,Alemanha - Regionalliga,16/03/19 07:00:00,https://www.academiadasapostasbrasil.com/stats/match/alemanha/regionalliga/astoria-walldorf/ulm-1846/2822608,Astoria,Terminado,1552730400
+Stadtallendorf,Alemanha - Regionalliga,16/03/19 07:00:00,https://www.academiadasapostasbrasil.com/stats/match/alemanha/regionalliga/balingen/eintracht-stadtallendorf/2822611,Balingen,Terminado,1552730400
+RW Oberhausen,Alemanha - Regionalliga,16/03/19 07:00:00,https://www.academiadasapostasbrasil.com/stats/match/alemanha/regionalliga/wiedenbruck-2000/rot-weiss-oberhausen/2824375,Wiedenbrück,Terminado,1552730400
+Wattenscheid,Alemanha - Regionalliga,16/03/19 07:00:00,https://www.academiadasapostasbrasil.com/stats/match/alemanha/regionalliga/fortuna-dusseldorf-ii/wattenscheid/2824376,Fortuna II,Terminado,1552730400
+Viktoria Köln,Alemanha - Regionalliga,16/03/19 07:00:00,https://www.academiadasapostasbrasil.com/stats/match/alemanha/regionalliga/rodinghausen/viktoria-koln/2824377,Rödinghausen,Terminado,1552730400
+UNA,Holanda - Derde Divisie,16/03/19 07:30:00,https://www.academiadasapostasbrasil.com/stats/match/holanda/derde-divisie/volendam-ii/una/2843201,Jong Volendam,Terminado,1552732200
+Lisse,Holanda - Derde Divisie,16/03/19 07:30:00,https://www.academiadasapostasbrasil.com/stats/match/holanda/derde-divisie/noordwijk/lisse/2843505,Noordwijk,Terminado,1552732200
+Achilles'29,Holanda - Derde Divisie,16/03/19 07:30:00,https://www.academiadasapostasbrasil.com/stats/match/holanda/derde-divisie/stedoco/achilles-29/2843508,SteDoCo,Terminado,1552732200
+Hoek,Holanda - Derde Divisie,16/03/19 07:30:00,https://www.academiadasapostasbrasil.com/stats/match/holanda/derde-divisie/ajax-amateurs/hsv-hoek/2843509,Ajax Amateurs,Terminado,1552732200
+VVOG,Holanda - Derde Divisie,16/03/19 07:30:00,https://www.academiadasapostasbrasil.com/stats/match/holanda/derde-divisie/dvs-33/vvog/2843510,DVS,Terminado,1552732200
+O Marseille II,França - CFA,16/03/19 07:30:00,https://www.academiadasapostasbrasil.com/stats/match/franca/cfa/saint-priest/olympique-marseille-ii/2849319,Saint-Priest,Terminado,1552732200
+Harkemase Boys,Holanda - Derde Divisie,16/03/19 08:00:00,https://www.academiadasapostasbrasil.com/stats/match/holanda/derde-divisie/aswh/harkemase-boys/2843503,ASWH,Terminado,1552734000
+DOVO,Holanda - Derde Divisie,16/03/19 08:00:00,https://www.academiadasapostasbrasil.com/stats/match/holanda/derde-divisie/quick-boys/dovo/2843504,Quick Boys,Terminado,1552734000
+SJC Noordwijk,Holanda - Derde Divisie,16/03/19 08:00:00,https://www.academiadasapostasbrasil.com/stats/match/holanda/derde-divisie/ons-sneek/sjc-noordwijk/2843506,ONS,Terminado,1552734000
+ODIN '59,Holanda - Derde Divisie,16/03/19 08:00:00,https://www.academiadasapostasbrasil.com/stats/match/holanda/derde-divisie/groningen-ii/odin-59/2843507,Jong Groningen,Terminado,1552734000
+Haguenau,França - CFA,16/03/19 08:00:00,https://www.academiadasapostasbrasil.com/stats/match/franca/cfa/lens-ii/haguenau/2849810,Lens RC II,Terminado,1552734000
+Bobigny,França - CFA,16/03/19 08:00:00,https://www.academiadasapostasbrasil.com/stats/match/franca/cfa/schiltigheim/bobigny/2849811,Schiltigheim,Terminado,1552734000
+Elgin,Escócia - 3ª Divisão,16/03/19 09:00:00,https://www.academiadasapostasbrasil.com/stats/match/escocia/3-divisao/queens-park/elgin-city/2796618,Queen's Park,Terminado,1552737600
+Edinburgh City,Escócia - 3ª Divisão,16/03/19 09:00:00,https://www.academiadasapostasbrasil.com/stats/match/escocia/3-divisao/annan-athletic/edinburgh-city/2796619,Annan,Terminado,1552737600
+Stirling,Escócia - 3ª Divisão,16/03/19 09:00:00,https://www.academiadasapostasbrasil.com/stats/match/escocia/3-divisao/clyde/stirling-albion/2796621,Clyde,Terminado,1552737600
+Hyères FC,França - CFA,16/03/19 09:00:00,https://www.academiadasapostasbrasil.com/stats/match/franca/cfa/chasselay-mda/hyeres-fc/2849321,Azergues,Terminado,1552737600
+Vitré,França - CFA,16/03/19 09:00:00,https://www.academiadasapostasbrasil.com/stats/match/franca/cfa/psg-ii/vitre/2849569,PSG II,Terminado,1552737600
+Manacor,Espanha - Tercera Division,16/03/19 09:00:00,https://www.academiadasapostasbrasil.com/stats/match/espanha/tercera-division/mercadal/manacor/2877312,Mercadal,Terminado,1552737600
+Grasse,França - CFA,16/03/19 09:30:00,https://www.academiadasapostasbrasil.com/stats/match/franca/cfa/consolat-marseille/grasse/2849317,Consolat,Terminado,1552739400
+Xàtiva,Espanha - Tercera Division,16/03/19 09:30:00,https://www.academiadasapostasbrasil.com/stats/match/espanha/tercera-division/atzeneta/olimpic-de-xativa/2871866,Atzeneta,Terminado,1552739400
+Santboià,Espanha - Tercera Division,16/03/19 09:30:00,https://www.academiadasapostasbrasil.com/stats/match/espanha/tercera-division/reus-deportiu-ii/santboia/2872787,Reus Deportiu II,Terminado,1552739400
+Figueres,Espanha - Tercera Division,16/03/19 09:30:00,https://www.academiadasapostasbrasil.com/stats/match/espanha/tercera-division/llagostera-costa-brava/figueres/2872789,Llagostera,Terminado,1552739400
+Esporles,Espanha - Tercera Division,16/03/19 09:30:00,https://www.academiadasapostasbrasil.com/stats/match/espanha/tercera-division/poblense/esporles/2877306,Poblense,Terminado,1552739400
+La Solana,Espanha - Tercera Division,16/03/19 09:30:00,https://www.academiadasapostasbrasil.com/stats/match/espanha/tercera-division/atletico-ibanes/la-solana/2879508,Ibañés,Terminado,1552739400
+Pamplona,Espanha - Tercera Division,16/03/19 09:30:00,https://www.academiadasapostasbrasil.com/stats/match/espanha/tercera-division/beti-onak/pamplona/2879882,Beti Onak,Terminado,1552739400
+Avance Ezcabarte,Espanha - Tercera Division,16/03/19 09:30:00,https://www.academiadasapostasbrasil.com/stats/match/espanha/tercera-division/baztan/avance-ezcabarte/2879885,Baztán,Terminado,1552739400
+Corellano,Espanha - Tercera Division,16/03/19 09:30:00,https://www.academiadasapostasbrasil.com/stats/match/espanha/tercera-division/mutilvera/corellano/2879886,Mutilvera,Terminado,1552739400
+Osasuna II,Espanha - Tercera Division,16/03/19 09:30:00,https://www.academiadasapostasbrasil.com/stats/match/espanha/tercera-division/beti-kozkor/osasuna-ii/2879887,Beti Kozkor,Terminado,1552739400
+Ardoi,Espanha - Tercera Division,16/03/19 09:30:00,https://www.academiadasapostasbrasil.com/stats/match/espanha/tercera-division/txantrea/ardoi/2879889,Txantrea,Terminado,1552739400
+Peña Sport,Espanha - Tercera Division,16/03/19 09:30:00,https://www.academiadasapostasbrasil.com/stats/match/espanha/tercera-division/san-juan/pena-sport/2879891,San Juan,Terminado,1552739400
+Cieza,Espanha - Tercera Division,16/03/19 09:30:00,https://www.academiadasapostasbrasil.com/stats/match/espanha/tercera-division/real-murcia-ii/cieza/2896421,Murcia II,Terminado,1552739400
+Colunga,Espanha - Tercera Division,16/03/19 09:45:00,https://www.academiadasapostasbrasil.com/stats/match/espanha/tercera-division/condal/colunga/2871481,Condal,Terminado,1552740300
+Alfaro,Espanha - Tercera Division,16/03/19 09:45:00,https://www.academiadasapostasbrasil.com/stats/match/espanha/tercera-division/berceo/alfaro/2880337,Berceo,Terminado,1552740300
+Espinardo,Espanha - Tercera Division,16/03/19 09:45:00,https://www.academiadasapostasbrasil.com/stats/match/espanha/tercera-division/lorca-deportiva/nueva-vanguardia/2896418,Lorca Deportiva,Terminado,1552740300
+Eemdijk,Holanda - Derde Divisie,16/03/19 10:00:00,https://www.academiadasapostasbrasil.com/stats/match/holanda/derde-divisie/de-dijk/eemdijk/2843502,De Dijk,Terminado,1552741200
+Siero,Espanha - Tercera Division,16/03/19 10:00:00,https://www.academiadasapostasbrasil.com/stats/match/espanha/tercera-division/ceares/siero/2871488,Ceares,Terminado,1552741200
+Rinconeda Polanco,Espanha - Tercera Division,16/03/19 10:00:00,https://www.academiadasapostasbrasil.com/stats/match/espanha/tercera-division/escobedo/rinconeda-polanco/2872240,Escobedo,Terminado,1552741200
+Vimenor,Espanha - Tercera Division,16/03/19 10:00:00,https://www.academiadasapostasbrasil.com/stats/match/espanha/tercera-division/cultural-guarnizo/vimenor/2872243,Guarnizo,Terminado,1552741200
+Solares,Espanha - Tercera Division,16/03/19 10:00:00,https://www.academiadasapostasbrasil.com/stats/match/espanha/tercera-division/ribamontan-al-mar/solares/2872247,Ribamontán,Terminado,1552741200
+Marchamalo,Espanha - Tercera Division,16/03/19 10:00:00,https://www.academiadasapostasbrasil.com/stats/match/espanha/tercera-division/guadalajara/marchamalo/2879507,Guadalajara,Terminado,1552741200
+Huarte,Espanha - Tercera Division,16/03/19 10:00:00,https://www.academiadasapostasbrasil.com/stats/match/espanha/tercera-division/alesves/huarte/2879883,Alesves,Terminado,1552741200
+Yaiza,Espanha - Tercera Division,16/03/19 10:00:00,https://www.academiadasapostasbrasil.com/stats/match/espanha/tercera-division/las-palmas-iii/union-sur-yaiza/2885602,Las Palmas III,Terminado,1552741200
+Yeclano,Espanha - Tercera Division,16/03/19 10:00:00,https://www.academiadasapostasbrasil.com/stats/match/espanha/tercera-division/atletico-pulpileno/yeclano/2896417,Pulpileño,Terminado,1552741200
+Minerva,Espanha - Tercera Division,16/03/19 10:00:00,https://www.academiadasapostasbrasil.com/stats/match/espanha/tercera-division/los-garres/minerva/2896425,Los Garres,Terminado,1552741200
+Segoviana,Espanha - Tercera Division,16/03/19 10:00:00,https://www.academiadasapostasbrasil.com/stats/match/espanha/tercera-division/ud-santa-marta/gimnastica-segoviana/2905642,Santa Marta,Terminado,1552741200
+Cebrereña,Espanha - Tercera Division,16/03/19 10:00:00,https://www.academiadasapostasbrasil.com/stats/match/espanha/tercera-division/sporting-uxama/cultural-cebrerena/2905643,Uxama,Terminado,1552741200
+La Bañeza,Espanha - Tercera Division,16/03/19 10:00:00,https://www.academiadasapostasbrasil.com/stats/match/espanha/tercera-division/cultural-leonesa-ii/la-baneza/2905644,Cultural Leonesa II,Terminado,1552741200
+Bembibre,Espanha - Tercera Division,16/03/19 10:00:00,https://www.academiadasapostasbrasil.com/stats/match/espanha/tercera-division/atletico-astorga/bembibre/2905645,Astorga,Terminado,1552741200
+Cristo,Espanha - Tercera Division,16/03/19 10:00:00,https://www.academiadasapostasbrasil.com/stats/match/espanha/tercera-division/la-granja/cristo-atletico/2905646,La Granja,Terminado,1552741200
+Urquiza,Argentina - Primera B Metropolitana,16/03/19 10:15:00,https://www.academiadasapostasbrasil.com/stats/match/argentina/primera-b-metropolitana/defensores-unidos/jj-urquiza/2898424,Def Unidos,Terminado,1552742100
+Tordesillas,Espanha - Tercera Division,16/03/19 10:15:00,https://www.academiadasapostasbrasil.com/stats/match/espanha/tercera-division/burgos-promesas/atletico-tordesillas/2905649,Burgos,Terminado,1552742100
+Peña,Espanha - Tercera Division,16/03/19 10:30:00,https://www.academiadasapostasbrasil.com/stats/match/espanha/tercera-division/santanyi/pena-deportiva/2877314,Santanyí,Terminado,1552743000
+Santa Úrsula,Espanha - Tercera Division,16/03/19 10:30:00,https://www.academiadasapostasbrasil.com/stats/match/espanha/tercera-division/panaderia-pulido/santa-ursula/2885603,Panadería Pulido,Terminado,1552743000
+La Hoya Lorca,Espanha - Tercera Division,16/03/19 10:30:00,https://www.academiadasapostasbrasil.com/stats/match/espanha/tercera-division/mazarron-fc/lorca/2896423,Mazarrón FC,Terminado,1552743000
+Annecy ,França - CFA,16/03/19 11:00:00,https://www.academiadasapostasbrasil.com/stats/match/franca/cfa/pontarlier/annecy/2849315,Pontarlier,Terminado,1552744800
+Nice II,França - CFA,16/03/19 11:00:00,https://www.academiadasapostasbrasil.com/stats/match/franca/cfa/marseille-catalans/nice-ii/2849316,Marseille Catalans,Terminado,1552744800
+Jura Sud,França - CFA,16/03/19 11:00:00,https://www.academiadasapostasbrasil.com/stats/match/franca/cfa/monaco-ii/jura-sud-foot/2849320,Monaco II,Terminado,1552744800
+Oissel CMS,França - CFA,16/03/19 11:00:00,https://www.academiadasapostasbrasil.com/stats/match/franca/cfa/le-havre-ii/oissel-cms/2849567,Le Havre II,Terminado,1552744800
+C' Chartres,França - CFA,16/03/19 11:00:00,https://www.academiadasapostasbrasil.com/stats/match/franca/cfa/st-malo-us/c-chartres/2849568,St Malo US,Terminado,1552744800
+Nantes II,França - CFA,16/03/19 11:00:00,https://www.academiadasapostasbrasil.com/stats/match/franca/cfa/stade-briochin/nantes-ii/2849570,Briochin,Terminado,1552744800
+Furiani Agliani,França - CFA,16/03/19 11:00:00,https://www.academiadasapostasbrasil.com/stats/match/franca/cfa/poissy/furiani-agliani/2849571,Poissy,Terminado,1552744800
+Granville,França - CFA,16/03/19 11:00:00,https://www.academiadasapostasbrasil.com/stats/match/franca/cfa/bastia-borgo/granville/2849572,Bastia-Borgo,Terminado,1552744800
+Fleury 91 FC,França - CFA,16/03/19 11:00:00,https://www.academiadasapostasbrasil.com/stats/match/franca/cfa/sedan/fleury-91-fc/2849808,Sedan,Terminado,1552744800
+Arras,França - CFA,16/03/19 11:00:00,https://www.academiadasapostasbrasil.com/stats/match/franca/cfa/ste-genevieve-sp/arras/2849809,SaintGeneviève,Terminado,1552744800
+Créteil,França - CFA,16/03/19 11:00:00,https://www.academiadasapostasbrasil.com/stats/match/franca/cfa/epinal/creteil-lusitanos/2849813,Épinal,Terminado,1552744800
+Iris,França - CFA,16/03/19 11:00:00,https://www.academiadasapostasbrasil.com/stats/match/franca/cfa/st-maur-lusitanos/croix-football-ic/2849814,St Maur Lusita,Terminado,1552744800
+Bordeaux II,França - CFA,16/03/19 11:00:00,https://www.academiadasapostasbrasil.com/stats/match/franca/cfa/colomiers-us/bordeaux-ii/2850110,Colomiers US,Terminado,1552744800
+Blois,França - CFA,16/03/19 11:00:00,https://www.academiadasapostasbrasil.com/stats/match/franca/cfa/romorantin-so/blois/2850112,Romorantin,Terminado,1552744800
+St-Étienne II,França - CFA,16/03/19 11:00:00,https://www.academiadasapostasbrasil.com/stats/match/franca/cfa/les-herbiers/saint-etienne-ii/2850113,Les Herbiers,Terminado,1552744800
+St-Pryvé,França - CFA,16/03/19 11:00:00,https://www.academiadasapostasbrasil.com/stats/match/franca/cfa/sete/st-pryve-st-hilaire/2850114,Sète,Terminado,1552744800
+Trélissac,França - CFA,16/03/19 11:00:00,https://www.academiadasapostasbrasil.com/stats/match/franca/cfa/nimes-ii/trelissac/2850115,Nîmes II,Terminado,1552744800
+Montois,França - CFA,16/03/19 11:00:00,https://www.academiadasapostasbrasil.com/stats/match/franca/cfa/andrezieux/mt-de-marsan-stade/2850116,Andrézieux,Terminado,1552744800
+Le Puy F.43,França - CFA,16/03/19 11:00:00,https://www.academiadasapostasbrasil.com/stats/match/franca/cfa/bergerac/le-puy-f43-auvergne/2850117,Bergerac,Terminado,1552744800
+Ordizia,Espanha - Tercera Division,16/03/19 11:00:00,https://www.academiadasapostasbrasil.com/stats/match/espanha/tercera-division/sd-san-pedro/ordizia/2870709,SD San Pedro,Terminado,1552744800
+Paiosaco,Espanha - Tercera Division,16/03/19 11:00:00,https://www.academiadasapostasbrasil.com/stats/match/espanha/tercera-division/porrino-industrial/paiosaco/2871075,Porriño Industrial,Terminado,1552744800
+Paiporta,Espanha - Tercera Division,16/03/19 11:00:00,https://www.academiadasapostasbrasil.com/stats/match/espanha/tercera-division/vilamarxant/paiporta/2871865,Vilamarxant,Terminado,1552744800
+UD Sámano,Espanha - Tercera Division,16/03/19 11:00:00,https://www.academiadasapostasbrasil.com/stats/match/espanha/tercera-division/velarde/samano/2872239,Velarde,Terminado,1552744800
+Castelldefels,Espanha - Tercera Division,16/03/19 11:00:00,https://www.academiadasapostasbrasil.com/stats/match/espanha/tercera-division/santfeliuenc/castelldefels/2872796,Santfeliuenc,Terminado,1552744800
+Totana,Espanha - Tercera Division,16/03/19 11:00:00,https://www.academiadasapostasbrasil.com/stats/match/espanha/tercera-division/huercal-overa/olimpico-totana/2896416,Huércal-Overa,Terminado,1552744800
+Numancia II,Espanha - Tercera Division,16/03/19 11:00:00,https://www.academiadasapostasbrasil.com/stats/match/espanha/tercera-division/arandina/numancia-ii/2905647,Arandina,Terminado,1552744800
+Eldense,Espanha - Tercera Division,16/03/19 11:15:00,https://www.academiadasapostasbrasil.com/stats/match/espanha/tercera-division/acero/eldense/2871860,Acero,Terminado,1552745700
+Boulogne Billa,França - CFA,16/03/19 11:30:00,https://www.academiadasapostasbrasil.com/stats/match/franca/cfa/vannes/boulogne-billancourt-ac/2849573,Vannes,Terminado,1552746600
+Deusto,Espanha - Tercera Division,16/03/19 11:30:00,https://www.academiadasapostasbrasil.com/stats/match/espanha/tercera-division/beasain/deusto/2870704,Beasain,Terminado,1552746600
+Sestao,Espanha - Tercera Division,16/03/19 11:30:00,https://www.academiadasapostasbrasil.com/stats/match/espanha/tercera-division/real-sociedad-iii/sestao-river/2870706,Berio,Terminado,1552746600
+Compostela,Espanha - Tercera Division,16/03/19 11:30:00,https://www.academiadasapostasbrasil.com/stats/match/espanha/tercera-division/ud-ourense/compostela/2871074,UD Ourense,Terminado,1552746600
+Marino Luanco,Espanha - Tercera Division,16/03/19 11:30:00,https://www.academiadasapostasbrasil.com/stats/match/espanha/tercera-division/gijon-industrial/marino-de-luanco/2871487,Gijón,Terminado,1552746600
+Europa,Espanha - Tercera Division,16/03/19 11:30:00,https://www.academiadasapostasbrasil.com/stats/match/espanha/tercera-division/grama/europa/2872791,Grama,Terminado,1552746600
+Mora,Espanha - Tercera Division,16/03/19 11:30:00,https://www.academiadasapostasbrasil.com/stats/match/espanha/tercera-division/villarrubia/mora/2879503,Villarrubia,Terminado,1552746600
+Oyonesa,Espanha - Tercera Division,16/03/19 11:30:00,https://www.academiadasapostasbrasil.com/stats/match/espanha/tercera-division/yague/oyonesa/2880343,Yagüe,Terminado,1552746600
+Mar Menor,Espanha - Tercera Division,16/03/19 11:30:00,https://www.academiadasapostasbrasil.com/stats/match/espanha/tercera-division/cd-aguilas/mar-menor/2896420,CD Águilas,Terminado,1552746600
+Pinatar Arena,Espanha - Tercera Division,16/03/19 11:30:00,https://www.academiadasapostasbrasil.com/stats/match/espanha/tercera-division/muleno/pinatar-arena/2896422,Muleño,Terminado,1552746600
+Vilafranca,Espanha - Tercera Division,16/03/19 11:45:00,https://www.academiadasapostasbrasil.com/stats/match/espanha/tercera-division/lhospitalet/vilafranca/2872795,L'Hospitalet,Terminado,1552747500
+Mantes 78,França - CFA,16/03/19 12:00:00,https://www.academiadasapostasbrasil.com/stats/match/franca/cfa/lorient-ii/mantes-78/2849574,Lorient II,Terminado,1552748400
+Yzeure AS,França - CFA,16/03/19 12:00:00,https://www.academiadasapostasbrasil.com/stats/match/franca/cfa/stade-bordelais/yzeure-as/2850111,Stade Bordelai,Terminado,1552748400
+Laredo,Espanha - Tercera Division,16/03/19 12:00:00,https://www.academiadasapostasbrasil.com/stats/match/espanha/tercera-division/revilla/laredo/2872241,Revilla,Terminado,1552748400
+Martinenc,Espanha - Tercera Division,16/03/19 12:00:00,https://www.academiadasapostasbrasil.com/stats/match/espanha/tercera-division/granollers/martinenc/2872790,Granollers,Terminado,1552748400
+Sant Andreu,Espanha - Tercera Division,16/03/19 12:00:00,https://www.academiadasapostasbrasil.com/stats/match/espanha/tercera-division/pobla-mafumet/sant-andreu/2872793,Pobla,Terminado,1552748400
+Tenerife II,Espanha - Tercera Division,16/03/19 12:00:00,https://www.academiadasapostasbrasil.com/stats/match/espanha/tercera-division/guimar/tenerife-ii/2885605,Güímar,Terminado,1552748400
+Diegem,Bélgica - 3e Klasse,16/03/19 12:30:00,https://www.academiadasapostasbrasil.com/stats/match/belgica/3e-klasse/dikkelvenne/diegem-sport/2887098,Dikkelvenne,Terminado,1552750200
+Petegem,Bélgica - 3e Klasse,16/03/19 12:30:00,https://www.academiadasapostasbrasil.com/stats/match/belgica/3e-klasse/mandel-united/sparta-petegem/2887099,Mandel United,Terminado,1552750200
+Spouwen,Bélgica - 3e Klasse,16/03/19 12:30:00,https://www.academiadasapostasbrasil.com/stats/match/belgica/3e-klasse/hades/spouwen-mopertingen/2887350,Hades,Terminado,1552750200
+Rebecq,Bélgica - 3e Klasse,16/03/19 13:00:00,https://www.academiadasapostasbrasil.com/stats/match/belgica/3e-klasse/ciney/rebecq/2832343,Ciney,Terminado,1552752000
+Walhain,Bélgica - 3e Klasse,16/03/19 13:00:00,https://www.academiadasapostasbrasil.com/stats/match/belgica/3e-klasse/meux/walhain/2832344,Meux,Terminado,1552752000
+Solières,Bélgica - 3e Klasse,16/03/19 13:00:00,https://www.academiadasapostasbrasil.com/stats/match/belgica/3e-klasse/olympic-charleroi/solieres-sport/2832345,Olympic,Terminado,1552752000
+Hamoir,Bélgica - 3e Klasse,16/03/19 13:00:00,https://www.academiadasapostasbrasil.com/stats/match/belgica/3e-klasse/couvin-mariembourg/hamoir/2832347,Couvin,Terminado,1552752000
+Prat,Espanha - Tercera Division,16/03/19 13:00:00,https://www.academiadasapostasbrasil.com/stats/match/espanha/tercera-division/terrassa/prat/2872788,Terrassa,Terminado,1552752000
+Menen,Bélgica - 3e Klasse,16/03/19 13:00:00,https://www.academiadasapostasbrasil.com/stats/match/belgica/3e-klasse/tempo-overijse/toekomst-menen/2887100,Overijse,Terminado,1552752000
+Wijgmaal,Bélgica - 3e Klasse,16/03/19 13:00:00,https://www.academiadasapostasbrasil.com/stats/match/belgica/3e-klasse/ronse/olympia-wijgmaal/2887104,Ronse,Terminado,1552752000
+Duffel,Bélgica - 3e Klasse,16/03/19 13:00:00,https://www.academiadasapostasbrasil.com/stats/match/belgica/3e-klasse/sint-niklaas/duffel/2887351,Sint-Niklaas,Terminado,1552752000
+Hamme,Bélgica - 3e Klasse,16/03/19 13:00:00,https://www.academiadasapostasbrasil.com/stats/match/belgica/3e-klasse/patro-eisden/vw-hamme/2887352,Patro,Terminado,1552752000
+Hasselt,Bélgica - 3e Klasse,16/03/19 13:00:00,https://www.academiadasapostasbrasil.com/stats/match/belgica/3e-klasse/heur-tongeren/sporting-hasselt/2887353,Heur Tongeren,Terminado,1552752000
+Vosselaar,Bélgica - 3e Klasse,16/03/19 13:00:00,https://www.academiadasapostasbrasil.com/stats/match/belgica/3e-klasse/temse/vosselaar/2887354,Temse,Terminado,1552752000
+City Pirates,Bélgica - 3e Klasse,16/03/19 13:00:00,https://www.academiadasapostasbrasil.com/stats/match/belgica/3e-klasse/berchem-sport/ksc-city-pirates/2887355,Berchem,Terminado,1552752000
+UCAM Murcia II,Espanha - Tercera Division,16/03/19 14:00:00,https://www.academiadasapostasbrasil.com/stats/match/espanha/tercera-division/cap-ciudad-de-murcia/ucam-murcia-ii/2896424,CAP Murcia,Terminado,1552755600
+Regensburg II,Alemanha - Oberliga,16/03/19 07:00:00,https://www.academiadasapostasbrasil.com/stats/match/alemanha/oberliga/kirchanschoring/regensburg-ii/2806613,Kirchanschörin,Terminado,1552730400
+Schwaben Augsburg,Alemanha - Oberliga,16/03/19 07:00:00,https://www.academiadasapostasbrasil.com/stats/match/alemanha/oberliga/sonthofen/schwaben-augsburg/2806614,Sonthofen,Terminado,1552730400
+Pullach,Alemanha - Oberliga,16/03/19 07:00:00,https://www.academiadasapostasbrasil.com/stats/match/alemanha/oberliga/vilzing/pullach/2806617,Vilzing,Terminado,1552730400
+Ludwigsfelder,Alemanha - Oberliga,16/03/19 07:00:00,https://www.academiadasapostasbrasil.com/stats/match/alemanha/oberliga/eilenburg/ludwigsfelder/2822848,Eilenburg,Terminado,1552730400
+Wacker Nordhausen II,Alemanha - Oberliga,16/03/19 07:00:00,https://www.academiadasapostasbrasil.com/stats/match/alemanha/oberliga/krieschow/wacker-nordhausen-ii/2822849,Krieschow,Terminado,1552730400
+Blau-Wei? Zorbau,Alemanha - Oberliga,16/03/19 07:00:00,https://www.academiadasapostasbrasil.com/stats/match/alemanha/oberliga/luckenwalde/blau-wei-zorbau/2822851,Luckenwalde,Terminado,1552730400
+Wismut Gera,Alemanha - Oberliga,16/03/19 07:00:00,https://www.academiadasapostasbrasil.com/stats/match/alemanha/oberliga/international-leipzig/wismut-gera/2822852,International Leipzig,Terminado,1552730400
+Plauen,Alemanha - Oberliga,16/03/19 07:00:00,https://www.academiadasapostasbrasil.com/stats/match/alemanha/oberliga/vfl-halle/plauen/2822853,VfL Halle,Terminado,1552730400
+Askania Bernburg,Alemanha - Oberliga,16/03/19 07:00:00,https://www.academiadasapostasbrasil.com/stats/match/alemanha/oberliga/chemie-leipzig/askania-bernburg/2822854,Chemie Leipzig,Terminado,1552730400
+CZ Jena II,Alemanha - Oberliga,16/03/19 07:00:00,https://www.academiadasapostasbrasil.com/stats/match/alemanha/oberliga/union-sandersdorf/carl-zeiss-jena-ii/2822855,Union Sandersdorf,Terminado,1552730400
+Malchower SV,Alemanha - Oberliga,16/03/19 07:00:00,https://www.academiadasapostasbrasil.com/stats/match/alemanha/oberliga/hansa-rostock-ii/malchower-sv/2824616,Hansa II,Terminado,1552730400
+Anker,Alemanha - Oberliga,16/03/19 07:00:00,https://www.academiadasapostasbrasil.com/stats/match/alemanha/oberliga/brandenburger-sud/anker-wismar/2824617,BSC Süd,Terminado,1552730400
+Jägersburg,Alemanha - Oberliga,16/03/19 07:00:00,https://www.academiadasapostasbrasil.com/stats/match/alemanha/oberliga/eintracht-trier/jagersburg/2826730,Trier,Terminado,1552730400
+Nöttingen,Alemanha - Oberliga,16/03/19 07:00:00,https://www.academiadasapostasbrasil.com/stats/match/alemanha/oberliga/freiberg/nottingen/2842850,SGV Freiberg,Terminado,1552730400
+Bissingen,Alemanha - Oberliga,16/03/19 07:00:00,https://www.academiadasapostasbrasil.com/stats/match/alemanha/oberliga/ravensburg/bissingen/2842851,Ravensburg,Terminado,1552730400
+Neckarsulm,Alemanha - Oberliga,16/03/19 07:00:00,https://www.academiadasapostasbrasil.com/stats/match/alemanha/oberliga/stuttgarter-kickers/neckarsulmer-su/2842852,Stuttg.Kickers,Terminado,1552730400
+Frisia 03 Risum-Lindholm,Alemanha - Oberliga,16/03/19 07:00:00,https://www.academiadasapostasbrasil.com/stats/match/alemanha/oberliga/lubeck-ii/frisia-03-risum-lindholm/2855520,Lübeck II,Terminado,1552730400
+ATSV Erlangen,Alemanha - Oberliga,16/03/19 07:00:00,https://www.academiadasapostasbrasil.com/stats/match/alemanha/oberliga/abtswind/atsv-erlangen/2897669,Abtswind,Terminado,1552730400
+FC Bastelicaccia,França - CFA 2,16/03/19 07:30:00,https://www.academiadasapostasbrasil.com/stats/match/franca/cfa-2/villefranche-sjb/fc-bastelicaccia/2852424,Villefranche SJB,Terminado,1552732200
+TB Uphusen,Alemanha - Oberliga,16/03/19 08:00:00,https://www.academiadasapostasbrasil.com/stats/match/alemanha/oberliga/atlas-delmenhorst/tb-uphusen/2806018,Atlas Delmenhorst,Terminado,1552734000
+Victoria HH,Alemanha - Oberliga,16/03/19 08:00:00,https://www.academiadasapostasbrasil.com/stats/match/alemanha/oberliga/curslack-neuengamme/victoria-hamburgo/2807294,Curslack,Terminado,1552734000
+Arminia Ludwigshafen,Alemanha - Oberliga,16/03/19 08:00:00,https://www.academiadasapostasbrasil.com/stats/match/alemanha/oberliga/hertha-wiesbach/arminia-ludwigshafen/2826726,Hertha Wiesbach,Terminado,1552734000
+Waldgirmes,Alemanha - Oberliga,16/03/19 08:00:00,https://www.academiadasapostasbrasil.com/stats/match/alemanha/oberliga/bayern-alzenau/waldgirmes/2830123,Bayern Alzenau,Terminado,1552734000
+Rot-Weiß Hadamar,Alemanha - Oberliga,16/03/19 08:00:00,https://www.academiadasapostasbrasil.com/stats/match/alemanha/oberliga/bad-vilbel/rot-weiss-hadamar/2830124,Bad Vilbel,Terminado,1552734000
+SpVgg Neu-Isenburg,Alemanha - Oberliga,16/03/19 08:00:00,https://www.academiadasapostasbrasil.com/stats/match/alemanha/oberliga/lohfelden/spvgg-neu-isenburg/2830125,Lohfelden,Terminado,1552734000
+Buchonia,Alemanha - Oberliga,16/03/19 08:00:00,https://www.academiadasapostasbrasil.com/stats/match/alemanha/oberliga/teutonia/buchonia-flieden/2830126,Teutonia WS,Terminado,1552734000
+Göppinger SV,Alemanha - Oberliga,16/03/19 08:00:00,https://www.academiadasapostasbrasil.com/stats/match/alemanha/oberliga/linx-1949/goppinger-sv/2842854,Linx 1949,Terminado,1552734000
+Oberachern,Alemanha - Oberliga,16/03/19 08:00:00,https://www.academiadasapostasbrasil.com/stats/match/alemanha/oberliga/backnang/oberachern/2842855,Backnang,Terminado,1552734000
+Bahlingen,Alemanha - Oberliga,16/03/19 08:00:00,https://www.academiadasapostasbrasil.com/stats/match/alemanha/oberliga/ilshofen/bahlinger/2842857,Ilshofen,Terminado,1552734000
+Cannet,França - CFA 2,16/03/19 08:00:00,https://www.academiadasapostasbrasil.com/stats/match/franca/cfa-2/bastia/cannet-rocheville/2852420,Bastia,Terminado,1552734000
+EF Bastia,França - CFA 2,16/03/19 08:00:00,https://www.academiadasapostasbrasil.com/stats/match/franca/cfa-2/cote-bleue/ef-bastia/2852422,Côte Bleue,Terminado,1552734000
+Saint-Rémoise,França - CFA 2,16/03/19 08:00:00,https://www.academiadasapostasbrasil.com/stats/match/franca/cfa-2/gemenos/saint-remoise/2852425,Gémenos,Cancelado,1552734000
+Union Neumünster,Alemanha - Oberliga,16/03/19 08:00:00,https://www.academiadasapostasbrasil.com/stats/match/alemanha/oberliga/bordesholm/union-neumunster/2855522,Bordesholm,Terminado,1552734000
+Kaiserslautern,Alemanha - Oberliga,16/03/19 08:30:00,https://www.academiadasapostasbrasil.com/stats/match/alemanha/oberliga/hassia-bingen/kaiserslautern-ii/2826728,Hassia Bingen,Terminado,1552735800
+Diefflen,Alemanha - Oberliga,16/03/19 08:30:00,https://www.academiadasapostasbrasil.com/stats/match/alemanha/oberliga/dillingen/diefflen/2826731,Dillingen,Terminado,1552735800
+Châteauroux II,França - CFA 2,16/03/19 08:30:00,https://www.academiadasapostasbrasil.com/stats/match/franca/cfa-2/tours-ii/chateauroux-ii/2852238,Tours II,Terminado,1552735800
+Salford,Inglaterra - Conferência Nacional,16/03/19 09:00:00,https://www.academiadasapostasbrasil.com/stats/match/inglaterra/conferencia-nacional/aldershot-town/salford-city/2817825,Aldershot,Terminado,1552737600
+Hartlepool,Inglaterra - Conferência Nacional,16/03/19 09:00:00,https://www.academiadasapostasbrasil.com/stats/match/inglaterra/conferencia-nacional/barnet/hartlepool-united/2817826,Barnet,Terminado,1552737600
+Halifax,Inglaterra - Conferência Nacional,16/03/19 09:00:00,https://www.academiadasapostasbrasil.com/stats/match/inglaterra/conferencia-nacional/dover-athletic/halifax-town/2817828,Dover,Terminado,1552737600
+Barrow,Inglaterra - Conferência Nacional,16/03/19 09:00:00,https://www.academiadasapostasbrasil.com/stats/match/inglaterra/conferencia-nacional/eastleigh/barrow/2817829,Eastleigh,Terminado,1552737600
+Boreham Wood,Inglaterra - Conferência Nacional,16/03/19 09:00:00,https://www.academiadasapostasbrasil.com/stats/match/inglaterra/conferencia-nacional/ebbsfleet-united/boreham-wood/2817830,Ebbsfleet,Terminado,1552737600
+Maidenhead Utd,Inglaterra - Conferência Nacional,16/03/19 09:00:00,https://www.academiadasapostasbrasil.com/stats/match/inglaterra/conferencia-nacional/harrogate-town/maidenhead-united/2817831,Harrogate,Terminado,1552737600
+Chesterfield,Inglaterra - Conferência Nacional,16/03/19 09:00:00,https://www.academiadasapostasbrasil.com/stats/match/inglaterra/conferencia-nacional/havant-waterlooville/chesterfield/2817832,Havant&Waterl,Terminado,1552737600
+Braintree,Inglaterra - Conferência Nacional,16/03/19 09:00:00,https://www.academiadasapostasbrasil.com/stats/match/inglaterra/conferencia-nacional/solihull-moors/braintree-town/2817833,Solihull,Terminado,1552737600
+Gateshead,Inglaterra - Conferência Nacional,16/03/19 09:00:00,https://www.academiadasapostasbrasil.com/stats/match/inglaterra/conferencia-nacional/sutton-united/gateshead/2817834,Sutton Utd,Terminado,1552737600
+Maidstone Utd,Inglaterra - Conferência Nacional,16/03/19 09:00:00,https://www.academiadasapostasbrasil.com/stats/match/inglaterra/conferencia-nacional/wrexham/maidstone-united/2817835,Wrexham,Terminado,1552737600
+Aubagne,França - CFA 2,16/03/19 09:00:00,https://www.academiadasapostasbrasil.com/stats/match/franca/cfa-2/istres/aubagne/2852421,Istres,Terminado,1552737600
+Lucciana,França - CFA 2,16/03/19 09:00:00,https://www.academiadasapostasbrasil.com/stats/match/franca/cfa-2/ajaccio-ii/lucciana/2852426,Ajaccio II,Terminado,1552737600
+Sablé,França - CFA 2,16/03/19 09:00:00,https://www.academiadasapostasbrasil.com/stats/match/franca/cfa-2/laval-ii/sable/2852607,Laval II,Terminado,1552737600
+Stade Pontivy,França - CFA 2,16/03/19 09:30:00,https://www.academiadasapostasbrasil.com/stats/match/franca/cfa-2/guingamp-ii/stade-pontivy/2851343,Guingamp II,Terminado,1552739400
+Brest II,França - CFA 2,16/03/19 10:00:00,https://www.academiadasapostasbrasil.com/stats/match/franca/cfa-2/lannion/brest-ii/2851344,Lannion,Terminado,1552741200
+Raon l'Etape,França - CFA 2,16/03/19 10:00:00,https://www.academiadasapostasbrasil.com/stats/match/franca/cfa-2/amneville/raon-letape/2851497,Amnéville,Terminado,1552741200
+Troyes II,França - CFA 2,16/03/19 10:00:00,https://www.academiadasapostasbrasil.com/stats/match/franca/cfa-2/biesheim/troyes-ii/2851500,Biesheim,Terminado,1552741200
+Clermont II,França - CFA 2,16/03/19 10:00:00,https://www.academiadasapostasbrasil.com/stats/match/franca/cfa-2/limonest/clermont-ii/2851697,Limonest,Terminado,1552741200
+Gobelins,França - CFA 2,16/03/19 10:00:00,https://www.academiadasapostasbrasil.com/stats/match/franca/cfa-2/noisy-le-sec/gobelins/2851881,Noisy-le-Sec,Terminado,1552741200
+Engers 07,Alemanha - Oberliga,16/03/19 10:30:00,https://www.academiadasapostasbrasil.com/stats/match/alemanha/oberliga/emmelshausen/engers-07/2826732,Emmelshausen,Terminado,1552743000
+Dinan Léhon,França - CFA 2,16/03/19 11:00:00,https://www.academiadasapostasbrasil.com/stats/match/franca/cfa-2/fougeres-agl/dinan-lehon/2851342,Fougères AGL,Terminado,1552744800
+Montagnarde,França - CFA 2,16/03/19 11:00:00,https://www.academiadasapostasbrasil.com/stats/match/franca/cfa-2/pontivy-gsi/montagnarde/2851345,Pontivy GSI,Terminado,1552744800
+Locminé,França - CFA 2,16/03/19 11:00:00,https://www.academiadasapostasbrasil.com/stats/match/franca/cfa-2/vilaine-atlantique/saint-colomban-locmine/2851347,Vilaine Atlantique,Terminado,1552744800
+Plouzané,França - CFA 2,16/03/19 11:00:00,https://www.academiadasapostasbrasil.com/stats/match/franca/cfa-2/ta-rennes/plouzane/2851348,TA Rennes,Terminado,1552744800
+Nancy II,França - CFA 2,16/03/19 11:00:00,https://www.academiadasapostasbrasil.com/stats/match/franca/cfa-2/saint-louis-neuweg/nancy-ii/2851496,Saint-Louis,Terminado,1552744800
+Mulhouse,França - CFA 2,16/03/19 11:00:00,https://www.academiadasapostasbrasil.com/stats/match/franca/cfa-2/sarreguemines/mulhouse/2851498,Sarreguemines,Terminado,1552744800
+Strasbourg II,França - CFA 2,16/03/19 11:00:00,https://www.academiadasapostasbrasil.com/stats/match/franca/cfa-2/thaon/strasbourg-ii/2851499,Thaon,Terminado,1552744800
+Vauban Strasbourg,França - CFA 2,16/03/19 11:00:00,https://www.academiadasapostasbrasil.com/stats/match/franca/cfa-2/rc-epernay/vauban-strasbourg/2851501,Épernay,Terminado,1552744800
+Thiers,França - CFA 2,16/03/19 11:00:00,https://www.academiadasapostasbrasil.com/stats/match/franca/cfa-2/aurillac-arpajon/thiers/2851692,Aurillac ,Terminado,1552744800
+Bourgoin,França - CFA 2,16/03/19 11:00:00,https://www.academiadasapostasbrasil.com/stats/match/franca/cfa-2/ain-sud/bourgoin-jallieu/2851693,Ain Sud,Terminado,1552744800
+Ytrac,França - CFA 2,16/03/19 11:00:00,https://www.academiadasapostasbrasil.com/stats/match/franca/cfa-2/vaulx/ytrac/2851694,Vaulx,Terminado,1552744800
+Chambéry,França - CFA 2,16/03/19 11:00:00,https://www.academiadasapostasbrasil.com/stats/match/franca/cfa-2/rumilly-vallieres/chambery/2851695,Rumilly Vallières,Terminado,1552744800
+Montluçon,França - CFA 2,16/03/19 11:00:00,https://www.academiadasapostasbrasil.com/stats/match/franca/cfa-2/lyon-duchere-ii/montlucon/2851696,Lyon Duchère II,Terminado,1552744800
+Moulins Football,França - CFA 2,16/03/19 11:00:00,https://www.academiadasapostasbrasil.com/stats/match/franca/cfa-2/chamalieres/moulins-football/2851698,Chamalières,Terminado,1552744800
+Racing Colombes 92,França - CFA 2,16/03/19 11:00:00,https://www.academiadasapostasbrasil.com/stats/match/franca/cfa-2/blanc-mesnil/racing-colombes-92/2851882,Blanc Mesnil,Terminado,1552744800
+Meaux,França - CFA 2,16/03/19 11:00:00,https://www.academiadasapostasbrasil.com/stats/match/franca/cfa-2/paris-fc-ii/meaux-academy/2851883,Paris FC II,Terminado,1552744800
+Versailles,França - CFA 2,16/03/19 11:00:00,https://www.academiadasapostasbrasil.com/stats/match/franca/cfa-2/ivry-us/versailles/2851884,Ivry US,Terminado,1552744800
+SAG Cestas,França - CFA 2,16/03/19 11:00:00,https://www.academiadasapostasbrasil.com/stats/match/franca/cfa-2/chauvigny/sag-cestas/2852056,Chauvigny,Terminado,1552744800
+Niort II,França - CFA 2,16/03/19 11:00:00,https://www.academiadasapostasbrasil.com/stats/match/franca/cfa-2/anglet-genets/niort-ii/2852057,Anglet Genets,Terminado,1552744800
+Cannes,França - CFA 2,16/03/19 11:00:00,https://www.academiadasapostasbrasil.com/stats/match/franca/cfa-2/le-pontet-us/cannes/2852423,Pontet,Terminado,1552744800
+Angers II,França - CFA 2,16/03/19 11:00:00,https://www.academiadasapostasbrasil.com/stats/match/franca/cfa-2/saint-nazaire-af/angers-ii/2852602,SNAF,Terminado,1552744800
+Le Mans II,França - CFA 2,16/03/19 11:00:00,https://www.academiadasapostasbrasil.com/stats/match/franca/cfa-2/ussa-vertou/le-mans-ii/2852603,USSA Vertou,Terminado,1552744800
+Les Herbiers II,França - CFA 2,16/03/19 11:00:00,https://www.academiadasapostasbrasil.com/stats/match/franca/cfa-2/chateaubriant-voltigeurs/les-herbiers-ii/2852604,Chateaubriant,Terminado,1552744800
+Fontenay Vend,França - CFA 2,16/03/19 11:00:00,https://www.academiadasapostasbrasil.com/stats/match/franca/cfa-2/la-suze/fontenay-vendee-foot/2852605,La Suze,Terminado,1552744800
+Saumur,França - CFA 2,16/03/19 11:00:00,https://www.academiadasapostasbrasil.com/stats/match/franca/cfa-2/challans/saumur/2852606,Challans,Terminado,1552744800
+La Roche,França - CFA 2,16/03/19 11:00:00,https://www.academiadasapostasbrasil.com/stats/match/franca/cfa-2/la-fleche-rc/la-roche-sur-yon/2852608,La Fleche RC,Terminado,1552744800
+Dijon II,França - CFA 2,16/03/19 11:00:00,https://www.academiadasapostasbrasil.com/stats/match/franca/cfa-2/montceau/dijon-ii/2852785,Montceau,Terminado,1552744800
+Racing,França - CFA 2,16/03/19 11:00:00,https://www.academiadasapostasbrasil.com/stats/match/franca/cfa-2/besancon/besancon/2852786,Besançon,Terminado,1552744800
+Gueugnon,França - CFA 2,16/03/19 11:00:00,https://www.academiadasapostasbrasil.com/stats/match/franca/cfa-2/louhans-cuiseaux/gueugnon/2852787,Louhans,Terminado,1552744800
+Montpellier II,França - CFA 2,16/03/19 11:00:00,https://www.academiadasapostasbrasil.com/stats/match/franca/cfa-2/blagnac/montpellier-ii/2855834,Blagnac,Terminado,1552744800
+Rodez II,França - CFA 2,16/03/19 11:00:00,https://www.academiadasapostasbrasil.com/stats/match/franca/cfa-2/agde/rodez-ii/2855836,Agde,Terminado,1552744800
+Fabrègues,França - CFA 2,16/03/19 11:00:00,https://www.academiadasapostasbrasil.com/stats/match/franca/cfa-2/tarbes-pyrenees-football/fabregues/2855837,Tarbes,Terminado,1552744800
+Quevilly II,França - CFA 2,16/03/19 11:00:00,https://www.academiadasapostasbrasil.com/stats/match/franca/cfa-2/evreux-27/quevilly-ii/2856812,Evreux,Terminado,1552744800
+Gonfreville,França - CFA 2,16/03/19 11:00:00,https://www.academiadasapostasbrasil.com/stats/match/franca/cfa-2/bayeux/gonfreville/2856813,Bayeux,Terminado,1552744800
+Avranches II,França - CFA 2,16/03/19 11:00:00,https://www.academiadasapostasbrasil.com/stats/match/franca/cfa-2/rouen/avranches-ii/2856814,Rouen,Terminado,1552744800
+Dieppe,França - CFA 2,16/03/19 11:00:00,https://www.academiadasapostasbrasil.com/stats/match/franca/cfa-2/deville-maromme/dieppe/2856815,Déville Maromme,Terminado,1552744800
+Pacy Ménilles,França - CFA 2,16/03/19 11:00:00,https://www.academiadasapostasbrasil.com/stats/match/franca/cfa-2/alencon/pacy-menilles/2856816,Alençon,Terminado,1552744800
+Dunkerque II,França - CFA 2,16/03/19 11:00:00,https://www.academiadasapostasbrasil.com/stats/match/franca/cfa-2/senlis/dunkerque-ii/2864256,Senlis,Terminado,1552744800
+Chambly II,França - CFA 2,16/03/19 11:00:00,https://www.academiadasapostasbrasil.com/stats/match/franca/cfa-2/grande-synthe/chambly-ii/2864257,Grande-Synthe ,Terminado,1552744800
+Tourcoing USF,França - CFA 2,16/03/19 11:00:00,https://www.academiadasapostasbrasil.com/stats/match/franca/cfa-2/us-maubeuge/tourcoing-usf/2864258,Maubeuge,Terminado,1552744800
+Chantilly,França - CFA 2,16/03/19 11:00:00,https://www.academiadasapostasbrasil.com/stats/match/franca/cfa-2/boulogne-ii/chantilly/2864260,Boulogne II,Terminado,1552744800
+Amiens II,França - CFA 2,16/03/19 11:00:00,https://www.academiadasapostasbrasil.com/stats/match/franca/cfa-2/olympique-st-quentin/amiens-ii/2864261,St Quentin,Terminado,1552744800
+Rennes II,França - CFA 2,16/03/19 11:30:00,https://www.academiadasapostasbrasil.com/stats/match/franca/cfa-2/plabennec-stade/rennes-ii/2851346,Plabennec St,Terminado,1552746600
+Sochaux II,França - CFA 2,16/03/19 11:30:00,https://www.academiadasapostasbrasil.com/stats/match/franca/cfa-2/jura-dolois/sochaux-ii/2852788,Jura Dolois,Terminado,1552746600
+Morteau,França - CFA 2,16/03/19 11:30:00,https://www.academiadasapostasbrasil.com/stats/match/franca/cfa-2/grandvillars/morteau-montlebon/2852789,Grandvillars,Terminado,1552746600
+Toulouse II,França - CFA 2,16/03/19 11:30:00,https://www.academiadasapostasbrasil.com/stats/match/franca/cfa-2/avenir-foot-lozere/toulouse-ii/2855838,Lozère,Terminado,1552746600
+Saint-Lô,França - CFA 2,16/03/19 11:30:00,https://www.academiadasapostasbrasil.com/stats/match/franca/cfa-2/caen-ptt/saint-lo-manche/2856817,Caen PTT,Terminado,1552746600
+Montmorillon,França - CFA 2,16/03/19 12:00:00,https://www.academiadasapostasbrasil.com/stats/match/franca/cfa-2/bressuire/montmorillon/2852058,Bressuire,Terminado,1552748400
+Poitiers,França - CFA 2,16/03/19 12:00:00,https://www.academiadasapostasbrasil.com/stats/match/franca/cfa-2/chauray/poitiers/2852059,Chauray,Terminado,1552748400
+Bayonne,França - CFA 2,16/03/19 12:00:00,https://www.academiadasapostasbrasil.com/stats/match/franca/cfa-2/limoges/aviron-bayonnais-fc/2852060,Limoges,Terminado,1552748400
+Châteauneuf-sur-Loire,França - CFA 2,16/03/19 12:00:00,https://www.academiadasapostasbrasil.com/stats/match/franca/cfa-2/montargis/chateauneuf-sur-loire/2852240,Montargis,Terminado,1552748400
+C' Chartres II,França - CFA 2,16/03/19 12:00:00,https://www.academiadasapostasbrasil.com/stats/match/franca/cfa-2/montlouis/c-chartres-ii/2852241,Montlouis,Terminado,1552748400
+Ouest Tourangeau,França - CFA 2,16/03/19 12:00:00,https://www.academiadasapostasbrasil.com/stats/match/franca/cfa-2/bourges-foot/ouest-tourangeau/2852242,Bourges Foot,Terminado,1552748400
+Beaucaire,França - CFA 2,16/03/19 12:00:00,https://www.academiadasapostasbrasil.com/stats/match/franca/cfa-2/olympique-dales/beaucaire/2855835,Alès,Terminado,1552748400
+Canet,França - CFA 2,16/03/19 12:00:00,https://www.academiadasapostasbrasil.com/stats/match/franca/cfa-2/muret/canet/2855839,Muret,Terminado,1552748400
+Balma,França - CFA 2,16/03/19 12:00:00,https://www.academiadasapostasbrasil.com/stats/match/franca/cfa-2/rodeo/balma/2855840,Rodéo,Terminado,1552748400
+Caen II,França - CFA 2,16/03/19 12:00:00,https://www.academiadasapostasbrasil.com/stats/match/franca/cfa-2/cherbourg/caen-ii/2856818,Cherbourg,Terminado,1552748400
+Bourges 18,França - CFA 2,16/03/19 12:30:00,https://www.academiadasapostasbrasil.com/stats/match/franca/cfa-2/vierzon/bourges-18/2852243,Vierzon,Terminado,1552750200
+Beauvais AS,França - CFA 2,16/03/19 12:30:00,https://www.academiadasapostasbrasil.com/stats/match/franca/cfa-2/marcq-en-baroeul/beauvais-oise/2864262,Marcq-en-Baroeul,Terminado,1552750200
+Wealdstone,Inglaterra - Conferência N / S,16/03/19 09:00:00,https://www.academiadasapostasbrasil.com/stats/match/inglaterra/conferencia-n-s/bath-city/wealdstone/2817280,Bath,Terminado,1552737600
+Weston-super-M,Inglaterra - Conferência N / S,16/03/19 09:00:00,https://www.academiadasapostasbrasil.com/stats/match/inglaterra/conferencia-n-s/chelmsford-city/weston-super-mare/2817281,Chelmsford,Terminado,1552737600
+St. Albans,Inglaterra - Conferência N / S,16/03/19 09:00:00,https://www.academiadasapostasbrasil.com/stats/match/inglaterra/conferencia-n-s/chippenham-town/st-albans-city/2817282,Chippenham,Terminado,1552737600
+Truro,Inglaterra - Conferência N / S,16/03/19 09:00:00,https://www.academiadasapostasbrasil.com/stats/match/inglaterra/conferencia-n-s/dulwich-hamlet/truro-city/2817283,Dulwich Hamlet,Terminado,1552737600
+Oxford,Inglaterra - Conferência N / S,16/03/19 09:00:00,https://www.academiadasapostasbrasil.com/stats/match/inglaterra/conferencia-n-s/east-thurrock-united/oxford-city/2817284,East Thurrock,Terminado,1552737600
+Hempstead,Inglaterra - Conferência N / S,16/03/19 09:00:00,https://www.academiadasapostasbrasil.com/stats/match/inglaterra/conferencia-n-s/gloucester-city/hemel-hempstead-town/2817285,Gloucester,Terminado,1552737600
+Concord,Inglaterra - Conferência N / S,16/03/19 09:00:00,https://www.academiadasapostasbrasil.com/stats/match/inglaterra/conferencia-n-s/hampton-richmond/concord-rangers/2817286,Hampton Richm,Terminado,1552737600
+Eastbourne,Inglaterra - Conferência N / S,16/03/19 09:00:00,https://www.academiadasapostasbrasil.com/stats/match/inglaterra/conferencia-n-s/hungerford-town/eastbourne-borough/2817287,Hungerford,Terminado,1552737600
+Billericay,Inglaterra - Conferência N / S,16/03/19 09:00:00,https://www.academiadasapostasbrasil.com/stats/match/inglaterra/conferencia-n-s/slough-town/billericay-town/2817288,Slough,Terminado,1552737600
+Dartford,Inglaterra - Conferência N / S,16/03/19 09:00:00,https://www.academiadasapostasbrasil.com/stats/match/inglaterra/conferencia-n-s/torquay-united/dartford/2817289,Torquay,Terminado,1552737600
+Woking,Inglaterra - Conferência N / S,16/03/19 09:00:00,https://www.academiadasapostasbrasil.com/stats/match/inglaterra/conferencia-n-s/welling-united/woking/2817290,Welling Utd,Terminado,1552737600
+Chorley,Inglaterra - Conferência N / S,16/03/19 09:00:00,https://www.academiadasapostasbrasil.com/stats/match/inglaterra/conferencia-n-s/boston-united/chorley/2820301,Boston Utd,Terminado,1552737600
+Spennymoor,Inglaterra - Conferência N / S,16/03/19 09:00:00,https://www.academiadasapostasbrasil.com/stats/match/inglaterra/conferencia-n-s/kidderminster-harriers/spennymoor-town/2820306,Kidderminster,Terminado,1552737600
+Southport,Inglaterra - Conferência N / S,16/03/19 09:00:00,https://www.academiadasapostasbrasil.com/stats/match/inglaterra/conferencia-n-s/leamington/southport/2820307,Leamington,Terminado,1552737600
+Telford Utd,Inglaterra - Troféu FA,16/03/19 09:00:00,https://www.academiadasapostasbrasil.com/stats/match/inglaterra/trofeu-fa/leyton-orient/afc-telford-united/2990095,Leyton,Terminado,1552737600
+Stockport,Inglaterra - Troféu FA,16/03/19 09:00:00,https://www.academiadasapostasbrasil.com/stats/match/inglaterra/trofeu-fa/fylde/stockport-county/2990096,Fylde,Terminado,1552737600
+Sul América,Brasil - Amazonense,16/03/19 13:00:00,https://www.academiadasapostasbrasil.com/stats/match/brasil/amazonense/nacional-am/sul-america/2944623,Nacional AM,Terminado,1552752000
+Iranduba,Brasil - Amazonense,16/03/19 16:00:00,https://www.academiadasapostasbrasil.com/stats/match/brasil/amazonense/manaus/iranduba/2944625,Manaus,Terminado,1552762800
+Paracatu,Brasil - Brasiliense,16/03/19 07:00:00,https://www.academiadasapostasbrasil.com/stats/match/brasil/brasiliense/taguatinga/paracatu/2941482,Taguatinga,Terminado,1552730400
+Ceilândia,Brasil - Brasiliense,16/03/19 08:00:00,https://www.academiadasapostasbrasil.com/stats/match/brasil/brasiliense/sobradinho/ceilandia/2941479,Sobradinho,Terminado,1552734000
+Luziânia,Brasil - Brasiliense,16/03/19 17:00:00,https://www.academiadasapostasbrasil.com/stats/match/brasil/brasiliense/formosa/luziania/2941480,Formosa,Terminado,1552766400
+Capixaba,Brasil - Capixaba,16/03/19 12:00:00,https://www.academiadasapostasbrasil.com/stats/match/brasil/capixaba/estrela-do-norte/desportiva-es/2945528,Estrela Norte,Terminado,1552748400
+Tupy,Brasil - Capixaba,16/03/19 12:00:00,https://www.academiadasapostasbrasil.com/stats/match/brasil/capixaba/itapemirim/tupy/2945529,Itapemirim,Terminado,1552748400
+Rio Branco,Brasil - Capixaba,16/03/19 12:00:00,https://www.academiadasapostasbrasil.com/stats/match/brasil/capixaba/real-noroeste/rio-branco-es/2945530,Noroeste,Terminado,1552748400
+Vitória,Brasil - Capixaba,16/03/19 12:00:00,https://www.academiadasapostasbrasil.com/stats/match/brasil/capixaba/rio-branco-vn/vitoria-es/2945531,Rio Branco-VN,Terminado,1552748400
+Serra,Brasil - Capixaba,16/03/19 12:00:00,https://www.academiadasapostasbrasil.com/stats/match/brasil/capixaba/castelo/serra/2945532,Castelo,Terminado,1552748400
+Luverdense,Brasil - Matogrossense,16/03/19 15:00:00,https://www.academiadasapostasbrasil.com/stats/match/brasil/matogrossense/mixto/luverdense/2947814,Mixto,Terminado,1552759200
+Independente,Brasil - Paraense,16/03/19 13:00:00,https://www.academiadasapostasbrasil.com/stats/match/brasil/paraense/remo/independente-pa/2955339,Remo,Terminado,1552752000
+São Francisco,Brasil - Paraense,16/03/19 15:00:00,https://www.academiadasapostasbrasil.com/stats/match/brasil/paraense/tapajos/sao-francisco-pa/2955343,Tapajós,Terminado,1552759200
+Águia Marabá,Brasil - Paraense,16/03/19 17:00:00,https://www.academiadasapostasbrasil.com/stats/match/brasil/paraense/paragominas/aguia-de-maraba/2955341,Paragominas,Terminado,1552766400
+Força e Luz,Brasil - Potiguar,16/03/19 16:00:00,https://www.academiadasapostasbrasil.com/stats/match/brasil/potiguar/america-rn/forca-e-luz/2990887,América RN,Terminado,1552762800
+Rondoniense,Brasil - Rondoniense,16/03/19 14:00:00,https://www.academiadasapostasbrasil.com/stats/match/brasil/rondoniense/guajara/rondoniense/2971681,Guajará,Terminado,1552755600
+Real Ariquemes,Brasil - Rondoniense,16/03/19 18:00:00,https://www.academiadasapostasbrasil.com/stats/match/brasil/rondoniense/genus/real-ariquemes/2971680,Gênus,Terminado,1552770000
+Vilhenense,Brasil - Rondoniense,16/03/19 18:00:00,https://www.academiadasapostasbrasil.com/stats/match/brasil/rondoniense/uniao-cacoalense/vilhenense/2971700,Cacoalense,Terminado,1552770000
+Roraima,Brasil - Roraimense,16/03/19 15:00:00,https://www.academiadasapostasbrasil.com/stats/match/brasil/roraimense/rio-negro-rr/atletico-roraima/2997135,Rio Negro,Terminado,1552759200
+Baré,Brasil - Roraimense,16/03/19 17:00:00,https://www.academiadasapostasbrasil.com/stats/match/brasil/roraimense/nautico-rr/bare/2997136,Náutico RR,Terminado,1552766400
+Itabaiana,Brasil - Sergipano,16/03/19 13:00:00,https://www.academiadasapostasbrasil.com/stats/match/brasil/sergipano/lagarto/itabaiana/2996641,Lagarto,Terminado,1552752000
+CAP Uberlândia,Brasil - Mineiro II,16/03/19 12:00:00,https://www.academiadasapostasbrasil.com/stats/match/brasil/mineiro-ii/athletic-club/cap-uberlandia/2948067,Athletic Club,Terminado,1552748400
+Democrata SL,Brasil - Mineiro II,16/03/19 13:00:00,https://www.academiadasapostasbrasil.com/stats/match/brasil/mineiro-ii/america-to/democrata-sl/2948066,América,Terminado,1552752000
+Ipatinga,Brasil - Mineiro II,16/03/19 13:00:00,https://www.academiadasapostasbrasil.com/stats/match/brasil/mineiro-ii/coimbra/ipatinga/2948068,Coimbra,Terminado,1552752000
+Tricordiano,Brasil - Mineiro II,16/03/19 15:30:00,https://www.academiadasapostasbrasil.com/stats/match/brasil/mineiro-ii/uberaba/tricordiano/2948069,Uberaba,Terminado,1552761000
+Galícia,Brasil - Baiano 2ª Div,16/03/19 12:00:00,https://www.academiadasapostasbrasil.com/stats/match/brasil/baiano-2-div/atlanta/galicia/2980843,Atlanta,Terminado,1552748400
+ABPN Canaã,Brasil - Baiano 2ª Div,16/03/19 12:00:00,https://www.academiadasapostasbrasil.com/stats/match/brasil/baiano-2-div/pituacu/abpn-canaa/2980844,Pituaçu,Terminado,1552748400
+São Carlos,Brasil - Paulista A3,16/03/19 12:00:00,https://www.academiadasapostasbrasil.com/stats/match/brasil/paulista-a3/desportivo-brasil/sao-carlos/2940580,Desportivo Brasil,Terminado,1552748400
+Olímpia,Brasil - Paulista A3,16/03/19 12:00:00,https://www.academiadasapostasbrasil.com/stats/match/brasil/paulista-a3/osasco-audax/olimpia/2940581,Osasco Audax,Terminado,1552748400
+Primavera,Brasil - Paulista A3,16/03/19 14:00:00,https://www.academiadasapostasbrasil.com/stats/match/brasil/paulista-a3/capivariano/primavera-sp/2940583,Capivariano,Terminado,1552755600
