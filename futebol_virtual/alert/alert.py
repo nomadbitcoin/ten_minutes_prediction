@@ -88,7 +88,7 @@ def getGameSequence(sequence_size, all_markets=True, market=None):
         print('Verificando sequencia de {} eventos...\n'.format(size))
         
 #         link = urls[url] + datetime.today().strftime('%Y-%m-%d')
-        link = urls[url] + "2020-04-30"
+        link = urls[url] + "2020-05-04"
         
         req = requests.get(link)
         if req.status_code == 200:
